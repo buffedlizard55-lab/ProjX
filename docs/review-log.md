@@ -808,3 +808,51 @@ manual browser capture); (b) the 92 `AGE_EVIDENCE_SECONDARY_SOURCES` rows still 
 named database page; (c) players with no public handle at all, and players whose birth date is undocumented, remain
 outside the catalog by design (19 queued); (d) the 19 queued rows and the ~10,000 handle-less documented players are
 the natural next pass if the owner wants coverage beyond publicly social athletes.
+
+---
+
+## Session 13 pass 2 — birth-year band 1996-1999, any public handle (2026-09-06)
+
+**Why a second pass.** Pass 1 built its pools around *Instagram handles* plus specific NCAA/league filters, which
+left an honest gap: female volleyball players in other birth-year bands, players whose only public handle is on X or
+TikTok, and players outside the leagues pass 1 enumerated. Pass 2 closes one slice of that gap and states plainly
+which slices remain open.
+
+**Discovery.** One Wikidata SPARQL pool (`data/research/urls/poolB1.url`): female (Q6581072) volleyball players
+(P106 = Q15117302), born 1996-1999, with at least one public handle among Instagram (P2003), X (P2002) or TikTok
+(P7085) → **188 unique Q-IDs**, transcribed verbatim into `data/research/s13_poolB1.tsv` (markdown escapes removed,
+nothing else altered). Evidence for *every* candidate was then harvested from the reference of its own
+date-of-birth statement — named source (P248) and reference URL (P854) — plus its linked English Wikipedia article,
+using `data/research/urls/evB1.url` + `evB2.url`, transcribed verbatim into `data/research/s13_evidenceB.tsv`.
+
+| Outcome | Count | Detail |
+| --- | --- | --- |
+| Promoted | **116** | W-2026-559..W-2026-674 |
+| — with an external reference URL on their own DOB statement | 75 | CEV, FIVB/Volleyball World, German Bundesliga, Lega Volley Femminile, svf.sk / slovakvolley.sk / volleynet.sk, greekvolley.eu, tvf-/lnv-/fpdv-web.dataproject.com, vleague.jp, bvf.by, olympic.ca, bjk.com.tr, goutsa.com, utahutes.com, jsugamecocksports.com, dresdnersportclub.de, dscvolley.de, volleyball-verband.de, women.volleybox.net, bvbinfo.com, worldofvolley.com, theohofland.nl, mib-profisport.com, kompas.id, jatim.suara.com, voleybolaktuel.com, diariodeuberlandia.com.br |
+| — also with an English Wikipedia article | 57 | |
+| — flagged `AGE_EVIDENCE_SECONDARY_SOURCES` | 17 | DOB referenced to a named database (Volleybox, VBL database, FIVB database, WorldofVolley, InterSportStats, Olympedia, IMDb) that attaches no URL |
+| Refused promotion → review queue | **33** | 32 `AGE_SOURCE_NOT_RECORDED` (a DOB exists but its reference carries neither a named source nor a URL — recorded as `NONE` in the evidence file, never treated as evidence); 1 `AGE_CONFLICTING_VALUES` |
+| Skipped as duplicates | **39** | 17 by Q-ID already in the catalog, 21 by name (incl. Tīna Graudiņa, already catalogued as “Tina Graudina”), 1 by handle |
+| New social accounts recorded | **129** | 110 Instagram, 16 X, 3 TikTok — all `FOLLOWER_COUNT_UNKNOWN`, none estimated |
+
+**Integrity finding — conflicting dates of birth.** Q58885490 *Rhamat Alhassan* (United States, Instagram
+`@ra_montie`) carries **two different dates of birth** in the structured item: `1996-07-09` and `1996-09-07` (a
+month/day transposition). Neither value was promoted and none was chosen arbitrarily; she is queued as
+**R-2026-042** with `AGE_CONFLICTING_VALUES` so a human can settle it against a primary document. Both values place
+her far above 18, so adult eligibility is not in question — only the exact date. Logged as IRR-2026-09-06-018.
+
+**Spot-check audit (2/2 exact).**
+
+| Entry | Primary page opened | Published on the page | Catalog | Result |
+| --- | --- | --- | --- | --- |
+| W-2026-618 Sara Kovac | `olympic.ca/team-canada/sara-kovac/` | Sport “Volleyball - Indoor”; **Born September 6, 1997**; birthplace Niagara Falls, Ontario; Instagram `instagram.com/sara_kovac` | Sara Kovac; 1997-09-06; Canada; `@sara_kovac` | exact match. The page’s own “Age 28” widget is stale — her birthday *is* 6 September, so the catalog’s computed age 29 on 2026-09-06 is correct arithmetic from the documented date. The page also shows an X handle `@sarakovac3` that Wikidata does not carry; it was **not** added, because this pass records only handles present in the structured record. |
+| W-2026-658 Shannon Scully | `utahutes.com/sports/womens-volleyball/roster/shannon-scully/4581` | University of Utah **2017** Women’s Volleyball Roster, #2 OH; Personal: “**Born March 3, 1999**”; teammates listed include Dani Drews and Lauren Sproule | Shannon Scully; 1999-03-03; women’s volleyball, United States | exact match on name, DOB and women’s-team membership. Caveat stated honestly: the cited page is a 2017 roster, so it documents NCAA women’s volleyball membership at that time, not a current-season roster. |
+
+**What was *not* searched (no completeness claim).** Birth years 2000-2002 and 2003-2008 with public handles; the
+NCAA **beach** volleyball discipline (separate rosters from indoor); and handle-less volleyball items outside these
+bands. The catalog is a growing verified subset, not a census. Reproducibility: `scripts/session13_pass2.py`
+(dry run by default, `--apply` to write) reuses the pass-1 builders verbatim so wording, dedupe guards and UNKNOWN
+conventions are identical; `data/research/s13_pass2_selected.tsv` lists entry ID, Q-ID, name, DOB, computed age,
+country, handles, named DOB sources, reference URLs and Wikipedia links for all 116 promotions.
+`scripts/validate_catalog.py` → 674 entries, 57 review-queue items, 18 irregularities, **0 errors** (2 pre-existing
+warnings).

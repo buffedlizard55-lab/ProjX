@@ -1,0 +1,265 @@
+# Session 13 pass 2 — evidence harvest for pool B1 (birth years 1996-1999, handle-bearing female volleyball players).
+# Query: data/research/urls/evB1.url + evB2.url (3-branch UNION: S = reference's named source (P248 label),
+# U = reference URL (P854), W = linked English Wikipedia article). Executed 2026-09-06, transcribed verbatim.
+# NOTE: rows of the form "S|~<url>" (a reference carrying a URL but no named source) are omitted here because the
+# identical URL is already recorded on the U line. Rows of the form "S|~" (a reference with NEITHER named source NOR
+# URL) are recorded below as evidence-free markers and must NOT be treated as age evidence.
+# columns: qid<TAB>tag<TAB>value   (tab separated)
+Q93753726	W	https://en.wikipedia.org/wiki/Eline_Timmerman
+Q22049086	W	https://en.wikipedia.org/wiki/Paola_Egonu
+Q19663637	W	https://en.wikipedia.org/wiki/Julie_Rogers_(Paralympian)
+Q20644904	W	https://en.wikipedia.org/wiki/Britt_Bongaerts
+Q20961844	W	https://en.wikipedia.org/wiki/Karolina_Goliat
+Q21103803	W	https://en.wikipedia.org/wiki/Anna_Lazareva
+Q22069374	W	https://en.wikipedia.org/wiki/Anna_Danesi
+Q22956861	W	https://en.wikipedia.org/wiki/Vedrana_Jak%C5%A1eti%C4%87
+Q13430870	W	https://en.wikipedia.org/wiki/Sarina_Koga
+Q16240175	W	https://en.wikipedia.org/wiki/Sasha_Meneghel
+Q16548614	W	https://en.wikipedia.org/wiki/Gaila_Gonz%C3%A1lez
+Q16563235	W	https://en.wikipedia.org/wiki/Jineiry_Mart%C3%ADnez
+Q16576515	W	https://en.wikipedia.org/wiki/Michaela_Mlejnkov%C3%A1
+Q16678123	W	https://en.wikipedia.org/wiki/Su_Zent
+Q17497098	W	https://en.wikipedia.org/wiki/Anth%C3%AD_Vasilanton%C3%A1ki
+Q18605676	W	https://en.wikipedia.org/wiki/Lee_Jae-yeong
+Q5761041	W	https://en.wikipedia.org/wiki/Hilary_Palma
+Q9179115	W	https://en.wikipedia.org/wiki/Brayelin_Mart%C3%ADnez
+Q18416033	W	https://en.wikipedia.org/wiki/Alice_Degradi
+Q22957207	W	https://en.wikipedia.org/wiki/Celine_Van_Gestel
+Q22957124	W	https://en.wikipedia.org/wiki/Marie_Sch%C3%B6lzel
+Q25826523	W	https://en.wikipedia.org/wiki/Martyna_%C5%81ukasik
+Q26444255	W	https://en.wikipedia.org/wiki/Gong_Xiangyu
+Q27267670	W	https://en.wikipedia.org/wiki/Carlotta_Cambi
+Q31119130	W	https://en.wikipedia.org/wiki/Chara_Papadopoulou
+Q37816890	W	https://en.wikipedia.org/wiki/T%C4%ABna_Graudi%C5%86a
+Q42186690	W	https://en.wikipedia.org/wiki/Marrit_Jasper
+Q48851405	W	https://en.wikipedia.org/wiki/Maria_Stenzel
+Q49693626	W	https://en.wikipedia.org/wiki/Jodie_Guilliams
+Q52777148	W	https://en.wikipedia.org/wiki/Maja_Storck
+Q55389774	W	https://en.wikipedia.org/wiki/Klaudia_Alagierska
+Q55392938	W	https://en.wikipedia.org/wiki/Olga_Strantzali
+Q56062470	W	https://en.wikipedia.org/wiki/Nina_Stojiljkovi%C4%87
+Q58885490	W	https://en.wikipedia.org/wiki/Rhamat_Alhassan
+Q59100198	W	https://en.wikipedia.org/wiki/Simone_Lee
+Q60841138	W	https://en.wikipedia.org/wiki/Jenna_Rosenthal
+Q61719580	W	https://en.wikipedia.org/wiki/Lorenne_Teixeira
+Q64331585	W	https://en.wikipedia.org/wiki/Jeon_Sae-yan
+Q64740289	W	https://en.wikipedia.org/wiki/Cindy_Marina
+Q65030881	W	https://en.wikipedia.org/wiki/Nat%C3%A1lia_Ara%C3%BAjo
+Q66741693	W	https://en.wikipedia.org/wiki/Emily_Maglio
+Q66816269	W	https://en.wikipedia.org/wiki/Julie_Lengweiler
+Q67080353	W	https://en.wikipedia.org/wiki/Michaela_%C5%A0pankov%C3%A1
+Q67089016	W	https://en.wikipedia.org/wiki/Skarleta_Jan%C4%8Dov%C3%A1
+Q69550894	W	https://en.wikipedia.org/wiki/Nanami_Seki
+Q65781968	W	https://en.wikipedia.org/wiki/Janset_Cemre_Erkul
+Q114606171	W	https://en.wikipedia.org/wiki/Megawati_Hangestri_Pertiwi
+Q115269749	W	https://en.wikipedia.org/wiki/Hilary_Howe
+Q125171642	W	https://en.wikipedia.org/wiki/Gia_Day
+Q126599974	W	https://en.wikipedia.org/wiki/B%C3%BC%C5%9Fra_G%C3%BCne%C5%9F
+Q126291879	W	https://en.wikipedia.org/wiki/Shannon_Scully
+Q101702270	W	https://en.wikipedia.org/wiki/Kara_Bajema
+Q104386780	W	https://en.wikipedia.org/wiki/Er%C3%A7e_Su_Kasapo%C4%9Flu
+Q107364434	W	https://en.wikipedia.org/wiki/Layne_Van_Buskirk
+Q110377543	W	https://en.wikipedia.org/wiki/Diana_Duarte
+Q112716930	W	https://en.wikipedia.org/wiki/Avery_Skinner_(volleyball)
+Q96079670	W	https://en.wikipedia.org/wiki/Morgan_Hentz
+Q96209152	W	https://en.wikipedia.org/wiki/Madeleine_Gates
+Q97189709	W	https://en.wikipedia.org/wiki/Yasemin_G%C3%BCveli
+Q98503302	W	https://en.wikipedia.org/wiki/Polina_Neykova
+Q96079201	U	https://olympic.ca/team-canada/sara-kovac/
+Q93753726	U	https://www.volleyball.world/en/volleyball/worldcup/2019/women/teams/ned-netherlands/players/eline-timmerman?id=76914
+Q16548614	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/139927
+Q9179115	U	https://diariodeuberlandia.com.br/noticia/23166/brayelin-martinez-e-apresentada-no-dentil-praia-clube
+Q66741693	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/168354
+Q16678123	U	http://www.worldofvolley.com/wov-community/players/24335.html
+Q22956861	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=777410646
+Q42218334	U	http://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=59429204
+Q61719580	U	https://www.volleyball.world/en/volleyball/worldcup/2019/women/teams/bra-brazil/team_roster
+Q64173798	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742827188&hideHistoryBackButton=true
+Q16563235	U	http://www.worldofvolley.com/wov-community/players/18600.html
+Q16576515	U	http://worldgrandprix.2016.fivb.com/en/group2/competition/teams/cze-czech%20republic/players/michaela-mlejnkova?id=50994
+Q22957124	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=760882725
+Q28062149	U	http://www.cev.lu/Competition-Area/PlayerDetails.aspx?TeamID=8906&PlayerID=61214&ID=741
+Q20987638	U	http://www.theohofland.nl/female-players-outside-hitter/Nicole-oude-Luttikhuis/205.html
+Q42190985	U	http://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=59307275
+Q42186690	U	http://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=59338900
+Q16563235	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/139910
+Q5761041	U	https://profiles.worldofvolley.com/wov-community/players/50726.html
+Q16576515	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/142297
+Q67080353	U	http://svf.sk/sk/reprezentacia/zeny/repre/libero/michaela-pallova/
+Q62039745	U	http://www.worldofvolley.com/wov-community/players/71754.html
+Q49693626	U	http://www.theohofland.nl/female-players/Jodie-Guilliams/242.html
+Q20961844	U	http://www.worldofvolley.com/wov-community/players/17897.html
+Q27000660	U	https://www.cev.eu/PlayerDetail.aspx?PlayerID=60451
+Q46998467	U	http://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=61596173
+Q2944591	U	https://women.volleybox.net/shiamara-almeida-p5012/clubs
+Q56062470	U	http://www.worldofvolley.com/wov-community/players/22852.html
+Q18612953	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743143589&hideHistoryBackButton=true
+Q37816890	U	http://www.bvbinfo.com/player.asp?ID=14462
+Q17497098	U	http://www.worldofvolley.com/wov-community/players/19059.html
+Q16678123	U	https://www.voleybolaktuel.com/milli-takimimizin-basarisi-giderek-artiyor/
+Q22957207	U	https://www.cev.eu/PlayerDetail.aspx?PlayerID=34068
+Q27688847	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=771661341
+Q68021152	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=679064383
+Q65781968	U	https://bjk.com.tr/en/oyuncu/2106/janset-cemre-erkul.html
+Q52777148	U	http://www.theohofland.nl/female-players-opposite/Maja-Storck/243.html
+Q22049086	U	https://championsleague.cev.eu/en/women/team/12044-a-carraro-imoco-conegliano/player/51754-egonu-paola-ogechi
+Q67089016	U	http://www.svf.sk/sk/reprezentacia/zeny/repre/libero/skarleta-jancova/
+Q56062530	U	http://www.worldofvolley.com/wov-community/players/22853.html
+Q44193471	U	http://www.volleyball-verband.de/de/kader/nationalmannschaft--a-frauen-/spielerinnen--amp--trainer/vanessa-agbortabi/
+Q9179115	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/123982
+Q138982573	U	https://www.volleynet.sk/article/-/6304f38f0bfdd86aa02eb562?personId=541422c765faa01d28759bee
+Q138426734	U	https://slovakvolley.sk/players/1225
+Q138411774	U	https://slovakvolley.sk/players/2965
+Q113974075	U	https://www.cev.eu/match-centres/cev-eurovolley-2023/cev-eurovolley-2023-women/wd-07-georgia-v-austria/team/12617-austria/player/50640-chrtianska-monika-jr
+Q110272575	U	https://women.volleybox.net/anastasiya-shupianiova-p35339/clubs
+Q110272575	U	https://bvf.by/player/shupeneva-anastasiya/
+Q98503302	U	http://www.worldofvolley.com/wov-community/players/71607.html
+Q126599974	U	https://tvf-web.dataproject.com/PlayerDetails.aspx?TeamID=660&PlayerID=4939&ID=87
+Q98923948	U	https://goutsa.com/roster.aspx?rp_id=3943
+Q105395892	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743626413&hideHistoryBackButton=true
+Q109595794	U	https://www.vleague.jp/women/player_detail/4219
+Q120015400	U	https://www.dscvolley.de/ein-starkes-signal-fuer-verein-und-bundesliga-dscvolleys-verpflichten-nationalspielerin-lena-kindermann/
+Q101702270	U	https://www.legavolleyfemminile.it/?page_id=194&idat=BAJ-KAR-98
+Q106650672	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743040938&hideHistoryBackButton=true
+Q98098539	U	https://1.bundesliga.vfb-suhl.de/player/blake-mohler/
+Q97105403	U	https://www.legavolleyfemminile.it/?page_id=194&idat=PRO-CLA-98
+Q118316200	U	https://jatim.suara.com/read/2021/10/05/070500/kisah-medi-pebola-voli-asal-papua-yang-membela-jatim-di-pon-xx-2021
+Q106698218	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033094&hideHistoryBackButton=true
+Q110377543	U	https://en.volleyballworld.com/volleyball/competitions/vnl-2023/players/152119
+Q114606171	U	https://www.kompas.id/baca/utama/2019/11/25/andalan-baru-putri-indonesia-revisi
+Q120015400	U	https://jsugamecocksports.com/sports/womens-volleyball/roster/lena-kindermann/5134
+Q127331487	U	https://women.volleybox.net/ysabella-sanchez-p13939
+Q96337387	U	http://japan2018.fivb.com/en/competition/teams/can-canada/players/kelsey-veltman?id=68956
+Q126083787	U	https://lnv-web.dataproject.com/PlayerDetails.aspx?TeamID=519&PlayerID=2999&ID=103
+Q124735910	U	http://www.svf.sk/sk/reprezentacia/zeny/repre/smeciar/zuzana-sepelova/
+Q106698088	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033054&hideHistoryBackButton=true
+Q124695240	U	http://www.svf.sk/sk/reprezentacia/zeny/repre/blokar/katarina-kormendyova
+Q125662671	U	https://greekvolley.eu/index.php/players/greekwomenplayers/item/37503-belia-mariana.html
+Q120015400	U	https://volleyball-suhl.de/Lena-Kindermann
+Q125171642	U	https://women.volleybox.net/giovanna-milana-p37131/indoor_tournaments
+Q124393465	U	http://www.svf.sk/sk/reprezentacia/zeny/repre/libero/ema-magdinova/
+Q133273228	U	http://www.svf.sk/sk/reprezentacia/zeny/repre/nahravac/lucia-sedlackova/
+Q105388956	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744533407&hideHistoryBackButton=true
+Q126291879	U	https://utahutes.com/sports/womens-volleyball/roster/shannon-scully/4581
+Q125542504	U	https://fpdv-web.dataproject.com/PlayerDetails.aspx?TeamID=38&PlayerID=899&ID=9
+Q136652722	U	https://women.volleybox.net/es/meegan-hart-p29876
+Q124393465	U	https://www.mib-profisport.com/en/portfolio/ema-magdinova-2/
+Q112482208	U	https://www.volleyball-bundesliga.de/cms/home/1_bundesliga_frauen/teams_spielerinnen/mannschaften.xhtml?226143.teamId=749394783&226143.view=teamMain#samsCmsComponent_226143
+Q104386780	U	http://www.worldofvolley.com/wov-community/players/45017.html
+Q115269749	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/174676
+Q96079670	U	https://www.dresdnersportclub.de/news/verein/item/6077-dsc-verpflichtet-mit-libera-morgan-hentz-den-naechsten-stanford-star
+Q124393465	U	https://www.cev.eu/team/12978-slovakia/player/66388-magdinova-ema
+Q96209152	U	https://www.dresdnersportclub.de/news/verein/item/6082-madeleine-gates-komplettiert-den-mittelblock-beim-dsc
+Q124695240	U	https://www.mib-profisport.com/en/portfolio/katarina-kormendyova-2/
+Q60841138	S	Volleybox
+Q67080353	S	Volleybox
+Q55220989	S	Volleybox
+Q65163214	S	Volleybox
+Q42190985	S	Volleybox
+Q66816269	S	Volleybox
+Q67089016	S	Volleybox
+Q65163214	S	VBL database
+Q52777148	S	VBL database
+Q42190985	S	VBL database
+Q66816269	S	VBL database
+Q21103803	S	Olympedia
+Q60841138	S	VBL database
+Q16240175	S	IMDb
+Q138426734	S	FIVB database
+Q111584329	S	WorldofVolley
+Q115269749	S	VBL database
+Q107364434	S	VBL database
+Q137535060	S	VBL database
+Q105945293	S	WorldofVolley
+Q135917916	S	VBL database
+Q130736834	S	VBL database
+Q111436853	S	WorldofVolley
+Q120002714	S	VBL database
+Q126454821	S	VBL database
+Q96079670	S	VBL database
+Q98098539	S	VBL database
+Q120015400	S	VBL database
+Q139029393	S	Volleybox
+Q138983508	S	Volleybox
+Q111436853	S	Volleybox
+Q107364434	S	Volleybox
+Q120015400	S	Volleybox
+Q98098539	S	Volleybox
+Q124695240	S	Volleybox
+Q104161884	S	Volleybox
+Q135050561	S	Volleybox
+Q138411774	S	Volleybox
+Q139177966	S	Volleybox
+Q120002714	S	Volleybox
+Q124735910	S	Volleybox
+Q130736834	S	Volleybox
+Q138982573	S	Volleybox
+Q124393465	S	Volleybox
+Q138527589	S	Volleybox
+Q126454821	S	Volleybox
+Q115269749	S	Volleybox
+Q96079670	S	Volleybox
+Q137535060	S	Volleybox
+Q135917916	S	Volleybox
+Q133273228	S	Volleybox
+Q111648151	S	Volleybox
+Q138426734	S	Volleybox
+Q105945293	S	Volleybox
+Q138527589	S	FIVB database
+Q96209152	S	FIVB database
+Q120015400	S	FIVB database
+Q115269749	S	FIVB database
+Q138983508	S	FIVB database
+Q137535060	S	FIVB database
+Q107364434	S	FIVB database
+Q127331487	S	InterSportStats
+Q139177966	S	FIVB database
+Q125542504	S	InterSportStats
+Q139029393	S	FIVB database
+Q135917916	S	FIVB database
+Q98098539	S	FIVB database
+Q97539264	S	NONE
+Q120636764	S	NONE
+Q112716930	S	NONE
+Q98083032	S	NONE
+Q98101160	S	NONE
+Q98758221	S	NONE
+Q106994609	S	NONE
+Q98101190	S	NONE
+Q100454270	S	NONE
+Q97901049	S	NONE
+Q98082862	S	NONE
+Q109596240	S	NONE
+Q116965067	S	NONE
+Q64331585	S	NONE
+Q55734622	S	NONE
+Q55728360	S	NONE
+Q55392938	S	NONE
+Q48877733	S	NONE
+Q48851405	S	NONE
+Q30902725	S	NONE
+Q25826523	S	NONE
+Q55389774	S	NONE
+Q59100198	S	NONE
+Q49676047	S	NONE
+Q58885490	S	NONE
+Q20644904	S	NONE
+Q48761958	S	NONE
+Q22069374	S	NONE
+Q15992031	S	NONE
+Q69550894	S	NONE
+Q64784058	S	NONE
+Q64784049	S	NONE
+Q64784047	S	NONE
+Q18605676	S	NONE
+Q13430870	S	NONE
+Q61745596	S	NONE
+Q27999256	S	NONE
+Q27267670	S	NONE
+Q18416033	S	NONE
+Q65030881	S	NONE
+Q64740289	S	NONE
+Q61719580	S	NONE
+Q31119130	S	NONE
+Q26444255	S	NONE
+Q16240175	S	NONE
