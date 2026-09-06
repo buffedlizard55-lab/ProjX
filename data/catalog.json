@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 287,
+    "entryCount": 289,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19721,6 +19721,159 @@
           "platform": "X",
           "username": "@miyu_nagaoka1",
           "profileUrl": "https://x.com/miyu_nagaoka1?s=21",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-288",
+      "displayName": "Savannah Simo",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 8, 1998 — age 27-28 in 2026 — per the beach.volleybox structured profile (birthDate 1998-09-08; nickname 'Savvy').",
+        "sourceLabel": "Beach Volleybox — Savannah Simo structured profile (birthDate 1998-09-08; gender Female)",
+        "sourceUrl": "https://beach.volleybox.net/savannah-simo-p62688/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + pro women's beach volleyball career — USC + TCU beach program veteran turned AVP pro partner of Devon Newberry; volleybox structured 'gender: Female'.",
+        "sourceLabel": "Beach Volleybox — Savannah Simo structured profile (women's beach; gender Female)",
+        "sourceUrl": "https://beach.volleybox.net/savannah-simo-p62688/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Beach Volleybox — Savannah Simo structured profile (birthDate 1998-09-08; sameAs IG)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/savannah-simo-p62688/",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @savvysimo (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/savvysimo/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USC and TCU beach program veteran (2023 NCAA senior season with TCU; partner Tessa Johnson) turned AVP pro — objective athlete category; verified 27-28 years old. IG handle @savvysimo via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@savvysimo",
+          "profileUrl": "https://www.instagram.com/savvysimo/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-289",
+      "displayName": "Kylie DeBerg",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 30, 1999 in Hudson, Iowa — age 27 in 2026 — per the OFFICIAL AVP pro profile (Birthday March 30, 1999), the official LSU Athletics roster (PERSONAL: 'Born on March 30, 1999'), bvbinfo career record (Birth Date March 30, 1999) and German Wikipedia (30. März 1999 in Hudson, Iowa).",
+        "sourceLabel": "AVP — official Kylie DeBerg profile (Birthday March 30, 1999)",
+        "sourceUrl": "https://avp.com/player/kylie-deberg/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + pro women's volleyball career — three-time AVCA All-American at Missouri + LSU indoor/beach (official lsusports.net women's volleyball roster; AVP women's pro page).",
+        "sourceLabel": "LSU Athletics — official beach roster (Born on March 30, 1999)",
+        "sourceUrl": "https://lsusports.net/sports/bvb/roster/player/kylie-deberg",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "AVP — official Kylie DeBerg pro profile (Birthday March 30, 1999)",
+          "platform": "Website",
+          "url": "https://avp.com/player/kylie-deberg/",
+          "relationship": "official"
+        },
+        {
+          "label": "LSU Athletics — official roster (personal: Born on March 30, 1999)",
+          "platform": "Website",
+          "url": "https://lsusports.net/sports/bvb/roster/player/kylie-deberg",
+          "relationship": "official"
+        },
+        {
+          "label": "German Wikipedia — Kylie Deberg (30. März 1999, Hudson)",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Kylie_Deberg",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kyliedeberg12 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kyliedeberg12/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @kylie.kuyavadeberg (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/kylie.kuyavadeberg",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time AVCA All-American (Missouri records: career kills/set + points/set) who added an All-America season indoors + two beach seasons at LSU — now an AVP/FIVB pro paired with Whitmarsh/Flint-era partners — objective athlete category; verified 27 years old. IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kyliedeberg12",
+          "profileUrl": "https://www.instagram.com/kyliedeberg12/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@kylie.kuyavadeberg",
+          "profileUrl": "https://www.facebook.com/kylie.kuyavadeberg",
           "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
           "followerCountNumeric": null,
           "countType": "unknown",
