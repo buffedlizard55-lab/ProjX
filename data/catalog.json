@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 220,
+    "entryCount": 222,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15262,6 +15262,128 @@
       "flags": [],
       "notes": "Olympic gold medalist outside hitter for Italy — volleyball dynasty (father Giuseppe Bosetti, ex-Italy women's coach; mother Franca Bardelli, 93 caps; sister Lucia, pro) — objective athlete category; verified 32 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-221",
+      "displayName": "Loveth Omoruyi",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 25, 2002 in Lodi, Lombardy, Italy — age 24 in 2026 — per Wikipedia (born 25 August 2002), Grokipedia (born on 25 August 2002 in Lodi), MyKhel Olympics profile (Birth Date: Aug 25, 2002) and jumperformance (Date of birth 25 August 2002).",
+        "sourceLabel": "Wikipedia — Loveth Omoruyi (born 25 August 2002)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Loveth_Omoruyi",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — gold medalist with the Italy women's team at Paris 2024 (first Italian women's volleyball Olympic gold), 2022 U21 European best spiker (Wikipedia/Grokipedia).",
+        "sourceLabel": "Wikipedia — Loveth Omoruyi (Italy women's team; Paris 2024 gold)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Loveth_Omoruyi",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Loveth Omoruyi (DOB 2002-08-25; Paris 2024 gold medal)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Loveth_Omoruyi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Loveth Omoruyi (born 25 August 2002 in Lodi)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/loveth_omoruyi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "MyKhel — Loveth Omoruyi Olympics 2024 profile (Birth Date Aug 25, 2002)",
+          "platform": "Website",
+          "url": "https://www.mykhel.com/loveth-omoruyi-olympics-p1811460/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympic gold medalist outside hitter for Italy (full name Oghosasere Loveth Omoruyi, of Nigerian-Italian heritage) — objective athlete category; verified 24 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-222",
+      "displayName": "Marina Lubian",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 11, 2000 in Moncalieri (Turin), Italy — age 26 in 2026 — per the OFFICIAL Imoco Volley club player page (Birthday 11/04/2000) and volleybox structured record (birthDate 2000-04-11).",
+        "sourceLabel": "Imoco Volley — official Marina Lubian player page (Birthday 11/04/2000)",
+        "sourceUrl": "https://imocovolley.it/en/player/marina-lubian/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and Imoco Volley Conegliano women's team career — middle blocker wearing #9 (Imoco official).",
+        "sourceLabel": "volleybox — Marina Lubian (gender Female; birthDate 2000-04-11)",
+        "sourceUrl": "https://women.volleybox.net/marina-lubian-p5319",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Imoco Volley — official Marina Lubian player page (Birthday 11/04/2000)",
+          "platform": "Website",
+          "url": "https://imocovolley.it/en/player/marina-lubian/",
+          "relationship": "official"
+        },
+        {
+          "label": "volleybox — Marina Lubian (birthDate 2000-04-11; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/marina-lubian-p5319",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @marina_lubian (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/marina_lubian",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Middle blocker for Imoco Volley Conegliano (Italy's Serie A1 powerhouse) and Italy national team middle — objective athlete category; verified 26 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@marina_lubian",
+          "profileUrl": "https://www.instagram.com/marina_lubian",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
