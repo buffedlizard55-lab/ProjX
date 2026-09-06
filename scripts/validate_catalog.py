@@ -62,7 +62,7 @@ def main(path="data/catalog.json", quiet=False):
             urls.add(s["url"])
         accts = e.get("socialAccounts", [])
         known = [a for a in accts if a.get("followerCountNumeric") is not None]
-        lpf = e.get("largestPublicFollowing", {})
+        lpf = e.get("largestPublicFollowing") or {}  # may be JSON null on entries with no observed counts
         if known:
             m = max(a["followerCountNumeric"] for a in known)
             if lpf.get("numeric") != m:

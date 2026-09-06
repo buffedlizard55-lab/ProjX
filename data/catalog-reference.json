@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Reference Profiles",
     "generatedAt": "2026-09-06",
-    "entryCount": 162,
+    "entryCount": 192,
     "summary": "Reference profiles without a documented Instagram or TikTok account — verified adult women (18+) documented via Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or other trusted sources. Derived from data/catalog.json (the single source of truth) by catalogType=reference.",
     "sourceCatalog": "data/catalog.json"
   },
@@ -9437,6 +9437,1896 @@
         "AGE_EVIDENCE_SECONDARY_SOURCES"
       ],
       "notes": "Session 13 volleyball discovery pass — European / international volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. Evidence chain — birth-date reference(s): Volleybox. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-855",
+      "displayName": "Misty May-Treanor",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 30, 1977 (1977-07-30) — age 49 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q182106 (https://www.wikidata.org/wiki/Q182106): its reference names Encyclopædia Britannica Online and IMDb. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Misty_May-Treanor). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Misty May-Treanor (article linked to Wikidata Q182106)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Misty_May-Treanor",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q182106 records sex/gender: female; roster membership of Long Beach State Beach women's volleyball and United States women's national volleyball team is recorded in the same item; her birth date in that same structured record is cited to Encyclopædia Britannica Online and IMDb. She competes in women's beach volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Misty May-Treanor",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Misty_May-Treanor",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q182106 — Misty May-Treanor (women's beach volleyball; date of birth 1977-07-30; reference: Encyclopædia Britannica Online and IMDb; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q182106",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Misty May-Treanor",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Misty_May-Treanor",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @MistyMayTreanor (public profile; handle recorded in Wikidata Q182106)",
+          "platform": "X",
+          "url": "https://x.com/MistyMayTreanor",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@MistyMayTreanor",
+          "profileUrl": "https://x.com/MistyMayTreanor",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q182106. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: Long Beach State Beach women's volleyball and United States women's national volleyball team. Citizenship recorded in Wikidata: United States. Evidence chain — birth-date reference(s): Encyclopædia Britannica Online and IMDb. English Wikipedia: https://en.wikipedia.org/wiki/Misty_May-Treanor. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-868",
+      "displayName": "Natalie Cook",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 19, 1975 (1975-01-19) — age 51 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q263886 (https://www.wikidata.org/wiki/Q263886): its reference names Who's Who in Australia. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Natalie_Cook). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Natalie Cook (article linked to Wikidata Q263886)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natalie_Cook",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q263886 records sex/gender: female; her birth date in that same structured record is cited to Who's Who in Australia. She competes in women's beach volleyball (Australia). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Natalie Cook",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natalie_Cook",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q263886 — Natalie Cook (women's beach volleyball; date of birth 1975-01-19; reference: Who's Who in Australia; country: Australia)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q263886",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Natalie Cook",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Natalie_Cook",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @NatCookVB (public profile; handle recorded in Wikidata Q263886)",
+          "platform": "X",
+          "url": "https://x.com/NatCookVB",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@NatCookVB",
+          "profileUrl": "https://x.com/NatCookVB",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q263886. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Australia. Evidence chain — birth-date reference(s): Who's Who in Australia. English Wikipedia: https://en.wikipedia.org/wiki/Natalie_Cook. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-890",
+      "displayName": "Han Yoo-mi",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 5, 1982 (1982-02-05) — age 44 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q483736 (https://www.wikidata.org/wiki/Q483736): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Han_Yoo-mi). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Han Yoo-mi (article linked to Wikidata Q483736)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Han_Yoo-mi",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q483736 records sex/gender: female. She competes in women's indoor volleyball (South Korea). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Han Yoo-mi",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Han_Yoo-mi",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q483736 — Han Yoo-mi (women's indoor volleyball; date of birth 1982-02-05; country: South Korea)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q483736",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Han Yoo-mi",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Han_Yoo-mi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @hym82vo (public profile; handle recorded in Wikidata Q483736)",
+          "platform": "X",
+          "url": "https://x.com/hym82vo",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@hym82vo",
+          "profileUrl": "https://x.com/hym82vo",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q483736. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: South Korea. English Wikipedia: https://en.wikipedia.org/wiki/Han_Yoo-mi. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-910",
+      "displayName": "Bahar Toksoy",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 6, 1988 (1988-02-06) — age 38 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q938434 (https://www.wikidata.org/wiki/Q938434): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Bahar_Toksoy). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Bahar Toksoy (article linked to Wikidata Q938434)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bahar_Toksoy",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q938434 records sex/gender: female. She competes in women's indoor volleyball (Turkey). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Bahar Toksoy",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bahar_Toksoy",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q938434 — Bahar Toksoy (women's indoor volleyball; date of birth 1988-02-06; country: Turkey)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q938434",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Bahar Toksoy",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Bahar_Toksoy",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @bhrtksy (public profile; handle recorded in Wikidata Q938434)",
+          "platform": "X",
+          "url": "https://x.com/bhrtksy",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@bhrtksy",
+          "profileUrl": "https://x.com/bhrtksy",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q938434. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Turkey. English Wikipedia: https://en.wikipedia.org/wiki/Bahar_Toksoy. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-926",
+      "displayName": "Carmen Turlea",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 18, 1975 (1975-11-18) — age 50 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q1571662 (https://www.wikidata.org/wiki/Q1571662): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Carmen_%C8%9Aurlea). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Carmen Turlea (article linked to Wikidata Q1571662)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_%C8%9Aurlea",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q1571662 records sex/gender: female. She competes in women's indoor volleyball (Italy; Romania). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Carmen Turlea",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Carmen_%C8%9Aurlea",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q1571662 — Carmen Turlea (women's indoor volleyball; date of birth 1975-11-18; country: Italy; Romania)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q1571662",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Carmen Turlea",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Carmen_%C8%9Aurlea",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @CarmenTurlea (public profile; handle recorded in Wikidata Q1571662)",
+          "platform": "X",
+          "url": "https://x.com/CarmenTurlea",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@CarmenTurlea",
+          "profileUrl": "https://x.com/CarmenTurlea",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q1571662. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Italy; Romania. English Wikipedia: https://en.wikipedia.org/wiki/Carmen_%C8%9Aurlea. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-930",
+      "displayName": "Christina Bauer",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 1, 1988 (1988-01-01) — age 38 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q1749385 (https://www.wikidata.org/wiki/Q1749385): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Christina_Bauer). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Christina Bauer (article linked to Wikidata Q1749385)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Bauer",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q1749385 records sex/gender: female. She competes in women's indoor volleyball (France). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Christina Bauer",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Bauer",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q1749385 — Christina Bauer (women's indoor volleyball; date of birth 1988-01-01; country: France)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q1749385",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Christina Bauer",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Christina_Bauer",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @BauerChristina1 (public profile; handle recorded in Wikidata Q1749385)",
+          "platform": "X",
+          "url": "https://x.com/BauerChristina1",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@BauerChristina1",
+          "profileUrl": "https://x.com/BauerChristina1",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q1749385. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: France. English Wikipedia: https://en.wikipedia.org/wiki/Christina_Bauer. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-938",
+      "displayName": "Heather Bown",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 29, 1978 (1978-11-29) — age 47 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q2263164 (https://www.wikidata.org/wiki/Q2263164): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Heather_Bown). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Heather Bown (article linked to Wikidata Q2263164)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heather_Bown",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q2263164 records sex/gender: female; roster membership of UC Santa Barbara Gauchos women's volleyball is recorded in the same item. She competes in women's beach volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Heather Bown",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Heather_Bown",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q2263164 — Heather Bown (women's beach volleyball; date of birth 1978-11-29; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q2263164",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Heather Bown",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Heather_Bown",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @heather_e_bown (public profile; handle recorded in Wikidata Q2263164)",
+          "platform": "X",
+          "url": "https://x.com/heather_e_bown",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@heather_e_bown",
+          "profileUrl": "https://x.com/heather_e_bown",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q2263164. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: UC Santa Barbara Gauchos women's volleyball. Citizenship recorded in Wikidata: United States. English Wikipedia: https://en.wikipedia.org/wiki/Heather_Bown. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-940",
+      "displayName": "Pelin Çelik",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 23, 1982 (1982-05-23) — age 44 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q2405216 (https://www.wikidata.org/wiki/Q2405216): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Pelin_%C3%87elik). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Pelin Çelik (article linked to Wikidata Q2405216)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pelin_%C3%87elik",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q2405216 records sex/gender: female. She competes in women's beach volleyball (Turkey). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Pelin Çelik",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pelin_%C3%87elik",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q2405216 — Pelin Çelik (women's beach volleyball; date of birth 1982-05-23; country: Turkey)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q2405216",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Pelin Çelik",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Pelin_%C3%87elik",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @pelinp (public profile; handle recorded in Wikidata Q2405216)",
+          "platform": "X",
+          "url": "https://x.com/pelinp",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@pelinp",
+          "profileUrl": "https://x.com/pelinp",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q2405216. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Turkey. English Wikipedia: https://en.wikipedia.org/wiki/Pelin_%C3%87elik. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-953",
+      "displayName": "Nancy Metcalf",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "College Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 12, 1978 (1978-11-12) — age 47 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q2625258 (https://www.wikidata.org/wiki/Q2625258): its reference names Lega Pallavolo Serie A Femminile. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Nancy_Metcalf). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Nancy Metcalf (article linked to Wikidata Q2625258)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nancy_Metcalf",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q2625258 records sex/gender: female; roster membership of Nebraska Cornhuskers women's volleyball and United States women's national volleyball team is recorded in the same item; her birth date in that same structured record is cited to Lega Pallavolo Serie A Femminile. She competes in women's NCAA (US college) indoor volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Nancy Metcalf",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nancy_Metcalf",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q2625258 — Nancy Metcalf (women's NCAA (US college) indoor volleyball; date of birth 1978-11-12; reference: Lega Pallavolo Serie A Femminile; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q2625258",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Nancy Metcalf",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Nancy_Metcalf",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @nancyjmetcalf (public profile; handle recorded in Wikidata Q2625258)",
+          "platform": "X",
+          "url": "https://x.com/nancyjmetcalf",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@nancyjmetcalf",
+          "profileUrl": "https://x.com/nancyjmetcalf",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q2625258. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — NCAA / US college volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: Nebraska Cornhuskers women's volleyball and United States women's national volleyball team. Citizenship recorded in Wikidata: United States. Evidence chain — birth-date reference(s): Lega Pallavolo Serie A Femminile. English Wikipedia: https://en.wikipedia.org/wiki/Nancy_Metcalf. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-956",
+      "displayName": "Cecilia Tait",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 5, 1962 (1962-03-05) — age 64 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q2665739 (https://www.wikidata.org/wiki/Q2665739): its reference names InterSportStats; the reference URL recorded against that statement is https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Cecilia_Tait). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "infogob.jne.gob.pe — Cecilia Tait (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q2665739 records sex/gender: female; player record at https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc; her birth date in that same structured record is cited to InterSportStats. She competes in women's beach volleyball (Peru). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "infogob.jne.gob.pe — Cecilia Tait",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q2665739 — Cecilia Tait (women's beach volleyball; date of birth 1962-03-05; reference: InterSportStats; country: Peru)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q2665739",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "infogob.jne.gob.pe — Cecilia Tait (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Cecilia Tait",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Cecilia_Tait",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @CeciliaTaitV (public profile; handle recorded in Wikidata Q2665739)",
+          "platform": "X",
+          "url": "https://x.com/CeciliaTaitV",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@CeciliaTaitV",
+          "profileUrl": "https://x.com/CeciliaTaitV",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q2665739. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Peru. Evidence chain — birth-date reference(s): InterSportStats; reference URL(s): https://infogob.jne.gob.pe/Politico/FichaPolitico/cecilia-roxana-tait-villacorta_historial-partidario_RWXt3c6mMkcc6+@0ElOxMA==Xc. English Wikipedia: https://en.wikipedia.org/wiki/Cecilia_Tait. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-972",
+      "displayName": "Cenaida Uribe",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 2, 1965 (1965-12-02) — age 60 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q3305207 (https://www.wikidata.org/wiki/Q3305207): its reference names InterSportStats; the reference URL recorded against that statement is https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Cenaida_Uribe). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "infogob.jne.gob.pe — Cenaida Uribe (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q3305207 records sex/gender: female; player record at https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05; her birth date in that same structured record is cited to InterSportStats. She competes in women's indoor volleyball (Peru). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "infogob.jne.gob.pe — Cenaida Uribe",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q3305207 — Cenaida Uribe (women's indoor volleyball; date of birth 1965-12-02; reference: InterSportStats; country: Peru)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q3305207",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "infogob.jne.gob.pe — Cenaida Uribe (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Cenaida Uribe",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Cenaida_Uribe",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @cenaida_uribe (public profile; handle recorded in Wikidata Q3305207)",
+          "platform": "X",
+          "url": "https://x.com/cenaida_uribe",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@cenaida_uribe",
+          "profileUrl": "https://x.com/cenaida_uribe",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q3305207. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Peru. Evidence chain — birth-date reference(s): InterSportStats; reference URL(s): https://infogob.jne.gob.pe/Politico/FichaPolitico/cenaida-cebastiana-uribe-medina_historial-partidario_Nz0QE56ZYOk=05. English Wikipedia: https://en.wikipedia.org/wiki/Cenaida_Uribe. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-984",
+      "displayName": "Marie-Andrée Lessard",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 6, 1977 (1977-12-06) — age 48 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q3847839 (https://www.wikidata.org/wiki/Q3847839): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Marie-Andr%C3%A9e_Lessard). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Marie-Andrée Lessard (article linked to Wikidata Q3847839)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marie-Andr%C3%A9e_Lessard",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q3847839 records sex/gender: female. She competes in women's beach volleyball (Canada; Guatemala). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Marie-Andrée Lessard",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marie-Andr%C3%A9e_Lessard",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q3847839 — Marie-Andrée Lessard (women's beach volleyball; date of birth 1977-12-06; country: Canada; Guatemala)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q3847839",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Marie-Andrée Lessard",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Marie-Andr%C3%A9e_Lessard",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @malessard (public profile; handle recorded in Wikidata Q3847839)",
+          "platform": "X",
+          "url": "https://x.com/malessard",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@malessard",
+          "profileUrl": "https://x.com/malessard",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q3847839. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Canada; Guatemala. English Wikipedia: https://en.wikipedia.org/wiki/Marie-Andr%C3%A9e_Lessard. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-986",
+      "displayName": "Shauna Mullin",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 11, 1984 (1984-09-11) — age 41 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q3959234 (https://www.wikidata.org/wiki/Q3959234): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Shauna_Mullin). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Shauna Mullin (article linked to Wikidata Q3959234)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shauna_Mullin",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q3959234 records sex/gender: female. She competes in women's beach volleyball (United Kingdom). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Shauna Mullin",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shauna_Mullin",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q3959234 — Shauna Mullin (women's beach volleyball; date of birth 1984-09-11; country: United Kingdom)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q3959234",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Shauna Mullin",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Shauna_Mullin",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @shuvolleygb (public profile; handle recorded in Wikidata Q3959234)",
+          "platform": "X",
+          "url": "https://x.com/shuvolleygb",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@shuvolleygb",
+          "profileUrl": "https://x.com/shuvolleygb",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q3959234. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United Kingdom. English Wikipedia: https://en.wikipedia.org/wiki/Shauna_Mullin. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-987",
+      "displayName": "Zara Dampney",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 10, 1986 (1986-06-10) — age 40 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q4023855 (https://www.wikidata.org/wiki/Q4023855): the reference URL recorded against that statement is http://www.bvbinfo.com/player.asp?ID=8384. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Zara_Dampney). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "bvbinfo.com — Zara Dampney (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=8384",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q4023855 records sex/gender: female; player record at http://www.bvbinfo.com/player.asp?ID=8384. She competes in women's beach volleyball (United Kingdom). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "bvbinfo.com — Zara Dampney",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=8384",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q4023855 — Zara Dampney (women's beach volleyball; date of birth 1986-06-10; country: United Kingdom)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q4023855",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "bvbinfo.com — Zara Dampney (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=8384",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Zara Dampney",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Zara_Dampney",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @Zara_Dampney (public profile; handle recorded in Wikidata Q4023855)",
+          "platform": "X",
+          "url": "https://x.com/Zara_Dampney",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@Zara_Dampney",
+          "profileUrl": "https://x.com/Zara_Dampney",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q4023855. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United Kingdom. Evidence chain — reference URL(s): http://www.bvbinfo.com/player.asp?ID=8384. English Wikipedia: https://en.wikipedia.org/wiki/Zara_Dampney. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-989",
+      "displayName": "Allyn Rose",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 27, 1988 (1988-05-27) — age 38 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q4733463 (https://www.wikidata.org/wiki/Q4733463): its reference names IMDb. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Allyn_Rose). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Allyn Rose (article linked to Wikidata Q4733463)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Allyn_Rose",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q4733463 records sex/gender: female; her birth date in that same structured record is cited to IMDb. She competes in women's indoor volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Allyn Rose",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Allyn_Rose",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q4733463 — Allyn Rose (women's indoor volleyball; date of birth 1988-05-27; reference: IMDb; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q4733463",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Allyn Rose",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Allyn_Rose",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @AllynRose (public profile; handle recorded in Wikidata Q4733463)",
+          "platform": "X",
+          "url": "https://x.com/AllynRose",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@AllynRose",
+          "profileUrl": "https://x.com/AllynRose",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q4733463. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United States. Evidence chain — birth-date reference(s): IMDb. English Wikipedia: https://en.wikipedia.org/wiki/Allyn_Rose. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking. Wikidata also records a beauty-pageant-contestant occupation.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-991",
+      "displayName": "Arisa Takada",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 17, 1987 (1987-02-17) — age 39 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q4790862 (https://www.wikidata.org/wiki/Q4790862): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Arisa_Takada). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Arisa Takada (article linked to Wikidata Q4790862)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arisa_Takada",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q4790862 records sex/gender: female. She competes in women's indoor volleyball (Japan). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Arisa Takada",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arisa_Takada",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q4790862 — Arisa Takada (women's indoor volleyball; date of birth 1987-02-17; country: Japan)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q4790862",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Arisa Takada",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Arisa_Takada",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @ars217tkd (public profile; handle recorded in Wikidata Q4790862)",
+          "platform": "X",
+          "url": "https://x.com/ars217tkd",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@ars217tkd",
+          "profileUrl": "https://x.com/ars217tkd",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q4790862. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Arisa_Takada. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-997",
+      "displayName": "Denise Johns",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 9, 1978 (1978-12-09) — age 47 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q5257690 (https://www.wikidata.org/wiki/Q5257690): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Denise_Johns). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Denise Johns (article linked to Wikidata Q5257690)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denise_Johns",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q5257690 records sex/gender: female. She competes in women's beach volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Denise Johns",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Denise_Johns",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q5257690 — Denise Johns (women's beach volleyball; date of birth 1978-12-09; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q5257690",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Denise Johns",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Denise_Johns",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @DJbeachvolley (public profile; handle recorded in Wikidata Q5257690)",
+          "platform": "X",
+          "url": "https://x.com/DJbeachvolley",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@DJbeachvolley",
+          "profileUrl": "https://x.com/DJbeachvolley",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q5257690. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United States. English Wikipedia: https://en.wikipedia.org/wiki/Denise_Johns. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-998",
+      "displayName": "Hege Storhaug",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 21, 1962 (1962-05-21) — age 64 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q5698362 (https://www.wikidata.org/wiki/Q5698362): the reference URL recorded against that statement is https://snl.no/Hege_Storhaug. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Hege_Storhaug). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "snl.no — Hege Storhaug (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://snl.no/Hege_Storhaug",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q5698362 records sex/gender: female; player record at https://snl.no/Hege_Storhaug. She competes in women's indoor volleyball (Norway). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "snl.no — Hege Storhaug",
+        "sourceUrl": "https://snl.no/Hege_Storhaug",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q5698362 — Hege Storhaug (women's indoor volleyball; date of birth 1962-05-21; country: Norway)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q5698362",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "snl.no — Hege Storhaug (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://snl.no/Hege_Storhaug",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Hege Storhaug",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Hege_Storhaug",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @hegestorhaug (public profile; handle recorded in Wikidata Q5698362)",
+          "platform": "X",
+          "url": "https://x.com/hegestorhaug",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@hegestorhaug",
+          "profileUrl": "https://x.com/hegestorhaug",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q5698362. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Norway. Evidence chain — reference URL(s): https://snl.no/Hege_Storhaug. English Wikipedia: https://en.wikipedia.org/wiki/Hege_Storhaug. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-999",
+      "displayName": "Marta Fraile",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 30, 1982 (1982-10-30) — age 43 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q6001920 (https://www.wikidata.org/wiki/Q6001920): the reference URL recorded against that statement is https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments. Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "Volleybox (women's database) — Marta Fraile (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q6001920 records sex/gender: female; she appears in the women's competition/roster record at https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments. She competes in women's indoor volleyball (Spain). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "Volleybox (women's database) — Marta Fraile",
+        "sourceUrl": "https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q6001920 — Marta Fraile (women's indoor volleyball; date of birth 1982-10-30; country: Spain)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q6001920",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Volleybox (women's database) — Marta Fraile (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @martafraile9 (public profile; handle recorded in Wikidata Q6001920)",
+          "platform": "X",
+          "url": "https://x.com/martafraile9",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@martafraile9",
+          "profileUrl": "https://x.com/martafraile9",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q6001920. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Spain. Evidence chain — reference URL(s): https://women.volleybox.net/marta-fraile-p15156/indoor_tournaments. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1000",
+      "displayName": "Leyla Chihuán",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 4, 1975 (1975-09-04) — age 51 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q6538022 (https://www.wikidata.org/wiki/Q6538022): its reference names InterSportStats; the reference URL recorded against that statement is https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Leyla_Chihu%C3%A1n). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "infogob.jne.gob.pe — Leyla Chihuán (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q6538022 records sex/gender: female; player record at https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1; her birth date in that same structured record is cited to InterSportStats. She competes in women's indoor volleyball (Peru). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "infogob.jne.gob.pe — Leyla Chihuán",
+        "sourceUrl": "https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q6538022 — Leyla Chihuán (women's indoor volleyball; date of birth 1975-09-04; reference: InterSportStats; country: Peru)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q6538022",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "infogob.jne.gob.pe — Leyla Chihuán (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Leyla Chihuán",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Leyla_Chihu%C3%A1n",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @LeylaChihuan (public profile; handle recorded in Wikidata Q6538022)",
+          "platform": "X",
+          "url": "https://x.com/LeylaChihuan",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@LeylaChihuan",
+          "profileUrl": "https://x.com/LeylaChihuan",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q6538022. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Peru. Evidence chain — birth-date reference(s): InterSportStats; reference URL(s): https://infogob.jne.gob.pe/Politico/FichaPolitico/leyla-felicita-chihuan-ramos_historial-partidario_42GN@1E2xbI=G1. English Wikipedia: https://en.wikipedia.org/wiki/Leyla_Chihu%C3%A1n. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1004",
+      "displayName": "Rachel Bragg",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 11, 1984 (1984-12-11) — age 41 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q7279167 (https://www.wikidata.org/wiki/Q7279167): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Rachel_Bragg). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Rachel Bragg (article linked to Wikidata Q7279167)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Bragg",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q7279167 records sex/gender: female. She competes in women's indoor volleyball (United Kingdom). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Rachel Bragg",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Bragg",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q7279167 — Rachel Bragg (women's indoor volleyball; date of birth 1984-12-11; country: United Kingdom)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q7279167",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Rachel Bragg",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Rachel_Bragg",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @bambi_bragg (public profile; handle recorded in Wikidata Q7279167)",
+          "platform": "X",
+          "url": "https://x.com/bambi_bragg",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@bambi_bragg",
+          "profileUrl": "https://x.com/bambi_bragg",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q7279167. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United Kingdom. English Wikipedia: https://en.wikipedia.org/wiki/Rachel_Bragg. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1005",
+      "displayName": "Chizuru Kotō",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 8, 1982 (1982-10-08) — age 43 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q7662978 (https://www.wikidata.org/wiki/Q7662978): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Chizuru_Kot%C5%8D). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Chizuru Kotō (article linked to Wikidata Q7662978)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chizuru_Kot%C5%8D",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q7662978 records sex/gender: female. She competes in women's indoor volleyball (Japan). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Chizuru Kotō",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Chizuru_Kot%C5%8D",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q7662978 — Chizuru Kotō (women's indoor volleyball; date of birth 1982-10-08; country: Japan)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q7662978",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Chizuru Kotō",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Chizuru_Kot%C5%8D",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @chizuruganbaru2 (public profile; handle recorded in Wikidata Q7662978)",
+          "platform": "X",
+          "url": "https://x.com/chizuruganbaru2",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@chizuruganbaru2",
+          "profileUrl": "https://x.com/chizuruganbaru2",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q7662978. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Chizuru_Kot%C5%8D. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1013",
+      "displayName": "Akari Oumi",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 10, 1989 (1989-11-10) — age 36 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q11081660 (https://www.wikidata.org/wiki/Q11081660): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Akari_Oumi). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Akari Oumi (article linked to Wikidata Q11081660)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akari_Oumi",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q11081660 records sex/gender: female. She competes in women's indoor volleyball (Japan). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Akari Oumi",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Akari_Oumi",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q11081660 — Akari Oumi (women's indoor volleyball; date of birth 1989-11-10; country: Japan)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q11081660",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Akari Oumi",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Akari_Oumi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @akarii1110 (public profile; handle recorded in Wikidata Q11081660)",
+          "platform": "X",
+          "url": "https://x.com/akarii1110",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@akarii1110",
+          "profileUrl": "https://x.com/akarii1110",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q11081660. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Akari_Oumi. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1016",
+      "displayName": "Arisa Satō",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 18, 1989 (1989-07-18) — age 37 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q11383507 (https://www.wikidata.org/wiki/Q11383507): the structured record names no source and no reference URL for that statement. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Arisa_Sat%C5%8D). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Arisa Satō (article linked to Wikidata Q11383507)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arisa_Sat%C5%8D",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q11383507 records sex/gender: female. She competes in women's indoor volleyball (Japan). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Arisa Satō",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Arisa_Sat%C5%8D",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q11383507 — Arisa Satō (women's indoor volleyball; date of birth 1989-07-18; country: Japan)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q11383507",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Arisa Satō",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Arisa_Sat%C5%8D",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @0718Ari (public profile; handle recorded in Wikidata Q11383507)",
+          "platform": "X",
+          "url": "https://x.com/0718Ari",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@0718Ari",
+          "profileUrl": "https://x.com/0718Ari",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q11383507. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Arisa_Sat%C5%8D. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1028",
+      "displayName": "Lauren Fendrick",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 20, 1982 (1982-03-20) — age 44 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q13551280 (https://www.wikidata.org/wiki/Q13551280): the reference URL recorded against that statement is http://www.bvbinfo.com/player.asp?ID=5237. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Lauren_Fendrick). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "bvbinfo.com — Lauren Fendrick (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=5237",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q13551280 records sex/gender: female; roster membership of UCLA Bruins women's volleyball is recorded in the same item; player record at http://www.bvbinfo.com/player.asp?ID=5237. She competes in women's beach volleyball (United States). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "bvbinfo.com — Lauren Fendrick",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=5237",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q13551280 — Lauren Fendrick (women's beach volleyball; date of birth 1982-03-20; country: United States)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q13551280",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "bvbinfo.com — Lauren Fendrick (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=5237",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Lauren Fendrick",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lauren_Fendrick",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @LaurenFendrick (public profile; handle recorded in Wikidata Q13551280)",
+          "platform": "X",
+          "url": "https://x.com/LaurenFendrick",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@LaurenFendrick",
+          "profileUrl": "https://x.com/LaurenFendrick",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q13551280. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: UCLA Bruins women's volleyball. Citizenship recorded in Wikidata: United States. Evidence chain — reference URL(s): http://www.bvbinfo.com/player.asp?ID=5237. English Wikipedia: https://en.wikipedia.org/wiki/Lauren_Fendrick. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1045",
+      "displayName": "Marta Gens",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 30, 1969 (1969-12-30) — age 56 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q16200814 (https://www.wikidata.org/wiki/Q16200814): its reference names Catalan Sport Encyclopedia. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Marta_Gens). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "English Wikipedia — Marta Gens (article linked to Wikidata Q16200814)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marta_Gens",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q16200814 records sex/gender: female; her birth date in that same structured record is cited to Catalan Sport Encyclopedia. She competes in women's indoor volleyball (Spain). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "en.wikipedia.org — Marta Gens",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Marta_Gens",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q16200814 — Marta Gens (women's indoor volleyball; date of birth 1969-12-30; reference: Catalan Sport Encyclopedia; country: Spain)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q16200814",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "English Wikipedia — Marta Gens",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Marta_Gens",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @gensmarta (public profile; handle recorded in Wikidata Q16200814)",
+          "platform": "X",
+          "url": "https://x.com/gensmarta",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@gensmarta",
+          "profileUrl": "https://x.com/gensmarta",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q16200814. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Spain. Evidence chain — birth-date reference(s): Catalan Sport Encyclopedia. English Wikipedia: https://en.wikipedia.org/wiki/Marta_Gens. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1058",
+      "displayName": "Audrey Cooper",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Volleyball"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 7, 1964 (1964-12-07) — age 61 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q16999763 (https://www.wikidata.org/wiki/Q16999763): the reference URL recorded against that statement is http://www.bvbinfo.com/player.asp?ID=1312. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Audrey_Cooper_(volleyball)). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "bvbinfo.com — Audrey Cooper (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=1312",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q16999763 records sex/gender: female; player record at http://www.bvbinfo.com/player.asp?ID=1312. She competes in women's beach volleyball (United Kingdom). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "bvbinfo.com — Audrey Cooper",
+        "sourceUrl": "http://www.bvbinfo.com/player.asp?ID=1312",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q16999763 — Audrey Cooper (women's beach volleyball; date of birth 1964-12-07; country: United Kingdom)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q16999763",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "bvbinfo.com — Audrey Cooper (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=1312",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Audrey Cooper",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Audrey_Cooper_(volleyball)",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @ladycoach_coops (public profile; handle recorded in Wikidata Q16999763)",
+          "platform": "X",
+          "url": "https://x.com/ladycoach_coops",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@ladycoach_coops",
+          "profileUrl": "https://x.com/ladycoach_coops",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q16999763. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United Kingdom. Evidence chain — reference URL(s): http://www.bvbinfo.com/player.asp?ID=1312. English Wikipedia: https://en.wikipedia.org/wiki/Audrey_Cooper_(volleyball). Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1066",
+      "displayName": "Susan Egoavil",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 16, 1988 (1988-01-16) — age 38 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q18822173 (https://www.wikidata.org/wiki/Q18822173): its reference names InterSportStats; the reference URL recorded against that statement is http://www.worldofvolley.com/wov-community/players/50762.html. An English Wikipedia article covers this player (https://en.wikipedia.org/wiki/Susan_Egoavil). Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "WorldofVolley — Susan Egoavil (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "http://www.worldofvolley.com/wov-community/players/50762.html",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q18822173 records sex/gender: female; player record at http://www.worldofvolley.com/wov-community/players/50762.html; her birth date in that same structured record is cited to InterSportStats. She competes in women's indoor volleyball (Peru). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "WorldofVolley — Susan Egoavil",
+        "sourceUrl": "http://www.worldofvolley.com/wov-community/players/50762.html",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q18822173 — Susan Egoavil (women's indoor volleyball; date of birth 1988-01-16; reference: InterSportStats; country: Peru)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q18822173",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WorldofVolley — Susan Egoavil (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "http://www.worldofvolley.com/wov-community/players/50762.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "English Wikipedia — Susan Egoavil",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Susan_Egoavil",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @susan_indira (public profile; handle recorded in Wikidata Q18822173)",
+          "platform": "X",
+          "url": "https://x.com/susan_indira",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@susan_indira",
+          "profileUrl": "https://x.com/susan_indira",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q18822173. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Peru. Evidence chain — birth-date reference(s): InterSportStats; reference URL(s): http://www.worldofvolley.com/wov-community/players/50762.html. English Wikipedia: https://en.wikipedia.org/wiki/Susan_Egoavil. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1151",
+      "displayName": "Ester Ribera Boter",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator",
+        "Fitness"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 26, 1979 (1979-08-26) — age 47 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q105698617 (https://www.wikidata.org/wiki/Q105698617): the reference URL recorded against that statement is https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter. Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "fivb.com — Ester Ribera Boter (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q105698617 records sex/gender: female; player record at https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter. She competes in women's beach volleyball (Spain). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "fivb.com — Ester Ribera Boter",
+        "sourceUrl": "https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q105698617 — Ester Ribera Boter (women's beach volleyball; date of birth 1979-08-26; country: Spain)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q105698617",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "fivb.com — Ester Ribera Boter (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter",
+          "relationship": "official"
+        },
+        {
+          "label": "X — @riberaester (public profile; handle recorded in Wikidata Q105698617)",
+          "platform": "X",
+          "url": "https://x.com/riberaester",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@riberaester",
+          "profileUrl": "https://x.com/riberaester",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q105698617. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Spain. Evidence chain — reference URL(s): https://www.fivb.com/en/beachvolleyball/beachplayersdatabase/103388-ester-ribera-boter. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking. Wikidata also records a bodybuilder occupation.",
+      "largestPublicFollowing": null,
+      "catalogType": "reference"
+    },
+    {
+      "id": "W-2026-1167",
+      "displayName": "Kacie MacTavish",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 9, 1988 (1988-10-09) — age 37 as of 2026-09-07, so an adult (18+). The birth date is the value recorded in the Wikidata structured item Q111575339 (https://www.wikidata.org/wiki/Q111575339): its reference names Volleybox; the reference URL recorded against that statement is https://beach.volleybox.net/kacie-mactavish-p51466. Adult status is taken only from this documented birth date — never inferred from appearance, clothing, photographs, college attendance or any image-based judgement.",
+        "sourceLabel": "beach.volleybox.net — Kacie MacTavish (record cited by the Wikidata date-of-birth reference)",
+        "sourceUrl": "https://beach.volleybox.net/kacie-mactavish-p51466",
+        "checkedAt": "2026-09-07"
+      },
+      "genderEvidence": {
+        "summary": "Woman — the Wikidata structured item Q111575339 records sex/gender: female; player record at https://beach.volleybox.net/kacie-mactavish-p51466; her birth date in that same structured record is cited to Volleybox. She competes in women's beach volleyball (Canada). Gender is established from documentary records (structured data fields, team rosters and competition databases), never from appearance, clothing or imagery.",
+        "sourceLabel": "beach.volleybox.net — Kacie MacTavish",
+        "sourceUrl": "https://beach.volleybox.net/kacie-mactavish-p51466",
+        "checkedAt": "2026-09-07"
+      },
+      "sources": [
+        {
+          "label": "Wikidata Q111575339 — Kacie MacTavish (women's beach volleyball; date of birth 1988-10-09; reference: Volleybox; country: Canada)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q111575339",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "beach.volleybox.net — Kacie MacTavish (record cited by the Wikidata date-of-birth reference)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/kacie-mactavish-p51466",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @KacieMacTavish (public profile; handle recorded in Wikidata Q111575339)",
+          "platform": "X",
+          "url": "https://x.com/KacieMacTavish",
+          "relationship": "verified-platform"
+        }
+      ],
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@KacieMacTavish",
+          "profileUrl": "https://x.com/KacieMacTavish",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-07",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle recorded in Wikidata Q111575339. No follower count was publicly observed on 2026-09-07 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+        }
+      ],
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-07",
+      "flags": [],
+      "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Canada. Evidence chain — birth-date reference(s): Volleybox; reference URL(s): https://beach.volleybox.net/kacie-mactavish-p51466. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "largestPublicFollowing": null,
       "catalogType": "reference"
     }
   ],
