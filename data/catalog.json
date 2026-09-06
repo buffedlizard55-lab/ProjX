@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 114,
+    "entryCount": 123,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -8138,6 +8138,600 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-115",
+      "displayName": "Caitlin Clark",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 22, 2002 in Des Moines, Iowa — age 24 in 2026 — per Basketball-Reference WNBA page (structured birthDate 2002-01-22 + 'Born: January 22, 2002'), Biography.com and WNBA Wiki (Miraheze).",
+        "sourceLabel": "Basketball-Reference — Caitlin Clark (born Jan 22, 2002)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/c/clarkca02w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA/Iowa women's basketball career — 'regarded as one of the greatest female collegiate players' (WNBA Wiki) and Biography.com 'Who Is Caitlin Clark' profile of the Indiana Fever guard.",
+        "sourceLabel": "WNBA Wiki — Caitlin Clark (women's basketball)",
+        "sourceUrl": "https://wnba.miraheze.org/wiki/Caitlin_Clark",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Caitlin Clark (DOB 2002-01-22; Instagram: caitlinclark22)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/c/clarkca02w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Biography.com — Caitlin Clark (born January 22, 2002, Des Moines)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/a64150678/caitlin-clark",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BiographyHive — Caitlin Clark bio (Instagram: @caitlinclark22)",
+          "platform": "Website",
+          "url": "https://www.biographyhive.com/biography/sportsperson/caitlin-clark-biography-age-height-parents-siblings-ethnicity-boyfriend-net-worth-awards-instagram/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @caitlinclark22 (basketball-reference header)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/caitlinclark22/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 WNBA Rookie of the Year and NCAA Division I all-time scoring leader (3,951 points) — objective athlete category. Handle verbatim via basketball-reference header; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@caitlinclark22",
+          "profileUrl": "https://www.instagram.com/caitlinclark22/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference player page header ('Instagram: caitlinclark22') and BiographyHive bio; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-116",
+      "displayName": "Coco Gauff",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 13, 2004 in Delray Beach, Florida — age 22 in 2026 — per Biography.com ('BORN: March 13, 2004'), WTA official profile (JSON-LD birthDate 2004-03-13), LandOfTennis structured data and TennisWorldUSA.",
+        "sourceLabel": "WTA — Coco Gauff official profile (birthDate 2004-03-13)",
+        "sourceUrl": "https://www.wtatennis.com/players/328560/coco-gauff",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's professional tennis career — 2023 US Open and 2025 Roland-Garros women's singles champion (WTA/Biography.com).",
+        "sourceLabel": "Biography.com — Coco Gauff (US Open champion biography)",
+        "sourceUrl": "https://www.biography.com/athlete/coco-gauff",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "WTA — Coco Gauff official player profile (DOB 2004-03-13)",
+          "platform": "Website",
+          "url": "https://www.wtatennis.com/players/328560/coco-gauff",
+          "relationship": "official"
+        },
+        {
+          "label": "Biography.com — Coco Gauff (born March 13, 2004, Delray Beach)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athlete/coco-gauff",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LandOfTennis — Coco Gauff structured record (sameAs IG @cocogauff, X @CocoGauff)",
+          "platform": "Website",
+          "url": "https://www.landoftennis.com/players_women/coco_gauff.htm",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @cocogauff (landoftennis sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/cocogauff/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @CocoGauff (landoftennis sameAs)",
+          "platform": "X",
+          "url": "https://x.com/CocoGauff",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 US Open and 2025 French Open singles champion — objective athlete category. Handles via LandOfTennis structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@cocogauff",
+          "profileUrl": "https://www.instagram.com/cocogauff/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via landoftennis.com structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@CocoGauff",
+          "profileUrl": "https://x.com/CocoGauff",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via landoftennis.com structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-117",
+      "displayName": "Aryna Sabalenka",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 5, 1998 in Minsk, Belarus — age 28 in 2026 — per TennisWorldUSA structured birthDate 1998-05-05, IMDb bio, TennisArchive Fandom (born May 5, 1998) and CelebsFacts (Date Of Birth: 5 May 1998).",
+        "sourceLabel": "TennisWorldUSA — Aryna Sabalenka (born May 5, 1998, Minsk)",
+        "sourceUrl": "https://www.tennisworldusa.org/tennis-player/368/aryna-sabalenka/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's tour career — world No. 1 in singles, 2023 Australian Open women's singles champion (TennisWorldUSA/IMDb mini-bio).",
+        "sourceLabel": "IMDb — Aryna Sabalenka biography (WTA No. 1 profile)",
+        "sourceUrl": "https://www.imdb.com/name/nm9355312/bio/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TennisWorldUSA — Aryna Sabalenka (DOB 1998-05-05 structured)",
+          "platform": "Website",
+          "url": "https://www.tennisworldusa.org/tennis-player/368/aryna-sabalenka/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "IMDb — Aryna Sabalenka biography (born May 5, 1998)",
+          "platform": "Website",
+          "url": "https://www.imdb.com/name/nm9355312/bio/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CelebsFacts — Aryna Sabalenka (Date Of Birth 5 May 1998; official site arynasabalenka.com)",
+          "platform": "Website",
+          "url": "https://www.celebsfacts.com/aryna-sabalenka/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "World No. 1 and multi-time Grand Slam singles champion — objective athlete category. No handle value captured this pass (bio sites reference her Twitter/Instagram without verbatim handles) — follower range UNKNOWN, per-honesty protocol.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-118",
+      "displayName": "Sha'Carri Richardson",
+      "categories": [
+        "Athlete",
+        "Track and Field",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 25, 2000 in Dallas, Texas — age 26 in 2026 — per Britannica (born March 25, 2000), Biography.com, biographyhost (DOB Mar 25 2000), biographykind and dreshare.",
+        "sourceLabel": "Britannica — Sha'Carri Richardson (born March 25, 2000)",
+        "sourceUrl": "https://www.britannica.com/biography/Sha-Carri-Richardson",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Britannica ('one of the world's fastest female sprinters') and women's 100m/Olympic women's 4x100m career (2024 Olympic gold in women's 4x100m relay).",
+        "sourceLabel": "Britannica — Sha'Carri Richardson ('fastest female sprinters')",
+        "sourceUrl": "https://www.britannica.com/biography/Sha-Carri-Richardson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Sha'Carri Richardson (DOB 2000-03-25; 2024 Olympic medals)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Sha-Carri-Richardson",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Biography.com — Sha'Carri Richardson (BORN: March 25, 2000, Dallas)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/a60383465/shacarri-richardson",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BiographyKind — Sha'Carri Richardson (DOB 2000-03-25; Instagram ID @itsshacarri)",
+          "platform": "Website",
+          "url": "https://en.biographykind.com/shacarri-richardson/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @itsshacarri (biographykind Wiki/Bio table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/itsshacarri/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "2023 world 100m champion and 2024 Olympic 4x100m gold medalist — objective athlete category. Older handle variance: dreshare (2022) listed instagram.com/carririchardson_ while current bios list @itsshacarri — recorded current handle; variance in IRR-2026-09-06-012.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@itsshacarri",
+          "profileUrl": "https://www.instagram.com/itsshacarri/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via biographykind Wiki/Bio table ('Instagram ID @itsshacarri'); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-119",
+      "displayName": "Sydney McLaughlin-Levrone",
+      "categories": [
+        "Athlete",
+        "Track and Field",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 7, 1999 in New Brunswick, New Jersey — age 27 in 2026 — per USA Track & Field official athlete bio (Date of Birth: 8/7/1999, Age: 27), EBSCO Research Starter and Tuko (date of birth 7th August 1999).",
+        "sourceLabel": "USA Track & Field — Sydney McLaughlin-Levrone official bio (DOB 8/7/1999)",
+        "sourceUrl": "https://www.usatf.org/athlete-bios/sydney-mclaughlin-levrone",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USATF official athlete bio ('Gender: Female') and Tuko profile ('Gender: Female'); women's 400m hurdles world-record career.",
+        "sourceLabel": "USA Track & Field — athlete bio states Gender: Female",
+        "sourceUrl": "https://www.usatf.org/athlete-bios/sydney-mclaughlin-levrone",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USA Track & Field — Sydney McLaughlin-Levrone bio (DOB 8/7/1999; Gender: Female)",
+          "platform": "Website",
+          "url": "https://www.usatf.org/athlete-bios/sydney-mclaughlin-levrone",
+          "relationship": "official"
+        },
+        {
+          "label": "EBSCO Research Starter — Sydney McLaughlin biography (born August 7, 1999)",
+          "platform": "Website",
+          "url": "https://www.ebsco.com/research-starters/biography/sydney-mclaughlin/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Tuko — Sydney McLaughlin profile (Gender: Female; DOB 7th August 1999)",
+          "platform": "Website",
+          "url": "https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/435484-sydney-mclaughlins-family-parents-siblings-husband/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic 400m hurdles champion and world-record holder — objective athlete category. USATF page links her X/Instagram icons without verbatim handles; handles not captured — UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-120",
+      "displayName": "Carissa Moore",
+      "categories": [
+        "Athlete",
+        "Surfing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 27, 1992 in Honolulu, Hawaii — age 34 in 2026 — per Britannica (born August 27, 1992), Wikipedia/Wikiwand, Red Bull career portrait and Outrigger profile.",
+        "sourceLabel": "Britannica — Carissa Moore (born August 27, 1992)",
+        "sourceUrl": "https://www.britannica.com/biography/Carissa-Moore",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Britannica ('one of the greatest female surfers of all time') and women's shortboard career — first Olympic gold medal in women's surfing (Tokyo 2020).",
+        "sourceLabel": "Britannica — Carissa Moore (women's surfing achievements)",
+        "sourceUrl": "https://www.britannica.com/biography/Carissa-Moore",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Carissa Moore (DOB 1992-08-27; five-time world champion)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Carissa-Moore",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Carissa Moore (DOB 1992-08-27; 2020 Olympic shortboard gold)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Carissa_Moore",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Red Bull — Carissa Moore career portrait (women's surfing champion)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/us-en/carissa-moore-career-portrait",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Five-time WSL world champion and first women's surfing Olympic gold medalist — objective athlete category; W-2026-019 Rebecca Silva is a separate unrelated creator (distinct sport/region). No handle captured — UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-121",
+      "displayName": "A'ja Wilson",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 8, 1996 in Columbia, South Carolina — age 30 in 2026 — per Basketball-Reference (structured birthDate 1996-08-08), Olympics.com athlete profile (Year of Birth 1996), baike and JagranJosh.",
+        "sourceLabel": "Basketball-Reference — A'ja Wilson (born Aug 8, 1996)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/w/wilsoa01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's career — four-time WNBA MVP, two-time Olympic gold medalist (basketball-reference/Olympics.com; BecauseOfThemWeCan 'Trailblazers' profile).",
+        "sourceLabel": "Olympics.com — A'ja Wilson athlete biography (women's basketball)",
+        "sourceUrl": "https://www.olympics.com/en/athletes/a-ja-wilson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — A'ja Wilson (DOB 1996-08-08; Instagram: aja22wilson)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/w/wilsoa01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Olympics.com — A'ja Wilson (Year of Birth 1996; 2 Olympic gold medals)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/a-ja-wilson",
+          "relationship": "official"
+        },
+        {
+          "label": "JagranJosh — A'ja Wilson biography (born August 8, 1996; 4x MVP)",
+          "platform": "Website",
+          "url": "https://www.jagranjosh.com/us/sports/aja-wilson-biography-1860001257",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @aja22wilson (basketball-reference header)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/aja22wilson/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Four-time WNBA MVP and three-time WNBA champion center — objective athlete category. Handle via basketball-reference header; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@aja22wilson",
+          "profileUrl": "https://www.instagram.com/aja22wilson/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference player page header ('Instagram: aja22wilson'); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-122",
+      "displayName": "Hilary Knight",
+      "categories": [
+        "Athlete",
+        "Ice Hockey",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 12, 1989 — age 37 in 2026 — per Wikipedia (born July 12, 1989), PWHL official athlete page (Birthdate: 1989-07-12, Age 36→37) and eliteprospects structured record (Date of Birth Jul 12, 1989). Birthplace listed as Palo Alto (Wikipedia) or Sun Valley, Idaho (PWHL/eliteprospects) — variance logged.",
+        "sourceLabel": "PWHL — Hilary Knight official athlete page (birthdate 1989-07-12)",
+        "sourceUrl": "https://www.thepwhl.com/en/olympics/athlete/hilary-knight",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via captaincy of the United States women's national ice hockey team and PWHL women's league career (Wikipedia/PWHL); 'one of the greatest players in women's hockey history'.",
+        "sourceLabel": "Wikipedia — Hilary Knight (US women's national team captain)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hilary_Knight",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Hilary Knight (DOB 1989-07-12; PWHL captain)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Hilary_Knight",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "PWHL — Hilary Knight official athlete page (birthdate 1989-07-12)",
+          "platform": "Website",
+          "url": "https://www.thepwhl.com/en/olympics/athlete/hilary-knight",
+          "relationship": "official"
+        },
+        {
+          "label": "EliteProspects — Hilary Knight (DOB Jul 12, 1989; PWHL record)",
+          "platform": "Website",
+          "url": "https://www.eliteprospects.com/player/367043/hilary-knight",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "NBC Olympics — Hilary Knight athlete profile ('194,000 followers on Instagram')",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/hilary-knight-meet-athlete",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "Five-time Olympic medalist (gold 2018, 2026) and record 10-time world champion — objective athlete category. NBC Olympics (Nov 2025 snapshot) states 194,000 Instagram followers; handle value not captured this pass, so count is recorded in notes rather than an unverified account object. Birthplace variance (Palo Alto vs Sun Valley) and Seattle/Detroit team-snapshot mismatch logged in IRR-2026-09-06-012.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-123",
+      "displayName": "Kendall Coyne Schofield",
+      "categories": [
+        "Athlete",
+        "Ice Hockey",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 25, 1992 in Palos Heights, Illinois — age 34 in 2026 — per Wikipedia (born May 25, 1992, age 33→34), PWHL official athlete page (Birthdate: 1992-05-25, Age 33) and IceHockey Fandom infobox.",
+        "sourceLabel": "PWHL — Kendall Coyne Schofield official athlete page (birthdate 1992-05-25)",
+        "sourceUrl": "https://www.thepwhl.com/en/olympics/athlete/kendall-coyne-schofield",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Minnesota Frost and US women's national team captaincy — PWHL Walter Cup championships 2024/2025 and 2018 Olympic gold (PWHL/Wikipedia; 'top female college hockey player' — Patty Kazmaier Award 2016).",
+        "sourceLabel": "Wikipedia — Kendall Coyne Schofield (women's hockey career)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kendall_Coyne_Schofield",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Kendall Coyne Schofield (DOB 1992-05-25; Frost captain)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Kendall_Coyne_Schofield",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "PWHL — Kendall Coyne Schofield official athlete page (birthdate 1992-05-25)",
+          "platform": "Website",
+          "url": "https://www.thepwhl.com/en/olympics/athlete/kendall-coyne-schofield",
+          "relationship": "official"
+        },
+        {
+          "label": "kendallcoyne.com — official athlete site (Olympic gold/silver medalist bio)",
+          "platform": "Website",
+          "url": "https://kendallcoyne.com/about/",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2018 Olympic gold medalist, three-time Olympian and two-time PWHL Walter Cup champion captain — objective athlete category. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
@@ -8322,6 +8916,13 @@
       "severity": "needs-review",
       "summary": "Session-12 batch-A flags: DOB day-level variances + name changes recorded verbatim for manual review.",
       "detail": "(1) Tierna Davidson: Wikipedia/BroadBiography/SportsLib = 1998-09-19 vs fbref 1998-09-18 — majority recorded, adult unaffected. (2) Sophia Smith: ussoccer.com page display text says 'Date of Birth Aug 10 2000' while its embedded JSON-LD says 2000-08-09 (UTC-offset artifact pattern); Britannica agrees Aug 10 — recorded Aug 10. (3) Sam Coffey: minority source AthletesHistory.com says 1998-12-12 — official US Soccer + fbref + Pantheon all say 1998-12-31 — recorded Dec 31. (4) Name changes recorded as outgrown/maiden notes: Korbin Albert -> Korbin Shrader (Wikipedia, Aug 2026), Lindsey Horan -> Lindsey Heaps (Wikipedia + live IG display 'Lindsey Horan Heaps'), Kelsey Robinson -> Robinson Cook, Crystal Dunn -> Soubrier. (5) Korbin Shrader IG count 100K+ comes from an Aug-2024 article (stale-ish; kept verbatim with date). (6) Most USWNT accounts have sourced handles but unobserved displays — recorded FOLLOWER_COUNT_UNKNOWN per protocol (bartschhackley14, alyssanaeher, lavellerose, cdunn19, tierna_davidson, ___emilyfox).",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-012",
+      "severity": "needs-review",
+      "summary": "Session-12 batch-B flags: press-documented IG handle/count conflicts + place/team snapshot variances; five WNBA/golf/tennis stars found pre-existing in catalog during batch assembly (dup-guard caught).",
+      "detail": "(1) Angel Reese, Jordan Chiles, Jade Carey, Nelly Korda and Paige Bueckers were re-verified this wave but then excluded as duplicates — they already exist in the catalog from earlier sessions (the id/name dup check caught them). Reese IG handle variance (@angelreese5 vs @angelreese10 per basketball-reference) noted for a future review of the existing entry. (2) Sha'Carri Richardson older handle instagram.com/carririchardson_ (dreshare, 2022) vs current @itsshacarri (biographykind) — recorded current. (3) Hilary Knight: birthplace Palo Alto, CA (Wikipedia) vs Sun Valley, ID (PWHL/eliteprospects); Wikipedia team's snapshot also showed 'PWHL Detroit' while PWHL official page says Seattle Torrent — team-snapshot lag. NBC Olympics states 194,000 IG followers (Nov 2025) — kept in entry notes because handle value wasn't captured. (4) (Paige Bueckers IG '2 million+' July-2025 claim — entry excluded as pre-existing; noted for its existing record.)",
       "reviewStatus": "requires-owner-review"
     }
   ]
