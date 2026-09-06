@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 176,
+    "entryCount": 180,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -12260,6 +12260,308 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "250K–499.9K"
+    },
+    {
+      "id": "W-2026-177",
+      "displayName": "Madisen Skinner",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 1, 2001 in Katy, Texas — age 25 in 2026 — per Red Bull athlete profile (structured birthDate 2001-07-01), volleyballworld.com official VNL bio (Birth date 01/07/2001), famousbirthdays (July 1, 2001) and Wikipedia (born July 1, 2001).",
+        "sourceLabel": "Red Bull — Madisen Skinner athlete profile (birthDate 2001-07-01)",
+        "sourceUrl": "https://www.redbull.com/sg-en/athlete/madisen-skinner",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Red Bull structured data ('gender: female'), volleybox structured data ('gender: Female') and US women's national-team opposite career — 3x NCAA champion (Kentucky 2020, Texas 2022/2023), 2023 Honda Sports Award.",
+        "sourceLabel": "Red Bull — Madisen Skinner profile ('gender: female'; NCAA titles record)",
+        "sourceUrl": "https://www.redbull.com/sg-en/athlete/madisen-skinner",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Red Bull — Madisen Skinner (DOB 2001-07-01; gender female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/sg-en/athlete/madisen-skinner",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Volleyball World — Madisen Skinner VNL official bio (birth date 01/07/2001)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/210604",
+          "relationship": "official"
+        },
+        {
+          "label": "Women.volleybox — Madisen Skinner (birthDate/gender Female; sameAs IG/X)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/madisen-skinner-p46025",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @madisenskinner (redbull + volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/madisenskinner/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @madiskinnerr (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/madiskinnerr",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time NCAA champion and 2023 Honda Sports Award winner (LOVB Austin) — objective athlete category. Handles via redbull/volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@madisenskinner",
+          "profileUrl": "https://www.instagram.com/madisenskinner/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via redbull + women.volleybox.net structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@madiskinnerr",
+          "profileUrl": "https://x.com/madiskinnerr",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-178",
+      "displayName": "Dana Rettke",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 21, 1999 in Riverside, Illinois — age 27 in 2026 — per women.volleybox.net structured record (birthDate 1999-01-21) and Wikipedia (born January 21, 1999).",
+        "sourceLabel": "Women.volleybox — Dana Rettke (birthDate 1999-01-21)",
+        "sourceUrl": "https://women.volleybox.net/dana-rettke-p21214",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured data ('gender: Female') and US women's national-team middle-blocker career — first five-time AVCA First Team All-American (Wikipedia).",
+        "sourceLabel": "Women.volleybox — Dana Rettke ('gender: Female' structured record)",
+        "sourceUrl": "https://women.volleybox.net/dana-rettke-p21214",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women.volleybox — Dana Rettke (DOB 1999-01-21; gender Female; sameAs IG/TikTok/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/dana-rettke-p21214",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Dana Rettke (DOB 1999-01-21; Wisconsin 5x All-American)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Dana_Rettke",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @dana_rettke (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/dana_rettke/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @dana_rettke (volleybox structured sameAs)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@dana_rettke",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USWNT middle blocker, first five-time AVCA First Team All-American (Wisconsin), now at Eczacıbaşı — objective athlete category. Handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@dana_rettke",
+          "profileUrl": "https://www.instagram.com/dana_rettke/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@dana_rettke",
+          "profileUrl": "https://www.tiktok.com/@dana_rettke",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-179",
+      "displayName": "Lauren Carlini",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 28, 1995 in Geneva/Aurora, Illinois — age 31 in 2026 — per Wikipedia (born February 28, 1995), USA Volleyball official athlete page (Born in 1995) and volleycrafters (Date of Birth February 28, 1995).",
+        "sourceLabel": "Wikipedia — Lauren Carlini (born February 28, 1995)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lauren_Carlini",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's national volleyball team career — 2016 Sullivan Award winner as America's best amateur athlete (Wikipedia/usavolleyball.org official athlete page).",
+        "sourceLabel": "USA Volleyball — Lauren Carlini official athlete page",
+        "sourceUrl": "https://usavolleyball.org/athlete/lauren-carlini/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USA Volleyball — Lauren Carlini official athlete page (Born in 1995; bio)",
+          "platform": "Website",
+          "url": "https://usavolleyball.org/athlete/lauren-carlini/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Lauren Carlini (DOB 1995-02-28; 2016 Sullivan Award)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lauren_Carlini",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "VolleyCrafters — Lauren Carlini bio (DOB February 28, 1995)",
+          "platform": "Website",
+          "url": "https://volleycrafters.com/lauren-carlini/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2016 Sullivan Award winner and U.S. women's national-team setter (Wisconsin All-American) — objective athlete category. Birthplace: Wikipedia says Geneva, volleycrafters says Aurora — both recorded. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-180",
+      "displayName": "Jordyn Poulter",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 31, 1997 in Naperville, Illinois — age 29 in 2026 — per volleyballworld.com official player bio (Birth date 31/07/1997 across VNL and 2025 World Championship pages), women.volleybox.net structured birthDate 1997-07-31 and grokipedia (born July 31, 1997).",
+        "sourceLabel": "Volleyball World — Jordyn Poulter official bio (birth date 31/07/1997)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/143517",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured data ('gender: Female') and US women's national-team setter career — Tokyo 2020 Olympic gold (named Best Setter) and Paris 2024 silver (grokipedia/volleyballworld).",
+        "sourceLabel": "Women.volleybox — Jordyn Poulter ('gender: Female' structured record)",
+        "sourceUrl": "https://women.volleybox.net/jordyn-poulter-p4851/indoor_tournaments",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — Jordyn Poulter official player bio (birth date 31/07/1997)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/143517",
+          "relationship": "official"
+        },
+        {
+          "label": "Women.volleybox — Jordyn Poulter (DOB 1997-07-31; gender Female; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/jordyn-poulter-p4851/indoor_tournaments",
+          "relationship": "gender-evidence"
+        },
+        {
+          "label": "Grokipedia — Jordyn Poulter (DOB July 31, 1997; Tokyo 2020 gold Best Setter)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Jordyn_Poulter",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jordyn_poulter (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jordyn_poulter/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Tokyo 2020 Olympic gold medalist and Best Setter (LOVB Salt Lake) — objective athlete category. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jordyn_poulter",
+          "profileUrl": "https://www.instagram.com/jordyn_poulter/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
