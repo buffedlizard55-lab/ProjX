@@ -1,0 +1,73 @@
+# Session 13 facts harvested from Wikidata for the selected candidate Q-IDs (queried 2026-09-06).
+# Tags: S = "stated in" reference attached to the Wikidata date-of-birth statement (i.e. the database the DOB comes from)
+#       W = English Wikipedia article URL, X = X/Twitter username (P2002), K = TikTok username (P7085),
+#       F = Facebook username (P2013), Y = YouTube channel ID (P2397), T = member of sports team (P54) label.
+# Format: qid|S=..;X=..;K=..;F=..;Y=..;W=..;T=..   ("-" = property not present on the Wikidata item)
+Q107510659|S=-;X=candelariah17;K=candelariaherrer3;F=candeherrer;Y=-;W=-
+Q118118553|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=UCCJc_XqEmNek74nJh1QbNJA;W=-
+Q136303859|S=Volleybox;X=-;K=-;F=-;Y=UCrUKdtCebGehMqjvJuu_0Rg;W=-
+Q138865675|S=-;X=ellieholzman;K=ellie_and_lucas;F=-;Y=UCC1dQJf-8gMjLjIkTfWRjlw;W=-
+Q114018805|S=Volleybox;X=astumler;K=-;F=-;Y=-;W=-
+Q125875368|S=Volleybox+FIVB database;X=caitiebaird_;K=-;F=-;Y=-;W=-
+Q130241559|S=Volleybox+FIVB database;X=ClothierEmma;K=-;F=-;Y=-;W=-
+Q131821875|S=Volleybox;X=maimaihiapo;K=maimaihiapo;F=-;Y=-;W=-
+Q135048995|S=Volleybox;X=kacieevans_;K=-;F=-;Y=-;W=-
+Q135049370|S=Volleybox;X=chiamakaaa__;K=-;F=-;Y=-;W=-
+Q135117255|S=VBL database+Volleybox;X=EmmaGrome;K=-;F=-;Y=-;W=-
+Q135234293|S=VBL database+Volleybox+FIVB database;X=A_vanderwerff;K=amelia_vanderwerff;F=-;Y=-;W=-
+Q135466601|S=Volleybox;X=tayylorhead;K=-;F=-;Y=-;W=-
+Q135466615|S=Volleybox;X=BiancaBertolin0;K=-;F=-;Y=-;W=-
+Q139665331|S=Volleybox;X=carlson_averi;K=-;F=-;Y=-;W=-
+Q139666173|S=Volleybox;X=avajomartin;K=-;F=-;Y=-;W=-
+Q140372412|S=Volleybox+FIVB database;X=sweet_carol016;K=-;F=-;Y=-;W=-
+Q140372945|S=Volleybox;X=kayleecox88;K=-;F=-;Y=-;W=-
+Q113532625|S=-;X=-;K=ivkoviccanastasija;F=-;Y=-;W=-
+Q130170463|S=WorldofVolley+VBL database+Volleybox+FIVB database;X=-;K=athidimi;F=-;Y=-;W=-
+Q131543193|S=Volleybox+FIVB database;X=-;K=elenaascott;F=-;Y=-;W=-
+Q137901503|S=VBL database+Volleybox+FIVB database;X=-;K=ianehenke18;F=-;Y=-;W=-
+Q139036727|S=Beach Volleyball Database+Volleybox+FIVB database;X=-;K=michaela.panekova;F=-;Y=-;W=-
+Q139710703|S=Volleybox;X=-;K=taylor.landfair;F=-;Y=-;W=-
+Q139666200|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139482752|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q139694062|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139732064|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139679776|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q140374054|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q140374146|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139710478|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139410612|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139502705|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139710520|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q119570579|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139732120|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139619655|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139392885|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q140374300|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139085744|S=FIVB database+Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q136303767|S=Beach Volleyball Database+Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q124637231|S=VBL database+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q125882053|S=VBL database+Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q136298369|S=VBL database+Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q115869636|S=VBL database;X=-;K=-;F=-;Y=-;W=-
+Q130241801|S=VBL database+Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q106714928|S=VBL database+Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q125880425|S=VBL database+Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q125420926|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q136325284|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q124556352|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q138989347|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q136297535|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q136304094|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q139062819|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q114729954|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q135472110|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q135472462|S=Volleybox+FIVB database;X=-;K=-;F=-;Y=-;W=-
+Q135189451|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q124425023|S=Volleybox+Slovak Olympic Committee database;X=-;K=-;F=-;Y=-;W=-
+Q127691921|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q138806691|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q136324550|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q126487356|S=Volleybox;X=-;K=-;F=-;Y=-;W=-
+Q112177110|S=-;X=-;K=-;F=-;Y=-;W=-
+Q42168695|S=-;X=-;K=-;F=-;Y=-;W=-
+Q124666645|S=-;X=-;K=-;F=-;Y=-;W=-

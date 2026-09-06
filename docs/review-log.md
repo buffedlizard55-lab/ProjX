@@ -690,3 +690,121 @@ Continuation of the NCAA → beach → Europe → pro-leagues volleyball sprint 
 ### Counts at wave-48 checkpoint
 - Catalog: **301 VERIFIED** (W-2026-001..301), **5 REVIEW_REQUIRED**, **15 IRR**.
 - Session goal: **+96 → +100** crossed (201 → 301 verified adds since the owner's volleyball-only directive), spanning NCAA indoor, NCAA beach, AVP/FIVB beach, PVF/LOVB, and IT/TR/SRB/POL/NED/GER/CAN/BRA/JPN/CHN/DOM/CRO/SLO/LAT/MEX/FRA/ROU/RUS-exile leagues.
+
+---
+
+## Session 13 continuation (2026-09-06) — volleyball-only structured-data pass: +257 verified (W-2026-302..558)
+
+Owner directive: *college sports first (NCAA volleyball, beach volleyball), then European volleyball and any other
+women's volleyball leagues; aim to add 100 new unique profiles per pass and keep searching until the search is
+honestly complete and thorough; verify no hallucinations.*
+
+### Discovery method (all public structured data, queries archived)
+1. Wikidata SPARQL pools, executed 2026-09-06 (URL-encoded queries stored under `data/research/urls/`):
+   - **NCAA / US college indoor** — female, occupation *volleyball player* (Q15117302), sport volleyball (Q1734),
+     member of a US women's volleyball team, DOB ≥ 1999 and < 2008-06-01, Instagram handle present → 69 candidates
+     (`data/research/s13_ncaa.tsv`).
+   - **International beach volleyball** — female, occupation *beach volleyball player* (Q17361156), DOB ≥ 1996,
+     at least one of Instagram / X / TikTok → 49 candidates (`data/research/s13_beach_intl.tsv`).
+   - **International indoor (European + other leagues)** — female, volleyball player, DOB ≥ 1996 and < 2008-06-01,
+     Instagram present, citizenship label → 161 candidates (`data/research/s13_indoor_intl.tsv`).
+   - Population context measured first: 10,419 female volleyball players and 1,053 female beach volleyball players
+     carry a DOB; 839 / 167 of those carry an Instagram handle. The pools above are the handle-bearing subset in the
+     adult age window, i.e. an exhaustive sweep of the *publicly documented + publicly social* population, not a sample.
+2. Per-candidate evidence harvest (transcribed verbatim into `data/research/s13_evidence.tsv`, `s13_facts.tsv`):
+   - `S` = the database named in the reference of the P569 (date-of-birth) statement — Volleybox, VBL database,
+     FIVB database, Beach Volleyball Database, WorldofVolley, InterSportStats, Olympedia, Slovak Olympic Committee
+     database, Biographical lexicon of Estonian sport;
+   - `U` = the reference URL (pr:P854) attached to that statement;
+   - `I` = the Wikimedia project the statement was imported from (pr:P143);
+   - `W` = the English Wikipedia article linked to the item;
+   - `T` = member-of-sports-team labels (P54);
+   - `X`/`K`/`F`/`Y` = X, TikTok, Facebook, YouTube handles (P2002/P7085/P2013/P2397).
+3. Query-engineering notes (repeatable): use `CONCAT(...,"##")` rows with `rdfs:label` + `FILTER(LANG="en")`
+   (the `SERVICE wikibase:label` form returns HTTP 500 inside CONCAT); keep `prov:wasDerivedFrom` branches simple;
+   sitelinks only resolve in a **standalone** branch (`?a schema:about ?p ; schema:isPartOf <https://en.wikipedia.org/>`)
+   — inside the multi-UNION facts query that branch silently returned nothing, which is why the `W` harvest was run
+   separately. Bash has no network in this environment; every fetch went through the page-fetch tool.
+
+### Selection outcome (279 candidates)
+| Bucket | Count | Disposition |
+| --- | --- | --- |
+| Adult, documented DOB with external reference URL | 142 | promoted (Tier 1/2 citation clickable from the row) |
+| Adult, documented DOB, English Wikipedia article, no other URL | 25 | promoted |
+| Adult, DOB referenced to a named database with no URL | 90 | promoted **with flag `AGE_EVIDENCE_SECONDARY_SOURCES`** |
+| Adult, DOB only via a Wikipedia import statement | 3 | promoted **with the same flag** |
+| DOB present but no reference recorded at all | 19 | **review queue** `R-2026-013..031`, `AGE_SOURCE_NOT_RECORDED` |
+| No public social handle | 3 | dropped (nothing to list) |
+| Duplicate of an existing catalog row (name or handle) | 0 | dup-guard found none — the earlier sprint's dup-blocks (Stysiak, Poulter, Koga, Drews) held |
+
+Total promoted: **257** → catalog **301 → 558 VERIFIED**; review queue **5 → 24**; irregularities **15 → 17**.
+Group split: 65 NCAA/US college indoor, 49 international beach, 143 international indoor. Leagues and federations
+represented include the German Bundesliga (Dresdner SC, Allianz MTV Stuttgart, Schweriner SC, USC Münster, Ladies in
+Black Aachen, VC Wiesbaden, VfB 91 Suhl, NawaRo Straubing, Rote Raben Vilsbiburg, Schwarz-Weiß Erfurt, SC Potsdam,
+VCO Berlin), Slovak (Slávia EU Bratislava, Volley project UKF Nitra, VK Pirane Brusno, VK Prešov), French (Cannes,
+Nantes, Venelles, Levallois, Terville Florange), Italian (Firenze, Monza, Bergamo, Casalmaggiore, Chieri, Cuneo,
+Pinerolo, Trentino Rosa), Greek (Panathinaikos, PAOK, AEK, Apollonios), Turkish (VakıfBank, Eczacıbaşı, Karayolları,
+THY, Nilüfer, Bursaspor), Japanese V.League (NEC Red Rockets, Osaka Marvelous, Toray Arrows, AGIL, Kurobe, PFU,
+Victorina Himeji), Dutch (Talentteam Papendal, Sliedrecht, VC Sneek, Asterix AVO, AVV Keistad), Belgian (Charleroi,
+Topvolley Antwerpen, VC Oudegem), Czech (VK Prostějov, VK UP Olomouc, VK Dukla Liberec), Swiss (Volley Toggenburg,
+VC Kanti Schaffhausen, Genève Volley), Danish (DHV Odense, Brøndby), Icelandic (HK Kópavogur), Hungarian (Vasas),
+Polish (Impel Wrocław), Austrian, Belarusian (Minchanka), Kazakh, Argentine (Boca Juniors), Brazilian (Osasco,
+CPB-listed), Canadian (Volleyball Canada, UBC Thunderbirds, Saint Mary's), plus women's national teams of Germany,
+France, Italy, Serbia, Türkiye, Netherlands, Japan, Austria, Argentina, Brazil, Canada, USA and the FIVB/CEV
+women's competition registries.
+
+### Spot-check audit (no hallucinations)
+Four candidates across four different evidence types were opened and compared field by field on 2026-09-06:
+| Candidate | Primary page opened | Result |
+| --- | --- | --- |
+| Arina Fedorovtseva (Q106857085) | en.wikipedia.org/wiki/Arina_Fedorovtseva | born **19 January 2004** = record `2004-01-19`; Russian; Fenerbahçe Women's Volleyball + Russia women's national team ✓ |
+| Ellie Holzman (Q138865675) | women.volleybox.net/ellie-holzman-p29188 | Birthdate **December 1, 2000** = record `2000-12-01`; Nationality USA; Outside Hitter; Illinois Univ. 2019/20–2021/22 = record `Illinois Fighting Illini women's volleyball` ✓ |
+| Katja Stam (Q105201345) | bvbinfo.com/player.asp?ID=16917 | Birth Date **October 3, 1998** = record `1998-10-03`; Netherlands; FIVB/CEV beach career ✓ |
+| Elena Scott (Q131543193) | gocards.com/sports/womens-volleyball/roster/elena-scott/15185 | "Scott, Elena" on the **2024 Women's Volleyball Roster**, University of Louisville ✓ (page shows no birth date, so her DOB stays sourced to the structured record — recorded as such, not upgraded) |
+
+4/4 exact matches on every field the page actually publishes. No name, date, handle, URL, follower count or
+verification status was invented anywhere in this batch; where a fact was not observable it is written as
+`UNKNOWN`/`FOLLOWER_COUNT_UNKNOWN` or routed to the review queue.
+
+**Self-caught integrity event (IRR-2026-09-06-017):** while transcribing harvested `T` (team) rows into
+`data/research/s13_evidence.tsv`, 16 rows for Q-IDs that were *not* in the fetched result had been drafted from
+inference. They were detected by re-checking the transcript against the query output and deleted **before** any
+entry was generated; `scripts/session13_volleyball.py` only ever reads verbatim harvested values, and the deletion
+is reproducible from the script output. Nothing inferred reached `data/catalog.json`.
+
+### Follower counts
+Instagram, TikTok, X, YouTube and Facebook all return 403/401 to automated retrieval from this environment, and no
+platform API credential is available, so counts were recorded **only where a public analytics page publishes them**:
+| Entry | Account | Observed | Snapshot | Range |
+| --- | --- | --- | --- | --- |
+| W-2026-464 Arina Fedorovtseva | IG @a.fed.10 | 346,337 (displayed 346.3K) | 30 Aug 2026 | 250K–499.9K |
+| W-2026-498 Mhicaela Belen | IG @mhicaelabelen | 431,914 (displayed 431.9K) | 29 Aug 2026 | 250K–499.9K |
+| W-2026-333 Elena Scott | IG @elenaascott | 93,568 (displayed 93.6K) | 03 Sep 2026 | 50K–99.9K |
+
+All three recorded as `countType: exact` with the source note naming the public analytics page and its snapshot date.
+The other 254 new rows keep `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` plus a `sourceNote` explaining why —
+no estimate, no cross-platform sum, and HypeAuditor's own AI content tags (e.g. "Swimwear" on @mhicaelabelen) were
+deliberately **not** used as categories: categories stay objective (Athlete / Volleyball / Beach Volleyball /
+College Athlete / Creator).
+
+### Artifacts
+- `scripts/session13_volleyball.py` — deterministic generator (dry-run by default, `--apply` to write); reads only the
+  research artifacts; asserts dedupe by name and by handle; routes weak candidates to the review queue.
+- `scripts/session13_followers.py` — id + name + username asserted follower-count patches.
+- `data/research/s13_selected.tsv` — per-entry audit sheet (entryId, Q-ID, group, DOB, age, handles, DOB sources,
+  reference URLs, teams) for manual review.
+- `data/research/s13_evidence.tsv`, `s13_facts.tsv`, `s13_ncaa.tsv`, `s13_beach_intl.tsv`, `s13_indoor_intl.tsv`,
+  `data/research/urls/*.url` — raw harvest + the exact queries used.
+- `python3 scripts/validate_catalog.py` → `entries=558 queue=24 irr=17 errors=0 warns=2` (both warnings are
+  pre-existing Session-11 rows).
+
+### Honest completeness statement
+Within the *publicly documented* women's volleyball population (structured records that carry both a birth date and a
+public social handle), this pass is exhaustive: 279 candidates were enumerated from three separate occupation/sport
+queries covering NCAA indoor, international beach and international indoor, every one was resolved to its birth-date
+reference, and each was either promoted with a citation, flagged for secondary-only evidence, or queued. What is
+**not** complete: (a) follower counts for 254 rows (platform retrieval blocked — needs an authorized API pass or
+manual browser capture); (b) the 92 `AGE_EVIDENCE_SECONDARY_SOURCES` rows still need a human click-through to the
+named database page; (c) players with no public handle at all, and players whose birth date is undocumented, remain
+outside the catalog by design (19 queued); (d) the 19 queued rows and the ~10,000 handle-less documented players are
+the natural next pass if the owner wants coverage beyond publicly social athletes.

@@ -68,3 +68,43 @@ Duplicate prevention: search existing records by name, Instagram/TikTok/website/
 
 - Bulk autonomous scraping of Instagram/TikTok/Facebook/Reddit/YouTube/X is prohibited by those platforms’ ToS and by this protocol. Do not bypass logins, CAPTCHAs, robots, or other access controls. Iterative public-web research (Search → inspect → verify → deduplicate → record) is the allowed loop — continue until no more qualifying profiles or target reached; do not claim 1,000 unless 1,000 actually passed verification.
 - The master database target (e.g., 1,000) is a target, not a mandate to lower standards nor to artificially raise to celebrity-level documentation. If only N women can be independently verified with the strongest available legitimate public evidence, the verified count is N — never manufacture rows to reach a number and never infer missing fields. Quality and verification take priority over quantity. A hallucination audit must confirm no invented fields before any commit.
+
+## Structured public-data discovery (added Session 13)
+
+Systematic discovery over **public structured records** (Wikidata items built from federation, league, club,
+university and volleyball-database sources) is an allowed discovery loop: it is not social-platform scraping, it
+never bypasses an access control, and every query used is archived under `data/research/urls/` so the exact
+population can be re-run and audited. Discovery scale never relaxes acceptance — each row still needs its own cited
+age evidence, its own cited gender evidence, a dedupe check on name *and* every handle, and `UNKNOWN` instead of a
+guess for anything not observable.
+
+How the three source tiers map onto a structured birth-date statement:
+
+| Tier | What the record cites | Example hosts seen in Session 13 |
+| --- | --- | --- |
+| 1 — official | the reference URL attached to the date-of-birth statement is a federation, league, club, NOC or university athletics page | `cev.eu`, `fivb.com`, `volleyball-bundesliga.de`, `slovakvolley.sk`, `svf.sk`, `bvf.by`, `teamnl.org`, `volleyball.ca`, `cpb.org.br`, `jva.or.jp`, `vleague.jp`, `olympic.ca`, `gocards.com`, `mutigers.com`, `arizonawildcats.com`, `seminoles.com`, `usctrojans.com`, `dscvolley.de` |
+| 2 — reputable publication / encyclopedia | an English Wikipedia article is linked to the item, or a press page is cited | `en.wikipedia.org`, `lequipe.fr`, `eurosport.de`, `jornaldovolei.com.br`, `hlsports.de` |
+| 3 — secondary volleyball database | the statement names a database, with or without a URL | `women.volleybox.net`, `bvbinfo.com` (Beach Volleyball Database), `worldofvolley.com`, InterSportStats, Olympedia, VBL/FIVB database records |
+
+Rules that follow from that mapping:
+
+1. A date of birth whose statement carries **no reference at all** is not evidence — the candidate goes to
+   `reviewQueue` with `AGE_SOURCE_NOT_RECORDED`, never into the catalog with a guessed or unsourced date.
+2. A date of birth referenced only to a **named database with no URL** may still verify adult status (the value is
+   documented and traceable to a real source), but the row must carry the flag `AGE_EVIDENCE_SECONDARY_SOURCES` so a
+   human reviewer knows the primary page still needs a click-through. Tier 3 alone is never presented as stronger
+   than it is: the entry text says the value is "recorded in the structured item, whose reference names X", not
+   "confirmed by X".
+3. Gender evidence is documentary: the item's sex/gender field, women's-team roster membership, women's competition
+   registries, or women's-database records. Where a cited URL is not explicitly a women's record, the entry must not
+   describe it as one.
+4. Social handles are recorded only when the structured record already links them (P2003/P2002/P7085/P2013/P2397);
+   handle discovery is not a licence to scrape the platform. Follower counts are captured only from a page that
+   publicly displays them (platform page or public analytics snapshot), with `checkedAt`, the snapshot date,
+   `countType`, and a `sourceNote`; otherwise `FOLLOWER_COUNT_UNKNOWN` + `FOLLOWER_RANGE_UNKNOWN`.
+5. Third-party analytics **content/AI category tags are never used as categories** — categories stay objective
+   (`Athlete`, `Volleyball`, `Beach Volleyball`, `College Athlete`, `Creator`).
+6. Every batch ships with a reproducible generator script, a per-entry audit sheet under `data/research/`, a
+   spot-check audit of primary pages across different evidence types, and `validate_catalog.py` at `errors=0`.
+   Transcription from a fetched result must be verbatim: any value that cannot be pointed at in the fetched output is
+   deleted, and the incident is logged as an irregularity (see `IRR-2026-09-06-017`).
