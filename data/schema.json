@@ -42,7 +42,7 @@
           "categories": {
             "type": "array",
             "items": { "type": "string" },
-            "description": "Professional categories such as model, athlete, artist, creator, or public figure."
+            "description": "Professional categories such as model, fitness, athlete, fashion, lifestyle, creator, entertainment, public personality — objective, never hot/sexy ranking; women-only."
           },
           "legalAdultEvidence": {
             "type": "object",
@@ -51,6 +51,20 @@
               "summary": {
                 "type": "string",
                 "description": "Human-readable age/18+ verification summary."
+              },
+              "sourceLabel": { "type": "string" },
+              "sourceUrl": { "type": "string", "format": "uri" },
+              "checkedAt": { "type": "string", "format": "date" }
+            },
+            "additionalProperties": false
+          },
+          "genderEvidence": {
+            "type": "object",
+            "required": ["summary", "sourceLabel", "sourceUrl", "checkedAt"],
+            "properties": {
+              "summary": {
+                "type": "string",
+                "description": "Human-readable gender verification summary — evidence that the subject is a woman from a reliable public source (first-party bio, official site, agency, sports org, reputable interview); never from appearance/clothing/name/AI."
               },
               "sourceLabel": { "type": "string" },
               "sourceUrl": { "type": "string", "format": "uri" },

@@ -33,15 +33,17 @@
 
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-copy">
-          <p class="eyebrow">Real people • 18+ with official evidence • reviewable source links</p>
-          <h1 id="page-title">Every published record is real, adult, and backed by official links.</h1>
+          <p class="eyebrow">Women only • 18+ with official evidence • reviewable source links</p>
+          <h1 id="page-title">Every published record is a real adult woman backed by official links.</h1>
           <p>
-            ProjX is a static, source-backed directory framework for real, adult (18+) public
-            figures and professionals — working models, athletes, creators, and similar public
-            pages — who appear only with professional/public context and official age-and-identity
-            evidence. Each row is reviewed line by line against its stored source links before it
-            is published. Nothing is collected from appearance alone, and no private individual is
-            ever inferred into the table.
+            ProjX is a static, source-backed directory framework for real, adult (18+)
+            <em>women</em> who are public figures and professionals — working models, athletes,
+            creators, and similar public pages — who appear only with professional/public context
+            and official age-and-identity evidence. Each row is reviewed line by line against its
+            stored source links before it is published. No men, couples, group/org accounts, or
+            gender-ambiguous profiles without reliable evidence are accepted, nothing is
+            inferred from appearance alone, and categories are objective (Model, Fitness,
+            Athlete, Fashion, Lifestyle, Creator…), never attractiveness rankings.
           </p>
           <div class="hero-actions">
             <a class="button primary" href="#catalog">View catalog</a>
@@ -51,11 +53,13 @@
         <aside class="policy-card" aria-labelledby="policy-title">
           <h2 id="policy-title">Never published</h2>
           <ul>
+            <li>Men, couples, group/org accounts, or gender-ambiguous profiles without reliable public gender evidence.</li>
             <li>Appearance-only collection of private individuals (e.g., profile sweeps based on looks or clothing).</li>
-            <li>Any record without official or trusted 18+ evidence.</li>
-            <li>AI, synthetic, deepfake, impersonator, or repost accounts.</li>
-            <li>Private profiles, leaked or private content, and non-consensual reposts.</li>
-            <li>Guessed fields — missing or ambiguous evidence becomes a flagged irregularity, never a catalog row.</li>
+            <li>Any record without official or trusted 18+ evidence — age never inferred from “college girl” or looks.</li>
+            <li>AI, synthetic, deepfake, virtual-influencer, impersonator, or repost accounts.</li>
+            <li>Private profiles, leaked or private content, non-consensual reposts, or private contact data.</li>
+            <li>Guessed fields — missing or ambiguous evidence becomes a flagged irregularity (GENDER_UNVERIFIED / AGE_UNVERIFIED / etc.), never a catalog row.</li>
+            <li>Subjective “hot/sexy” ranking — categories are objective (Model, Fitness, Athlete…).</li>
           </ul>
         </aside>
       </section>
@@ -137,13 +141,24 @@
           <div id="empty-state" class="empty-state">
             <h3>No publishable records yet</h3>
             <p>
-              The table intentionally holds zero rows. A bulk request for roughly 1,000
-              appearance-based social profiles (Instagram, TikTok, Facebook, Reddit and
-              similar) was made twice on 2026-09-06 and is logged as blocked irregularities
-              <strong>IRR-2026-09-06-002</strong> and <strong>IRR-2026-09-06-003</strong>:
-              at that scale the required 18+ verification, real-person checks, and consent or
-              professional context cannot be truthfully established, so every such candidate
-              would be blocked rather than published.
+              The table intentionally holds zero rows. Three bulk requests for roughly 1,000
+              women-focused social profiles (Instagram, TikTok, Facebook, Reddit and similar)
+              were made on 2026-09-06 and are logged as blocked irregularities
+              <strong>IRR-2026-09-06-002</strong>, <strong>IRR-2026-09-06-003</strong> and
+              <strong>IRR-2026-09-06-004</strong> (the latest a detailed women-only spec
+              with objective categories and line-by-line checks): at that scale the required
+              18+ verification, gender/identity confirmation from official sources, consent
+              or professional public-figure context, and the no-hallucination rule cannot be
+              truthfully satisfied autonomously, so every such candidate is blocked rather
+              than published. Per the spec’s own “quality over quantity” rule, zero verified
+              rows is the correct result when zero candidates can pass every check.
+            </p>
+            <p>
+              The framework is ready for the compliant path: a small, opt-in or
+              professionally listed directory of <em>adult women only</em> — working models,
+              athletes, creators, public personalities — where each woman is added
+              individually with official, openable evidence for gender, age (18+), identity,
+              and category, per the verification protocol and reviewable source links.
             </p>
           </div>
         </div>
@@ -157,37 +172,52 @@
           </div>
         </div>
         <p>
-          These six conditions apply to every record regardless of platform or category. Meeting
-          all of them is the only way a row enters the table; anything less goes to the
-          irregularities queue.
+          These seven conditions apply to every record regardless of platform or category.
+          Meeting all of them is the only way a row enters the table; anything less goes to
+          the irregularities queue. The database is <strong>women-only</strong> and categories
+          are objective.
         </p>
         <ol class="checklist">
           <li>
+            <strong>Woman, with evidence.</strong> The subject is a woman, confirmed from a
+            reliable public source (first-party bio, official site, agency, sports-org bio,
+            reputable interview) — never from appearance, clothing, name, AI analysis, or
+            username alone. Men, couples, group/org accounts, and gender-ambiguous profiles
+            without reliable evidence are excluded.
+          </li>
+          <li>
             <strong>Real person.</strong> The subject is a real, living individual — not AI,
-            synthetic, a deepfake, an impersonator, or a repost account.
+            synthetic, a virtual influencer, deepfake, impersonator, or repost account; identity
+            is consistent across official sources.
           </li>
           <li>
             <strong>Adult, with evidence.</strong> 18+ is confirmed from an official or trusted
-            public source with a reviewable URL. Age is never inferred from appearance, school
-            year, content, or follower counts.
+            public source with a reviewable URL. Age is never inferred from appearance,
+            “college girl” status, school year, content, or follower counts.
           </li>
           <li>
-            <strong>Public or professional context.</strong> The person operates a clear public
-            figure/professional page (for example a working model, athlete, or creator) or has
-            opted in to inclusion.
+            <strong>Public or professional context.</strong> The woman operates a clear public
+            figure/professional page (for example working model, athlete, fitness/fashion/
+            lifestyle creator, public personality) in an objective category, or has opted in.
+            Private individuals are never inferred into the table.
           </li>
           <li>
-            <strong>Official links.</strong> Every record stores at least one source URL marked
-            <em>official</em>, <em>verified-platform</em>, <em>agency</em>, <em>press</em>, or
-            <em>age-evidence</em>, so a human reviewer can open it directly.
+            <strong>Official links &amp; objective category.</strong> Every record stores at least one
+            source URL marked <em>official</em>, <em>verified-platform</em>,
+            <em>agency</em>, <em>press</em>, or <em>age-evidence</em> (Tier-1 prioritized),
+            so a human reviewer can open it directly; category is Model/Fitness/Athlete/
+            Fashion/Lifestyle/Creator/Entertainment/College athlete/Public personality/Other,
+            never “hot/sexy” ranking.
           </li>
           <li>
             <strong>Line-by-line review.</strong> A reviewer, a review date, and notes are
-            recorded, and each factual field is supported by the stored sources.
+            recorded, and each factual field (gender, age, identity, profile, category,
+            sources) is supported by the stored sources; duplicate search precedes any add.
           </li>
           <li>
             <strong>No unresolved flags.</strong> Missing, conflicting, or ambiguous evidence
-            produces a flagged irregularity — never a guessed value in the table.
+            produces a flagged irregularity (GENDER_UNVERIFIED, AGE_UNVERIFIED,
+            IDENTITY_UNCERTAIN, POSSIBLE_AI, etc.) — never a guessed value in the table.
           </li>
         </ol>
       </section>
@@ -210,12 +240,13 @@
           </p>
         </div>
         <ol class="checklist">
-          <li>Open every stored source URL and confirm it resolves and names the person.</li>
-          <li>Confirm the account is operated by the named person or official representation.</li>
-          <li>Confirm adult status from the official/trusted evidence only.</li>
-          <li>Confirm authenticity — no AI, synthetic, or impersonation signals.</li>
-          <li>Confirm professional/public context or opt-in consent.</li>
-          <li>Publish as verified, or record needs-review / blocked with the reason.</li>
+          <li>Open every stored source URL and confirm it resolves and names the woman.</li>
+          <li>Confirm the account is operated by the named woman or official representation.</li>
+          <li>Confirm gender from the reliable public evidence only (not appearance/clothing/name/AI).</li>
+          <li>Confirm adult status from the official/trusted evidence only (not looks or “college girl”).</li>
+          <li>Confirm authenticity — no AI, synthetic, virtual-influencer, or impersonation signals.</li>
+          <li>Confirm professional/public context or opt-in consent and objective category.</li>
+          <li>De-duplicate by name and all usernames/websites; publish as verified, or record needs-review / blocked with flags.</li>
         </ol>
       </section>
 
