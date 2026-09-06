@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 272,
+    "entryCount": 274,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18707,6 +18707,134 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-273",
+      "displayName": "Anna Pogany",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 21, 1994 in Berlin, Germany — age 31-32 in 2026 — per the OFFICIAL volleyballworld/FIVB VNL 2025 registry (Birth date 21/07/1994 = 21 July 1994 DD/MM, Age 32), German Wikipedia (21. Juli 1994 in Berlin) and volleybox (born 21st July 1994).",
+        "sourceLabel": "Volleyball World — official Pogany registry (Birth date 21/07/1994, libero Germany)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2025/players/136671",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Germany women's national volleyball team career — CEV EuroVolley official roster member (Libero; Germany) and 'deutsche Volleyballspielerin' (de.wikipedia); volleybox structured 'gender: Female'.",
+        "sourceLabel": "CEV EuroVolley — official Germany roster (Pogany, libero)",
+        "sourceUrl": "https://eurovolley.cev.eu/team/11834-germany/player/33258-pogany-anna",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Pogany registry (Birth date 21/07/1994)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2025/players/136671",
+          "relationship": "official"
+        },
+        {
+          "label": "German Wikipedia — Anna Pogany (geb. 21. Juli 1994, Berlin)",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Anna_Pogany",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Anna Pogany structured profile (birthDate 1994-07-21; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/anna-pogany-p5806/teammates",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @annapogany (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/annapogany/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Berlin-born German libero — cup winner + league runner-up with SSC Palmberg Schwerin (2018-24), EuroVolley/World Championship squads, now with LOVB Houston — objective athlete category; verified 31 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@annapogany",
+          "profileUrl": "https://www.instagram.com/annapogany/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-274",
+      "displayName": "Juliët Lohuis",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 10, 1996 in Oldenzaal, Netherlands — age 29 (30 in Sept 2026) in 2026 — per the OFFICIAL volleyballworld/FIVB registry (Birth Date 10/09/1996 = 10 September 1996 DD/MM, Birth Place Oldenzaal), nl.wikipedia (10 september 1996) and de.wikipedia (10. September 1996 in Oldenzaal).",
+        "sourceLabel": "Volleyball World — official Lohuis registry (Birth Date 10/09/1996, Oldenzaal)",
+        "sourceUrl": "https://en.volleyballworld.com/en/volleyball/worldcup/2019/women/teams/ned-netherlands/players/juliet_lohuis?id=76904",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Netherlands women's national volleyball team career — Paris 2024 Olympian; 'een Nederlands volleybalster' (nl.wikipedia); official FIVB women's registry.",
+        "sourceLabel": "Volleyball World — official FIVB women's registry (Lohuis #?; Netherlands)",
+        "sourceUrl": "https://en.volleyballworld.com/en/volleyball/worldcup/2019/women/teams/ned-netherlands/players/juliet_lohuis?id=76904",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Lohuis registry (Birth Date 10/09/1996)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/en/volleyball/worldcup/2019/women/teams/ned-netherlands/players/juliet_lohuis?id=76904",
+          "relationship": "official"
+        },
+        {
+          "label": "Dutch Wikipedia — Juliët Lohuis (10 september 1996)",
+          "platform": "Website",
+          "url": "https://nl.wikipedia.org/wiki/Juli%C3%ABt_Lohuis",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "German Wikipedia — Juliët Lohuis (10. September 1996, Oldenzaal)",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Lohuis",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dutch national-team middle blocker and Paris 2024 Olympian — developed through Papendal and Coolen Alterno, then USC Münster and Casalmaggiore — objective athlete category; verified 29 years old. (Full name Juliet Geke Heleen Lohuis.) No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
