@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 146,
+    "entryCount": 152,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -10357,6 +10357,336 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "2024 Olympic gold-medalist goalkeeper (North Carolina Courage; Montpellier D1 Féminine top GK) — objective athlete category. Note: US Soccer page JSON-LD inline birthDate shows '1996-04-23' — a two-day serialized-field artifact vs its own displayed 'Apr 25 1996' (matching ESPN + njsports); displayed/majority value recorded. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-147",
+      "displayName": "Savannah DeMelo",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 26, 1998 in Bellflower, California — age 28 in 2026 — per HollywoodLife (b. Mar. 26, 1998) and Wikipedia (born March 26, 1998).",
+        "sourceLabel": "HollywoodLife — Savannah DeMelo (b. Mar. 26, 1998)",
+        "sourceUrl": "https://hollywoodlife.com/feature/who-is-savannah-demelo-5144942/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team career — 2023 FIFA Women's World Cup squad (HollywoodLife/Wikipedia) and Racing Louisville FC midfielder.",
+        "sourceLabel": "Wikipedia — Savannah DeMelo (2023 World Cup squad)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Savannah_DeMelo",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Savannah DeMelo (DOB 1998-03-26; 2023 World Cup debut)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Savannah_DeMelo",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "HollywoodLife — Savannah DeMelo profile (b. Mar. 26, 1998; World Cup squad)",
+          "platform": "Website",
+          "url": "https://hollywoodlife.com/feature/who-is-savannah-demelo-5144942/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USWNT midfielder and 2023 World Cup squad member (USC Trojans; 2022 NWSL fourth pick) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-148",
+      "displayName": "Haley Hopkins",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 21, 1998 in Newport Beach, California — age 27 in 2026 — per Wikipedia (born December 21, 1998).",
+        "sourceLabel": "Wikipedia — Haley Hopkins (born December 21, 1998)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haley_Hopkins",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NWSL women's pro career (Kansas City Current forward) and role as NWSL Players Association president since 2025 (Wikipedia).",
+        "sourceLabel": "Wikipedia — Haley Hopkins (NWSLPA president since 2025)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Haley_Hopkins",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Haley Hopkins (DOB 1998-12-21; NWSLPA president)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Haley_Hopkins",
+          "relationship": "age-evidence"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time All-American (Vanderbilt/Virginia), 2023 NWSL first-round pick and NWSLPA president — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-149",
+      "displayName": "Aubrey Kingsbury (née Bledsoe)",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 20, 1991 in Cincinnati, Ohio — age 34 in 2026 — per Wikipedia (born November 20, 1991), ESPN structured birthDate 11/20/1991 and Wikiwand replication.",
+        "sourceLabel": "Wikipedia — Aubrey Kingsbury (born November 20, 1991)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aubrey_Kingsbury",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NWSL women's pro career — two-time NWSL Goalkeeper of the Year, MVP of the Washington Spirit's 2021 NWSL Championship (Wikipedia/Wikiwand).",
+        "sourceLabel": "Wikipedia — Aubrey Kingsbury (2x NWSL GK of the Year)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Aubrey_Kingsbury",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Aubrey Kingsbury (DOB 1991-11-20)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Aubrey_Kingsbury",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ESPN — Aubrey Kingsbury player page (birthDate 11/20/1991 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/bio/_/id/290259/aubrey-kingsbury",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikiwand — Aubrey Kingsbury (DOB 1991-11-20; career honors)",
+          "platform": "Website",
+          "url": "https://wikiwand.com/en/articles/Aubrey_Kingsbury",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time NWSL Goalkeeper of the Year and 2021 championship MVP (birth name Aubrey Renee Bledsoe) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-150",
+      "displayName": "Jane Campbell",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 17, 1995 in Kennesaw, Georgia — age 31 in 2026 — per US Soccer official profile (Date of Birth Feb 17 1995), Wikipedia (born February 17, 1995), ESPN structured birthDate 2/17/1995 and Houston Dash official page (2.17.1995).",
+        "sourceLabel": "US Soccer — Jane Campbell official profile (DOB Feb 17 1995)",
+        "sourceUrl": "https://www.ussoccer.com/players/c/jane-campbell",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team goalkeeper career — 2021 Olympic bronze medalist, youngest goalkeeper ever called into a Senior WNT camp (US Soccer official).",
+        "sourceLabel": "US Soccer — Jane Campbell official profile ('2021 Olympic Bronze Medalist')",
+        "sourceUrl": "https://www.ussoccer.com/players/c/jane-campbell",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Jane Campbell official player profile (DOB Feb 17 1995; Olympic bronze 2021)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/c/jane-campbell",
+          "relationship": "official"
+        },
+        {
+          "label": "Houston Dash — Jane Campbell official bio (DOB 2.17.1995)",
+          "platform": "Website",
+          "url": "https://www.houstondynamofc.com/houstondash/players/jane-campbell/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Jane Campbell (soccer) (DOB 1995-02-17)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jane_Campbell_(soccer)",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2021 Olympic bronze medalist and 2023 NWSL Goalkeeper of the Year — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-151",
+      "displayName": "Tara Rudd (née McKeown)",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 2, 1999 in Newbury Park, California — age 27 in 2026 — per FBref (Born: July 2, 1999, structured birthDate 1999-07-02), Wikipedia under Tara Rudd (born July 2, 1999), playmakerstats structured record and famousbirthdays (Birthday July 2, 1999).",
+        "sourceLabel": "FBref — Tara McKeown (born July 2, 1999; birthDate structured)",
+        "sourceUrl": "https://fbref.com/en/players/2d8ec240/Tara-McKeown",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team center-back career and Washington Spirit NWSL play (FBref/Wikipedia; USWNT call-up January 2025 per famousbirthdays).",
+        "sourceLabel": "Wikipedia — Tara Rudd (USWNT center back)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tara_Rudd",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FBref — Tara McKeown (DOB 1999-07-02; Instagram handle)",
+          "platform": "Website",
+          "url": "https://fbref.com/en/players/2d8ec240/Tara-McKeown",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Tara Rudd (DOB 1999-07-02; married name; USC All-American)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Tara_Rudd",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famous Birthdays — Tara McKeown (July 2, 1999; USWNT call-up)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/tara-mckeown.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @taraaamckeown (fbref displayed handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/taraaamckeown/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USWNT center back (2019 Pac-12 Forward of the Year at USC) — objective athlete category. IG handle via fbref; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@taraaamckeown",
+          "profileUrl": "https://www.instagram.com/taraaamckeown/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via fbref player page; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-152",
+      "displayName": "Michelle Cooper",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 4, 2002 in Detroit, Michigan — age 23 in 2026 — per FBref (Born: December 4, 2002), fotmob structured birthDate 2002-12-04, ESPN structured birthDate 12/4/2002 and Wikipedia (born December 4, 2002).",
+        "sourceLabel": "FBref — Michelle Cooper (born December 4, 2002)",
+        "sourceUrl": "https://fbref.com/en/players/5f97ae2e/Michelle-Cooper",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via fotmob structured data ('gender: https://schema.org/Female') and USWNT women's national-team forward career with Kansas City Current (Wikipedia/fotmob).",
+        "sourceLabel": "FotMob — Michelle Cooper (gender schema.org/Female structured)",
+        "sourceUrl": "https://www.fotmob.com/players/1451722/michelle-cooper",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FBref — Michelle Cooper (DOB 2002-12-04)",
+          "platform": "Website",
+          "url": "https://fbref.com/en/players/5f97ae2e/Michelle-Cooper",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "FotMob — Michelle Cooper (birthDate 2002-12-04; gender Female JSON-LD)",
+          "platform": "Website",
+          "url": "https://www.fotmob.com/players/1451722/michelle-cooper",
+          "relationship": "gender-evidence"
+        },
+        {
+          "label": "Wikipedia — Michelle Cooper (soccer) (DOB 2002-12-04; 2022 Hermann Trophy)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Cooper_(soccer)",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2022 Mac Hermann Trophy winner and Kansas City Current/USWNT forward — objective athlete category; verified 23 years old. No handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
