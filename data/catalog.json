@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 291,
+    "entryCount": 293,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -20020,6 +20020,116 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Serbia golden-generation middle blocker — 2018 World champion, Tokyo 2020 Olympic bronze; club career through Vizura Ruma, Alba Blaj (plus CEV finals) and Igor Gorgonzola Novara, now Zeren Spor — objective athlete category; verified 28 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-292",
+      "displayName": "Sarah van Aalen",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 21, 2000 in Stogumber, Somerset, Great Britain (raised Arnhem) — age 26 in 2026 — per the OFFICIAL volleyballworld/FIVB VNL registry (Birth date 21/01/2000 = 21 January 2000 DD/MM, Age 26), the volleybox structured profile (birthDate 2000-01-21; Stogumber) and the Olympics Wiki (full name Sarah Emma van Aalen, Date of birth 21 January 2000).",
+        "sourceLabel": "Volleyball World — official van Aalen registry (Birth date 21/01/2000)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/players/162356",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Netherlands women's national volleyball team career — Paris 2024 Olympian setter (volleyballworld official Paris 2024 page; Olympics Wiki); volleybox structured 'gender: Female'.",
+        "sourceLabel": "Volleyball World — official Paris 2024 players page (van Aalen, setter, Netherlands)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/162356",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official van Aalen registry (Birth date 21/01/2000)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2023/players/162356",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleyball World — official Paris 2024 page (Netherlands women; setter)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/162356",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleybox — Sarah Van Aalen structured profile (birthDate 2000-01-21; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/sarah-van-aalen-p6036/items_transfers",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "British-born Dutch national-team setter (full name Sarah Emma van Aalen) — Paris 2024 Olympian; club career into Italy's Chieri '76 — objective athlete category; verified 26 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-293",
+      "displayName": "Hena Kurtagić",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 27, 2004 in Novi Pazar, Serbia — age 21 (22 in Aug 2026) in 2026 — per Wikipedia (born 27 August 2004, Novi Pazar), Grokipedia (born on 27 August 2004, Novi Pazar), trendingcelebs (Date of Birth August 27, 2004) and the Olympics Wiki (Date of birth 27 August 2004).",
+        "sourceLabel": "Wikipedia — Hena Kurtagić (born 27 August 2004)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hena_Kurtagi%C4%87",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — Paris 2024 OLYMPIAN middle blocker ('Olympic debut at the Paris 2024 Olympic Games'; Grokipedia/Olympics Wiki/Wikipedia).",
+        "sourceLabel": "Grokipedia — Hena Kurtagić (Paris 2024 Olympic debut)",
+        "sourceUrl": "https://grokipedia.com/page/Hena_Kurtagi",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Hena Kurtagić (DOB 2004-08-27; Novi Pazar)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Hena_Kurtagi%C4%87",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Hena Kurtagić (born 27 August 2004; Paris 2024)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Hena_Kurtagi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Olympics Wiki — Hena Kurtagić (DOB 27 August 2004)",
+          "platform": "Website",
+          "url": "https://olympics.fandom.com/wiki/Hena_Kurtagi%C4%87",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Serbia's 1.95 m rising middle blocker — Paris 2024 Olympian; from OK Tent Obrenovac through Neptunes de Nantes to Vero Volley Milano; twice Best Middle Blocker at CEV youth European championships (U17 2020 + U19) — objective athlete category; verified 21 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
