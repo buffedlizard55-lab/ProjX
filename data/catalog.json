@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 212,
+    "entryCount": 214,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -14713,6 +14713,169 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-213",
+      "displayName": "Delaynie Maple",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 9, 2002 in Mission Viejo, California — age 24 in 2026 — per the OFFICIAL USC Athletics roster bio ('Delayne (Delaynie) Amaris Maple was born on June 9, 2002 in Mission Viejo, Calif.'), beach.volleybox structured record (birthDate 2002-06-09) and bvbinfo.com (Birth Date June 9, 2002 (24 years old)).",
+        "sourceLabel": "USC Athletics — official Delaynie Maple 2024 beach roster bio (born June 9, 2002)",
+        "sourceUrl": "https://usctrojans.com/sports/womens-beach-volleyball/roster/delaynie-maple/16452",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via beach.volleybox structured record ('gender: Female') and USC Trojans women's beach volleyball career — 2024 AVCA All-America First Team, NCAA champion with Megan Kraft (USC official roster).",
+        "sourceLabel": "beach.volleybox — Delaynie Maple (gender Female; birthDate 2002-06-09)",
+        "sourceUrl": "https://beach.volleybox.net/delaynie-maple-p58188",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USC Athletics — official roster bio (born June 9, 2002; 2024 AVCA All-America First Team)",
+          "platform": "Website",
+          "url": "https://usctrojans.com/sports/womens-beach-volleyball/roster/delaynie-maple/16452",
+          "relationship": "official"
+        },
+        {
+          "label": "beach.volleybox — Delaynie Maple (birthDate 2002-06-09; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/delaynie-maple-p58188",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "bvbinfo — Delaynie Maple career record (Birth Date June 9, 2002)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=18794",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @delayniemaple (beach.volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/delayniemaple/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 AVCA All-America First Team and NCAA champion (Pair No. 1 with Megan Kraft) for USC beach volleyball — objective athlete category; verified 24 years old. IG handle via beach.volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@delayniemaple",
+          "profileUrl": "https://www.instagram.com/delayniemaple/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-214",
+      "displayName": "Julia Scoles",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 14, 1997 in Mooresville, North Carolina — age 29 in 2026 — per TWO official university roster bios: UNC Athletics ('Born Julia Theresa Scoles on June 14, 1997') and USC Athletics ('Julia Theresa Scoles was born on June 14, 1997, in Mooresville, N.C.'), plus beach.volleybox structured record (birthDate 1997-06-14).",
+        "sourceLabel": "UNC Athletics — official Julia Scoles roster bio (Born June 14, 1997)",
+        "sourceUrl": "https://goheels.com/sports/womens-volleyball/roster/julia-scoles/8298",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via beach.volleybox structured record ('gender: Female') and multi-program women's volleyball career — North Carolina indoor (2016 ACC Freshman of the Year), Hawai'i beach, USC beach (97-13 all-time record; khon2/USC official).",
+        "sourceLabel": "USC Athletics — official Julia Scoles 2022 beach roster bio",
+        "sourceUrl": "https://usctrojans.com/sports/womens-beach-volleyball/roster/julia-scoles/12234",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "UNC Athletics — official roster bio (Born June 14, 1997)",
+          "platform": "Website",
+          "url": "https://goheels.com/sports/womens-volleyball/roster/julia-scoles/8298",
+          "relationship": "official"
+        },
+        {
+          "label": "USC Athletics — official 2022 beach roster bio (DOB 1997-06-14; 97-13 record)",
+          "platform": "Website",
+          "url": "https://usctrojans.com/sports/womens-beach-volleyball/roster/julia-scoles/12234",
+          "relationship": "official"
+        },
+        {
+          "label": "beach.volleybox — Julia Scoles (birthDate 1997-06-14; gender Female; sameAs IG/X)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/julia-scoles-p63381",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @juliascoles (beach.volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/juliascoles/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @jscolez (beach.volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/jscolez",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-program women's volleyball star — ACC Freshman of the Year (UNC indoor), All-Big West (Hawai'i beach), two-time Pac-12 All-Conference (USC beach) — objective athlete category; verified 29 years old. Handles via beach.volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@juliascoles",
+          "profileUrl": "https://www.instagram.com/juliascoles/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@jscolez",
+          "profileUrl": "https://twitter.com/jscolez",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
         }
       ],
       "largestPublicFollowing": {
