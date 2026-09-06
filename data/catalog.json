@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 248,
+    "entryCount": 250,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17118,6 +17118,116 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Japanese national team middle blocker (Nigerian-Japanese heritage) — Paris 2024 Olympian; unique path through Kinrankai HS, US junior college (NJCAA Player of the Year 2018) and the University of Minnesota, now with Denver Summit — objective athlete category; verified 28 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-249",
+      "displayName": "Rosamaria Montibeller",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 9, 1994 in Nova Trento, Santa Catarina, Brazil — age 32 in 2026 — per Wikipedia (born 9 April 1994), Wikiwand (born 9 April 1994 in Nova Trento), Kiddle (born on April 9, 1994) and celebsages (born on the 9th of April, 1994).",
+        "sourceLabel": "Wikipedia — Rosamaria Montibeller (born 9 April 1994)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosamaria_Montibeller",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Brazil women's national volleyball team career — Olympic silver (Tokyo 2020) and bronze (Paris 2024) medalist (Wikiwand/Wikipedia).",
+        "sourceLabel": "Wikipedia — Rosamaria Montibeller (Brazil women's NT; Olympic medals)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rosamaria_Montibeller",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Rosamaria Montibeller (DOB 1994-04-09; Olympic silver+bronze)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Rosamaria_Montibeller",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikiwand — Rosamaria Montibeller (born 9 April 1994; Nova Trento)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/Rosamaria_Montibeller",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CelebsAges — Rosamaria Montibeller (born 9 April 1994)",
+          "platform": "Website",
+          "url": "https://www.celebsages.com/rosamaria-montibeller/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic medalist (silver Tokyo 2020, bronze Paris 2024) opposite for Brazil, currently with Igor Gorgonzola Novara — objective athlete category; verified 32 years old. sportsxm.com reports 'more than 1.2M followers on Instagram' (Sept 2023, rounded) — no handle verified this pass, count kept in this note only; range UNKNOWN on record.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-250",
+      "displayName": "Bethania de la Cruz",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 13, 1987 in Santo Domingo, Dominican Republic — age 39 in 2026 — per the Olympedia athlete record (Born: 13 May 1987 in Santo Domingo; full name Bethania de la Cruz de Peña), Wikipedia (born May 13, 1987) and Kiddle (born on May 13, 1987).",
+        "sourceLabel": "Olympedia — Bethania de la Cruz record (Born 13 May 1987; Sex Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/122246",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Olympedia athlete record ('Sex: Female') and Dominican Republic women's volleyball career — gold 2009 NORCECA + 2010 Pan-American Cup; currently Omaha Supernovas (PVF) per Wikipedia.",
+        "sourceLabel": "Olympedia — Bethania de la Cruz record (Women's national team)",
+        "sourceUrl": "https://www.olympedia.org/athletes/122246",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Bethania de la Cruz (Born 13 May 1987; Sex Female)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/122246",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Bethania de la Cruz (DOB 1987-05-13; Omaha Supernovas)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Bethania_de_la_Cruz",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Kiddle — Bethania de la Cruz (born May 13, 1987)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Bethania_de_la_Cruz",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dominican star opposite ('Big Beth') — NORCECA champion 2009, Pan-American Cup gold 2010, Eczacıbaşı's 2015 CEV Champions League title winner; played in Japan/Turkey/Russia/Italy/Puerto Rico and now Omaha Supernovas (PVF) — objective athlete category; verified 39 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
