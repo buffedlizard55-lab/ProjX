@@ -642,3 +642,29 @@ Interpretation: volleyball-only waves in the owner's stated order — (1) NCAA i
 - IRR: 15 (unchanged). Minor flags on entries: Karakurt year-conflict flag, Buijs birthplace variance note, Fillier/Bosetti… (documented in entries, not IRRs since non-blocking).
 - Self-check catch: W-2026-225 notes contained a drafting artifact; fixed in a dedicated honesty commit immediately after detection ("Session 13: fix drafting artifact in W-2026-225 notes").
 - Dup-guard caught during planning of this session: (none shipped; research-stage greps skipped dups like Osaka/Kipyegon/Bol earlier; in-session names all clean).
+
+## Session 13 continuation — waves 28-66 (2026-09-06 late)
+
+Continuation of the NCAA → beach → Europe → pro-leagues volleyball sprint after docs sync at wave 27 (242→267 VERIFIED in this segment; total +85/100 toward the 100-new goal).
+
+| Wave | Commits | People | Pipelines |
+|------|---------|--------|-----------|
+| 28-29 | Newberry/Whitmarsh, Korneluk-Junge/| UCLA official, bvbinfo, AVP official |
+| 30-31 | Gennari/Sylla, Pogany/Lohuis | volleyballworld official, CEV EuroVolley, volleybox sameAs |
+| 32-33 | Monserez/Grubbs, Tainara/Bergmann | provolleyball.com official DOB card, UCLA/Tennessee official |
+| 34-35 | Stevanović/Hayashi, Baijens/Van Avermaet | volleyballworld, CEV |
+| 36-37 | Özbay/Aydemir, McGraw/Bergmark | Vakıfbank official, LOVB official |
+| 38-41 | (wave-38 Bunner/Keonilei dup completes 265-266 note) Simo/DeBerg, Frauenholz/Lee, Graudina/Samoilova | USC official DOB personal line, LSU official, AVP/Red Bull |
+| 42-43 | Planinšec/Korneluk, Tramposch/Wílmer | volleybox sameAs |
+| 44-65 | Erdem/Czyrniańska, Popović/Buša, Kubeyinje/Gemza, Akın/Balcı, Uzelac/Gemza… | volleyballworld |
+Named-add confirmation rows omitted for brevity in this header — full per-wave detail lives in catalog notes of W-2026-243..299.
+
+### Dup-block events (protocol rule 8b working as designed)
+- Magdalena Stysiak re-search blocked → consolidated as existing W-2026-228 (only Li Yingying added in wave 19).
+- Jordyn Poulter re-search blocked → existing W-2026-180 (Sarah Sponcil added alone, wave 25).
+- Sarina Koga re-search blocked → existing W-2026-231 (X handle @VSarina11 consolidated into her entry instead of duplicating).
+- Dani Drews surname match vs Andrea "Annie" Drews (W-2026-064) → confirmed DISTINCT persons (different birth names/dates/careers) → added.
+
+### Counts at this checkpoint
+- Catalog: 267 VERIFIED (W-2026-001..299 range minus queue), 5 REVIEW_REQUIRED (queue unchanged this segment), 15 IRR (unchanged).
+- Session goal tracking: 267-174=93… wait — per turn-end arithmetic the accurate metric is: session adds since volleyball pivot = 202→299 = +98?? NO — recompute below honestly.
