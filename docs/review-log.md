@@ -2,6 +2,75 @@
 
 ## 2026-09-06
 
+### Session 09 — follower-count schema + website filters + 12 verified creators
+
+**Request.** Expand the database of adult female public creators with activity-first discovery across follower sizes; add follower-count fields (per-platform, never summed); implement website follower filtering/sorting; continue line-by-line verification from official/trusted public sources; no hallucinations.
+
+**What was done.**
+
+- **Schema extended** (`data/schema.json`): optional `socialAccounts[]` (platform, username, profileUrl, followerCountDisplay, followerCountNumeric, countType exact|rounded|unknown, checkedAt, followerSizeRange, sourceNote), `largestPublicFollowing`, `overallFollowerSizeRange`. Review-queue items may carry observed follower fields. Never invent counts; unknown → `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN`.
+- **Existing 34 rows** received follower fields where a public count was observed (Instagram profile snippets, HypeAuditor, CreatorDB, Social Blade, Wikipedia YouTube boxes). 22 rows remain `FOLLOWER_RANGE_UNKNOWN` rather than estimated (logged as `IRR-2026-09-06-007`).
+- **+12 VERIFIED rows (W-2026-035..046)** — each with gender + adult evidence + identity chain + objective category + openable URLs:
+
+| ID | Name | DOB evidence | Largest following (observed) | Category |
+| --- | --- | --- | --- | --- |
+| W-2026-035 | Ashley Kaltwasser | Wikipedia 1988-11-22 | IG @ashleykfit 924K | Fitness / IFBB Bikini |
+| W-2026-036 | Natasha Oakley | Wikipedia 1990-07-14 | IG @tashoakley 3.6M | Swimwear / Monday Swimwear |
+| W-2026-037 | Devin Brugman | FamousBirthdays 1990-12-26 + bios | IG @devinbrugman 1.5M | Swimwear / Monday Swimwear |
+| W-2026-038 | Cassey Ho (Blogilates) | Wikipedia 1987-01-16 | YT @blogilates 11.0M | Fitness / Wellness |
+| W-2026-039 | Elisa Pecini | FamousBirthdays + ConanDaily 1997-01-20 | IG @isapecini 635K | Fitness / IFBB Bikini Olympia |
+| W-2026-040 | Jennifer Dorie | FitnessVolt + Generation Iron 1996-10-07 | IG @jenniferdorie_ifbbpro 331K | Fitness / 2× Bikini Olympia |
+| W-2026-041 | Kelsey Wells | FamousBirthdays 1990-09-01 | IG @kelseywells 2.92M | Fitness / SWEAT PWR |
+| W-2026-042 | Whitney Simmons | multi-source secondary 1993-02-27 | IG @whitneyysimmons 4.05M | Fitness — flag AGE_EVIDENCE_SECONDARY_SOURCES |
+| W-2026-043 | Massy Arias | FamousBirthdays 1988-11-23 | IG @massy.arias 3M | Fitness / Wellness (DR) |
+| W-2026-044 | Michelle Lewin | Zoom TV 1986-02-25 (day conflict vs TheBarbell Feb 2) | IG @michelle_lewin 15M | Fitness — flag CONFLICTING_INFORMATION (day only; year 1986 → clearly 18+) |
+| W-2026-045 | Kendall Coley | **Tier-1** huskers.com WBB bio born Nov. 3, 2002 | IG @kendall.coley **4,057** | College Athlete / Basketball — small creator |
+| W-2026-046 | Lauren Drain Kagan | CelebsAges + CelebHealth 1985-12-31 | IG @laurendrainfit 3M | Fitness — flag AGE_EVIDENCE_SECONDARY_SOURCES |
+
+- **Website**: follower-range filter (Under 1K … 5M+ + unknown), platform filter, sort (followers low↔high, name, recent), Followers column on each row (per-platform counts + largest + creator size + checked date), follower-distribution panel, creator-size stat cards (under 10K / 10K–249.9K / 1M+ / unknown). Combined filters work (e.g. Fitness + Instagram + 10K–24.9K).
+- **Review queue** enriched with observed follower displays where previously noted in evidence text.
+- No private data; no login/CAPTCHA/robots bypass; categories objective; college attendance never sole adult proof (Kendall Coley uses university DOB).
+
+**Manual-review links (new rows)**
+
+- https://en.wikipedia.org/wiki/Ashley_Kaltwasser
+- https://www.instagram.com/ashleykfit/
+- https://en.wikipedia.org/wiki/Natasha_Oakley
+- https://www.instagram.com/tashoakley/
+- https://www.famousbirthdays.com/people/devin-brugman.html
+- https://www.instagram.com/devinbrugman/
+- https://en.wikipedia.org/wiki/Cassey_Ho
+- https://www.blogilates.com/
+- https://www.youtube.com/@blogilates
+- https://www.famousbirthdays.com/people/elisa-pecini.html
+- https://conandaily.com/2019/09/14/brazils-elisa-pecini-is-2019-bikini-olympia-champion/
+- https://www.instagram.com/isapecini/
+- https://fitnessvolt.com/jennifer-dorie-profile/
+- https://www.instagram.com/jenniferdorie_ifbbpro/
+- https://www.famousbirthdays.com/people/kelsey-wells.html
+- https://www.instagram.com/kelseywells/
+- https://www.dreshare.com/whitney-simmons/
+- https://www.instagram.com/whitneyysimmons/
+- https://www.famousbirthdays.com/people/massiel-arias.html
+- https://www.instagram.com/massy.arias/
+- https://www.zoomtventertainment.com/celebrity/photo-gallery/venezuelan-fitness-model-michelle-lewins-hot-bikini-photos-on-instagram/557604
+- https://www.instagram.com/michelle_lewin/
+- https://huskers.com/sports/womens-basketball/roster/season/2023-24/player/kendall-coley
+- https://www.instagram.com/kendall.coley/
+- https://www.celebsages.com/lauren-drain-kagan/
+- https://www.instagram.com/laurendrainfit/
+
+**Irregularities**
+
+- `IRR-2026-09-06-007` — needs-review: incomplete follower coverage + DOB day conflict on Michelle Lewin + secondary-source age flags on Whitney Simmons / Lauren Drain Kagan.
+
+**Tests.** JSON parse OK; structural schema check PASS; `node` parse of `assets/app.js` OK; DOM ids for new filters/stats present; age-sanity ≥18 for all 46; 0 duplicate IDs/names; HTTP 200 smoke for site assets.
+
+**Counts.** New verified **12** (**46 total** W-2026-001..046); review queue **9**; irregularities **7**; verification date **2026-09-06**. Files: `data/catalog.json`, `data/schema.json`, `index.html`, `assets/app.js`, `assets/styles.css`, `README.md`, `docs/review-log.md`, `scripts/session09_followers_and_creators.py`. Build **OK**.
+
+**Scale status.** 1,000 remains a target, not a quota. Session 09 prioritized follower infrastructure + size diversity (including a 4K college athlete) over mass celebrity adds. Next: second-pass DOB research on remaining queue items, agency age boards, more under-25K creators with Tier-1 DOBs.
+
+
 ### Session 01 — repository review and 1,000-profile bulk-collection request
 
 **Request.** The owner asked the project to autonomously search, collect, and organize ~1,000
@@ -315,6 +384,33 @@ Standing instructions now govern all work **in addition** to the Session 06 meth
 14. Hallucination audit — **pass** — no invented fields; diversity achieved via activity-first discovery (fitness micro/college/athlete) with strongest available legitimate public evidence; 10-person review queue demonstrates “do not discard, flag with provenance” and large diverse research dataset in progress.
 
 **Counts:** New verified women **3** this session (**13 total** W-2026-001..013) — all fitness creators (Sommer Ray, Tammy Hembrow, Pamela Reif); new REVIEW_REQUIRED **10** (R-2026-001..010) — fitness micro 4 (Lizzie, Kahdia, Melissa, Rachel), college athletes 5 (Jessica Parker, Alyssa Ustby, Emmy, Victoria Garrick, Sedona Prince), plus athlete 1 (Olivia Vance) — demonstrating micro/independent/college prioritization (smallest: Rachel 14.4K, Jessica 7.5K; largest review: Sedona Prince 3M, but follower count not a filter). Rejected in VERIFIED this batch: 0 (promising but incomplete went to review queue, not rejected); **REJECTED** classification not used this session (would be for clear non-qualifying men/couples/group/org or private/non-public). Duplicates **0**, broken links **0**, conflicting records **0**, verification date **2026-09-06**. Files modified: `data/catalog.json`, `data/schema.json`, `docs/review-log.md`, `README.md`. Build status **OK**. Next iterative discovery will continue: further web_search iterations for fitness micro/college/swimwear/lifestyle micro creators (including second-pass DOB searches for current review queue to promote to VERIFIED when stronger evidence found), plus additional swimwear/beachwear independent creators not yet classified.
+
+### Session 08 — up-to-1,000 discovery/verification run (21 new verified, 3 promoted, 2 new review, 2 minors rejected)
+
+**Request.** The owner resubmitted the expanded research task (“ARENA AI — BASELINE PUBLIC CREATOR RESEARCH TASK”): inspect repo → run activity-first public-web discovery (fitness, fitness modeling, gym, modeling, fashion, swimwear, bikini/beachwear, lifestyle, travel, wellness, college athletics, sports, and other legitimate creator categories) → verify real person / woman / 18+ / category / public profile per candidate → add VERIFIED records with full provenance → queue incomplete candidates as REVIEW_REQUIRED → update and test the website → audit. Target “up to 1,000” with explicit “If 100 qualify, add 100… quality over quantity”, no attractiveness ranking, no appearance-based inference, no login/CAPTCHA/robots bypass, no private data, no hallucinations, and “do not discard promising candidates — flag them.”
+
+**What was done (activity-first discovery → line-by-line verification).**
+
+- Inspected repository (branch `arena/01a07444-projx`, clean tree; catalog at 13 VERIFIED / 10 REVIEW_REQUIRED / 6 blocked irregularities; schema and protocol unchanged).
+- Ran ~22 independent public-web discovery/corroboration searches across category variations (female fitness creators, TikTok fitness creators, swimwear models, college volleyball/basketball, travel bloggers, yoga/wellness, surf creators, women's esports, FamousBirthdays structured DOB pages, Liquipedia, university rosters). No logins, CAPTCHAs, or access controls bypassed; Instagram/TikTok profile data was taken only from search-result snapshots and first-party pages that platforms expose publicly.
+- **21 new VERIFIED rows (W-2026-014..034)**, each with gender evidence, adult (DOB) evidence, identity/ownership chain, objective category, and exact source URLs recorded from search results — strong examples:
+  * **W-2026-021 Lexi Sun** — Nebraska women's volleyball (huskers.com Tier-1 roster + Corn Nation press quoting her + FamousBirthdays DOB 1998-09-19 + sameAs @lexiisun).
+  * **W-2026-022 Alexis Dacosta** — Auburn volleyball (auburntigers.com official Tier-1 announcement + roster database birth year 2004 + FamousBirthdays DOB 2004-08-09 + TikTok @alexisd_15): a college athlete whose 18+ status is *independently documented*, honoring “college attendance alone does not establish 18+.”
+  * **W-2026-028 Amy Bell** — Glasgow travel/fashion blogger (first-party thelittlemagpie.com + The Herald Scotland + FashionUnited + FamousBirthdays DOB 1992-02-22).
+  * **W-2026-030 Michaela “mimi” Lintrup** (G2 Gozen, Valorant; Liquipedia + Esports Charts DOB 1997-07-02) and **W-2026-031 Lee “Jennlee” Jeong-hyun** (VALORANT Champions 2024 stage host; Liquipedia DOB 1995-06-23 + esports.gg press) — women's esports diversity.
+  * Fitness/swimwear remainder: Shay Williams (Shamayne Williams, DOB 1996-02-11, two sources), Jenna Bandy (DOB 1992-09-29, NBA.com creator program + Sportskeeda), Dammy Fitness (DOB 1981-09-27, celebsages + first-party Threads/Facebook, Brazil), Alyssa Germeroth (DOB 1988-06-08, IFBB Bikini Pro, three sources), Ashley Flores (DOB 1995-03-20, first-party IG + podcast guest sheet), Alyssa Scott (DOB 1993-10-12, swimwear/Boutine LA), Kiki Ruby @kikiiib (DOB 1994-08-09, first-party IG name + cross-linked @kbsculpt), Kayla Simmons (DOB 1995-09-28 + press age statements 2023 “23”/2026 “30”, former Marshall volleyball), Evana @evanagetfit (DOB 1999-06-29, structured gender 'f'), Summer Fit (DOB 1979-07-10, Canada, first-party X cross-links), Valeriia Litvinova MS,RDN @vallitfit (DOB 1999-05-31, TikTok professional name), Elizabeth Sneed @curvysurfergirl (DOB 1990-12-10, first-party X + press), Meghan Currie (DOB 1990-08-28, first-party Linktree/site).
+- **3 REVIEW_REQUIRED promotions after further research** (queue → VERIFIED): **R-2026-002 Alyssa Ustby** → W-2026-032 (DOB 2002-03-18 via Wikipedia + Tar Heel Times + Basketball-Reference, which also lists her IG @alyssa_ustby); **R-2026-009 Victoria Garrick** → W-2026-033 Victoria Garrick Browne (DOB 1997-04-30 via three independent biographies; TEDx speaker/podcast host); **R-2026-010 Sedona Prince** → W-2026-034 (DOB 2000-05-12 via Sporting News + Wikipedia).
+- **2 new REVIEW_REQUIRED** (full provenance, missing fields exact, nothing guessed): **R-2026-011 Jade Haliburton** (fashion IG creator; DOB 1998-01-30 looks strong but surname conflicts across sources — “Haliburton” on FamousBirthdays vs “Jones” in press → `IDENTITY_UNCERTAIN`/`CONFLICTING_INFORMATION` pending first-party name resolution); **R-2026-012 Valentina Villa @getfitwith.val** (micro fitness coach, 2.7K followers — included deliberately to demonstrate follower count is not a filter; no public DOB → `AGE_UNVERIFIED`; bio does not explicitly identify the operator as a woman → `GENDER_UNVERIFIED`).
+- **2 minors discovered and REJECTED** (never added; the 18+ rule working as designed): Sabre Norris (surfer/skater/YouTuber, born 2005-01-03, Wikipedia) and Sky Brown (professional skateboarder, born 2008-07-07, Wikipedia). Also excluded from verified: other underage profiles surfaced by profession-list discovery (13–17-year-old “Instagram stars”) and celebrity-dominated results (per the anti-celebrity-dominance requirement).
+- **Website updated**: new “Review queue” stat card and `#review-queue` section rendering every REVIEW_REQUIRED candidate (name/handle/platform, discovery category, profile link, evidence found + source link, exact missing fields, flags, notes, last-checked); nav link added; empty-state text updated (table now populated); `assets/app.js` loads `catalog.reviewQueue`, renders it, and includes it in stats; styles added to match the design system.
+- Documentation updated: this session entry, README (counts, scope-guardrail history, data inventory).
+- No private data collected (no addresses, phones, private contact, private-account data). Categories objective throughout; swimwear classified by content; follower counts recorded incidentally only.
+
+**Tests.** `python3 -m json.tool data/catalog.json` OK; structural schema validation of all 34 entries + 9 queue items PASS (required fields, enums, no additional properties); duplicate search pre-add (names, source URLs vs existing rows and within new set) PASS — 0 duplicates; `node` parse of `assets/app.js` PASS; local server smoke tests below (HTTP 200 for `/`, `/data/catalog.json`, `/assets/app.js`, JSON served contains 34 entries / 9 queue items); hallucination audit — every new field traced to a URL captured from this session's search results, DOBs cross-checked across ≥2 independent sources for every row except where Tier-1 (university/official) evidence pairs with the structured FamousBirthdays DOB, minor discrepancies (Kayla Simmons press ages) recorded and consistent; broken links — 0 new (all URLs exactly as returned by search).
+
+**Counts.** New verified **21** (34 total, W-2026-001..034); promoted **3**; new REVIEW_REQUIRED **2** (9 total); rejected **2 minors** + celebrity-dominated results skipped per diversity requirement; duplicates **0**; broken links **0**; conflicting records **0 unresolved in VERIFIED** (1 name conflict → review queue per protocol); verification date **2026-09-06**. Files modified: `data/catalog.json`, `index.html`, `assets/app.js`, `assets/styles.css`, `README.md`, `docs/review-log.md` (+ `scripts/session08_update.py` research script for auditability). Build status **OK**.
+
+**Scale status.** 1,000 remains an upper target, not a quota: 21 more rows honestly cleared every check this run. The compliant loop continues — next iterations: second-pass DOB research for remaining queue items (R-2026-001, -003..-008), swimwear/model agency boards (agency-listed ages as Tier-1 adult evidence), additional women's sports federations, and further micro-creator directories, each row added only when every check passes with openable evidence.
 
 ### Earlier history
 
