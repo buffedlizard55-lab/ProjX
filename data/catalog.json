@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 199,
+    "entryCount": 200,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13762,6 +13762,67 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "India women's vice-captain/ace opening batter — first India woman with centuries in all three international formats; ICC Women's Cricketer of the Year 2021 — objective athlete category; verified 30 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-200",
+      "displayName": "PV Sindhu (Pusarla Venkata Sindhu)",
+      "categories": [
+        "Athlete",
+        "Badminton",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 5, 1995 in Hyderabad, India — age 31 in 2026 — per the Wikimedia Commons/Wikidata record (Date of birth 5 July 1995), Free Press Journal ('born July 5, 1995'), Sportskeeda player profile (Date of Birth July 5, 1995; age 31) and Jagran Josh (Date and Place of Birth 5 July 1995, Hyderabad).",
+        "sourceLabel": "Sportskeeda — PV Sindhu player profile (Date of Birth July 5, 1995)",
+        "sourceUrl": "https://www.sportskeeda.com/player/p-v-sindhu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's singles badminton career — 'the first-ever Indian woman to win two Olympic medals' (silver Rio 2016, bronze Tokyo 2020 in women's singles) and 2019 BWF women's world champion (Free Press Journal/Sportskeeda).",
+        "sourceLabel": "Free Press Journal — PV Sindhu birthday special ('first-ever Indian woman to win two Olympic medals')",
+        "sourceUrl": "https://www.freepressjournal.in/sports/pv-sindhu-birthday-special-all-you-need-to-know-about-the-badminton-star",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Sportskeeda — PV Sindhu player profile (DOB July 5, 1995; women's singles)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/player/p-v-sindhu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikimedia Commons — PV Sindhu authority record (Date of birth 5 July 1995; awards incl. Olympic silver/bronze)",
+          "platform": "Website",
+          "url": "https://commons.wikimedia.org/wiki/P._V._Sindhu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Free Press Journal — PV Sindhu birthday special (born July 5, 1995; Olympic medals)",
+          "platform": "Website",
+          "url": "https://www.freepressjournal.in/sports/pv-sindhu-birthday-special-all-you-need-to-know-about-the-badminton-star",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Jagran Josh — PV Sindhu records (Date of birth 5 July 1995, Hyderabad)",
+          "platform": "Website",
+          "url": "https://www.jagranjosh.com/general-knowledge/pv-sindhu-records-1566803790-1",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic medalist in women's badminton (Rio 2016 silver, Tokyo 2020 bronze — first Indian woman with two Olympic medals across two Games) and 2019 BWF world champion — objective athlete category; verified 31 years old. No social handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
