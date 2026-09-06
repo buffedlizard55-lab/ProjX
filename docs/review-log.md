@@ -2,6 +2,75 @@
 
 ## 2026-09-06
 
+### Session 09 — follower-count schema + website filters + 12 verified creators
+
+**Request.** Expand the database of adult female public creators with activity-first discovery across follower sizes; add follower-count fields (per-platform, never summed); implement website follower filtering/sorting; continue line-by-line verification from official/trusted public sources; no hallucinations.
+
+**What was done.**
+
+- **Schema extended** (`data/schema.json`): optional `socialAccounts[]` (platform, username, profileUrl, followerCountDisplay, followerCountNumeric, countType exact|rounded|unknown, checkedAt, followerSizeRange, sourceNote), `largestPublicFollowing`, `overallFollowerSizeRange`. Review-queue items may carry observed follower fields. Never invent counts; unknown → `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN`.
+- **Existing 34 rows** received follower fields where a public count was observed (Instagram profile snippets, HypeAuditor, CreatorDB, Social Blade, Wikipedia YouTube boxes). 22 rows remain `FOLLOWER_RANGE_UNKNOWN` rather than estimated (logged as `IRR-2026-09-06-007`).
+- **+12 VERIFIED rows (W-2026-035..046)** — each with gender + adult evidence + identity chain + objective category + openable URLs:
+
+| ID | Name | DOB evidence | Largest following (observed) | Category |
+| --- | --- | --- | --- | --- |
+| W-2026-035 | Ashley Kaltwasser | Wikipedia 1988-11-22 | IG @ashleykfit 924K | Fitness / IFBB Bikini |
+| W-2026-036 | Natasha Oakley | Wikipedia 1990-07-14 | IG @tashoakley 3.6M | Swimwear / Monday Swimwear |
+| W-2026-037 | Devin Brugman | FamousBirthdays 1990-12-26 + bios | IG @devinbrugman 1.5M | Swimwear / Monday Swimwear |
+| W-2026-038 | Cassey Ho (Blogilates) | Wikipedia 1987-01-16 | YT @blogilates 11.0M | Fitness / Wellness |
+| W-2026-039 | Elisa Pecini | FamousBirthdays + ConanDaily 1997-01-20 | IG @isapecini 635K | Fitness / IFBB Bikini Olympia |
+| W-2026-040 | Jennifer Dorie | FitnessVolt + Generation Iron 1996-10-07 | IG @jenniferdorie_ifbbpro 331K | Fitness / 2× Bikini Olympia |
+| W-2026-041 | Kelsey Wells | FamousBirthdays 1990-09-01 | IG @kelseywells 2.92M | Fitness / SWEAT PWR |
+| W-2026-042 | Whitney Simmons | multi-source secondary 1993-02-27 | IG @whitneyysimmons 4.05M | Fitness — flag AGE_EVIDENCE_SECONDARY_SOURCES |
+| W-2026-043 | Massy Arias | FamousBirthdays 1988-11-23 | IG @massy.arias 3M | Fitness / Wellness (DR) |
+| W-2026-044 | Michelle Lewin | Zoom TV 1986-02-25 (day conflict vs TheBarbell Feb 2) | IG @michelle_lewin 15M | Fitness — flag CONFLICTING_INFORMATION (day only; year 1986 → clearly 18+) |
+| W-2026-045 | Kendall Coley | **Tier-1** huskers.com WBB bio born Nov. 3, 2002 | IG @kendall.coley **4,057** | College Athlete / Basketball — small creator |
+| W-2026-046 | Lauren Drain Kagan | CelebsAges + CelebHealth 1985-12-31 | IG @laurendrainfit 3M | Fitness — flag AGE_EVIDENCE_SECONDARY_SOURCES |
+
+- **Website**: follower-range filter (Under 1K … 5M+ + unknown), platform filter, sort (followers low↔high, name, recent), Followers column on each row (per-platform counts + largest + creator size + checked date), follower-distribution panel, creator-size stat cards (under 10K / 10K–249.9K / 1M+ / unknown). Combined filters work (e.g. Fitness + Instagram + 10K–24.9K).
+- **Review queue** enriched with observed follower displays where previously noted in evidence text.
+- No private data; no login/CAPTCHA/robots bypass; categories objective; college attendance never sole adult proof (Kendall Coley uses university DOB).
+
+**Manual-review links (new rows)**
+
+- https://en.wikipedia.org/wiki/Ashley_Kaltwasser
+- https://www.instagram.com/ashleykfit/
+- https://en.wikipedia.org/wiki/Natasha_Oakley
+- https://www.instagram.com/tashoakley/
+- https://www.famousbirthdays.com/people/devin-brugman.html
+- https://www.instagram.com/devinbrugman/
+- https://en.wikipedia.org/wiki/Cassey_Ho
+- https://www.blogilates.com/
+- https://www.youtube.com/@blogilates
+- https://www.famousbirthdays.com/people/elisa-pecini.html
+- https://conandaily.com/2019/09/14/brazils-elisa-pecini-is-2019-bikini-olympia-champion/
+- https://www.instagram.com/isapecini/
+- https://fitnessvolt.com/jennifer-dorie-profile/
+- https://www.instagram.com/jenniferdorie_ifbbpro/
+- https://www.famousbirthdays.com/people/kelsey-wells.html
+- https://www.instagram.com/kelseywells/
+- https://www.dreshare.com/whitney-simmons/
+- https://www.instagram.com/whitneyysimmons/
+- https://www.famousbirthdays.com/people/massiel-arias.html
+- https://www.instagram.com/massy.arias/
+- https://www.zoomtventertainment.com/celebrity/photo-gallery/venezuelan-fitness-model-michelle-lewins-hot-bikini-photos-on-instagram/557604
+- https://www.instagram.com/michelle_lewin/
+- https://huskers.com/sports/womens-basketball/roster/season/2023-24/player/kendall-coley
+- https://www.instagram.com/kendall.coley/
+- https://www.celebsages.com/lauren-drain-kagan/
+- https://www.instagram.com/laurendrainfit/
+
+**Irregularities**
+
+- `IRR-2026-09-06-007` — needs-review: incomplete follower coverage + DOB day conflict on Michelle Lewin + secondary-source age flags on Whitney Simmons / Lauren Drain Kagan.
+
+**Tests.** JSON parse OK; structural schema check PASS; `node` parse of `assets/app.js` OK; DOM ids for new filters/stats present; age-sanity ≥18 for all 46; 0 duplicate IDs/names; HTTP 200 smoke for site assets.
+
+**Counts.** New verified **12** (**46 total** W-2026-001..046); review queue **9**; irregularities **7**; verification date **2026-09-06**. Files: `data/catalog.json`, `data/schema.json`, `index.html`, `assets/app.js`, `assets/styles.css`, `README.md`, `docs/review-log.md`, `scripts/session09_followers_and_creators.py`. Build **OK**.
+
+**Scale status.** 1,000 remains a target, not a quota. Session 09 prioritized follower infrastructure + size diversity (including a 4K college athlete) over mass celebrity adds. Next: second-pass DOB research on remaining queue items, agency age boards, more under-25K creators with Tier-1 DOBs.
+
+
 ### Session 01 — repository review and 1,000-profile bulk-collection request
 
 **Request.** The owner asked the project to autonomously search, collect, and organize ~1,000

@@ -12,6 +12,7 @@
         "title": { "type": "string" },
         "generatedAt": { "type": "string", "format": "date" },
         "entryCount": { "type": "integer", "minimum": 0 },
+        "reviewQueueCount": { "type": "integer", "minimum": 0 },
         "summary": { "type": "string" }
       },
       "additionalProperties": true
@@ -90,6 +91,62 @@
               "additionalProperties": false
             }
           },
+          "socialAccounts": {
+            "type": "array",
+            "description": "Per-platform public social accounts with observed follower counts. Never invent counts; never sum across platforms.",
+            "items": {
+              "type": "object",
+              "required": ["platform", "profileUrl", "checkedAt", "countType"],
+              "properties": {
+                "platform": {
+                  "type": "string",
+                  "description": "Instagram, TikTok, YouTube, X, Facebook, etc."
+                },
+                "username": { "type": "string" },
+                "profileUrl": { "type": "string", "format": "uri" },
+                "followerCountDisplay": {
+                  "type": "string",
+                  "description": "Publicly displayed value as shown (e.g. '12.4K', '1.2M') or FOLLOWER_COUNT_UNKNOWN."
+                },
+                "followerCountNumeric": {
+                  "type": ["number", "null"],
+                  "description": "Normalized numeric value for sorting when display supports it; null when unknown."
+                },
+                "countType": {
+                  "type": "string",
+                  "enum": ["exact", "rounded", "unknown"],
+                  "description": "exact = precise public figure; rounded = platform shows K/M abbreviated; unknown = not publicly available."
+                },
+                "checkedAt": { "type": "string", "format": "date" },
+                "followerSizeRange": {
+                  "type": "string",
+                  "description": "Normalized range bucket or FOLLOWER_RANGE_UNKNOWN."
+                },
+                "sourceNote": {
+                  "type": "string",
+                  "description": "Where the count was observed (e.g. Instagram public profile page, HypeAuditor snapshot)."
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "largestPublicFollowing": {
+            "type": "object",
+            "description": "Largest single-platform verified public follower count (not a cross-platform sum).",
+            "properties": {
+              "platform": { "type": "string" },
+              "username": { "type": "string" },
+              "display": { "type": "string" },
+              "numeric": { "type": ["number", "null"] },
+              "sizeRange": { "type": "string" },
+              "checkedAt": { "type": "string", "format": "date" }
+            },
+            "additionalProperties": false
+          },
+          "overallFollowerSizeRange": {
+            "type": "string",
+            "description": "Creator-size classification from largestPublicFollowing, or FOLLOWER_RANGE_UNKNOWN."
+          },
           "verificationStatus": {
             "type": "string",
             "enum": ["verified", "needs-review", "blocked"]
@@ -136,6 +193,13 @@
             "type": "string",
             "description": "Objective activity category that caused discovery, e.g., Fitness, Swimwear, College Athlete"
           },
+          "followerCountDisplay": {
+            "type": "string",
+            "description": "Publicly displayed follower count if available, else FOLLOWER_COUNT_UNKNOWN."
+          },
+          "followerCountNumeric": { "type": ["number", "null"] },
+          "followerCountCheckedAt": { "type": "string", "format": "date" },
+          "followerSizeRange": { "type": "string" },
           "evidenceFound": {
             "type": "object",
             "description": "Strongest legitimate public evidence actually found so far",

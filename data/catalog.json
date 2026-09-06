@@ -2,9 +2,9 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 34,
+    "entryCount": 46,
     "reviewQueueCount": 9,
-    "summary": "Women-only directory of adult (18+) public creators: 34 verified adult women (W-2026-001..034 — professional athletes, college athletes, fitness/fitness-model creators, swimwear/bikini-fashion models, surf/yoga/travel/fashion/lifestyle creators, and women's esports players) + 9 promising candidates in REVIEW_REQUIRED queue, each with full provenance and exact missing fields. Discovery is activity-first (fitness, swimwear, college athletics, fashion, travel, wellness, esports), then line-by-line eligibility verification from legitimate public evidence (Tier-1 official/university/agency sources and multiple independent Tier-3 sources where Tier-1 DOB is absent). Categories are objective — never attractiveness ranking; college attendance never proves adult; minors discovered during research were rejected, not added; follower count is never a filter (set spans ~2.7K to millions, ages 22-47, across US, Brazil, Canada, Scotland, Denmark, South Korea, Ukraine)."
+    "summary": "Women-only directory of adult (18+) public creators: 46 verified adult women (W-2026-001..046) spanning professional athletes, college athletes, fitness/fitness-model creators, swimwear/bikini-fashion models, and lifestyle/wellness creators, plus 9 REVIEW_REQUIRED candidates. Session 09 added follower-count fields (per-platform socialAccounts, largestPublicFollowing, overallFollowerSizeRange) observed from public sources only — never estimated; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. New Session 09 verified rows: W-2026-035, W-2026-036, W-2026-037, W-2026-038, W-2026-039, W-2026-040, W-2026-041, W-2026-042, W-2026-043, W-2026-044, W-2026-045, W-2026-046. Follower-size distribution (largest platform): {'5M+': 9, '1M–4.9M': 9, '500K–999.9K': 3, 'FOLLOWER_RANGE_UNKNOWN': 22, '50K–99.9K': 1, '250K–499.9K': 1, '1K–4.9K': 1}. Categories remain objective; college attendance never proves adult; no attractiveness ranking."
   },
   "entries": [
     {
@@ -56,7 +56,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 23-time Grand Slam singles champion, WTA world No.1, Career Golden Slam. Women-only rule satisfied via official site (she/her) + WTA women's tour. Adult status via Britannica/official biography DOB 1981-09-26. Real person cross-verified via official site ↔ WTA ↔ reputable press. Category Athlete/Tennis supported by official and sports-org sources. No AI/impersonation signals."
+      "notes": "Professional public figure — 23-time Grand Slam singles champion, WTA world No.1, Career Golden Slam. Women-only rule satisfied via official site (she/her) + WTA women's tour. Adult status via Britannica/official biography DOB 1981-09-26. Real person cross-verified via official site ↔ WTA ↔ reputable press. Category Athlete/Tennis supported by official and sports-org sources. No AI/impersonation signals.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@serenawilliams",
+          "profileUrl": "https://www.instagram.com/serenawilliams/",
+          "followerCountDisplay": "18.2M",
+          "followerCountNumeric": 18200000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "HypeAuditor Dec 2025 snapshot 18,190,595 (~18.2M); Instagram public page shows 18M"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@serenawilliams",
+        "display": "18.2M",
+        "numeric": 18200000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-002",
@@ -107,7 +129,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 11 Olympic medals (7 gold), 30 World medals, most decorated gymnast. Women-only via FIG Gender female + Women's Artistic Gymnastics + women's national team. Adult via March 14, 1997 (>18) on Olympics/FIG/USAG. Real-person verified via official site ↔ FIG ↔ Olympics ↔ USAG consistent name, DOB, discipline. Category Athlete/Gymnastics via official sports-org sources."
+      "notes": "Professional public figure — 11 Olympic medals (7 gold), 30 World medals, most decorated gymnast. Women-only via FIG Gender female + Women's Artistic Gymnastics + women's national team. Adult via March 14, 1997 (>18) on Olympics/FIG/USAG. Real-person verified via official site ↔ FIG ↔ Olympics ↔ USAG consistent name, DOB, discipline. Category Athlete/Gymnastics via official sports-org sources.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@simonebiles",
+          "profileUrl": "https://www.instagram.com/simonebiles/",
+          "followerCountDisplay": "12.2M",
+          "followerCountNumeric": 12200000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "HypeAuditor Nov 2025 / Social Blade ~12,185,203 (~12.2M)"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@simonebiles",
+        "display": "12.2M",
+        "numeric": 12200000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-003",
@@ -152,7 +196,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 4-time Grand Slam singles champion, former WTA world No.1, turned pro 2013. Women-only via WTA women's tour membership + biography (women's tennis). Adult via 1997-10-16 DOB on WTA/Britannica/ESPN. Real-person cross-linked across WTA ↔ Britannica ↔ ESPN consistent name, birthplace, career. Category Athlete/Tennis supported by official sports-org sources. Objective category, no attractiveness ranking."
+      "notes": "Professional public figure — 4-time Grand Slam singles champion, former WTA world No.1, turned pro 2013. Women-only via WTA women's tour membership + biography (women's tennis). Adult via 1997-10-16 DOB on WTA/Britannica/ESPN. Real-person cross-linked across WTA ↔ Britannica ↔ ESPN consistent name, birthplace, career. Category Athlete/Tennis supported by official sports-org sources. Objective category, no attractiveness ranking.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@naomiosaka",
+          "profileUrl": "https://www.instagram.com/naomiosaka/",
+          "followerCountDisplay": "2.91M",
+          "followerCountNumeric": 2910000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Tennis365 active-WTA Instagram ranking (Nov 2025): 2.91m followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@naomiosaka",
+        "display": "2.91M",
+        "numeric": 2910000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
     },
     {
       "id": "W-2026-004",
@@ -203,7 +269,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 2-time World Cup champion (2015, 2019), Olympic gold 2012, NWSL/WSL forward; co-founder of TOGETHXR. Women-only via official site she/her + U.S. Women's National Team and women's club history. Adult via July 2, 1989 DOB (>18) on Britannica/encyclopedic sources. Real person verified via official site ↔ Britannica ↔ Wikipedia consistent name Alexandra Patricia Morgan Carrasco, DOB, career. Category Athlete/Soccer via official and Tier-2 sources."
+      "notes": "Professional public figure — 2-time World Cup champion (2015, 2019), Olympic gold 2012, NWSL/WSL forward; co-founder of TOGETHXR. Women-only via official site she/her + U.S. Women's National Team and women's club history. Adult via July 2, 1989 DOB (>18) on Britannica/encyclopedic sources. Real person verified via official site ↔ Britannica ↔ Wikipedia consistent name Alexandra Patricia Morgan Carrasco, DOB, career. Category Athlete/Soccer via official and Tier-2 sources.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@alexmorgan13",
+          "profileUrl": "https://www.instagram.com/alexmorgan13/",
+          "followerCountDisplay": "9.4M",
+          "followerCountNumeric": 9400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Instagram public profile schema userInteractionCount 9,485,261 (~9.4M)"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@alexmorgan13",
+        "display": "9.4M",
+        "numeric": 9400000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-005",
@@ -248,7 +336,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 2-time World Cup champion (2015, 2019), Olympic gold 2012, bronze 2020 Tokyo, FIFA Women's Player of Year 2019, Ballon d'Or Féminin. Women-only via U.S. Women's National Team / women's club history and she/her biography (not inferred from appearance/name). Adult via July 5, 1985 DOB (>18). Real-person cross-verified Britannica ↔ Wikipedia consistent full name Megan Anna Rapinoe, DOB, career. Category Athlete/Soccer/Public personality — objective, no attractiveness ranking."
+      "notes": "Professional public figure — 2-time World Cup champion (2015, 2019), Olympic gold 2012, bronze 2020 Tokyo, FIFA Women's Player of Year 2019, Ballon d'Or Féminin. Women-only via U.S. Women's National Team / women's club history and she/her biography (not inferred from appearance/name). Adult via July 5, 1985 DOB (>18). Real-person cross-verified Britannica ↔ Wikipedia consistent full name Megan Anna Rapinoe, DOB, career. Category Athlete/Soccer/Public personality — objective, no attractiveness ranking.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@mrapinoe",
+          "profileUrl": "https://www.instagram.com/mrapinoe/",
+          "followerCountDisplay": "2.2M",
+          "followerCountNumeric": 2200000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public profile schema ~2,226,170; Social Blade later ~1.93M — recorded 2.2M display from profile schema"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@mrapinoe",
+        "display": "2.2M",
+        "numeric": 2200000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
     },
     {
       "id": "W-2026-006",
@@ -293,7 +403,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 14 Olympic medals (9 gold), most decorated female swimmer, world-record freestyler; attended Stanford. Women-only via female swimmer designation and women's events. Adult via March 17, 1997 DOB (>18). Real-person verified Britannica ↔ Wikipedia ↔ state hall of fame consistent full name Kathleen Genevieve Ledecky, DOB. Category Athlete/Swimming/Sports — objective. College-related but adult not inferred from college attendance."
+      "notes": "Professional public figure — 14 Olympic medals (9 gold), most decorated female swimmer, world-record freestyler; attended Stanford. Women-only via female swimmer designation and women's events. Adult via March 17, 1997 DOB (>18). Real-person verified Britannica ↔ Wikipedia ↔ state hall of fame consistent full name Kathleen Genevieve Ledecky, DOB. Category Athlete/Swimming/Sports — objective. College-related but adult not inferred from college attendance.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@katieledecky",
+          "profileUrl": "https://www.instagram.com/katieledecky/",
+          "followerCountDisplay": "915K",
+          "followerCountNumeric": 915000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "Instagram public profile page display 915K followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@katieledecky",
+        "display": "915K",
+        "numeric": 915000,
+        "sizeRange": "500K–999.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "500K–999.9K"
     },
     {
       "id": "W-2026-007",
@@ -338,7 +470,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Professional public figure — 2-time Olympic halfpipe gold (2018, 2022) + silver 2026, 8-time X Games gold, first woman to win Olympics/Worlds/Youth Olympics/X Games halfpipe titles. Women-only via women's halfpipe designation and youngest woman gold language. Adult via April 23, 2000 DOB (26 in 2026, >18; competing at 17 in 2018 with age-rule check confirms adult now but noted for historical context). Real-person verified Britannica ↔ Wikiwand consistent DOB, birthplace Long Beach, Korean-American family. Category Athlete/Snowboard/Sports — objective."
+      "notes": "Professional public figure — 2-time Olympic halfpipe gold (2018, 2022) + silver 2026, 8-time X Games gold, first woman to win Olympics/Worlds/Youth Olympics/X Games halfpipe titles. Women-only via women's halfpipe designation and youngest woman gold language. Adult via April 23, 2000 DOB (26 in 2026, >18; competing at 17 in 2018 with age-rule check confirms adult now but noted for historical context). Real-person verified Britannica ↔ Wikiwand consistent DOB, birthplace Long Beach, Korean-American family. Category Athlete/Snowboard/Sports — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-008",
@@ -384,7 +526,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-creator activity (not 'find women'): public fitness creator @fitgirl_08 — workout reels, nutrition content, RK Fitness co-founder. Women-only not inferred from appearance/clothing/handle — via biography she/her, female fitness influencer, wife. Adult via Aug 12, 1995 DOB (>18) on two independent creator biographies (whatainfo + raylitech consistent). Real-person cross-linked Instagram 3M followers ↔ both biographies consistent full name, handle, husband Rohit Khatri, Delhi origin, career TikTok→Instagram 2020. Profile ownership: Instagram handle @fitgirl_08 matches biography, 1,713 posts, consistent fitness photographs/content. Category Fitness/Fitness Model/Creator/Lifestyle — objective (workout reels, nutrition, gym co-owner), never hot/sexy ranking. Micro/regional independent creator (not celebrity) — demonstrates methodology correction: discovered by activity, then verified. No private data, no AI."
+      "notes": "Discovered via fitness-creator activity (not 'find women'): public fitness creator @fitgirl_08 — workout reels, nutrition content, RK Fitness co-founder. Women-only not inferred from appearance/clothing/handle — via biography she/her, female fitness influencer, wife. Adult via Aug 12, 1995 DOB (>18) on two independent creator biographies (whatainfo + raylitech consistent). Real-person cross-linked Instagram 3M followers ↔ both biographies consistent full name, handle, husband Rohit Khatri, Delhi origin, career TikTok→Instagram 2020. Profile ownership: Instagram handle @fitgirl_08 matches biography, 1,713 posts, consistent fitness photographs/content. Category Fitness/Fitness Model/Creator/Lifestyle — objective (workout reels, nutrition, gym co-owner), never hot/sexy ranking. Micro/regional independent creator (not celebrity) — demonstrates methodology correction: discovered by activity, then verified. No private data, no AI.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-009",
@@ -437,7 +589,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via swimwear/beachwear activity: founder/owner of Hoaka Swimwear & Hoaka Apparel, Instagram Star (1M followers, 1,469 posts), swimwear fashion content. Women-only not from bikini photos/clothing/appearance — via biography she/her, Canadian model/entrepreneur, sister. Adult via Dec 20, 1996 DOB (>18) on everipedia + bookingagent + thefamouspeople consistent. Real-person cross-linked Instagram profile (owner Hoaka) ↔ multiple biographies consistent name, DOB, birthplace Canada, entrepreneurship at 18 (2016 launch). Profile ownership: Instagram @elisabethrioux matches biography (Hoaka owner), consistent swimwear/beachwear photographs/content. Category Swimwear/Bikini Fashion/Beachwear/Fashion/Modeling — objective (swimwear label owner, bikini modeling), never attractiveness ranking or body-part description. Independent swimwear/fashion micro-creator (not traditional celebrity athlete) — demonstrates diversity."
+      "notes": "Discovered via swimwear/beachwear activity: founder/owner of Hoaka Swimwear & Hoaka Apparel, Instagram Star (1M followers, 1,469 posts), swimwear fashion content. Women-only not from bikini photos/clothing/appearance — via biography she/her, Canadian model/entrepreneur, sister. Adult via Dec 20, 1996 DOB (>18) on everipedia + bookingagent + thefamouspeople consistent. Real-person cross-linked Instagram profile (owner Hoaka) ↔ multiple biographies consistent name, DOB, birthplace Canada, entrepreneurship at 18 (2016 launch). Profile ownership: Instagram @elisabethrioux matches biography (Hoaka owner), consistent swimwear/beachwear photographs/content. Category Swimwear/Bikini Fashion/Beachwear/Fashion/Modeling — objective (swimwear label owner, bikini modeling), never attractiveness ranking or body-part description. Independent swimwear/fashion micro-creator (not traditional celebrity athlete) — demonstrates diversity.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-010",
@@ -483,7 +645,40 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-creator activity (not celebrity name search): Australian personal trainer since 2008, creator of Bikini Body Guides and Sweat: Fitness App For Women, Instagram 12-15M followers, BBG community. Women-only not from appearance/fitness photos — via biography female personal trainer, she/her, mother of 2. Adult via May 21, 1991 DOB (>18). Real-person cross-linked official site kaylaitsines.com ↔ Instagram @kayla_itsines ↔ Wikipedia consistent name, DOB, Adelaide origin, Greek heritage, career timeline (women's gym Adelaide 2008→Instagram 2013→BBG 2014). Profile ownership: Instagram @kayla_itsines (14.4M followers) matches official site linkage and biography, consistent fitness photographs/content, only person posting on account per biography. Category Fitness/Fitness Model/Creator/Wellness — objective (personal trainer, BBG, Sweat app, author), swimwear/bikini guides classified as fitness fashion but not attractiveness ranking. Independent fitness micro-to-mid creator turned global brand — demonstrates non-celebrity discovery with strongest available legitimate public evidence (official site + verified Instagram + Tier-2/3 encyclopedic), not requiring Britannica/agency/blue check."
+      "notes": "Discovered via fitness-creator activity (not celebrity name search): Australian personal trainer since 2008, creator of Bikini Body Guides and Sweat: Fitness App For Women, Instagram 12-15M followers, BBG community. Women-only not from appearance/fitness photos — via biography female personal trainer, she/her, mother of 2. Adult via May 21, 1991 DOB (>18). Real-person cross-linked official site kaylaitsines.com ↔ Instagram @kayla_itsines ↔ Wikipedia consistent name, DOB, Adelaide origin, Greek heritage, career timeline (women's gym Adelaide 2008→Instagram 2013→BBG 2014). Profile ownership: Instagram @kayla_itsines (14.4M followers) matches official site linkage and biography, consistent fitness photographs/content, only person posting on account per biography. Category Fitness/Fitness Model/Creator/Wellness — objective (personal trainer, BBG, Sweat app, author), swimwear/bikini guides classified as fitness fashion but not attractiveness ranking. Independent fitness micro-to-mid creator turned global brand — demonstrates non-celebrity discovery with strongest available legitimate public evidence (official site + verified Instagram + Tier-2/3 encyclopedic), not requiring Britannica/agency/blue check.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kayla_itsines",
+          "profileUrl": "https://www.instagram.com/kayla_itsines/",
+          "followerCountDisplay": "15.4M",
+          "followerCountNumeric": 15390931,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "CreatorDB 2026-06-26 Instagram 15,390,931; Instagram public page also shows ~16M / 14.4M historically"
+        },
+        {
+          "platform": "TikTok",
+          "username": "@kaylaitsines",
+          "profileUrl": "https://www.tiktok.com/@kaylaitsines",
+          "followerCountDisplay": "95.5K",
+          "followerCountNumeric": 95500,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "CreatorDB 2026-06-26 TikTok 95,500"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kayla_itsines",
+        "display": "15.4M",
+        "numeric": 15390931,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-011",
@@ -529,7 +724,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, Sommer Ray 25M IG, fitness/bikini content, businesses Imaris Beauty). Women-only not from appearance/bikini photos — via biography she/her, American fitness model, daughter of Shannon Ray. Adult via Sept 15, 1996 DOB (>18) on YouTube Fandom + FamousBirthdays consistent. Real-person cross-linked Instagram @sommerray ↔ both biographies consistent name, DOB, Denver origin, Vine→YouTube→Instagram career. Profile ownership: Instagram @sommerray 25M followers matches biography fitness-model content, consistent photographs. Category Fitness/Fitness Model/Creator/Modeling — objective (fitness videos, bikini modeling, entrepreneur), never attractiveness ranking. Established fitness creator (not limited to celebrity athlete) — evidence-based via strongest available public biographies (official site not required per correction)."
+      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, Sommer Ray 25M IG, fitness/bikini content, businesses Imaris Beauty). Women-only not from appearance/bikini photos — via biography she/her, American fitness model, daughter of Shannon Ray. Adult via Sept 15, 1996 DOB (>18) on YouTube Fandom + FamousBirthdays consistent. Real-person cross-linked Instagram @sommerray ↔ both biographies consistent name, DOB, Denver origin, Vine→YouTube→Instagram career. Profile ownership: Instagram @sommerray 25M followers matches biography fitness-model content, consistent photographs. Category Fitness/Fitness Model/Creator/Modeling — objective (fitness videos, bikini modeling, entrepreneur), never attractiveness ranking. Established fitness creator (not limited to celebrity athlete) — evidence-based via strongest available public biographies (official site not required per correction).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sommerray",
+          "profileUrl": "https://www.instagram.com/sommerray/",
+          "followerCountDisplay": "21.8M",
+          "followerCountNumeric": 21763376,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "HypeAuditor Aug 2026 snapshot 21,763,376 (~21.8M)"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@sommerray",
+        "display": "21.8M",
+        "numeric": 21763376,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-012",
@@ -575,7 +792,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, 17M IG, post-pregnancy fitness transformation, TammyFit app, Saski activewear). Women-only not from appearance/fitness photos — via biography she/her, Australian fitness model, mother, sister. Adult via April 22, 1994 DOB (>18) on FamousBirthdays + NewsUnzip consistent. Real-person cross-linked Instagram @tammyhembrow ↔ both biographies consistent name, DOB, Gold Coast origin, mother of 3, entrepreneur. Profile ownership: Instagram @tammyhembrow 17M followers matches biography fitness/lifestyle content. Category Fitness/Fitness Model/Creator/Lifestyle — objective (fitness model, entrepreneur, TammyFit app), never hot/sexy ranking. Established fitness creator — strongest available public biographies (no Britannica required)."
+      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, 17M IG, post-pregnancy fitness transformation, TammyFit app, Saski activewear). Women-only not from appearance/fitness photos — via biography she/her, Australian fitness model, mother, sister. Adult via April 22, 1994 DOB (>18) on FamousBirthdays + NewsUnzip consistent. Real-person cross-linked Instagram @tammyhembrow ↔ both biographies consistent name, DOB, Gold Coast origin, mother of 3, entrepreneur. Profile ownership: Instagram @tammyhembrow 17M followers matches biography fitness/lifestyle content. Category Fitness/Fitness Model/Creator/Lifestyle — objective (fitness model, entrepreneur, TammyFit app), never hot/sexy ranking. Established fitness creator — strongest available public biographies (no Britannica required).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tammyhembrow",
+          "profileUrl": "https://www.instagram.com/tammyhembrow/",
+          "followerCountDisplay": "17M+",
+          "followerCountNumeric": 17000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "HireInfluence Top Fitness Influencers 2026 table: Tammy Hembrow Instagram 17M+"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@tammyhembrow",
+        "display": "17M+",
+        "numeric": 17000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-013",
@@ -621,7 +860,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-creator activity (German fitness model, home workout plans, Strong & Beautiful book, 6.3M IG). Women-only not from appearance/workout photos — via biography she/her, German fitness model, Instagram personality, entrepreneur. Adult via July 9, 1996 DOB (>18) on FamousBirthdays + TheCityCeleb consistent (Karlsruhe, Germany). Real-person cross-linked Instagram @pamela_rf ↔ both biographies consistent full name Pamela Leonie Reif, DOB, German origin, brother Dennis, career posting fitness content since 2012. Profile ownership: Instagram @pamela_rf matches biography fitness content, consistent photographs. Category Fitness/Fitness Model/Creator/Wellness — objective (fitness model, workout videos, author), never attractiveness ranking. Established fitness creator — evidence-based via strongest available public biographies."
+      "notes": "Discovered via fitness-creator activity (German fitness model, home workout plans, Strong & Beautiful book, 6.3M IG). Women-only not from appearance/workout photos — via biography she/her, German fitness model, Instagram personality, entrepreneur. Adult via July 9, 1996 DOB (>18) on FamousBirthdays + TheCityCeleb consistent (Karlsruhe, Germany). Real-person cross-linked Instagram @pamela_rf ↔ both biographies consistent full name Pamela Leonie Reif, DOB, German origin, brother Dennis, career posting fitness content since 2012. Profile ownership: Instagram @pamela_rf matches biography fitness content, consistent photographs. Category Fitness/Fitness Model/Creator/Wellness — objective (fitness model, workout videos, author), never attractiveness ranking. Established fitness creator — evidence-based via strongest available public biographies.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@pamela_rf",
+          "profileUrl": "https://www.instagram.com/pamela_rf/",
+          "followerCountDisplay": "10M+",
+          "followerCountNumeric": 10000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "HireInfluence Top Fitness Influencers 2026: Pamela Reif YouTube/Instagram 10M+ each"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@pamela_rf",
+        "display": "10M+",
+        "numeric": 10000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
     },
     {
       "id": "W-2026-014",
@@ -667,7 +928,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via modeling-creator activity search. Woman per biography pronouns + independent biography (Shamayne Williams). Adult via Feb 11, 1996 DOB on two independent sources. Identity cross-linked: FamousBirthdays sameAs Instagram @shamayne_shay matches the handle both sources describe; Twitter @iamshamayne also referenced. Category: modeling/fashion/lifestyle/fitness content — objective. Follower count (~2.4M) recorded incidentally, not an eligibility filter."
+      "notes": "Discovered via modeling-creator activity search. Woman per biography pronouns + independent biography (Shamayne Williams). Adult via Feb 11, 1996 DOB on two independent sources. Identity cross-linked: FamousBirthdays sameAs Instagram @shamayne_shay matches the handle both sources describe; Twitter @iamshamayne also referenced. Category: modeling/fashion/lifestyle/fitness content — objective. Follower count (~2.4M) recorded incidentally, not an eligibility filter.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@shamayne_shay",
+          "profileUrl": "https://www.instagram.com/shamayne_shay/",
+          "followerCountDisplay": "2.4M",
+          "followerCountNumeric": 2400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Session 08 source label / FamousBirthdays-linked IG modeling profile ~2.4M (rounded public figure)"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@shamayne_shay",
+        "display": "2.4M",
+        "numeric": 2400000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
     },
     {
       "id": "W-2026-015",
@@ -719,7 +1002,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via basketball-creator activity search. Woman per she/her biography + girls' basketball coaching career. Adult via Sept 29, 1992 DOB + press age consistency. Identity: NBA.com lists her in the NBA Creator Cup Series (Tier-2 press/league), FamousBirthdays sameAs links @jennabandy21, Sportskeeda/nextbiography describe the same coaching career. Category: basketball coaching/trick-shot creator content — objective."
+      "notes": "Discovered via basketball-creator activity search. Woman per she/her biography + girls' basketball coaching career. Adult via Sept 29, 1992 DOB + press age consistency. Identity: NBA.com lists her in the NBA Creator Cup Series (Tier-2 press/league), FamousBirthdays sameAs links @jennabandy21, Sportskeeda/nextbiography describe the same coaching career. Category: basketball coaching/trick-shot creator content — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-016",
@@ -775,7 +1068,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-instructor activity search (regional Brazil creator — geography diversity). Woman per she/her bios + first-party 'Mãe' (mother) intro. Adult via Sept 27, 1981 DOB on two independent biographies + her own '43 anos' statement. Identity: her own Threads (@dammy_personal, Brasília, physical-education degree) and Facebook match the fitness-coach description; allmylinks.com/dammyfitness cross-link on Threads ties the Dammy Fitness brand accounts. Category: fitness coaching/fitness modeling — objective."
+      "notes": "Discovered via fitness-instructor activity search (regional Brazil creator — geography diversity). Woman per she/her bios + first-party 'Mãe' (mother) intro. Adult via Sept 27, 1981 DOB on two independent biographies + her own '43 anos' statement. Identity: her own Threads (@dammy_personal, Brasília, physical-education degree) and Facebook match the fitness-coach description; allmylinks.com/dammyfitness cross-link on Threads ties the Dammy Fitness brand accounts. Category: fitness coaching/fitness modeling — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-017",
@@ -826,7 +1129,29 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via female fitness-creator activity search (IFBB competitive-fitness niche). Woman per she/her bios + IFBB Bikini Pro (women's division) status. Adult via June 8, 1988 DOB on three consistent sources. Identity: consistent name, Scottsdale origin, Team Flawless Physique membership and pro-card story across FamousBirthdays/AllStarBio/FamousDetails; Instagram handle from FamousBirthdays sameAs. Category: Fitness/Fitness Model/Bikini Fashion (objective competition-division name, no attractiveness rating)."
+      "notes": "Discovered via female fitness-creator activity search (IFBB competitive-fitness niche). Woman per she/her bios + IFBB Bikini Pro (women's division) status. Adult via June 8, 1988 DOB on three consistent sources. Identity: consistent name, Scottsdale origin, Team Flawless Physique membership and pro-card story across FamousBirthdays/AllStarBio/FamousDetails; Instagram handle from FamousBirthdays sameAs. Category: Fitness/Fitness Model/Bikini Fashion (objective competition-division name, no attractiveness rating).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@alyssagermeroth",
+          "profileUrl": "https://www.instagram.com/alyssagermeroth/",
+          "followerCountDisplay": "80K+",
+          "followerCountNumeric": 80000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "Session 08 source labels: Instagram 80k+ (AllStarBio/FamousDetails also cite ~110k historically) — recorded lower bound 80K as rounded"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@alyssagermeroth",
+        "display": "80K+",
+        "numeric": 80000,
+        "sizeRange": "50K–99.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "50K–99.9K"
     },
     {
       "id": "W-2026-018",
@@ -884,7 +1209,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-instructor activity search (NASM-certified trainer, supplement-brand athlete). Woman per she/her bio + first-party Instagram bio. Adult via March 20, 1995 DOB. Identity: Instagram first-party page (528K, contact@ashleyfloresfit.com) cross-linked by the podcast guest sheet to her TikTok/YouTube — ownership chain verified. Category: fitness/personal-training creator — objective."
+      "notes": "Discovered via fitness-instructor activity search (NASM-certified trainer, supplement-brand athlete). Woman per she/her bio + first-party Instagram bio. Adult via March 20, 1995 DOB. Identity: Instagram first-party page (528K, contact@ashleyfloresfit.com) cross-linked by the podcast guest sheet to her TikTok/YouTube — ownership chain verified. Category: fitness/personal-training creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-019",
@@ -929,7 +1264,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via swimwear-model activity search. Woman per she/her bios. Adult via Oct 12, 1993 DOB on two independent sources. Identity: FamousBirthdays sameAs @itsalyssaemm matches the handle described in both biographies (270K followers, Boutine LA swimwear work). Category: Swimwear/Modeling/Fashion — objective content classification (swimwear campaigns), no attractiveness rating."
+      "notes": "Discovered via swimwear-model activity search. Woman per she/her bios. Adult via Oct 12, 1993 DOB on two independent sources. Identity: FamousBirthdays sameAs @itsalyssaemm matches the handle described in both biographies (270K followers, Boutine LA swimwear work). Category: Swimwear/Modeling/Fashion — objective content classification (swimwear campaigns), no attractiveness rating.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-020",
@@ -974,7 +1319,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via swimwear/fitness-model activity search. Woman per she/her bio + first-party account name. Adult via Aug 9, 1994 DOB. Identity: FamousBirthdays sameAs @kikiiib matches her first-party Instagram (name Kiki Ruby, LA) which itself cross-links her secondary fitness account @kbsculpt — multi-account consolidation verified from first-party bios. Category: swimwear/fitness modeling — objective."
+      "notes": "Discovered via swimwear/fitness-model activity search. Woman per she/her bio + first-party account name. Adult via Aug 9, 1994 DOB. Identity: FamousBirthdays sameAs @kikiiib matches her first-party Instagram (name Kiki Ruby, LA) which itself cross-links her secondary fitness account @kbsculpt — multi-account consolidation verified from first-party bios. Category: swimwear/fitness modeling — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-021",
@@ -1026,7 +1381,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via women's college volleyball activity search (university-athletics source priority). Woman per women's-team roster (Tier 1) + press pronouns. Adult via Sept 19, 1998 DOB. Identity: huskers.com roster + Corn Nation article (which quotes Sun and links her own @lexiisun social account) match the FamousBirthdays sameAs handle — ownership chain verified across Tier-1 university source and her accounts. Category: College Athlete (Nebraska volleyball, All-America)/Volleyball — objective."
+      "notes": "Discovered via women's college volleyball activity search (university-athletics source priority). Woman per women's-team roster (Tier 1) + press pronouns. Adult via Sept 19, 1998 DOB. Identity: huskers.com roster + Corn Nation article (which quotes Sun and links her own @lexiisun social account) match the FamousBirthdays sameAs handle — ownership chain verified across Tier-1 university source and her accounts. Category: College Athlete (Nebraska volleyball, All-America)/Volleyball — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-022",
@@ -1078,7 +1443,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via female college athlete activity search — a college athlete whose adult status IS independently verifiable (published DOB 2004-08-09, corroborated birth year on roster database), honoring 'college attendance alone does not establish 18+'. Woman per women's-team roster (Tier 1 Auburn athletics) + bio pronouns. Identity: Auburn official announcement (Baylor transfer, libero/OH) + roster database + FamousBirthdays sameAs @alexisd_15. Category: College Athlete/Volleyball/Creator — objective."
+      "notes": "Discovered via female college athlete activity search — a college athlete whose adult status IS independently verifiable (published DOB 2004-08-09, corroborated birth year on roster database), honoring 'college attendance alone does not establish 18+'. Woman per women's-team roster (Tier 1 Auburn athletics) + bio pronouns. Identity: Auburn official announcement (Baylor transfer, libero/OH) + roster database + FamousBirthdays sameAs @alexisd_15. Category: College Athlete/Volleyball/Creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-023",
@@ -1130,7 +1505,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via swimwear-model + former-college-athlete activity search. Woman per she/her press + women's college volleyball history. Adult via Sept 28, 1995 DOB + press age statements in 2023 ('then 23-year-old') and 2026 ('30 year old') — internally consistent across three sources. Identity: press describe the same Marshall→model arc and @kaylasimmmons handle (FamousBirthdays sameAs). Category: Swimwear/Modeling/College Athlete (former) — objective; swimwear classified by content."
+      "notes": "Discovered via swimwear-model + former-college-athlete activity search. Woman per she/her press + women's college volleyball history. Adult via Sept 28, 1995 DOB + press age statements in 2023 ('then 23-year-old') and 2026 ('30 year old') — internally consistent across three sources. Identity: press describe the same Marshall→model arc and @kaylasimmmons handle (FamousBirthdays sameAs). Category: Swimwear/Modeling/College Athlete (former) — objective; swimwear classified by content.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-024",
@@ -1175,7 +1560,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via TikTok fitness-creator activity search (micro-to-mid creator, #230,006 popularity — demonstrates follower count is not a filter). Woman per structured gender field + she/her bio. Adult via June 29, 1999 DOB. Identity: FamousBirthdays sameAs matches the @evanagetfit TikTok profile documented on the platform page and third-party analytics. Category: fitness/nutrition/wellness creator — objective."
+      "notes": "Discovered via TikTok fitness-creator activity search (micro-to-mid creator, #230,006 popularity — demonstrates follower count is not a filter). Woman per structured gender field + she/her bio. Adult via June 29, 1999 DOB. Identity: FamousBirthdays sameAs matches the @evanagetfit TikTok profile documented on the platform page and third-party analytics. Category: fitness/nutrition/wellness creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-025",
@@ -1220,7 +1615,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via TikTok fitness-creator activity search (age diversity: 47, Canadian — British Columbia). Woman per she/her bio. Adult via July 10, 1979 DOB. Identity: her own X profile cross-links TikTok @summer_fit, Instagram Summer_fit_style, YouTube and direct.me/summer-fit — multi-platform ownership chain verified first-party. Category: fitness/lifestyle creator — objective (comedy + fitness modeling photos per bio)."
+      "notes": "Discovered via TikTok fitness-creator activity search (age diversity: 47, Canadian — British Columbia). Woman per she/her bio. Adult via July 10, 1979 DOB. Identity: her own X profile cross-links TikTok @summer_fit, Instagram Summer_fit_style, YouTube and direct.me/summer-fit — multi-platform ownership chain verified first-party. Category: fitness/lifestyle creator — objective (comedy + fitness modeling photos per bio).",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-026",
@@ -1259,7 +1664,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via fitness-coach activity search (Ukraine-born, US-based — immigrant-story diversity; Fitness Creators member). Woman per she/her bio + first-party professional name on TikTok (MS, RDN credential). Adult via May 31, 1999 DOB. Identity: FamousBirthdays sameAs matches the TikTok account whose display name (Valeriia Litvinova, MS, RDN) and content match the biography description. Category: fitness/nutrition coaching creator — objective."
+      "notes": "Discovered via fitness-coach activity search (Ukraine-born, US-based — immigrant-story diversity; Fitness Creators member). Woman per she/her bio + first-party professional name on TikTok (MS, RDN credential). Adult via May 31, 1999 DOB. Identity: FamousBirthdays sameAs matches the TikTok account whose display name (Valeriia Litvinova, MS, RDN) and content match the biography description. Category: fitness/nutrition coaching creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-027",
@@ -1312,7 +1727,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via surf-creator activity search (women-in-surfing representation advocate). Woman per first-party X name (Elizabeth) + press identification (Elizabeth Sneed) + she/her bios. Adult via Dec 10, 1990 DOB. Identity: X profile and Instagram handle match FamousBirthdays sameAs; press feature names Elizabeth Sneed with the same @curvysurfergirl credit. Category: Surfing/Sports/Swimwear content (surf travel + swimsuit inspiration per bio) — objective, body-positive advocacy framing, no attractiveness rating."
+      "notes": "Discovered via surf-creator activity search (women-in-surfing representation advocate). Woman per first-party X name (Elizabeth) + press identification (Elizabeth Sneed) + she/her bios. Adult via Dec 10, 1990 DOB. Identity: X profile and Instagram handle match FamousBirthdays sameAs; press feature names Elizabeth Sneed with the same @curvysurfergirl credit. Category: Surfing/Sports/Swimwear content (surf travel + swimsuit inspiration per bio) — objective, body-positive advocacy framing, no attractiveness rating.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-028",
@@ -1370,7 +1795,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via travel-creator activity search (Scotland — geography diversity). Woman per she/her press + first-party blog bio. Adult via Feb 22, 1992 DOB + first-party self-stated age ('Amy Bell | 27') consistent with DOB. Identity: The Herald names her blog/handle, FashionUnited documents a brand collaboration, and her own site ties it together — Tier-1 first-party + Tier-2 press chain. Category: Travel/Fashion/Lifestyle blogger — objective."
+      "notes": "Discovered via travel-creator activity search (Scotland — geography diversity). Woman per she/her press + first-party blog bio. Adult via Feb 22, 1992 DOB + first-party self-stated age ('Amy Bell | 27') consistent with DOB. Identity: The Herald names her blog/handle, FashionUnited documents a brand collaboration, and her own site ties it together — Tier-1 first-party + Tier-2 press chain. Category: Travel/Fashion/Lifestyle blogger — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-029",
@@ -1421,7 +1856,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via yoga/wellness-creator activity search (Canada). Woman per she/her bio + first-party Linktree/site branding. Adult via Aug 28, 1990 DOB. Identity: FamousBirthdays sameAs @meghancurrieyoga matches her first-party link hub and yoga site — ownership verified. Category: Wellness/Yoga/Fitness — objective (workshops, retreats, ethical yogawear)."
+      "notes": "Discovered via yoga/wellness-creator activity search (Canada). Woman per she/her bio + first-party Linktree/site branding. Adult via Aug 28, 1990 DOB. Identity: FamousBirthdays sameAs @meghancurrieyoga matches her first-party link hub and yoga site — ownership verified. Category: Wellness/Yoga/Fitness — objective (workshops, retreats, ethical yogawear).",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-030",
@@ -1466,7 +1911,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via women's esports activity search (Valorant Game Changers circuit — platform/category diversity, Denmark). Woman per she/her Liquipedia bio + all-women team roster (G2 Gozen). Adult via July 2, 1997 DOB on two independent esports databases. Identity: consistent name/handle/team across Liquipedia, Esports Charts and VLR.gg roster news (active 2026 season matches). Category: Esports/Sports (professional Valorant player, in-game leader) — objective."
+      "notes": "Discovered via women's esports activity search (Valorant Game Changers circuit — platform/category diversity, Denmark). Woman per she/her Liquipedia bio + all-women team roster (G2 Gozen). Adult via July 2, 1997 DOB on two independent esports databases. Identity: consistent name/handle/team across Liquipedia, Esports Charts and VLR.gg roster news (active 2026 season matches). Category: Esports/Sports (professional Valorant player, in-game leader) — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-031",
@@ -1511,7 +1966,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Discovered via women's esports activity search (broadcast/host role — South Korea diversity). Woman per she/her Liquipedia bio. Adult via June 23, 1995 DOB. Identity: esports.gg press names the same Lee Jeong-hyun as VALORANT Champions 2024 stage host, matching the Liquipedia role record. Category: Esports broadcaster/host (Creator) — objective."
+      "notes": "Discovered via women's esports activity search (broadcast/host role — South Korea diversity). Woman per she/her Liquipedia bio. Adult via June 23, 1995 DOB. Identity: esports.gg press names the same Lee Jeong-hyun as VALORANT Champions 2024 stage host, matching the Liquipedia role record. Category: Esports broadcaster/host (Creator) — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-032",
@@ -1562,7 +2027,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "PROMOTED from R-2026-002 (review queue) after this session's research. Missing field resolved: AGE — DOB March 18, 2002 now established by three independent sources (Wikipedia, Tar Heel Times, Basketball-Reference). Gender resolved via women's-team documentation (UNC WBB + Serie A1 women's club). Identity/ownership strengthened: Basketball-Reference explicitly lists her Instagram handle. Category: College Athlete (former UNC WBB; program career-rebounds record holder)/Basketball — objective."
+      "notes": "PROMOTED from R-2026-002 (review queue) after this session's research. Missing field resolved: AGE — DOB March 18, 2002 now established by three independent sources (Wikipedia, Tar Heel Times, Basketball-Reference). Gender resolved via women's-team documentation (UNC WBB + Serie A1 women's club). Identity/ownership strengthened: Basketball-Reference explicitly lists her Instagram handle. Category: College Athlete (former UNC WBB; program career-rebounds record holder)/Basketball — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-033",
@@ -1614,7 +2089,17 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "PROMOTED from R-2026-009 (review queue) after this session's research. Missing field resolved: AGE — DOB April 30, 1997 confirmed by three independent biographies; adult status further supported by documented 2016 TEDx talk and 2022 marriage. Gender resolved via women's volleyball documentation + consistent she/her. Identity: all three biographies describe the same USC libero → mental-health advocate/podcast host arc matching the @victoriagarrick4 account recorded at discovery. Category: College Athlete (former)/Wellness/Creator — objective."
+      "notes": "PROMOTED from R-2026-009 (review queue) after this session's research. Missing field resolved: AGE — DOB April 30, 1997 confirmed by three independent biographies; adult status further supported by documented 2016 TEDx talk and 2022 marriage. Gender resolved via women's volleyball documentation + consistent she/her. Identity: all three biographies describe the same USC libero → mental-health advocate/podcast host arc matching the @victoriagarrick4 account recorded at discovery. Category: College Athlete (former)/Wellness/Creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "W-2026-034",
@@ -1660,7 +2145,945 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "PROMOTED from R-2026-010 (review queue) after this session's research. Missing field resolved: AGE — DOB May 12, 2000 confirmed by Sporting News + Wikipedia. Gender resolved via women's-basketball documentation (NCAA women's programs; Greek Women's Basketball League). Identity: the TikTok account @sedonerr recorded at discovery matches the documented player (3M-follower creator documented in prior session's evidence). Category: College Athlete (former)/Basketball/Creator — objective."
+      "notes": "PROMOTED from R-2026-010 (review queue) after this session's research. Missing field resolved: AGE — DOB May 12, 2000 confirmed by Sporting News + Wikipedia. Gender resolved via women's-basketball documentation (NCAA women's programs; Greek Women's Basketball League). Identity: the TikTok account @sedonerr recorded at discovery matches the documented player (3M-follower creator documented in prior session's evidence). Category: College Athlete (former)/Basketball/Creator — objective.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": "",
+        "username": "",
+        "display": "FOLLOWER_COUNT_UNKNOWN",
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-035",
+      "displayName": "Ashley Kaltwasser",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 22, 1988 in Akron, Ohio, USA — age 37 in 2026, well over 18. DOB stated on Wikipedia biography (American bodybuilder, born 1988).",
+        "sourceLabel": "Wikipedia — Ashley Kaltwasser (born November 22, 1988)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ashley_Kaltwasser",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography and IFBB Pro League Bikini division competitor (women's professional bikini) — three-time Bikini Olympia champion.",
+        "sourceLabel": "Wikipedia — Ashley Kaltwasser, IFBB Pro League bikini competitor",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ashley_Kaltwasser",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Ashley Kaltwasser biography (DOB 1988-11-22, 3× Bikini Olympia)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ashley_Kaltwasser",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Instagram — @ashleykfit (Ms. Bikini Olympia x3, official fitness account)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/ashleykfit/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Muscle & Fitness — 10 Questions with IFBB Pro Ashley Kaltwasser",
+          "platform": "Press",
+          "url": "https://www.muscleandfitness.com/flexonline/flex-news/10-questions-with-ifbb-pro-ashley-kaltwasser/",
+          "relationship": "press"
+        },
+        {
+          "label": "X/Twitter — @AshleyKfit official (3x Ms. Bikini Olympia)",
+          "platform": "X",
+          "url": "https://x.com/ashleykfit",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via IFBB Bikini Pro / fitness-model activity. Woman per Wikipedia + IFBB Bikini (women's) division. Adult via Nov 22, 1988 DOB on Wikipedia. Identity: Wikipedia ↔ @ashleykfit Instagram ↔ Muscle & Fitness interview. Category: competitive fitness / fitness modeling — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@ashleykfit",
+          "profileUrl": "https://www.instagram.com/ashleykfit/",
+          "followerCountDisplay": "924K",
+          "followerCountNumeric": 924000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "Instagram public profile page display: 924K followers"
+        },
+        {
+          "platform": "X",
+          "username": "@AshleyKfit",
+          "profileUrl": "https://x.com/ashleykfit",
+          "followerCountDisplay": "39K",
+          "followerCountNumeric": 39000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "X/Twitter public profile schema userInteractionCount ~39,070"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@ashleykfit",
+        "display": "924K",
+        "numeric": 924000,
+        "sizeRange": "500K–999.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "500K–999.9K"
+    },
+    {
+      "id": "W-2026-036",
+      "displayName": "Natasha Oakley",
+      "categories": [
+        "Swimwear",
+        "Bikini/Swimwear Fashion",
+        "Fashion",
+        "Modeling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 14, 1990 in Bronte, New South Wales, Australia — age 36 in 2026. DOB on Wikipedia biography.",
+        "sourceLabel": "Wikipedia — Natasha Oakley (born July 14, 1990)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natasha_Oakley",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography (Australian Instagram model) and as co-founder of Monday Swimwear / A Bikini A Day with business partner Devin Brugman.",
+        "sourceLabel": "Wikipedia — Natasha Oakley, Australian Instagram model",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Natasha_Oakley",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Natasha Oakley biography (DOB 1990-07-14, Monday Swimwear)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Natasha_Oakley",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Instagram — @tashoakley (CEO/co-founder Monday Swimwear)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tashoakley/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Business Insider — Monday Swimwear CEO Natasha Oakley",
+          "platform": "Press",
+          "url": "https://www.businessinsider.com/swimwear-ceo-natasha-oakley-strategies-to-success-2020-9",
+          "relationship": "press"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via swimwear-creator / Monday Swimwear activity. Woman per Wikipedia model biography. Adult via July 14, 1990 DOB. Identity: Wikipedia ↔ @tashoakley ↔ Business Insider CEO profile. Category: swimwear/fashion/modeling — objective (not attractiveness ranking).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tashoakley",
+          "profileUrl": "https://www.instagram.com/tashoakley/",
+          "followerCountDisplay": "3.6M",
+          "followerCountNumeric": 3600000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Imginn public profile mirror of Instagram @tashoakley: 3.6M followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@tashoakley",
+        "display": "3.6M",
+        "numeric": 3600000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-037",
+      "displayName": "Devin Brugman",
+      "categories": [
+        "Swimwear",
+        "Bikini/Swimwear Fashion",
+        "Fashion",
+        "Modeling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 26, 1990 in Oakland, California, USA — age 35 in 2026. DOB on FamousBirthdays (JSON-LD birthDate 1990-12-26) and independent biographies.",
+        "sourceLabel": "FamousBirthdays — Devin Brugman (born December 26, 1990)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/devin-brugman.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via multiple independent biographies describing her as swimwear model and co-founder of A Bikini A Day / Monday Swimwear with Natasha Oakley; she/her throughout.",
+        "sourceLabel": "TheCityCeleb — Devin Brugman biography (model, entrepreneur)",
+        "sourceUrl": "https://www.thecityceleb.com/biography/personality/model/devin-brugman-biography-partner-instagram-age-net-worth-parents-siblings-wiki/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Devin Brugman DOB Dec 26, 1990; sameAs Instagram",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/devin-brugman.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @devinbrugman (Monday Swimwear co-founder)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/devinbrugman/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Wikipedia — Natasha Oakley (names Devin Brugman as co-founder of A Bikini A Day / Monday Swimwear)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Natasha_Oakley",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TheCityCeleb — Devin Brugman biography",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/personality/model/devin-brugman-biography-partner-instagram-age-net-worth-parents-siblings-wiki/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via swimwear-creator activity (Monday Swimwear co-founder). Woman per biographies + swimwear-model career. Adult via Dec 26, 1990 DOB on FamousBirthdays JSON-LD + independent bios. Identity: FamousBirthdays sameAs @devinbrugman; Wikipedia Natasha Oakley page names her as co-founder. Category: swimwear/fashion — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@devinbrugman",
+          "profileUrl": "https://www.instagram.com/devinbrugman/",
+          "followerCountDisplay": "1.5M",
+          "followerCountNumeric": 1500000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "ainfluencer Instagram bikini-models list 2026: Devin Brugman @devinbrugman 1.5M followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@devinbrugman",
+        "display": "1.5M",
+        "numeric": 1500000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-038",
+      "displayName": "Cassey Ho (Blogilates)",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator",
+        "Fashion"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 16, 1987 in Los Angeles, California, USA — age 39 in 2026. DOB on Wikipedia biography.",
+        "sourceLabel": "Wikipedia — Cassey Ho (born January 16, 1987)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cassey_Ho",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography (American entrepreneur, fashion designer, social media fitness entrepreneur; she/her; wife of Sam Livits).",
+        "sourceLabel": "Wikipedia — Cassey Ho biography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Cassey_Ho",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Cassey Ho biography (DOB 1987-01-16, Blogilates)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cassey_Ho",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Official website — blogilates.com",
+          "platform": "Website",
+          "url": "https://www.blogilates.com/",
+          "relationship": "official"
+        },
+        {
+          "label": "YouTube — @blogilates (POP Pilates / Blogilates)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@blogilates",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — Blogilates / Cassey Ho",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/blogilates/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-creator activity (Blogilates / POP Pilates). Woman per Wikipedia. Adult via Jan 16, 1987 DOB. Identity: Wikipedia ↔ official blogilates.com ↔ YouTube @blogilates. Category: fitness/wellness/creator — objective. Follower diversity: multi-platform mega creator with exact YouTube subscriber box on Wikipedia.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@blogilates",
+          "profileUrl": "https://www.youtube.com/@blogilates",
+          "followerCountDisplay": "11.0M",
+          "followerCountNumeric": 11000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Wikipedia YouTube information box: 11.0 million subscribers (last updated Dec 19, 2025); CreatorDB 2026-06-18 also 11,000,000"
+        },
+        {
+          "platform": "Instagram",
+          "username": "@blogilates",
+          "profileUrl": "https://www.instagram.com/blogilates/",
+          "followerCountDisplay": "3.17M",
+          "followerCountNumeric": 3172168,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-06-18 Instagram 3,172,168"
+        },
+        {
+          "platform": "TikTok",
+          "username": "@blogilates",
+          "profileUrl": "https://www.tiktok.com/@blogilates",
+          "followerCountDisplay": "3.7M",
+          "followerCountNumeric": 3700000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-06-18 TikTok 3,700,000"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@blogilates",
+        "display": "11.0M",
+        "numeric": 11000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-039",
+      "displayName": "Elisa Pecini (Isa Pecini)",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 20, 1997 in Campinas, Brazil — age 29 in 2026. DOB on FamousBirthdays JSON-LD and ConanDaily Olympia coverage stating born Campinas Jan 20, 1997 (age 22 at 2019 Olympia win).",
+        "sourceLabel": "FamousBirthdays — Elisa Pecini (born January 20, 1997)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/elisa-pecini.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via IFBB Bikini Olympia champion coverage (women's bikini division) and FamousBirthdays / press she/her biographies.",
+        "sourceLabel": "ConanDaily — Brazil's Elisa Pecini is 2019 Bikini Olympia Champion",
+        "sourceUrl": "https://conandaily.com/2019/09/14/brazils-elisa-pecini-is-2019-bikini-olympia-champion/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Elisa Pecini DOB Jan 20, 1997; sameAs @isapecini",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/elisa-pecini.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ConanDaily — 2019 Bikini Olympia Champion Elisa Pecini (born Jan 20, 1997)",
+          "platform": "Press",
+          "url": "https://conandaily.com/2019/09/14/brazils-elisa-pecini-is-2019-bikini-olympia-champion/",
+          "relationship": "press"
+        },
+        {
+          "label": "Instagram — @isapecini (Miss Olympia / IFBB PRO)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/isapecini/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @IsaPecini (Professional Athlete / Miss Bikini Olympia; profile Born January 20)",
+          "platform": "X",
+          "url": "https://x.com/IsaPecini",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via IFBB Bikini Olympia / fitness-model activity (Brazil geography diversity). Woman per Bikini Olympia (women's division) + she/her bios. Adult via Jan 20, 1997 DOB on FamousBirthdays + ConanDaily + X profile birth date. Identity: FamousBirthdays sameAs @isapecini. Category: competitive fitness / fitness modeling — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@isapecini",
+          "profileUrl": "https://www.instagram.com/isapecini/",
+          "followerCountDisplay": "635K",
+          "followerCountNumeric": 635000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "Instagram public profile page display: 635K followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@isapecini",
+        "display": "635K",
+        "numeric": 635000,
+        "sizeRange": "500K–999.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "500K–999.9K"
+    },
+    {
+      "id": "W-2026-040",
+      "displayName": "Jennifer Dorie",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 7, 1996 in Ontario, Canada — age 29 in 2026. DOB stated on FitnessVolt / Generation Iron athlete profiles and corroborated by first-party Instagram birthday post referenced in PrimalInformation ('Here's to 25' on her 25th birthday Oct 2021).",
+        "sourceLabel": "FitnessVolt — Jennifer Dorie Profile (Date of birth October 7, 1996)",
+        "sourceUrl": "https://fitnessvolt.com/jennifer-dorie-profile/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via IFBB Bikini Pro / two-time Bikini Olympia champion coverage (women's bikini division) and she/her athlete profiles.",
+        "sourceLabel": "FitnessVolt — Jennifer Dorie, Canadian IFBB Bikini Pro / Olympia champion",
+        "sourceUrl": "https://fitnessvolt.com/jennifer-dorie-profile/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FitnessVolt — Jennifer Dorie profile (DOB Oct 7, 1996; 2× Bikini Olympia)",
+          "platform": "Website",
+          "url": "https://fitnessvolt.com/jennifer-dorie-profile/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Generation Iron — Jennifer Dorie Profile & Stats (DOB 10/7/1996)",
+          "platform": "Website",
+          "url": "https://generationiron.com/jennifer-dorie-profile/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jenniferdorie_ifbbpro (2× Ms. Bikini Olympia)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jenniferdorie_ifbbpro/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "BarBend — Jennifer Dorie bodybuilding career biography",
+          "platform": "Press",
+          "url": "https://barbend.com/jennifer-dorie/",
+          "relationship": "press"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via IFBB Bikini Pro activity (Canada geography). Woman per Bikini Olympia women's division. Adult via Oct 7, 1996 DOB on FitnessVolt + Generation Iron + birthday-post corroboration. Identity: consistent @jenniferdorie_ifbbpro across BarBend/FitnessVolt/IG. Category: competitive fitness — objective. Mid-size creator (~331K IG).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jenniferdorie_ifbbpro",
+          "profileUrl": "https://www.instagram.com/jenniferdorie_ifbbpro/",
+          "followerCountDisplay": "331K",
+          "followerCountNumeric": 331000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "Instagram public profile page display: 331K followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@jenniferdorie_ifbbpro",
+        "display": "331K",
+        "numeric": 331000,
+        "sizeRange": "250K–499.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "250K–499.9K"
+    },
+    {
+      "id": "W-2026-041",
+      "displayName": "Kelsey Wells",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 1, 1990 — age 35 in 2026. DOB on FamousBirthdays JSON-LD (birthDate 1990-09-01, sameAs Instagram @kelseywells) and multiple independent biographies.",
+        "sourceLabel": "FamousBirthdays — Kelsey Wells (born September 1, 1990)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/kelsey-wells.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via FamousBirthdays / SWEAT trainer biographies (she/her; mother; women's PWR programs on Sweat app).",
+        "sourceLabel": "HELLO! Magazine — Sweat trainer Kelsey Wells fitness tips for new mums",
+        "sourceUrl": "https://www.hellomagazine.com/healthandbeauty/health-and-fitness/2019040971870/sweat-trainer-kelsey-wells-fitness-tips-new-mums/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Kelsey Wells DOB Sept 1, 1990; sameAs @kelseywells",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/kelsey-wells.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kelseywells (SWEAT PWR trainer)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kelseywells/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "HELLO! — Sweat trainer Kelsey Wells",
+          "platform": "Press",
+          "url": "https://www.hellomagazine.com/healthandbeauty/health-and-fitness/2019040971870/sweat-trainer-kelsey-wells-fitness-tips-new-mums/",
+          "relationship": "press"
+        },
+        {
+          "label": "CreatorDB — Kelsey Wells platform stats",
+          "platform": "Website",
+          "url": "https://creatordb.app/creatorstats/kelsey-wells/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-trainer / SWEAT-app activity. Woman per she/her bios + new-mum trainer coverage. Adult via Sept 1, 1990 DOB on FamousBirthdays JSON-LD + independent bios. Identity: FamousBirthdays sameAs @kelseywells. Category: fitness/wellness creator — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kelseywells",
+          "profileUrl": "https://www.instagram.com/kelseywells/",
+          "followerCountDisplay": "2.92M",
+          "followerCountNumeric": 2920218,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-08-14 Instagram 2,920,218"
+        },
+        {
+          "platform": "TikTok",
+          "username": "@kelseywells",
+          "profileUrl": "https://www.tiktok.com/@kelseywells",
+          "followerCountDisplay": "7,099",
+          "followerCountNumeric": 7099,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5K–9.9K",
+          "sourceNote": "CreatorDB 2026-08-14 TikTok 7,099"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kelseywells",
+        "display": "2.92M",
+        "numeric": 2920218,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-042",
+      "displayName": "Whitney Simmons",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 27, 1993 in Fresno, California, USA — age 33 in 2026. DOB on multiple independent biographies (Dreshare, DailyBlooper, BodySize).",
+        "sourceLabel": "Dreshare — Whitney Simmons Wiki (born February 27, 1993, Fresno, CA)",
+        "sourceUrl": "https://www.dreshare.com/whitney-simmons/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via independent biographies describing her as a fitness influencer/model (she/her) and women's fitness content creator (Alive by Whitney Simmons).",
+        "sourceLabel": "Dreshare — Whitney Simmons biography (fitness model, she/her)",
+        "sourceUrl": "https://www.dreshare.com/whitney-simmons/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Dreshare — Whitney Simmons (DOB Feb 27, 1993, Fresno)",
+          "platform": "Website",
+          "url": "https://www.dreshare.com/whitney-simmons/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @whitneyysimmons",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/whitneyysimmons/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "CreatorDB — Whitney Simmons multi-platform stats",
+          "platform": "Website",
+          "url": "https://creatordb.app/creatorstats/whitney-simmons/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "DailyBlooper — Whitney Simmons Spotlight 2025 (DOB Feb 27, 1993)",
+          "platform": "Website",
+          "url": "https://dailyblooper.co.uk/whitney-simmons/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_SECONDARY_SOURCES"
+      ],
+      "notes": "Discovered via fitness-creator activity. Woman per she/her biographies. Adult via Feb 27, 1993 DOB on multiple independent bios (no single Tier-1 encyclopedia page; recorded with multi-source Tier-3 + platform identity). Identity: @whitneyysimmons consistent across CreatorDB/bios. Category: fitness/wellness — objective. Flag: AGE evidence is multi-source secondary (not Wikipedia/Britannica); retained as verified with notes for manual review preference of stronger Tier-1 if found later.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@whitneyysimmons",
+          "profileUrl": "https://www.instagram.com/whitneyysimmons/",
+          "followerCountDisplay": "4.05M",
+          "followerCountNumeric": 4049756,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-06-26 Instagram 4,049,756; Instagram public page also shows ~3.4M on alternate snapshot"
+        },
+        {
+          "platform": "YouTube",
+          "username": "Whitney Simmons",
+          "profileUrl": "https://www.youtube.com/",
+          "followerCountDisplay": "2.33M",
+          "followerCountNumeric": 2330000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-06-26 YouTube 2,330,000"
+        },
+        {
+          "platform": "TikTok",
+          "username": "@whitneyysimmons",
+          "profileUrl": "https://www.tiktok.com/@whitneyysimmons",
+          "followerCountDisplay": "3.0M",
+          "followerCountNumeric": 3000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CreatorDB 2026-06-26 TikTok 3,000,000"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@whitneyysimmons",
+        "display": "4.05M",
+        "numeric": 4049756,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-043",
+      "displayName": "Massy Arias (Massiel Arias)",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator",
+        "Fitness Model"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 23, 1988 in the Dominican Republic — age 37 in 2026. DOB on FamousBirthdays JSON-LD (Massiel Arias, birthDate 1988-11-23, sameAs Instagram @massy.arias).",
+        "sourceLabel": "FamousBirthdays — Massiel Arias (born November 23, 1988)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/massiel-arias.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via FamousBirthdays / Create & Cultivate biographies (she/her; Mom | Health Coach | CEO first-party Instagram bio; mother).",
+        "sourceLabel": "Create & Cultivate — Massy Arias health & wellness profile",
+        "sourceUrl": "https://www.createcultivate.com/blog/create-cultivate-100-health-wellness-massiel-arias",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Massiel Arias DOB Nov 23, 1988; sameAs @massy.arias",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/massiel-arias.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @massy.arias (Mom | Health Coach | CEO 🇩🇴)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/massy.arias/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Create & Cultivate — Massy Arias / MankoFit profile",
+          "platform": "Press",
+          "url": "https://www.createcultivate.com/blog/create-cultivate-100-health-wellness-massiel-arias",
+          "relationship": "press"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-trainer activity (Dominican Republic geography diversity). Woman per she/her + first-party 'Mom' bio. Adult via Nov 23, 1988 DOB on FamousBirthdays JSON-LD. Identity: FamousBirthdays sameAs @massy.arias. Category: fitness/wellness — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@massy.arias",
+          "profileUrl": "https://www.instagram.com/massy.arias/",
+          "followerCountDisplay": "3M",
+          "followerCountNumeric": 3000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public profile page display: 3M followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@massy.arias",
+        "display": "3M",
+        "numeric": 3000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-044",
+      "displayName": "Michelle Lewin",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 25, 1986 in Maracay, Venezuela — age 40 in 2026. DOB stated in Zoom TV Entertainment birthday feature (Born on February 25, 1986). Note: TheBarbell profile lists February 2, 1986 — CONFLICTING day-of-month; year 1986 and adult status are consistent across sources. Flagged for day-of-month conflict; adult status still clearly 18+.",
+        "sourceLabel": "Zoom TV Entertainment — Michelle Lewin birthday feature (born February 25, 1986)",
+        "sourceUrl": "https://www.zoomtventertainment.com/celebrity/photo-gallery/venezuelan-fitness-model-michelle-lewins-hot-bikini-photos-on-instagram/557604",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via multiple independent biographies describing her as a Venezuelan fitness model (she/her) and former professional bikini-division bodybuilder.",
+        "sourceLabel": "TheBarbell — Michelle Lewin Complete Profile",
+        "sourceUrl": "https://thebarbell.com/michelle-lewin/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Zoom TV — Michelle Lewin (born February 25, 1986, Maracay)",
+          "platform": "Press",
+          "url": "https://www.zoomtventertainment.com/celebrity/photo-gallery/venezuelan-fitness-model-michelle-lewins-hot-bikini-photos-on-instagram/557604",
+          "relationship": "press"
+        },
+        {
+          "label": "TheBarbell — Michelle Lewin profile (Venezuelan fitness model)",
+          "platform": "Website",
+          "url": "https://thebarbell.com/michelle-lewin/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @michelle_lewin",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/michelle_lewin/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "Discovered via fitness-model activity (Venezuela geography). Woman per she/her bios + bikini-division career. Adult: birth YEAR 1986 consistent (age ~40); day-of-month CONFLICT (Feb 25 vs Feb 2) flagged — still clearly 18+. Identity: @michelle_lewin. Category: fitness/fitness model — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@michelle_lewin",
+          "profileUrl": "https://www.instagram.com/michelle_lewin/",
+          "followerCountDisplay": "15M",
+          "followerCountNumeric": 15000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Instagram public profile page display: 15M followers; TheBarbell cites 15.5M"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@michelle_lewin",
+        "display": "15M",
+        "numeric": 15000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-045",
+      "displayName": "Kendall Coley",
+      "categories": [
+        "College Athlete",
+        "Basketball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 3, 2002 in Minneapolis — age 23 in 2026, over 18. DOB stated on official University of Nebraska Athletics player bio (huskers.com): 'Kendall was born Nov. 3, 2002, in Minneapolis.'",
+        "sourceLabel": "Nebraska Athletics — Kendall Coley player bio (born Nov. 3, 2002)",
+        "sourceUrl": "https://huskers.com/sports/womens-basketball/roster/season/2023-24/player/kendall-coley",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via official Nebraska Women's Basketball roster / player bio (women's basketball program).",
+        "sourceLabel": "Nebraska Athletics — Women's Basketball roster, Kendall Coley",
+        "sourceUrl": "https://huskers.com/sports/womens-basketball/roster/season/2023-24/player/kendall-coley",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Nebraska Athletics — Kendall Coley WBB bio (DOB Nov 3, 2002)",
+          "platform": "Website",
+          "url": "https://huskers.com/sports/womens-basketball/roster/season/2023-24/player/kendall-coley",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @kendall.coley (Nebraska WBB alumni)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kendall.coley/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Opendorse NIL profile — Kendall Coley (Instagram/TikTok sameAs)",
+          "platform": "Website",
+          "url": "https://opendorse.com/profile/kendall-coley",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via college-athlete activity (Nebraska WBB). Woman per official women's basketball roster. Adult via Tier-1 university bio DOB Nov 3, 2002. Identity: huskers.com ↔ @kendall.coley (IG bio 'Nebraska WBB alumni') ↔ Opendorse sameAs. Category: college athlete/basketball — objective. SMALL creator (~4K IG) — prioritizes lesser-known / under-10K size band.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kendall.coley",
+          "profileUrl": "https://www.instagram.com/kendall.coley/",
+          "followerCountDisplay": "4,057",
+          "followerCountNumeric": 4057,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1K–4.9K",
+          "sourceNote": "Instagram public profile page display: 4,057 followers"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kendall.coley",
+        "display": "4,057",
+        "numeric": 4057,
+        "sizeRange": "1K–4.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1K–4.9K"
+    },
+    {
+      "id": "W-2026-046",
+      "displayName": "Lauren Drain Kagan",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 31, 1985 in Tampa, Florida, USA — age 40 in 2026. DOB on CelebsAges / CelebHealthMagazine biographies (New York Times bestselling author of Banished; WBFF Bikini Pro).",
+        "sourceLabel": "CelebsAges — Lauren Drain Kagan (born December 31, 1985)",
+        "sourceUrl": "https://www.celebsages.com/lauren-drain-kagan/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via biographies describing her as fitness model, nurse, and author (she/her); WBFF Bikini Pro (women's division).",
+        "sourceLabel": "CelebsAges — Lauren Drain Kagan biography",
+        "sourceUrl": "https://www.celebsages.com/lauren-drain-kagan/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CelebsAges — Lauren Drain Kagan (DOB Dec 31, 1985, Tampa)",
+          "platform": "Website",
+          "url": "https://www.celebsages.com/lauren-drain-kagan/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CelebHealthMagazine — Lauren Drain biography (DOB Dec 31, 1985)",
+          "platform": "Website",
+          "url": "https://celebhealthmagazine.com/lauren-drain/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @laurendrainfit (Lauren Drain Kagan; Nurse / Bikini Pro / NYT Best Seller)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/laurendrainfit/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_SECONDARY_SOURCES"
+      ],
+      "notes": "Discovered via fitness-model / WBFF activity. Woman per she/her bios + WBFF Bikini + first-party IG bio (Nurse, Mom, Bikini Pro). Adult via Dec 31, 1985 DOB on two independent biographies. Identity: Instagram @laurendrainfit public page names Lauren Drain Kagan with NYT Best Seller / Bikini Pro bio matching CelebsAges. Category: fitness — objective. Flag: AGE evidence secondary (no Wikipedia) pending stronger Tier-1.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@laurendrainfit",
+          "profileUrl": "https://www.instagram.com/laurendrainfit/",
+          "followerCountDisplay": "3M",
+          "followerCountNumeric": 3000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public profile page display: 3M followers; Starngage schema also cites ~3.66M historically"
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@laurendrainfit",
+        "display": "3M",
+        "numeric": 3000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
     }
   ],
   "reviewQueue": [
@@ -1683,7 +3106,11 @@
         "AGE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via 'volleyball college athlete' activity (Collabstr @jessicapaige). Gender: woman can be inferred via women's volleyball roster (Tier 1 university athletic profile, women's team) — but adult status: no public birth date, age statement, or explicit 18+ evidence found in gorhody roster or Collabstr profile; 'college athlete' alone not sufficient per §2. Recorded as REVIEW_REQUIRED with AGE_UNVERIFIED — not guessed. Next step: search reputable interview or first-party bio with explicit age."
+      "notes": "Discovered via 'volleyball college athlete' activity (Collabstr @jessicapaige). Gender: woman can be inferred via women's volleyball roster (Tier 1 university athletic profile, women's team) — but adult status: no public birth date, age statement, or explicit 18+ evidence found in gorhody roster or Collabstr profile; 'college athlete' alone not sufficient per §2. Recorded as REVIEW_REQUIRED with AGE_UNVERIFIED — not guessed. Next step: search reputable interview or first-party bio with explicit age.",
+      "followerCountDisplay": "7.5K",
+      "followerCountNumeric": 7500,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "10K–24.9K"
     },
     {
       "id": "R-2026-003",
@@ -1704,7 +3131,11 @@
         "AGE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via volleyball creator activity. Gender: professional volleyball in women's context + she/her in Collabstr bio ('Hi, I'm Olivia') — but no independent DOB or explicit age statement found; adult cannot be inferred from professional status or appearance. Needs first-party bio with age or reputable interview. REVIEW_REQUIRED."
+      "notes": "Discovered via volleyball creator activity. Gender: professional volleyball in women's context + she/her in Collabstr bio ('Hi, I'm Olivia') — but no independent DOB or explicit age statement found; adult cannot be inferred from professional status or appearance. Needs first-party bio with age or reputable interview. REVIEW_REQUIRED.",
+      "followerCountDisplay": "106K",
+      "followerCountNumeric": 106000,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "100K–249.9K"
     },
     {
       "id": "R-2026-004",
@@ -1727,7 +3158,11 @@
         "PROFILE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via college volleyball activity. Adult: explicit '20-year-old' first-party statement on Collabstr (20 >18) — promising Tier 3 first-party age evidence, but per evidence-based standard, a single Tier 3 age statement alone is not sole sensitive proof when stronger (university profile with birth year, reputable interview) is reasonably expected but not yet found — flagged for corroboration. Gender: 'Emmy' + D1 volleyball suggests woman but no explicit first-party gender biography found — needs stronger source. Profile ownership: TikTok handle not yet cross-linked via official university roster. REVIEW_REQUIRED — not guessed, needs stronger age corroboration and gender evidence."
+      "notes": "Discovered via college volleyball activity. Adult: explicit '20-year-old' first-party statement on Collabstr (20 >18) — promising Tier 3 first-party age evidence, but per evidence-based standard, a single Tier 3 age statement alone is not sole sensitive proof when stronger (university profile with birth year, reputable interview) is reasonably expected but not yet found — flagged for corroboration. Gender: 'Emmy' + D1 volleyball suggests woman but no explicit first-party gender biography found — needs stronger source. Profile ownership: TikTok handle not yet cross-linked via official university roster. REVIEW_REQUIRED — not guessed, needs stronger age corroboration and gender evidence.",
+      "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+      "followerCountNumeric": null,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "R-2026-005",
@@ -1748,7 +3183,11 @@
         "AGE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via 'female fitness micro influencer' query (49K micro-tier). Gender: woman via mom/wife/IFBB Pro women's bodybuilding context (she/her) — but no public DOB, explicit age statement, or first-party bio with age found — adult not inferred from mom/wife status or appearance. Needs public birth date or explicit age. REVIEW_REQUIRED."
+      "notes": "Discovered via 'female fitness micro influencer' query (49K micro-tier). Gender: woman via mom/wife/IFBB Pro women's bodybuilding context (she/her) — but no public DOB, explicit age statement, or first-party bio with age found — adult not inferred from mom/wife status or appearance. Needs public birth date or explicit age. REVIEW_REQUIRED.",
+      "followerCountDisplay": "49K",
+      "followerCountNumeric": 49000,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "25K–49.9K"
     },
     {
       "id": "R-2026-006",
@@ -1771,7 +3210,11 @@
         "PROFILE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query. Adult: explicit '25-year-old' in reputable publication (StackInfluence) — promising adult evidence (25 >18) from Tier 2, but gender: article does not explicitly state woman with biography — described as 'young micro influencers blending fitness' without she/her; handle alone not sufficient. Profile ownership: Instagram @kahdiaaa not yet cross-verified via bio links/photographs. Flagged for stronger gender evidence and ownership verification. REVIEW_REQUIRED — not discarded, pipeline for further research."
+      "notes": "Discovered via fitness micro influencer query. Adult: explicit '25-year-old' in reputable publication (StackInfluence) — promising adult evidence (25 >18) from Tier 2, but gender: article does not explicitly state woman with biography — described as 'young micro influencers blending fitness' without she/her; handle alone not sufficient. Profile ownership: Instagram @kahdiaaa not yet cross-verified via bio links/photographs. Flagged for stronger gender evidence and ownership verification. REVIEW_REQUIRED — not discarded, pipeline for further research.",
+      "followerCountDisplay": "28K",
+      "followerCountNumeric": 28000,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "25K–49.9K"
     },
     {
       "id": "R-2026-007",
@@ -1794,7 +3237,11 @@
         "GENDER_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query. Category Fitness supported, but no public DOB/age statement and no explicit gender biography found in this search — 23K follower count not an eligibility factor but also not evidence. Needs first-party bio with age and gender evidence. REVIEW_REQUIRED."
+      "notes": "Discovered via fitness micro influencer query. Category Fitness supported, but no public DOB/age statement and no explicit gender biography found in this search — 23K follower count not an eligibility factor but also not evidence. Needs first-party bio with age and gender evidence. REVIEW_REQUIRED.",
+      "followerCountDisplay": "23K",
+      "followerCountNumeric": 23000,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "10K–24.9K"
     },
     {
       "id": "R-2026-008",
@@ -1817,7 +3264,11 @@
         "GENDER_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query (smallest tier, 14.4K). Category Fitness supported via Technogym Master Trainer, but no DOB/age or explicit gender biography found — follower count not relevant. Needs independent adult and woman evidence. REVIEW_REQUIRED."
+      "notes": "Discovered via fitness micro influencer query (smallest tier, 14.4K). Category Fitness supported via Technogym Master Trainer, but no DOB/age or explicit gender biography found — follower count not relevant. Needs independent adult and woman evidence. REVIEW_REQUIRED.",
+      "followerCountDisplay": "14.4K",
+      "followerCountNumeric": 14400,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "10K–24.9K"
     },
     {
       "id": "R-2026-011",
@@ -1838,7 +3289,11 @@
         "CONFLICTING_INFORMATION"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via fashion-creator activity search. Adult status looks strong (published DOB Jan 30, 1998 + engagement announced 2025) and gender evidence is consistent (she/her throughout). HOLD reason: surname conflict across sources — FamousBirthdays lists her as 'Jade Haliburton' (handle @jadehaliburton) while Times of India and other press call her 'Jade Jones'. Name needs resolution from a first-party source before promotion to VERIFIED. Not guessed per protocol."
+      "notes": "Discovered via fashion-creator activity search. Adult status looks strong (published DOB Jan 30, 1998 + engagement announced 2025) and gender evidence is consistent (she/her throughout). HOLD reason: surname conflict across sources — FamousBirthdays lists her as 'Jade Haliburton' (handle @jadehaliburton) while Times of India and other press call her 'Jade Jones'. Name needs resolution from a first-party source before promotion to VERIFIED. Not guessed per protocol.",
+      "followerCountDisplay": "170K+",
+      "followerCountNumeric": 170000,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "100K–249.9K"
     },
     {
       "id": "R-2026-012",
@@ -1861,7 +3316,11 @@
         "GENDER_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered during fitness-coach corroboration search — included precisely because she is a micro creator (2.7K followers; follower count is not a filter). Public profile URL recorded and checked in search results. Missing: no public DOB/age statement found (AGE_UNVERIFIED — bio does not establish 18+); bio text does not explicitly establish the operator is a woman ('Helping women' describes the audience, not the creator). Needs first-party evidence (published DOB/age or explicit self-identification) before promotion."
+      "notes": "Discovered during fitness-coach corroboration search — included precisely because she is a micro creator (2.7K followers; follower count is not a filter). Public profile URL recorded and checked in search results. Missing: no public DOB/age statement found (AGE_UNVERIFIED — bio does not establish 18+); bio text does not explicitly establish the operator is a woman ('Helping women' describes the audience, not the creator). Needs first-party evidence (published DOB/age or explicit self-identification) before promotion.",
+      "followerCountDisplay": "2,768",
+      "followerCountNumeric": 2768,
+      "followerCountCheckedAt": "2026-09-06",
+      "followerSizeRange": "1K–4.9K"
     }
   ],
   "irregularities": [
@@ -1905,6 +3364,13 @@
       "severity": "blocked",
       "summary": "Methodology correction for diverse creator discovery (activity-first, not celebrity-only) reviewed; bulk 1,000 autonomous harvesting still blocked — incremental verified expansion only.",
       "detail": "On 2026-09-06 the owner submitted 'IMPORTANT METHODOLOGY CORRECTION': research target is publicly accessible creator profiles whose documented public activity falls into fitness, fashion, modeling, swimwear/beachwear, athletics, college athletics, lifestyle, travel or related creator categories — gender/adult are eligibility verifications, not discovery criteria. Methodology must be 'Discover public creators in specific content/activity categories → determine whether creator qualifies as adult woman → verify public profile → record if all requirements satisfied' — not 'Find women → collect accounts'. Must deliberately include micro/emerging/independent/regional/college/fitness/fashion/swimwear/lifestyle/smaller influencers (follower count not a qualifier), and explicitly states a person does NOT need Wikipedia/Britannica/agency/major publication/blue check/large following to be discovered. Verification should be evidence-based not celebrity-based: use strongest legitimate public evidence actually available (Tier 1: first-party bio/official site/official social/agency/university athletic/sports org; Tier 2: reputable interview/established publication; Tier 3: public creator directory/secondary database/search result) — use multiple independent sources when possible, Tier 3 alone not sole sensitive determination when stronger reasonably available; publish 18+ only with independent legitimate public evidence (first-party bio with age, public birth date, official creator bio, sports profile, university profile when age independently established, reputable interview etc.) — otherwise AGE_UNVERIFIED; woman likewise not inferred from appearance; public profile ownership must be verified via cross-links/bio links/consistent identity/photographs; swimwear/bikini/beachwear creators explicitly in scope but described objectively (Swimwear/Bikini fashion/Beachwear/Fashion/Modeling/Fitness/Lifestyle/Travel — no body-part ranking); college creators in scope but college ≠ 18+; do not require celebrity-level evidence — instead 'Enough legitimate public evidence to support the specific claims recorded'; public-source research only (no private/CAPTCHA bypass); do not stop because automated bulk harvesting is impossible — instead iterative search → inspect → verify → deduplicate → record until no more qualifying profiles or target reached, with diverse discovery queries (e.g., 'female fitness creator Instagram', 'female swimwear creator', 'female college athlete Instagram', 'female fashion micro influencer'). This correction is a direct improvement and was adopted as governing methodology for all future adds. Even with this corrected, activity-first, evidence-based standard, bulk autonomous harvesting of 1,000 diverse creators in one run remains blocked for the same reasons as IRR-002/003/004/005: (a) the discovery queries themselves ('female fitness creator', 'female swimwear creator', 'female college athlete') return thousands of public profiles, but essentially none of the micro/regional/college accounts returned carry a first-party biography with a public birth date, a university athletic profile with an independently verifiable birth year, or a reputable interview listing age — so satisfying §13's independent 18+ check for 1,000 such creators would still require fabricating Adult-status source and Gender source = hallucination; Tier 3 directory listings alone cannot prove 18+ or woman when stronger evidence is expected but absent, so those candidates correctly remain AGE_UNVERIFIED/GENDER_UNVERIFIED/REVIEW_REQUIRED and are not VERIFIED per §13. (b) Scale vs line-by-line (§9/§13/§18): each VERIFIED row still needs opening every URL, confirming ownership, identity, objective category, and duplicate search — 1,000 iterative rows cannot be completed autonomously in one turn without skipping checks. (c) Public ≠ consent to indexing at this scale, even when discovered by activity and classified objectively; the iterative method does not cure the aggregated searchable database of 1,000 lesser-known women (many with swimwear content). (d) Platform restrictions still prohibit mass scraping. Outcome this session: applied the corrected methodology iteratively for a diverse set — searched fitness/swimwear/college/fashion discovery queries via web_search, inspected promising activity-first results, and verified where strongest available legitimate public evidence actually supported VERIFIED. Added 3 new diverse creators discovered by activity (not celebrity name): Soniya Singh Khatri (Fitness/Fitness Model/Creator, @fitgirl_08, discovered via 'female fitness creator'), Elisabeth Rioux (Swimwear/Bikini Fashion/Beachwear/Fashion/Modeling, @elisabethrioux / Hoaka Swimwear founder, discovered via 'female swimwear creator'), and Kayla Itsines (Fitness/Fitness Model/Creator/Wellness, @kayla_itsines, discovered via 'female fitness creator') — each with adult/gender/public-ownership/category all supported by legitimate public sources (official Instagram verified-platform + first-party/official site where available + independent biographies/public search results), bringing total 7→10. Together with the 7 prior athlete entries, the dataset now shows a deliberate mixture: professional athletes (7) + independent fitness/swimwear creators (3), including regional/micro-to-mid creators (Soniya — Indian fitness influencer 3M, Elisabeth — Canadian swimwear founder 1M, Kayla — Australian trainer turned global fitness brand), demonstrating the corrected methodology. No hallucination: every new field backed by an openable URL; lesser-known candidates without DOB/gender evidence were not added (flagged rather than guessed). The target remains up to 1,000, but per 'Enough evidence to support specific claims' and 'quality > quantity', 10 is the correct VERIFIED count for this iterative batch.",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-007",
+      "severity": "needs-review",
+      "summary": "Follower counts incomplete for many verified rows — platforms often block unauthenticated scrapes.",
+      "detail": "Session 09 added a follower-count schema and recorded publicly observed counts where Instagram/TikTok/YouTube/X profile pages or reputable analytics snapshots (HypeAuditor, CreatorDB, Social Blade, Wikipedia channel boxes) displayed a figure. Many micro/college creators still show FOLLOWER_COUNT_UNKNOWN because no public count was visible without login. Counts are point-in-time (checkedAt 2026-09-06) and must not be treated as permanent. Never estimate. Michelle Lewin (W-2026-044) has a day-of-month DOB conflict (Feb 25 vs Feb 2, year 1986) flagged CONFLICTING_INFORMATION while remaining clearly 18+. Whitney Simmons (W-2026-042) and Lauren Drain Kagan (W-2026-046) use multi-source secondary DOB evidence (flagged AGE_EVIDENCE_SECONDARY_SOURCES) pending stronger Tier-1 sources.",
       "reviewStatus": "requires-owner-review"
     }
   ]
