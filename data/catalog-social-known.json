@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Instagram / TikTok Directory — Known follower counts",
     "generatedAt": "2026-09-06",
-    "entryCount": 150,
+    "entryCount": 159,
     "summary": "Published catalog records with a documented Instagram or TikTok account AND a publicly observed follower count. Derived from data/catalog.json. Powers directory/index.html.",
     "sourceCatalog": "data/catalog.json"
   },
@@ -796,6 +796,86 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "5M+",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-1495",
+      "displayName": "Anna Smrek",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "College Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 11, 2003 (2003-10-11) — age 22 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "University of Wisconsin Badgers — Anna Smrek Bio & Wikipedia (Born October 11, 2003)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anna_Smrek",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wisconsin Badgers Women's Volleyball Official Roster & Canada National Team",
+        "sourceUrl": "https://uwbadgers.com/sports/womens-volleyball/roster/anna-smrek/13291",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "University of Wisconsin Badgers — Anna Smrek Bio & Wikipedia (Born October 11, 2003)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Anna_Smrek",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @annasmrek (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/annasmrek/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @annasm_2 (public profile)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@annasm_2",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Wisconsin Badgers NCAA National Champion & Tournament Most Outstanding Player (2021), Canada women's national volleyball team, Aras Kargo / Eczacıbaşı in Turkish Sultanlar Ligi. Birth date documented via official NCAA bio and English Wikipedia.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@annasmrek",
+          "profileUrl": "https://www.instagram.com/annasmrek/",
+          "followerCountDisplay": "83K",
+          "followerCountNumeric": 83000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '83K followers, 2,135 following, 105 posts – @annasmrek'."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@annasm_2",
+          "profileUrl": "https://www.tiktok.com/@annasm_2",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Anna Smrek. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@annasmrek",
+        "display": "83K",
+        "numeric": 83000,
+        "sizeRange": "50K–99.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "50K–99.9K",
       "catalogType": "social"
     },
     {
@@ -2900,6 +2980,86 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-1496",
+      "displayName": "Devyn Robinson",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "College Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 9, 2002 (2002-07-09) — age 24 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Devyn Robinson profile (Birthdate 2002-07-09)",
+        "sourceUrl": "https://women.volleybox.net/devyn-robinson-p30122",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wisconsin Badgers Women's Volleyball Official Roster",
+        "sourceUrl": "https://uwbadgers.com/sports/womens-volleyball/roster/devyn-robinson/13120",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Devyn Robinson profile (Birthdate 2002-07-09)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/devyn-robinson-p30122",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @devvrobinson (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/devvrobinson/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @devynnrobinson (public profile)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@devynnrobinson",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Wisconsin Badgers NCAA National Champion middle blocker/opposite, Grand Rapids Rise (PVF) and SSC Palmberg Schwerin (German Bundesliga). Documentary DOB recorded in Volleybox database.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@devvrobinson",
+          "profileUrl": "https://www.instagram.com/devvrobinson/",
+          "followerCountDisplay": "27K",
+          "followerCountNumeric": 27000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '27K Followers, 1,375 Following, 250 Posts - @devvrobinson'."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@devynnrobinson",
+          "profileUrl": "https://www.tiktok.com/@devynnrobinson",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Devyn Robinson. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@devvrobinson",
+        "display": "27K",
+        "numeric": 27000,
+        "sizeRange": "25K–49.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "25K–49.9K",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-333",
       "displayName": "Elena Scott",
       "categories": [
@@ -2989,6 +3149,68 @@
         "sizeRange": "50K–99.9K",
         "checkedAt": "2026-09-06"
       },
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-1503",
+      "displayName": "Eleonora Fersino",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 24, 2000 (2000-01-24) — age 26 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Eleonora Fersino profile (Birthdate January 24, 2000)",
+        "sourceUrl": "https://women.volleybox.net/eleonora-fersino-p11848",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Italian Volleyball League (Lega Volley Femminile Serie A1) & Vero Volley Milano",
+        "sourceUrl": "https://women.volleybox.net/eleonora-fersino-p11848",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Eleonora Fersino profile (Birthdate January 24, 2000)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/eleonora-fersino-p11848",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @eleonora_fersino (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/eleonora_fersino/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Italian professional volleyball libero for Vero Volley Milano and Italian national team, former Imoco Volley Conegliano player.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@eleonora_fersino",
+          "profileUrl": "https://www.instagram.com/eleonora_fersino/",
+          "followerCountDisplay": "32K",
+          "followerCountNumeric": 32000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '32K seguidores, 813 siguiendo, 303 publicaciones - @eleonora_fersino'."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@eleonora_fersino",
+        "display": "32K",
+        "numeric": 32000,
+        "sizeRange": "25K–49.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "25K–49.9K",
       "catalogType": "social"
     },
     {
@@ -3417,6 +3639,68 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-1504",
+      "displayName": "Federica Squarcini",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 24, 2000 (2000-09-24) — age 25 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Federica Squarcini profile (Birthdate 2000-09-24)",
+        "sourceUrl": "https://women.volleybox.net/federica-squarcini-p11850",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Italian Serie A1 (Igor Gorgonzola Novara / Imoco Conegliano) & Italy National Team",
+        "sourceUrl": "https://women.volleybox.net/federica-squarcini-p11850",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Federica Squarcini profile (Birthdate 2000-09-24)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/federica-squarcini-p11850",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @federicasquarcini4 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/federicasquarcini4/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Italian professional volleyball middle blocker for Igor Gorgonzola Novara and Imoco Conegliano, Italian national team.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@federicasquarcini4",
+          "profileUrl": "https://www.instagram.com/federicasquarcini4/",
+          "followerCountDisplay": "84K",
+          "followerCountNumeric": 84000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '84K followers, 1,125 following, 737 posts – @federicasquarcini4'."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@federicasquarcini4",
+        "display": "84K",
+        "numeric": 84000,
+        "sizeRange": "50K–99.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "50K–99.9K",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-782",
       "displayName": "Francesca Aiello",
       "categories": [
@@ -3623,6 +3907,68 @@
         "sizeRange": "500K–999.9K",
         "checkedAt": "2026-09-07"
       },
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-1501",
+      "displayName": "Hailey Harward",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 19, 1998 (1998-03-19) — age 28 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Hailey Harward profile (Birthdate 1998-03-19)",
+        "sourceUrl": "https://women.volleybox.net/hailey-harward-p30967/partners",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "USA Beach Volleyball National Team & Long Beach State Athletics",
+        "sourceUrl": "https://women.volleybox.net/hailey-harward-p30967/partners",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Hailey Harward profile (Birthdate 1998-03-19)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/hailey-harward-p30967/partners",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @haileyharward (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/haileyharward/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Long Beach State indoor/beach standout, USA Beach Volleyball National Team professional, AVP tour competitor.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@haileyharward",
+          "profileUrl": "https://www.instagram.com/haileyharward/",
+          "followerCountDisplay": "24K",
+          "followerCountNumeric": 24000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "10K–24.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '24K followers, 2,320 following, 608 posts – @haileyharward'."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@haileyharward",
+        "display": "24K",
+        "numeric": 24000,
+        "sizeRange": "10K–24.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "10K–24.9K",
       "catalogType": "social"
     },
     {
@@ -5472,6 +5818,86 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "1K–4.9K",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-1497",
+      "displayName": "Kendall Kipp",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "College Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 12, 2000 (2000-12-12) — age 25 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Kendall Kipp profile (Birthdate 2000-12-12)",
+        "sourceUrl": "https://women.volleybox.net/kendall-kipp-p25194",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Stanford Women's Volleyball Roster & Volley Bergamo (Italian Serie A1)",
+        "sourceUrl": "https://women.volleybox.net/kendall-kipp-p25194",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Kendall Kipp profile (Birthdate 2000-12-12)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/kendall-kipp-p25194",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @kendallkipp (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kendallkipp/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @kippkendall (public profile)",
+          "platform": "X",
+          "url": "https://x.com/kippkendall",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Stanford University standout opposite, 3x AVCA All-American, Pac-12 Player of the Year, Volley Bergamo (Italian Serie A1), Columbus Fury (PVF).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kendallkipp",
+          "profileUrl": "https://www.instagram.com/kendallkipp/",
+          "followerCountDisplay": "26K",
+          "followerCountNumeric": 26000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '26K seguidores, 1,339 siguiendo, 347 publicaciones - @kendallkipp'."
+        },
+        {
+          "platform": "X",
+          "username": "@kippkendall",
+          "profileUrl": "https://x.com/kippkendall",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Kendall Kipp. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kendallkipp",
+        "display": "26K",
+        "numeric": 26000,
+        "sizeRange": "25K–49.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "25K–49.9K",
       "catalogType": "social"
     },
     {
@@ -10248,6 +10674,85 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-1502",
+      "displayName": "Taryn Kloth",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 10, 1997 (1997-04-10) — age 29 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Taryn Brasher (Kloth) profile (Birthdate 1997-04-10)",
+        "sourceUrl": "https://women.volleybox.net/taryn-kloth-p29408",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "LSU Beach Volleyball / Creighton Athletics & USA Olympic Team",
+        "sourceUrl": "https://women.volleybox.net/taryn-kloth-p29408",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Taryn Brasher (Kloth) profile (Birthdate 1997-04-10)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/taryn-kloth-p29408",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @tkloth10 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tkloth10/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — taryn.kloth (public profile)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/taryn.kloth",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Creighton and LSU Beach Volleyball All-American, USA Beach Volleyball Olympian (Paris 2024), FIVB Elite16 champion with Kristen Nuss.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tkloth10",
+          "profileUrl": "https://www.instagram.com/tkloth10/",
+          "followerCountDisplay": "46K",
+          "followerCountNumeric": 46000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '46K seguidores, 1,392 seguidos, 729 publicaciones - @tkloth10'."
+        },
+        {
+          "platform": "Facebook",
+          "username": "taryn.kloth",
+          "profileUrl": "https://www.facebook.com/taryn.kloth",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Taryn Kloth. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@tkloth10",
+        "display": "46K",
+        "numeric": 46000,
+        "sizeRange": "25K–49.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "25K–49.9K",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-070",
       "displayName": "Tatiana Weston-Webb",
       "categories": [
@@ -11063,6 +11568,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-1512",
+      "displayName": "Yarishna Ayala",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Modeling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 9, 1991 (1991-05-09) — age 35 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Alpha Bodybuilders — Yarishna Ayala profile (Date of Birth May 9, 1991)",
+        "sourceUrl": "https://alphabodybuilders.com/bodybuilders/yarishna-ayala/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "IFBB Pro League (Women's Wellness Division) & Official Profile",
+        "sourceUrl": "https://alphabodybuilders.com/bodybuilders/yarishna-ayala/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Alpha Bodybuilders — Yarishna Ayala profile (Date of Birth May 9, 1991)",
+          "platform": "Website",
+          "url": "https://alphabodybuilders.com/bodybuilders/yarishna-ayala/",
+          "relationship": "agency"
+        },
+        {
+          "label": "Instagram — @yarishna (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/yarishna/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Puerto Rican 3x IFBB Pro Wellness Champion, fitness model, certified trainer and digital creator.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@yarishna",
+          "profileUrl": "https://www.instagram.com/yarishna/",
+          "followerCountDisplay": "3M",
+          "followerCountNumeric": 3000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06: '3M Followers, 1,762 Following, 6,038 Posts - @Yarishna', SocialPruf analytics 3.45M followers."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@yarishna",
+        "display": "3M",
+        "numeric": 3000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-062",
       "displayName": "Yovanna Ventura",
       "categories": [
@@ -11135,6 +11703,69 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "5M+",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-1499",
+      "displayName": "Zoe Fleck",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "College Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 29, 2000 (2000-09-29) — age 25 as of 2026-09-06, so an adult (18+). Documented via verified public biography and official sports/creative profile records. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "Women Volleybox — Zoe Jarvis (Fleck) profile (Birthdate 2000-09-29)",
+        "sourceUrl": "https://women.volleybox.net/zoe-jarvis-p44990",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records, team rosters, and women's professional/creative activities. Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Texas Longhorns Women's Volleyball Official Roster & LOVB Austin",
+        "sourceUrl": "https://women.volleybox.net/zoe-jarvis-p44990",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Women Volleybox — Zoe Jarvis (Fleck) profile (Birthdate 2000-09-29)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/zoe-jarvis-p44990",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @zfleckk (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/zfleckk/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Texas Longhorns NCAA National Champion libero, 2x AVCA All-American, Big 12 Libero of the Year, LOVB Austin.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@zfleckk",
+          "profileUrl": "https://www.instagram.com/zfleckk/",
+          "followerCountDisplay": "14.3K",
+          "followerCountNumeric": 14300,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "10K–24.9K",
+          "sourceNote": "Public Instagram profile analytics snippet: '14.3K Followers - @zfleckk'."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@zfleckk",
+        "display": "14.3K",
+        "numeric": 14300,
+        "sizeRange": "10K–24.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "10K–24.9K",
       "catalogType": "social"
     }
   ],
