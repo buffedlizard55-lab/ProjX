@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 253,
+    "entryCount": 255,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17395,6 +17395,145 @@
         "MINOR_SOURCE_CONFLICT_NOTED"
       ],
       "notes": "Turkish outside hitter — VakıfBank academy product, 2023 Volleyball Nations League champion with Turkey, U20 Worlds top scorer 2019; moved to Japan (Kurobe) after VakıfBank — objective athlete category; verified 25 years old. simple.wikipedia 20-vs-24-Oct outlier noted and flagged. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-254",
+      "displayName": "Adelina Ungureanu",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 29, 2000 in Botoșani, Romania — age 25 (26 in July 2026) in 2026 — per Wikipedia (born July 29, 2000, Botoșani) and the volleybox structured profile (birthDate 2000-07-29, maiden name Adelina Budăi-Ungureanu).",
+        "sourceLabel": "Wikipedia — Adelina Budăi-Ungureanu (born July 29, 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Adelina_Bud%C4%83i-Ungureanu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Romania women's national volleyball team career ('member of the Romania women's national volleyball team'; 2019 + 2021 Women's European Championships) and volleybox structured 'gender: Female'.",
+        "sourceLabel": "Volleybox — Adelina Ungureanu structured profile (birthDate + sameAs + gender Female)",
+        "sourceUrl": "https://women.volleybox.net/adelina-budai-ungureanu-p13268",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Adelina Budăi-Ungureanu (DOB 2000-07-29; Botoșani)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Adelina_Bud%C4%83i-Ungureanu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Adelina Ungureanu structured profile (birthDate 2000-07-29; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/adelina-budai-ungureanu-p13268",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @adelinaungureanu (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/adelinaungureanu/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @adelinne01 (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/adelinne01",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Romanian outside hitter (married name Adelina Ungureanu, née Budăi-Ungureanu) — Romania NT competitor at European Championships 2019/2021; Italian club career through Pinerolo, Megabox Vallefoglia and Volley Bergamo — objective athlete category; verified 25 years old. IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@adelinaungureanu",
+          "profileUrl": "https://www.instagram.com/adelinaungureanu/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@adelinne01",
+          "profileUrl": "https://www.facebook.com/adelinne01",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-255",
+      "displayName": "Elena Pietrini",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 17, 2000 in Imola, Italy — age 25 (26 in March 2026) in 2026 — per Wikipedia (born 17 March 2000, Imola), Famous Birthdays structured record (birthDate 2000-03-17; gender f) and bodysize (Birth date March 17, 2000). NOTE: birthplace appears variously as Imola (Wikipedia), Bologna (Famous Birthdays structured) and Viareggio (bodysize) — DOB itself is consistent across all.",
+        "sourceLabel": "Wikipedia — Elena Pietrini (born 17 March 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elena_Pietrini",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — Tokyo 2020 Olympian ('debut appearance at the Olympics representing Italy at the 2020 Summer Olympics'; Wikipedia); Famous Birthdays structured 'gender: f'.",
+        "sourceLabel": "Wikipedia — Elena Pietrini (Tokyo 2020 Olympian, Italy NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Elena_Pietrini",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Elena Pietrini (DOB 2000-03-17; Tokyo 2020 Olympian)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Elena_Pietrini",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famous Birthdays — Elena Pietrini (birthDate 2000-03-17; gender f)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/elena-pietrini.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Bodysize — Elena Pietrini (March 17, 2000)",
+          "platform": "Website",
+          "url": "https://bodysize.org/en/elena-pietrini/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Tokyo 2020 Olympian wing spiker for Italy — Nike ambassador; club career through Scandicci and Dynamo Kazan — objective athlete category; verified 25 years old. Birthplace variance (Imola/Bologna/Viareggio) noted; DOB consistent. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
