@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 123,
+    "entryCount": 132,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -8732,6 +8732,694 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-124",
+      "displayName": "Rhea Ripley",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 11, 1996 in Adelaide, Australia — age 29 in 2026 — per Britannica (born October 11, 1996), ProWrestling Fandom and LeaderBiography structured JSON-LD (birthDate 1996-10-11).",
+        "sourceLabel": "Britannica — Rhea Ripley (born October 11, 1996)",
+        "sourceUrl": "https://www.britannica.com/biography/Rhea-Ripley",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LeaderBiography structured data ('gender: Female') and WWE women's championship career — 2023 Women's Royal Rumble winner and Women's World Champion (Britannica/RingsideNews).",
+        "sourceLabel": "LeaderBiography — Rhea Ripley structured record ('gender: Female')",
+        "sourceUrl": "https://leaderbiography.com/rhea-ripley/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Rhea Ripley (DOB 1996-10-11; WWE career)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Rhea-Ripley",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LeaderBiography — Rhea Ripley (DOB 1996-10-11; sameAs IG rhearipley_wwe + X RheaRipley_WWE)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/rhea-ripley/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "RingsideNews — Rhea Ripley profile (birthDate + sameAs condensed)",
+          "platform": "Website",
+          "url": "https://www.ringsidenews.com/rhea-ripley/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @rhearipley_wwe (leaderbiography + ringsidenews sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/rhearipley_wwe/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @RheaRipley_WWE (leaderbiography + ringsidenews sameAs)",
+          "platform": "X",
+          "url": "https://x.com/RheaRipley_WWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 Women's Royal Rumble winner (from #1) and multi-time WWE women's world champion — objective athlete category. Handles via two independent structured sameAs records; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@rhearipley_wwe",
+          "profileUrl": "https://www.instagram.com/rhearipley_wwe/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography + RingsideNews structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@RheaRipley_WWE",
+          "profileUrl": "https://x.com/RheaRipley_WWE",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography + RingsideNews structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-125",
+      "displayName": "Bianca Belair",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 9, 1989 in Knoxville, Tennessee — age 37 in 2026 — per ESPN WWE profile ('D.O.B.: April 9, 1989'), ITRWrestling bio, LeaderBiography and Topps Ripped (Birth Date April 9, 1989, Age 37).",
+        "sourceLabel": "ESPN — Bianca Belair WWE profile (D.O.B. April 9, 1989)",
+        "sourceUrl": "https://www.espn.com/wwe/story/_/id/29125761/wwe-profile-page-bianca-belair",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WWE women's championship career — 'the EST of WWE… one of the most accomplished female wrestlers in WWE history' (TheSportster) and Raw/SmackDown women's titles (ESPN).",
+        "sourceLabel": "TheSportster — Bianca Belair profile (women's championship career)",
+        "sourceUrl": "https://www.thesportster.com/tag/bianca-belair/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPN — Bianca Belair profile (DOB 1989-04-09)",
+          "platform": "Website",
+          "url": "https://www.espn.com/wwe/story/_/id/29125761/wwe-profile-page-bianca-belair",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ITRWrestling — Bianca Belair 2026 bio (born April 9, 1989)",
+          "platform": "Website",
+          "url": "https://itrwrestling.com/bio/bianca-belair/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LeaderBiography — Bianca Belair (DOB 1989-04-09; socials @biancabelairwwe + @BiancaBelairWWE)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/bianca-belair/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @biancabelairwwe (thesportster + leaderbiography)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/biancabelairwwe/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @BiancaBelairWWE (thesportster + leaderbiography)",
+          "platform": "X",
+          "url": "https://x.com/BiancaBelairWWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2021 Women's Royal Rumble winner and record-setting 420-day Raw Women's Champion — objective athlete category. Handles via two independent profile sources; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@biancabelairwwe",
+          "profileUrl": "https://www.instagram.com/biancabelairwwe/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via TheSportster profile sidebar and LeaderBiography socials table; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@BiancaBelairWWE",
+          "profileUrl": "https://x.com/BiancaBelairWWE",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via TheSportster profile sidebar and LeaderBiography socials table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-126",
+      "displayName": "Becky Lynch",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 30, 1987 in Limerick, Ireland — age 39 in 2026 — per LeaderBiography (born 30 January 1987, age 39 as of 2026), EverybodyWiki mirror of Wikipedia, wrestling-2017 Fandom and Movies Fandom.",
+        "sourceLabel": "EverybodyWiki — Becky Lynch (born 30 January 1987)",
+        "sourceUrl": "https://en.everybodywiki.com/Becky_Lynch",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WWE women's championship career — 'one of the most influential female wrestlers in the history of WWE' (LeaderBiography) and 'The Man' women's title reigns.",
+        "sourceLabel": "LeaderBiography — Becky Lynch profile (female wrestler career)",
+        "sourceUrl": "https://leaderbiography.com/becky-lynch/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "EverybodyWiki — Becky Lynch (DOB 1987-01-30; Wikipedia mirror)",
+          "platform": "Website",
+          "url": "https://en.everybodywiki.com/Becky_Lynch",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LeaderBiography — Becky Lynch (DOB 30 January 1987; socials table)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/becky-lynch/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Movies Fandom — Becky Lynch (born 30 January 1987, Limerick)",
+          "platform": "Website",
+          "url": "https://movies.fandom.com/wiki/Becky_Lynch",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @beckylynchwwe (leaderbiography socials table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/beckylynchwwe/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @BeckyLynchWWE (leaderbiography socials table)",
+          "platform": "X",
+          "url": "https://x.com/BeckyLynchWWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "WrestleMania 35 main-event winner ('Becky Two Belts') — objective athlete category. LeaderBiography socials table lists IG 5.5M+ and X 2.4M+ (third-party approximations with '+'; recorded verbatim as rounded floors, dated May-2026 page).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@beckylynchwwe",
+          "profileUrl": "https://www.instagram.com/beckylynchwwe/",
+          "followerCountDisplay": "5.5M+",
+          "followerCountNumeric": 5500000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "LeaderBiography socials table (page dated 2026-05-04): 'Instagram @beckylynchwwe — 5.5M+'; approximation recorded verbatim at stated floor."
+        },
+        {
+          "platform": "X",
+          "username": "@BeckyLynchWWE",
+          "profileUrl": "https://x.com/BeckyLynchWWE",
+          "followerCountDisplay": "2.4M+",
+          "followerCountNumeric": 2400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "LeaderBiography socials table (page dated 2026-05-04): 'Twitter (X) @BeckyLynchWWE — 2.4M+'; approximation recorded verbatim at stated floor."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@beckylynchwwe",
+        "display": "5.5M+",
+        "numeric": 5500000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-127",
+      "displayName": "Charlotte Flair",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 5, 1986 in Charlotte, North Carolina — age 40 in 2026 — per IMDb biography (Born April 5, 1986), ITRWrestling, Sportskeeda player page and LeaderBiography (born April 5, 1986, age 40 as of 2026).",
+        "sourceLabel": "IMDb — Ashley Fliehr/Charlotte Flair (born April 5, 1986)",
+        "sourceUrl": "https://www.imdb.com/name/nm4220563/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WWE women's championship career — 'the most decorated female wrestler with 14 World Championships' (ITRWrestling) and inaugural WWE Women's Champion 2016 (IMDb bio).",
+        "sourceLabel": "ITRWrestling — Charlotte Flair bio (women's championship career)",
+        "sourceUrl": "https://itrwrestling.com/bio/charlotte-flair/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "IMDb — Ashley Fliehr biography (DOB 1986-04-05)",
+          "platform": "Website",
+          "url": "https://www.imdb.com/name/nm4220563/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ITRWrestling — Charlotte Flair 2026 bio (born April 5, 1986)",
+          "platform": "Website",
+          "url": "https://itrwrestling.com/bio/charlotte-flair/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Sportskeeda — Charlotte Flair player page (Date of Birth April 5, 1986)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/player/charlotte-flair",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @charlottewwe (leaderbiography socials table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/charlottewwe/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @MsCharlotteWWE (leaderbiography socials table)",
+          "platform": "X",
+          "url": "https://x.com/MsCharlotteWWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "14-time WWE women's world champion ('The Queen') — objective athlete category. Real name Ashley Fliehr per IMDb. Handles via LeaderBiography socials table; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@charlottewwe",
+          "profileUrl": "https://www.instagram.com/charlottewwe/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography socials table; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@MsCharlotteWWE",
+          "profileUrl": "https://x.com/MsCharlotteWWE",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography socials table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-128",
+      "displayName": "Bayley",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 15, 1989 in Newark, California — age 37 in 2026 — per IMDb (Born June 15, 1989 in Newark, California), TheSmackdownHotel profile (Gender: Female shown; born June 15, 1989, age 37) and LeaderBiography (age 37 as of 2026).",
+        "sourceLabel": "IMDb — Pamela Martinez/Bayley (born June 15, 1989)",
+        "sourceUrl": "https://www.imdb.com/name/nm2077528/bio/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via TheSmackdownHotel structured profile ('Gender: Female') and WWE women's championship career — first WWE Women's Grand Slam champion.",
+        "sourceLabel": "TheSmackdownHotel — Bayley profile (Gender: Female)",
+        "sourceUrl": "https://www.thesmackdownhotel.com/wrestlers/bayley",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "IMDb — Pamela Martinez bio (DOB 1989-06-15)",
+          "platform": "Website",
+          "url": "https://www.imdb.com/name/nm2077528/bio/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TheSmackdownHotel — Bayley wrestler profile (Gender: Female; born June 15, 1989)",
+          "platform": "Website",
+          "url": "https://www.thesmackdownhotel.com/wrestlers/bayley",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LeaderBiography — Bayley (DOB June 15, 1989; socials @itsmebayley + @itsBayleyWWE)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/bayley/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @itsmebayley (leaderbiography socials table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/itsmebayley/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @itsBayleyWWE (leaderbiography socials table)",
+          "platform": "X",
+          "url": "https://x.com/itsBayleyWWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "First WWE Women's Grand Slam champion (real name Pamela Martinez) — objective athlete category. Handles via LeaderBiography socials table; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@itsmebayley",
+          "profileUrl": "https://www.instagram.com/itsmebayley/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography socials table; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@itsBayleyWWE",
+          "profileUrl": "https://x.com/itsBayleyWWE",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via LeaderBiography socials table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-129",
+      "displayName": "Liv Morgan",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 8, 1994 in Morristown, New Jersey — age 32 in 2026 — per Wikipedia (born June 8, 1994, age 32), ProWrestling Fandom and TVInsider (Birth Date: June 8, 1994).",
+        "sourceLabel": "Wikipedia — Liv Morgan (born June 8, 1994)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liv_Morgan",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WWE women's championship career — Women's World Champion (third reign) and 2026 Women's Royal Rumble winner per Wikipedia; she/her bios.",
+        "sourceLabel": "Wikipedia — Liv Morgan (women's championship career)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Liv_Morgan",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Liv Morgan (DOB 1994-06-08; Women's World Champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Liv_Morgan",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ProWrestling Fandom — Liv Morgan (born June 8, 1994)",
+          "platform": "Website",
+          "url": "https://prowrestling.fandom.com/wiki/Liv_Morgan",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TVInsider — Liv Morgan profile (Birth Date June 8, 1994)",
+          "platform": "Website",
+          "url": "https://www.tvinsider.com/people/liv-morgan/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time WWE Women's World Champion (real name Gionna Daddio) — objective athlete category. No handle value captured this pass (TVInsider's IMDB/Twitter/Instagram icons unlabeled) — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-130",
+      "displayName": "Alexa Grasso",
+      "categories": [
+        "Athlete",
+        "MMA",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 9, 1993 in Guadalajara, Mexico — age 33 in 2026 — per FightOmic stats table (Date of Birth: 9 August 1993, Age 33), Wikiwand/Wikipedia (born August 9, 1993) and CelebsWiki (Birth Date August 9, 1993).",
+        "sourceLabel": "FightOmic — Alexa Grasso profile (DOB 9 August 1993)",
+        "sourceUrl": "https://fightomic.com/alexa-grasso-profile/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via UFC women's championship career — 'Mexico's first female UFC champion', UFC Women's Flyweight division (FightOmic/Wikipedia).",
+        "sourceLabel": "Wikipedia — Alexa Grasso (first Mexican female UFC champion)",
+        "sourceUrl": "https://wikiwand.com/en/articles/Alexa_Grasso",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FightOmic — Alexa Grasso profile (DOB 1993-08-09; women’s flyweight)",
+          "platform": "Website",
+          "url": "https://fightomic.com/alexa-grasso-profile/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Alexa Grasso (DOB 1993-08-09; UFC career)",
+          "platform": "Website",
+          "url": "https://wikiwand.com/en/articles/Alexa_Grasso",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CelebsWiki — Alexa Grasso bio (Birth Date August 9, 1993)",
+          "platform": "Website",
+          "url": "https://celebswiki.info/alexa-grasso-bio",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "First Mexican-born female UFC champion (2023 Women's Flyweight title vs Shevchenko) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-131",
+      "displayName": "Rose Namajunas",
+      "categories": [
+        "Athlete",
+        "MMA",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 29, 1992 in Milwaukee, Wisconsin — age 34 in 2026 — per Sportskeeda player page (Date of Birth June 29, 1992), FightOmic stats (29 June 1992, Age 34), MMA-Blog structured birthDate 1992-06-29 and Reference.org.",
+        "sourceLabel": "Sportskeeda — Rose Namajunas player page (DOB June 29, 1992)",
+        "sourceUrl": "https://www.sportskeeda.com/player/rose-namajunas",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via UFC women's championship career — former two-time UFC Women's Strawweight Champion (Sportskeeda/Reference.org); Tuko profile 'Gender: Female'.",
+        "sourceLabel": "Tuko — Rose Namajunas profile summary (Gender: Female)",
+        "sourceUrl": "https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/486826-rose-namajunas-childhood-ethnicity-controversies-fight-purse/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Sportskeeda — Rose Namajunas (Date of Birth June 29, 1992)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/player/rose-namajunas",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "FightOmic — Rose Namajunas profile (DOB 29 June 1992; women's flyweight)",
+          "platform": "Website",
+          "url": "https://fightomic.com/rose-namajunas-profile/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "MMA-Blog — Rose Namajunas profile (birthDate 1992-06-29; sameAs instagram.com/rosenamajunas)",
+          "platform": "Website",
+          "url": "https://www.mma-blog.com/post/rose-namajunas-thug-rose-fighter-profile-career-legacy",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @rosenamajunas (mma-blog structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/rosenamajunas/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time UFC Women's Strawweight Champion ('Thug Rose') — objective athlete category. Handle via MMA-Blog structured sameAs (which also states '1.55 million Instagram followers' in fun-facts — treat as unverified approximation; count recorded UNKNOWN, not the estimate).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@rosenamajunas",
+          "profileUrl": "https://www.instagram.com/rosenamajunas/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via mma-blog.com structured sameAs; an approximate '1.55M followers' claim on that page was NOT recorded (not platform-observed)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-132",
+      "displayName": "Lindsey Vonn",
+      "categories": [
+        "Athlete",
+        "Skiing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 18, 1984 in St. Paul, Minnesota — age 41 in 2026 — per Biography.com ('BORN: October 18, 1984'), Wikipedia (born October 18, 1984) and TheBiographyBytes/BiographyBrief (age 41 as of 2026).",
+        "sourceLabel": "Biography.com — Lindsey Vonn (born October 18, 1984)",
+        "sourceUrl": "https://www.biography.com/athletes/lindsey-vonn",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's alpine skiing career — 'the first American woman to win Olympic downhill gold' 2010 (Biography.com/Wikipedia); she/her profile.",
+        "sourceLabel": "Wikipedia — Lindsey Vonn (women's alpine skiing career)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lindsey_Vonn",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Biography.com — Lindsey Vonn (DOB 1984-10-18; Olympic medals)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/lindsey-vonn",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Lindsey Vonn (DOB 1984-10-18; 84 World Cup wins)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lindsey_Vonn",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TheBiographyBytes — Lindsey Vonn bio (age 41, born October 18, 1984)",
+          "platform": "Website",
+          "url": "https://thebiographybytes.com/lindsey-vonn/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2010 Olympic downhill gold medalist and 82-84x World Cup winner (came out of retirement 2024 for Milan Cortina 2026) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
@@ -8923,6 +9611,13 @@
       "severity": "needs-review",
       "summary": "Session-12 batch-B flags: press-documented IG handle/count conflicts + place/team snapshot variances; five WNBA/golf/tennis stars found pre-existing in catalog during batch assembly (dup-guard caught).",
       "detail": "(1) Angel Reese, Jordan Chiles, Jade Carey, Nelly Korda and Paige Bueckers were re-verified this wave but then excluded as duplicates — they already exist in the catalog from earlier sessions (the id/name dup check caught them). Reese IG handle variance (@angelreese5 vs @angelreese10 per basketball-reference) noted for a future review of the existing entry. (2) Sha'Carri Richardson older handle instagram.com/carririchardson_ (dreshare, 2022) vs current @itsshacarri (biographykind) — recorded current. (3) Hilary Knight: birthplace Palo Alto, CA (Wikipedia) vs Sun Valley, ID (PWHL/eliteprospects); Wikipedia team's snapshot also showed 'PWHL Detroit' while PWHL official page says Seattle Torrent — team-snapshot lag. NBC Olympics states 194,000 IG followers (Nov 2025) — kept in entry notes because handle value wasn't captured. (4) (Paige Bueckers IG '2 million+' July-2025 claim — entry excluded as pre-existing; noted for its existing record.)",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-013",
+      "severity": "needs-review",
+      "summary": "Session-12 batch-C flags: approximated social counts recorded only with '+' verbatim floors; pre-existing athlete duplicates caught.",
+      "detail": "(1) Becky Lynch IG 5.5M+ / X 2.4M+: LeaderBiography socials-table approximations (page dated 2026-05-04), recorded verbatim at stated '+' floors her countType 'rounded'. (2) Rose Namajunas: mma-blog fun-facts claims '1.55 million Instagram followers' — deliberately NOT used (not platform-observed); handle kept, count UNKNOWN. (3) Re-verified this wave but excluded as pre-existing: Katie Ledecky (W-2026-006), Chloe Kim (W-2026-007), Trinity Rodman (W-2026-095).",
       "reviewStatus": "requires-owner-review"
     }
   ]
