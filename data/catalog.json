@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 297,
+    "entryCount": 299,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -20438,6 +20438,168 @@
           "platform": "YouTube",
           "username": "@Czyrnianska",
           "profileUrl": "https://www.youtube.com/@Czyrnianska",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-298",
+      "displayName": "Saša Planinšec",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 2, 1995 in Maribor, Slovenia — age 30-31 in 2026 — per Wikipedia (born 2 June 1995, Maribor), Wikiwand mirror (born 2 June 1995) and the VOLLEY TREND agency profile (Date of Birth 02.06.1995).",
+        "sourceLabel": "Wikipedia — Saša Planinšec (born 2 June 1995)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sa%C5%A1a_Planin%C5%A1ec",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Slovenia women's national volleyball team career ('Slovenian female volleyball player'; Wikipedia) and European club play (Galatasaray, Aydın BBSK, PGE Budowlani Łódź).",
+        "sourceLabel": "Wikipedia — Saša Planinšec (Slovenia women's player; clubs)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sa%C5%A1a_Planin%C5%A1ec",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Saša Planinšec (DOB 1995-06-02; Maribor)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Sa%C5%A1a_Planin%C5%A1ec",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "VOLLEY TREND — agency profile (DOB 02.06.1995)",
+          "platform": "Website",
+          "url": "http://volleytrend.com/index.php/30-portfolio/women-player/middle-blocker/237-sasa-planinsec",
+          "relationship": "reference"
+        },
+        {
+          "label": "FamousFix — Slovenian women's volleyball list (Planinšec 2 June 1995)",
+          "platform": "Website",
+          "url": "https://m.famousfix.com/list/slovenian-womens-volleyball-players",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Slovenian national-team middle blocker from Maribor — club career across Poland, Turkey and China including Galatasaray — objective athlete category; verified 30 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-299",
+      "displayName": "Agnieszka Korneluk",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 17, 1994 in Poznań, Poland (née Kąkolewska) — age 31 in 2026 — per the OFFICIAL FIVB World Grand Prix 2017 registry (Birth Date 17/10/1994 = 17 October 1994 DD/MM, Birth Place Poznan), Wikipedia (born 17 October 1994, Poznań) and the volleybox structured profile (birthDate 1994-10-17, maiden name Kąkolewska).",
+        "sourceLabel": "FIVB — official World Grand Prix registry (Birth Date 17/10/1994, Poznan)",
+        "sourceUrl": "http://worldgrandprix.2017.fivb.com/en/group2/competition/teams/pol-poland/players/agnieszka-kakolewska?id=59058",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Poland women's national volleyball team career — national-team CAPTAIN middle blocker (Grokipedia; Wikipedia 'part of the Poland women's national volleyball team'); volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Agnieszka Korneluk (Poland women NT, married 2022)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Agnieszka_Korneluk",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FIVB — official World Grand Prix registry (Birth Date 17/10/1994)",
+          "platform": "Website",
+          "url": "http://worldgrandprix.2017.fivb.com/en/group2/competition/teams/pol-poland/players/agnieszka-kakolewska?id=59058",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Agnieszka Korneluk (DOB 1994-10-17; née Kąkolewska)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Agnieszka_Korneluk",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Agnieszka Korneluk structured profile (birthDate 1994-10-17; sameAs IG/FB/YT)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/agnieszka-korneluk-p1572/matches",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @agaa_kakaa (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/agaa_kakaa/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @kakaagnieszkakakolewska (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/kakaagnieszkakakolewska/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "YouTube — @AgnieszkaKorneluk (volleybox structured sameAs)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@AgnieszkaKorneluk",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Poland's 2.00-2.04 m middle-block captain (née Kąkolewska; married Maciej Korneluk, June 2022) — SMS PZPS Sosnowiec product, Chemik Police and Fenerbahçe stalwart — objective athlete category; verified 31 years old. IG/FB/YouTube handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@agaa_kakaa",
+          "profileUrl": "https://www.instagram.com/agaa_kakaa/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@kakaagnieszkakakolewska",
+          "profileUrl": "https://www.facebook.com/kakaagnieszkakakolewska/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@AgnieszkaKorneluk",
+          "profileUrl": "https://www.youtube.com/@AgnieszkaKorneluk",
           "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
           "followerCountNumeric": null,
           "countType": "unknown",
