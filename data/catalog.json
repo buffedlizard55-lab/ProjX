@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 132,
+    "entryCount": 138,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -9420,6 +9420,476 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-133",
+      "displayName": "Jordan Larson",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 16, 1986 in Fremont, Nebraska — age 39 in 2026 — per PeoplePill structured record ('Birth 16 October 1986'), Wikipedia (born October 16, 1986) and Alchetron replication.",
+        "sourceLabel": "PeoplePill — Jordan Larson (Birth 16 October 1986)",
+        "sourceUrl": "https://peoplepill.com/people/jordan-larson",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via PeoplePill structured data ('Gender: female') and US women's national team volleyball career — four Olympic medals including Tokyo 2020 gold MVP (peoplepill/Wikipedia/LOVB bio).",
+        "sourceLabel": "PeoplePill — Jordan Larson structured record ('Gender: female')",
+        "sourceUrl": "https://peoplepill.com/people/jordan-larson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "PeoplePill — Jordan Larson (DOB 1986-10-16; Gender: female)",
+          "platform": "Website",
+          "url": "https://peoplepill.com/people/jordan-larson",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Jordan Larson (DOB 1986-10-16; 4x Olympic medalist)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Larson",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LOVB — Jordan Larson athlete profile (four-time Olympian bio)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-nebraska-volleyball/athletes/jordan-larson",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Four-time Olympic medalist and Tokyo 2020 indoor volleyball MVP — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-134",
+      "displayName": "Jordan Thompson",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 5, 1997 — age 29 in 2026 — per volleyballworld.com official VNL player bio (Birth date 05/05/1997, Age 29) and volleybox structured JSON-LD birthDate 1997-05-05.",
+        "sourceLabel": "Volleyball World — Jordan Thompson official VNL player bio (birth date 05/05/1997)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/172978",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured data ('gender: Female' JSON-LD) and US women's national-team opposite-hitter career — 2020 Olympic gold (volleybox/LOVB).",
+        "sourceLabel": "Women.volleybox — Jordan Thompson player data ('gender: Female')",
+        "sourceUrl": "https://women.volleybox.net/jordan-thompson-p23201",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — Jordan Thompson VNL official bio (DOB 1997-05-05)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/172978",
+          "relationship": "official"
+        },
+        {
+          "label": "Women.volleybox — Jordan Thompson (birthDate/gender Female; sameAs IG/X @jtomm19)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/jordan-thompson-p23201",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LOVB — Jordan Thompson athlete profile (2020 Olympic gold bio)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-houston-volleyball/athletes/jordan-thompson",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @jtomm19 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jtomm19/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @jtomm19 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/jtomm19",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2020 Olympic gold and 2024 Olympic silver opposite hitter (Cincinnati kills leader) — objective athlete category. Handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jtomm19",
+          "profileUrl": "https://www.instagram.com/jtomm19/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@jtomm19",
+          "profileUrl": "https://x.com/jtomm19",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-135",
+      "displayName": "Simone Manuel",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 2, 1996 in Sugar Land, Texas — age 30 in 2026 — per PlayersWiki (born August 2, 1996), BarnesLaw bio replication and BioNewsly (Date of Birth August 2, 1996).",
+        "sourceLabel": "PlayersWiki — Simone Manuel (born August 2, 1996)",
+        "sourceUrl": "https://playerswiki.com/simone-manuel",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's Olympic swimming career — 'first African American woman to win an individual gold medal in Olympic swimming' (Women's Health/PlayersWiki).",
+        "sourceLabel": "Women's Health — Who Is Simone Manuel (woman's swimming profile)",
+        "sourceUrl": "https://www.womenshealthmag.com/fitness/a37115304/who-is-simone-manuel-olympics-swimming-usa/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "PlayersWiki — Simone Manuel (DOB 1996-08-02; IG 142k / X 114k counts)",
+          "platform": "Website",
+          "url": "https://playerswiki.com/simone-manuel",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Women's Health — Simone Manuel Olympic profile",
+          "platform": "Website",
+          "url": "https://www.womenshealthmag.com/fitness/a37115304/who-is-simone-manuel-olympics-swimming-usa/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "SwimSwam — Simone Manuel bio (two-time Olympic champion record)",
+          "platform": "Website",
+          "url": "https://swimswam.com/bio/simone-manuel/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic champion (100m freestyle, medley relay 2016) — objective athlete category. Counts are PlayersWiki's stated IG 142k/Twitter 114k (December-2018 snapshot; recorded verbatim, dated). Handle values were not shown on that page — URLs omitted per handle-evidence rule.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-136",
+      "displayName": "Sam Kerr",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 10, 1993 in Fremantle, Western Australia — age 33 in 2026 — per Britannica (born September 10, 1993), Wikiquote bio (born 10 September 1993) and HotSoccerGirls quick-facts (Date of Birth 10 September 1993).",
+        "sourceLabel": "Britannica — Sam Kerr (born September 10, 1993)",
+        "sourceUrl": "https://www.britannica.com/biography/Sam-Kerr",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Matildas/Chelsea women's football career — captain of the Australian women's national team and 'the only female football player to have won the Golden Boot in three different leagues' (Wikiquote/Britannica).",
+        "sourceLabel": "Britannica — Sam Kerr (Matildas captain, women's national team)",
+        "sourceUrl": "https://www.britannica.com/biography/Sam-Kerr",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Sam Kerr (DOB 1993-09-10; Golden Boot record)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Sam-Kerr",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikiquote — Sam Kerr bio (born 10 September 1993; NWSL scoring record)",
+          "platform": "Website",
+          "url": "https://en.wikiquote.org/wiki/Sam_Kerr",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "HotSoccerGirls — Sam Kerr profile (DOB 1993-09-10; socials list)",
+          "platform": "Website",
+          "url": "https://www.hotsoccergirls.com/sam-kerr",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @samanthakerr20 (hotsoccergirls socials list)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/samanthakerr20/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @samkerr1 (hotsoccergirls socials list)",
+          "platform": "X",
+          "url": "https://x.com/samkerr1",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "NWSL and WSL all-time-scoring striker and Matildas captain — objective athlete category. Handles via HotSoccerGirls social-accounts list; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@samanthakerr20",
+          "profileUrl": "https://www.instagram.com/samanthakerr20/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via hotsoccergirls.com social-accounts list; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@samkerr1",
+          "profileUrl": "https://x.com/samkerr1",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via hotsoccergirls.com social-accounts list; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-137",
+      "displayName": "Stephanie Gilmore",
+      "categories": [
+        "Athlete",
+        "Surfing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 29, 1988 in Murwillumbah, NSW, Australia — age 38 in 2026 — per Wikipedia (born 29 January 1988), NextBiography (born January 29, 1988, age 38 as of 2026) and FamousFix.",
+        "sourceLabel": "Wikipedia — Stephanie Gilmore (born 29 January 1988)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Stephanie_Gilmore",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's WSL career — eight-time world champion, 'the most decorated female surfer in world championship history' (NextBiography/Wikipedia).",
+        "sourceLabel": "NextBiography — Stephanie Gilmore (women's surfing titles count)",
+        "sourceUrl": "https://www.nextbiography.com/stephanie-gilmore/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Stephanie Gilmore (DOB 1988-01-29; 8x world champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Gilmore",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "NextBiography — Stephanie Gilmore bio (DOB January 29, 1988)",
+          "platform": "Website",
+          "url": "https://www.nextbiography.com/stephanie-gilmore/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "NC Management — Stephanie Gilmore client profile (official handles @stephaniegilmore + @Steph_gilmore)",
+          "platform": "Website",
+          "url": "https://ncmanagement.com.au/clients/stephanie-gilmore/",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @stephaniegilmore (NC Management 'FOLLOW STEPHANIE')",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/stephaniegilmore/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @Steph_gilmore (NC Management 'FOLLOW STEPHANIE')",
+          "platform": "X",
+          "url": "https://x.com/Steph_gilmore",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Eight-time WSL women's world champion — objective athlete category. Handles via her official management's client page; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@stephaniegilmore",
+          "profileUrl": "https://www.instagram.com/stephaniegilmore/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via NC Management official client profile; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@Steph_gilmore",
+          "profileUrl": "https://x.com/Steph_gilmore",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via NC Management official client profile; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-138",
+      "displayName": "Janja Garnbret",
+      "categories": [
+        "Athlete",
+        "Climbing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 12, 1999 in Slovenj Gradec, Slovenia — age 27 in 2026 — per Red Bull athlete profile (structured birthDate 1999-03-12), her official website (Date of Birth 12.03.1999) and Wikiwand/Wikipedia (born 12 March 1999, age 27).",
+        "sourceLabel": "Red Bull — Janja Garnbret athlete profile (birthDate 1999-03-12)",
+        "sourceUrl": "https://www.redbull.com/ca-en/athlete/janja-garnbret-climbing",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Red Bull structured data ('gender: female') and women's competition climbing career — two-time Olympic gold medalist (Tokyo 2020, Paris 2024).",
+        "sourceLabel": "Red Bull — Janja Garnbret profile ('gender: female')",
+        "sourceUrl": "https://www.redbull.com/ca-en/athlete/janja-garnbret-climbing",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Red Bull — Janja Garnbret (DOB 1999-03-12; gender female; 2x Olympic gold)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/ca-en/athlete/janja-garnbret-climbing",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "janja-garnbret.com — official site (DOB 12.03.1999; sameAs IG janja_garnbret)",
+          "platform": "Website",
+          "url": "https://janja-garnbret.com/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikiwand — Janja Garnbret (born 12 March 1999; 10x world champion)",
+          "platform": "Website",
+          "url": "https://wikiwand.com/en/articles/Janja_Garnbret",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @janja_garnbret (official site structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/janja_garnbret/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — garnbretjanja (official site sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/garnbretjanja",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic sport-climbing gold medalist and most-decorated competition climber — objective athlete category. Handles via her official website's structured sameAs records; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@janja_garnbret",
+          "profileUrl": "https://www.instagram.com/janja_garnbret/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via janja-garnbret.com structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "garnbretjanja",
+          "profileUrl": "https://www.facebook.com/garnbretjanja",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via janja-garnbret.com structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
@@ -9618,6 +10088,13 @@
       "severity": "needs-review",
       "summary": "Session-12 batch-C flags: approximated social counts recorded only with '+' verbatim floors; pre-existing athlete duplicates caught.",
       "detail": "(1) Becky Lynch IG 5.5M+ / X 2.4M+: LeaderBiography socials-table approximations (page dated 2026-05-04), recorded verbatim at stated '+' floors her countType 'rounded'. (2) Rose Namajunas: mma-blog fun-facts claims '1.55 million Instagram followers' — deliberately NOT used (not platform-observed); handle kept, count UNKNOWN. (3) Re-verified this wave but excluded as pre-existing: Katie Ledecky (W-2026-006), Chloe Kim (W-2026-007), Trinity Rodman (W-2026-095).",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-014",
+      "severity": "needs-review",
+      "summary": "Session-12 batch-D flags: thirds-party stated counts recorded verbatim; pre-existing duplicate catches.",
+      "detail": "(1) Simone Manuel IG 142k/X 114k are PlayersWiki-stated counts from a December-2018 page — recorded verbatim + dated; handles were not shown on that page so no account objects were created. (2) Cassey Ho was re-verified this wave but excluded — an entry already exists under displayName 'Cassey Ho (Blogilates)' (dup-guard caught). (3) Other re-verified-but-pre-existing catches: Regan Smith (W-2026-078), Pamela Reif (W-2026-013), Iga Świątek (W-2026-093).",
       "reviewStatus": "requires-owner-review"
     }
   ]
