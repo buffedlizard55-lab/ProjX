@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 299,
+    "entryCount": 301,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -20608,6 +20608,116 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-300",
+      "displayName": "Mina Popović",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 16, 1994 in Kraljevo, Serbia — age 31 (32 in Sept 2026) in 2026 — per Wikipedia (born 16 September 1994, Kraljevo), Grokipedia (born September 16, 1994, in Kraljevo), the CEV EuroVolley/Champions League official pages (born 1994, Kraljevo) and worldofvolley (Date of birth 16.09.1994).",
+        "sourceLabel": "Wikipedia — Mina Popović (born 16 September 1994)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mina_Popovi%C4%87",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — Tokyo 2020 Olympic bronze + 2022 WORLD champion middle blocker (Grokipedia/CEV official EuroVolley roster).",
+        "sourceLabel": "CEV EuroVolley — official Serbia roster (Popović, middle blocker)",
+        "sourceUrl": "https://eurovolley.cev.eu/team/12616-serbia/player/7790-popovic-mina",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Mina Popović (DOB 1994-09-16; Kraljevo)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Mina_Popovi%C4%87",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CEV EuroVolley — official Serbia roster (born 1994, Kraljevo)",
+          "platform": "Website",
+          "url": "https://eurovolley.cev.eu/team/12616-serbia/player/7790-popovic-mina",
+          "relationship": "official"
+        },
+        {
+          "label": "Grokipedia — Mina Popović (born September 16, 1994; Tokyo 2020 bronze + 2022 World gold)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Mina_Popovi%C4%87",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Serbia's senior middle blocker — Tokyo 2020 Olympic bronze, 2022 WCH and 2017 Euro champions... European champion 2017 + World champion 2022; club career through OK Crvena Zvezda, Vicenza, Fenerbahçe, Casalmaggiore and Azzurra Firenze — objective athlete category; verified 31 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-301",
+      "displayName": "Bianka Buša",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 25, 1994 in Vrbas, Serbia — age 31 in 2026 — per the Olympedia athlete record (Born: 25 July 1994 in Vrbas, Južna Bačka), Wikipedia (born 25 July 1994), DBpedia (born 25 July 1994) and Grokipedia (born on 25 July 1994 in Vrbas).",
+        "sourceLabel": "Olympedia — Bianka Buša record (Born 25 July 1994)",
+        "sourceUrl": "https://www.olympedia.org/athletes/131714",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — three-time Olympian (Rio 2016 SILVER, Tokyo 2020 bronze, Paris 2024) per Grokipedia/Olympedia.",
+        "sourceLabel": "Grokipedia — Bianka Buša (three Olympic Games; Rio silver + Tokyo bronze)",
+        "sourceUrl": "https://grokipedia.com/page/Bianka_Bua",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Bianka Buša (Born 25 July 1994; Vrbas)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/131714",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Bianka Buša (DOB 1994-07-25; Vrbas)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Bianka_Bu%C5%A1a",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Bianka Buša (born 25 July 1994; Olympian ×3)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Bianka_Bua",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Serbian outside hitter — Olympian three times (Rio 2016 silver; Tokyo 2020 bronze; Paris 2024) plus 2018 World champion and double European champion (2017, 2019); club career in Serbia, Romania, Poland and Italy — objective athlete category; verified 31 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
