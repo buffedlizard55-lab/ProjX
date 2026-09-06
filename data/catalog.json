@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 232,
+    "entryCount": 234,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16043,6 +16043,151 @@
       "flags": [],
       "notes": "Dominican 'Reina del Caribe' libero legend — three-time Olympian (London 2012 Best Libero), NORCECA 2023 MVP, currently at Fenerbahçe — objective athlete category; verified 34 years old. Nickname 'Chin Chin'. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-233",
+      "displayName": "Maja Ognjenović",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 6, 1984 in Zrenjanin, SR Serbia (then Yugoslavia) — age 42 in 2026 — per Wikipedia (born 6 August 1984), Pantheon (born 6 August 1984), Grokipedia (born on August 6, 1984) and Baidu Baike (Date of Birth August 6, 1984; Gender: Female).",
+        "sourceLabel": "Wikipedia — Maja Ognjenović (born 6 August 1984)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maja_Ognjenovi%C4%87",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — Baidu Baike record 'Gender: Female'; 'Serbia women's national volleyball team' captain/setter (Wikipedia/Grokipedia).",
+        "sourceLabel": "Wikipedia — Maja Ognjenović (Serbia women's NT setter/captain)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Maja_Ognjenovi%C4%87",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Maja Ognjenović (DOB 1984-08-06; five-time Olympian)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Maja_Ognjenovi%C4%87",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Baidu Baike — Maja Ognjenović (DOB August 6, 1984; Gender Female)",
+          "platform": "Website",
+          "url": "https://baike.baidu.com/en/item/Maja%20Ognjenovi%C4%87/3341000",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Maja Ognjenović (born August 6, 1984, Zrenjanin)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Maja_Ognjenovi%C4%87",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Five-time Olympic setter and Serbia's 2018 World Championship gold captain — two Olympic medals, 2011/2019 European champion, professional with Savino Del Bene Scandicci; announced retirement from the national team at Paris 2024 — objective athlete category; verified 42 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-234",
+      "displayName": "Kiera Van Ryk",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 6, 1999 in New Westminster, British Columbia, Canada — age 27 in 2026 — per the OFFICIAL Volleyball Canada athlete bio (Birth date January 06, 1999), Wikipedia (born January 6, 1999), volleybox structured record (birthDate 1999-01-06) and Grokipedia (born on January 6, 1999).",
+        "sourceLabel": "Volleyball Canada — official Kiera Van Ryk athlete bio (Birth date January 06, 1999)",
+        "sourceUrl": "https://volleyball.ca/en/athletes/kiera-van-ryk",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female'), simple.wikipedia ('Canadian female volleyball player') and the official Canada women's national team page (volleyball.ca).",
+        "sourceLabel": "Volleyball Canada — official athlete bio (women's national team opposite)",
+        "sourceUrl": "https://volleyball.ca/en/athletes/kiera-van-ryk",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball Canada — official Kiera Van Ryk bio (DOB 1999-01-06)",
+          "platform": "Website",
+          "url": "https://volleyball.ca/en/athletes/kiera-van-ryk",
+          "relationship": "official"
+        },
+        {
+          "label": "volleybox — Kiera Van Ryk (birthDate 1999-01-06; gender Female; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/kiera-van-ryk-p12358",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Kiera Van Ryk (born January 6, 1999; New Westminster)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Kiera_Van_Ryk",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kieravanryk (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kieravanryk",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @kiera.vanryk (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/kiera.vanryk",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Canada's premier opposite — U SPORTS national Player of the Year (UBC, Mary Lyons Award 2019) and longtime national team leader (pro across Italy, Poland, Turkey, China) — objective athlete category; verified 27 years old. IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kieravanryk",
+          "profileUrl": "https://www.instagram.com/kieravanryk",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@kiera.vanryk",
+          "profileUrl": "https://www.facebook.com/kiera.vanryk",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
