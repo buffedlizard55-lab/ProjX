@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 192,
+    "entryCount": 194,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13289,6 +13289,116 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "2025 WSL Women's World Champion — the first Australian woman to win the world title since Stephanie Gilmore in 2022 — objective athlete category; verified 23 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-193",
+      "displayName": "Abbi Pulling",
+      "categories": [
+        "Athlete",
+        "Motorsport",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 21, 2003 in Gosberton, Lincolnshire, UK — age 23 in 2026 — per Wikipedia (born 21 March 2003), motorsport.com official driver profile (Date of birth 2003-03-21), Autosport ('born in Lincolnshire on 21 March 2003') and SCMP ('21-year-old', Dec 2024).",
+        "sourceLabel": "Motorsport.com — Abbi Pulling driver profile (Date of birth 2003-03-21)",
+        "sourceUrl": "https://www.motorsport.com/driver/abbi-pulling/947570/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via her career in the all-woman F1 Academy series (2024 F1 Academy drivers' champion), W Series and Formula E women's test sessions — Autosport/SCMP/Wikipedia.",
+        "sourceLabel": "Autosport — 'Who is Abbi Pulling? An insight into the F1 Academy star'",
+        "sourceUrl": "https://www.autosport.com/F1-Academy/news/who-is-abbi-pulling-an-insight-into-the-f1-academy-star/10610763/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Motorsport.com — Abbi Pulling driver profile (DOB 2003-03-21)",
+          "platform": "Website",
+          "url": "https://www.motorsport.com/driver/abbi-pulling/947570/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Abbi Pulling (born 21 March 2003; 2024 F1 Academy champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Abbi_Pulling",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Autosport — Abbi Pulling feature (born 21 March 2003)",
+          "platform": "Website",
+          "url": "https://www.autosport.com/F1-Academy/news/who-is-abbi-pulling-an-insight-into-the-f1-academy-star/10610763/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 F1 Academy drivers' champion (all-woman series) and Nissan Formula E team rookies/simulator driver — objective athlete category; verified 23 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-194",
+      "displayName": "Rayssa Leal",
+      "categories": [
+        "Athlete",
+        "Skateboarding",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 4, 2008 in Imperatriz, Maranhão, Brazil — EXPLICITLY 'age 18' per Britannica (published DOB + age) — adult 18+ as of 2026; corroborated by Wikipedia (born 4 January 2008), olympics.com official profile (Year of Birth 2008) and surfertoday.",
+        "sourceLabel": "Britannica — Rayssa Leal (born January 4, 2008; 'age 18')",
+        "sourceUrl": "https://www.britannica.com/biography/Rayssa-Leal",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's street skateboarding career — Olympic silver (Tokyo 2020, women's street) and bronze (Paris 2024), youngest-ever Brazilian double Olympic medalist (Wikipedia/Britannica/olympics.com).",
+        "sourceLabel": "Wikipedia — Rayssa Leal (women's street skateboarding medals)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Rayssa_Leal",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Rayssa Leal (DOB Jan 4 2008; explicit 'age 18'; bio)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Rayssa-Leal",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Olympics.com — Rayssa Leal official athlete profile (Year of Birth 2008)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/rayssa-leal",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Rayssa Leal (born 4 January 2008; medal record)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Rayssa_Leal",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic medalist in women's street skateboarding (Tokyo 2020 silver, Paris 2024 bronze) — objective athlete category; verified 18 years old via published DOB (2008-01-04) plus Britannica's explicit current age. No social handle captured this pass — follower range UNKNOWN; a third-party reports a post-Tokyo follower surge but no verified current count is recorded.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
