@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 264,
+    "entryCount": 266,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18146,6 +18146,168 @@
       "flags": [],
       "notes": "Left-handed outside hitter — University of Utah's all-time leader in career kills, sets, matches and attempts + four-time AVCA All-American; pro career through Poland (Chemik Police champion), Italy, Japan and Athletes Unlimited, now LOVB Salt Lake; USA NT member — objective athlete category; verified 27 years old. Née Barton. DISTINCT PERSON from cataloged Andrea \"Annie\" Drews (W-2026-064) — same-surname different athlete confirmed via birth names, dates and careers. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-265",
+      "displayName": "Torrey Stafford",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 15, 2005 — age 21 in 2026 — per the volleybox structured profile (birthDate 2005-04-15; 'born April 15, 2005', 21 years old) consistent with 'a junior' in her third college season per the Austin American-Statesman (Nov 2025) and Texas Athletics official site (Dec 2025).",
+        "sourceLabel": "Volleybox — Torrey Stafford structured profile (birthDate 2005-04-15; gender Female)",
+        "sourceUrl": "https://women.volleybox.net/torrey-stafford-p100402",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA women's volleyball career — two-time First-Team AVCA All-American for women's programs (Pitt 2024, Texas 2025) per the official texaslonghorns.com All-America release and volleybox structured 'gender: Female'.",
+        "sourceLabel": "Texas Athletics — official All-America release (women's volleyball; Stafford First-Team All-American ×2)",
+        "sourceUrl": "https://texaslonghorns.com/news/2025/12/17/no-3-volleyball-earn-three-avca-all-america-honors",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Texas Athletics — official All-America release (women's volleyball, Dec 2025)",
+          "platform": "Website",
+          "url": "https://texaslonghorns.com/news/2025/12/17/no-3-volleyball-earn-three-avca-all-america-honors",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleybox — Torrey Stafford structured profile (birthDate 2005-04-15; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/torrey-stafford-p100402",
+          "relationship": "reference"
+        },
+        {
+          "label": "Austin American-Statesman — Texas All-SEC selections (junior outside hitter)",
+          "platform": "Website",
+          "url": "https://www.statesman.com/sports/college/longhorns/volleyball/article/texas-longhorns-torrey-stafford-21200828.php",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time First-Team AVCA All-American outside hitter (Pitt 2024 → Texas 2025 transfer) — Texas team leader with 516 kills/580.5 points and All-SEC First Team in 2025; AVCA National Player of the Year semifinalist — objective athlete category; verified 21 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-266",
+      "displayName": "Melanie Parra",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 12, 2002 in Culiacán, Sinaloa, Mexico — age 23 (24 in Sept 2026) in 2026 — per simple.wikipedia (born 12 September 2002), Famous Birthdays structured record (birthDate 2002-09-12; sameAs IG @_parra._16) and the volleybox structured profile (birthDate 2002-09-12; maiden name Melanie Parra Quintero; Culiacán).",
+        "sourceLabel": "Simple Wikipedia — Melanie Parra (born 12 September 2002)",
+        "sourceUrl": "https://simple.wikipedia.org/wiki/Melanie_Parra",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Mexico women's national volleyball team career — FIVB World Championship 2018 participant (debuting at 16) and volleybox structured 'gender: Female'; Texas Longhorns / TCU Horned Frogs women's volleyball star.",
+        "sourceLabel": "Volleybox — Melanie Parra structured profile (birthDate + sameAs + gender Female)",
+        "sourceUrl": "https://women.volleybox.net/melanie-parra-p14788",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Simple Wikipedia — Melanie Parra (born 12 September 2002)",
+          "platform": "Website",
+          "url": "https://simple.wikipedia.org/wiki/Melanie_Parra",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famous Birthdays — Melanie Parra (birthDate 2002-09-12; sameAs IG)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/melanie-parra.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Melanie Parra structured profile (birthDate 2002-09-12; sameAs IG/X/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/melanie-parra-p14788",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @_parra._16 (volleybox + Famous Birthdays structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/_parra._16/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X/Twitter — @_parra_04 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/_parra_04",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @Melanie-Parra-104877598526467 (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/Melanie-Parra-104877598526467",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Mexican national team outside hitter from Culiacán — debuted at the senior FIVB World Championship at 16 in 2018; starred at TCU and Texas (record-setting NCAA career) before turning professional with UYBA Busto Arsizio (Italy) — objective athlete category; verified 23 years old. Full name Melanie Guadalupe Parra Quintero. IG/X/FB handles via structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@_parra._16",
+          "profileUrl": "https://www.instagram.com/_parra._16/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox + Famous Birthdays structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@_parra_04",
+          "profileUrl": "https://twitter.com/_parra_04",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@Melanie-Parra-104877598526467",
+          "profileUrl": "https://www.facebook.com/Melanie-Parra-104877598526467",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
