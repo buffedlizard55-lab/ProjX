@@ -3,17 +3,38 @@
   "$id": "https://buffedlizard55-lab.github.io/ProjX/data/schema.json",
   "title": "ProjX catalog schema",
   "type": "object",
-  "required": ["metadata", "entries", "irregularities"],
+  "required": [
+    "metadata",
+    "entries",
+    "irregularities"
+  ],
   "properties": {
     "metadata": {
       "type": "object",
-      "required": ["title", "generatedAt", "entryCount"],
+      "required": [
+        "title",
+        "generatedAt",
+        "entryCount"
+      ],
       "properties": {
-        "title": { "type": "string" },
-        "generatedAt": { "type": "string", "format": "date" },
-        "entryCount": { "type": "integer", "minimum": 0 },
-        "reviewQueueCount": { "type": "integer", "minimum": 0 },
-        "summary": { "type": "string" }
+        "title": {
+          "type": "string"
+        },
+        "generatedAt": {
+          "type": "string",
+          "format": "date"
+        },
+        "entryCount": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "reviewQueueCount": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "summary": {
+          "type": "string"
+        }
       },
       "additionalProperties": true
     },
@@ -42,34 +63,62 @@
           },
           "categories": {
             "type": "array",
-            "items": { "type": "string" },
+            "items": {
+              "type": "string"
+            },
             "description": "Professional categories such as model, fitness, athlete, fashion, lifestyle, creator, entertainment, public personality — objective, never hot/sexy ranking; women-only."
           },
           "legalAdultEvidence": {
             "type": "object",
-            "required": ["summary", "sourceLabel", "sourceUrl", "checkedAt"],
+            "required": [
+              "summary",
+              "sourceLabel",
+              "sourceUrl",
+              "checkedAt"
+            ],
             "properties": {
               "summary": {
                 "type": "string",
                 "description": "Human-readable age/18+ verification summary."
               },
-              "sourceLabel": { "type": "string" },
-              "sourceUrl": { "type": "string", "format": "uri" },
-              "checkedAt": { "type": "string", "format": "date" }
+              "sourceLabel": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string",
+                "format": "uri"
+              },
+              "checkedAt": {
+                "type": "string",
+                "format": "date"
+              }
             },
             "additionalProperties": false
           },
           "genderEvidence": {
             "type": "object",
-            "required": ["summary", "sourceLabel", "sourceUrl", "checkedAt"],
+            "required": [
+              "summary",
+              "sourceLabel",
+              "sourceUrl",
+              "checkedAt"
+            ],
             "properties": {
               "summary": {
                 "type": "string",
                 "description": "Human-readable gender verification summary — evidence that the subject is a woman from a reliable public source (first-party bio, official site, agency, sports org, reputable interview); never from appearance/clothing/name/AI."
               },
-              "sourceLabel": { "type": "string" },
-              "sourceUrl": { "type": "string", "format": "uri" },
-              "checkedAt": { "type": "string", "format": "date" }
+              "sourceLabel": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string",
+                "format": "uri"
+              },
+              "checkedAt": {
+                "type": "string",
+                "format": "date"
+              }
             },
             "additionalProperties": false
           },
@@ -78,14 +127,33 @@
             "minItems": 1,
             "items": {
               "type": "object",
-              "required": ["label", "platform", "url", "relationship"],
+              "required": [
+                "label",
+                "platform",
+                "url",
+                "relationship"
+              ],
               "properties": {
-                "label": { "type": "string" },
-                "platform": { "type": "string" },
-                "url": { "type": "string", "format": "uri" },
+                "label": {
+                  "type": "string"
+                },
+                "platform": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri"
+                },
                 "relationship": {
                   "type": "string",
-                  "enum": ["official", "verified-platform", "agency", "press", "age-evidence", "other-trusted"]
+                  "enum": [
+                    "official",
+                    "verified-platform",
+                    "agency",
+                    "press",
+                    "age-evidence",
+                    "other-trusted"
+                  ]
                 }
               },
               "additionalProperties": false
@@ -96,28 +164,48 @@
             "description": "Per-platform public social accounts with observed follower counts. Never invent counts; never sum across platforms.",
             "items": {
               "type": "object",
-              "required": ["platform", "profileUrl", "checkedAt", "countType"],
+              "required": [
+                "platform",
+                "profileUrl",
+                "checkedAt",
+                "countType"
+              ],
               "properties": {
                 "platform": {
                   "type": "string",
                   "description": "Instagram, TikTok, YouTube, X, Facebook, etc."
                 },
-                "username": { "type": "string" },
-                "profileUrl": { "type": "string", "format": "uri" },
+                "username": {
+                  "type": "string"
+                },
+                "profileUrl": {
+                  "type": "string",
+                  "format": "uri"
+                },
                 "followerCountDisplay": {
                   "type": "string",
                   "description": "Publicly displayed value as shown (e.g. '12.4K', '1.2M') or FOLLOWER_COUNT_UNKNOWN."
                 },
                 "followerCountNumeric": {
-                  "type": ["number", "null"],
+                  "type": [
+                    "number",
+                    "null"
+                  ],
                   "description": "Normalized numeric value for sorting when display supports it; null when unknown."
                 },
                 "countType": {
                   "type": "string",
-                  "enum": ["exact", "rounded", "unknown"],
+                  "enum": [
+                    "exact",
+                    "rounded",
+                    "unknown"
+                  ],
                   "description": "exact = precise public figure; rounded = platform shows K/M abbreviated; unknown = not publicly available."
                 },
-                "checkedAt": { "type": "string", "format": "date" },
+                "checkedAt": {
+                  "type": "string",
+                  "format": "date"
+                },
                 "followerSizeRange": {
                   "type": "string",
                   "description": "Normalized range bucket or FOLLOWER_RANGE_UNKNOWN."
@@ -134,12 +222,28 @@
             "type": "object",
             "description": "Largest single-platform verified public follower count (not a cross-platform sum).",
             "properties": {
-              "platform": { "type": "string" },
-              "username": { "type": "string" },
-              "display": { "type": "string" },
-              "numeric": { "type": ["number", "null"] },
-              "sizeRange": { "type": "string" },
-              "checkedAt": { "type": "string", "format": "date" }
+              "platform": {
+                "type": "string"
+              },
+              "username": {
+                "type": "string"
+              },
+              "display": {
+                "type": "string"
+              },
+              "numeric": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "sizeRange": {
+                "type": "string"
+              },
+              "checkedAt": {
+                "type": "string",
+                "format": "date"
+              }
             },
             "additionalProperties": false
           },
@@ -149,15 +253,34 @@
           },
           "verificationStatus": {
             "type": "string",
-            "enum": ["verified", "needs-review", "blocked"]
+            "enum": [
+              "verified",
+              "needs-review",
+              "blocked"
+            ]
           },
-          "lastReviewed": { "type": "string", "format": "date" },
+          "lastReviewed": {
+            "type": "string",
+            "format": "date"
+          },
           "flags": {
             "type": "array",
-            "items": { "type": "string" },
+            "items": {
+              "type": "string"
+            },
             "description": "Unresolved issues. Verified records should normally have an empty flags array."
           },
-          "notes": { "type": "string" }
+          "notes": {
+            "type": "string"
+          },
+          "catalogType": {
+            "type": "string",
+            "enum": [
+              "social",
+              "reference"
+            ],
+            "description": "social = has a documented Instagram or TikTok profile; reference = documented via Wikipedia/website/X/YouTube/Facebook/no public social."
+          }
         },
         "additionalProperties": false
       }
@@ -166,13 +289,33 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "severity", "summary", "reviewStatus"],
+        "required": [
+          "id",
+          "severity",
+          "summary",
+          "reviewStatus"
+        ],
         "properties": {
-          "id": { "type": "string" },
-          "severity": { "type": "string", "enum": ["needs-review", "blocked", "resolved"] },
-          "summary": { "type": "string" },
-          "detail": { "type": "string" },
-          "reviewStatus": { "type": "string" }
+          "id": {
+            "type": "string"
+          },
+          "severity": {
+            "type": "string",
+            "enum": [
+              "needs-review",
+              "blocked",
+              "resolved"
+            ]
+          },
+          "summary": {
+            "type": "string"
+          },
+          "detail": {
+            "type": "string"
+          },
+          "reviewStatus": {
+            "type": "string"
+          }
         },
         "additionalProperties": false
       }
@@ -182,13 +325,38 @@
       "description": "Promising public creators discovered via activity-first research where one or more verification fields still need stronger evidence — not discarded, flagged for further research. Separate from VERIFIED entries.",
       "items": {
         "type": "object",
-        "required": ["id", "displayName", "platform", "profileUrl", "discoveryCategory", "missingEvidence", "flags", "lastChecked"],
+        "required": [
+          "id",
+          "displayName",
+          "platform",
+          "profileUrl",
+          "discoveryCategory",
+          "missingEvidence",
+          "flags",
+          "lastChecked"
+        ],
         "properties": {
-          "id": { "type": "string", "description": "Stable candidate ID, e.g., R-2026-001" },
-          "displayName": { "type": "string", "description": "Public display name or handle if real name not public" },
-          "handle": { "type": "string", "description": "Public username/handle, e.g., @fitgirl_08" },
-          "platform": { "type": "string", "description": "Primary discovery platform, e.g., Instagram, TikTok, YouTube" },
-          "profileUrl": { "type": "string", "format": "uri", "description": "Public profile URL" },
+          "id": {
+            "type": "string",
+            "description": "Stable candidate ID, e.g., R-2026-001"
+          },
+          "displayName": {
+            "type": "string",
+            "description": "Public display name or handle if real name not public"
+          },
+          "handle": {
+            "type": "string",
+            "description": "Public username/handle, e.g., @fitgirl_08"
+          },
+          "platform": {
+            "type": "string",
+            "description": "Primary discovery platform, e.g., Instagram, TikTok, YouTube"
+          },
+          "profileUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "Public profile URL"
+          },
           "discoveryCategory": {
             "type": "string",
             "description": "Objective activity category that caused discovery, e.g., Fitness, Swimwear, College Athlete"
@@ -197,30 +365,57 @@
             "type": "string",
             "description": "Publicly displayed follower count if available, else FOLLOWER_COUNT_UNKNOWN."
           },
-          "followerCountNumeric": { "type": ["number", "null"] },
-          "followerCountCheckedAt": { "type": "string", "format": "date" },
-          "followerSizeRange": { "type": "string" },
+          "followerCountNumeric": {
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "followerCountCheckedAt": {
+            "type": "string",
+            "format": "date"
+          },
+          "followerSizeRange": {
+            "type": "string"
+          },
           "evidenceFound": {
             "type": "object",
             "description": "Strongest legitimate public evidence actually found so far",
             "properties": {
-              "summary": { "type": "string" },
-              "sourceLabel": { "type": "string" },
-              "sourceUrl": { "type": "string", "format": "uri" }
+              "summary": {
+                "type": "string"
+              },
+              "sourceLabel": {
+                "type": "string"
+              },
+              "sourceUrl": {
+                "type": "string",
+                "format": "uri"
+              }
             },
             "additionalProperties": false
           },
           "missingEvidence": {
             "type": "array",
-            "items": { "type": "string" },
+            "items": {
+              "type": "string"
+            },
             "description": "Exact missing verification fields, e.g., AGE_UNVERIFIED, GENDER_UNVERIFIED, PROFILE_UNVERIFIED, IDENTITY_UNCERTAIN"
           },
           "flags": {
             "type": "array",
-            "items": { "type": "string" }
+            "items": {
+              "type": "string"
+            }
           },
-          "lastChecked": { "type": "string", "format": "date" },
-          "notes": { "type": "string", "description": "Reason for REVIEW_REQUIRED, what was checked, what remains" }
+          "lastChecked": {
+            "type": "string",
+            "format": "date"
+          },
+          "notes": {
+            "type": "string",
+            "description": "Reason for REVIEW_REQUIRED, what was checked, what remains"
+          }
         },
         "additionalProperties": false
       }

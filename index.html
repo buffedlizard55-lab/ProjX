@@ -10,7 +10,7 @@
     <title>ProjX — Verified Directory</title>
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
-  <body>
+  <body data-view="catalog">
     <a class="skip-link" href="#catalog-table">Skip to catalog table</a>
 
     <header class="site-header">
@@ -24,6 +24,7 @@
         </a>
         <div class="nav-links">
           <a href="#catalog">Catalog</a>
+          <a href="reference.html">Reference profiles</a>
           <a href="#follower-stats">Follower sizes</a>
           <a href="#review-queue">Review queue</a>
           <a href="#eligibility">Eligibility</a>
@@ -111,7 +112,7 @@
         <div class="panel-heading">
           <div>
             <p class="eyebrow">Catalog</p>
-            <h2 id="catalog-title">Published records</h2>
+            <h2 id="catalog-title">Published records — Instagram &amp; TikTok</h2>
           </div>
           <div class="toolbar" role="group" aria-label="Export actions">
             <button id="download-json" class="button secondary" type="button">Download JSON</button>
@@ -163,9 +164,13 @@
         </form>
 
         <p class="filter-hint">
+          This page lists only profiles with a documented <strong>Instagram or TikTok</strong> account.
           Follower counts are point-in-time observations from public profiles or reputable analytics
           snapshots — never estimated. Combine filters freely (e.g. Fitness + Instagram + 10K–24.9K).
-          Creators without an observed count appear under “Unknown / not observed.”
+          Creators without an observed count appear under “Unknown / not observed.” Verified people
+          documented via Wikipedia, personal websites, X, YouTube, Facebook, or press (no Instagram
+          or TikTok) live on the
+          <a href="reference.html"><strong>Reference profiles</strong></a> page.
         </p>
 
         <div class="table-wrap">
@@ -406,6 +411,6 @@
       </p>
     </footer>
 
-    <script src="assets/app.js" defer></script>
+    <script src="assets/catalog.js" defer></script>
   </body>
 </html>

@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="ProjX reference profiles: verified adult (18+) women public figures documented via Wikipedia, personal websites, X, YouTube, Facebook, or press — no Instagram or TikTok account — with official links and line-by-line verification."
+    />
+    <title>ProjX — Reference Profiles</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body data-view="reference">
+    <a class="skip-link" href="#catalog-table">Skip to catalog table</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="./" aria-label="ProjX home">
+          <span class="brand-mark" aria-hidden="true">PX</span>
+          <span>
+            <strong>ProjX</strong>
+            <small>Verified Directory</small>
+          </span>
+        </a>
+        <div class="nav-links">
+          <a href="index.html">Instagram / TikTok catalog</a>
+          <a href="#catalog">Reference profiles</a>
+          <a href="#docs">Docs &amp; data</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Women only • 18+ with official evidence • reviewable source links</p>
+          <h1 id="page-title">Reference profiles — verified without an Instagram or TikTok account.</h1>
+          <p>
+            This page is the <strong>other</strong> side of the ProjX directory: verified adult (18+)
+            women public figures and professionals who are documented via Wikipedia, personal or
+            agency websites, X, YouTube, Facebook, press, or other trusted public sources — and do
+            <strong>not</strong> operate a published Instagram or TikTok profile. Every row is
+            reviewed line by line against its stored source links. Profiles that <em>do</em> have an
+            Instagram or TikTok account are on the
+            <a href="index.html"><strong>Instagram / TikTok catalog</strong></a> page instead.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#catalog">View reference profiles</a>
+            <a class="button secondary" href="index.html">Instagram / TikTok catalog</a>
+          </div>
+        </div>
+        <aside class="policy-card" aria-labelledby="policy-title">
+          <h2 id="policy-title">How this page works</h2>
+          <ul>
+            <li>Each row is a real, adult (18+) woman verified from legitimate public evidence.</li>
+            <li>“Reference” means no public Instagram or TikTok account was found — not that the person is unverified.</li>
+            <li>Follower counts are therefore usually FOLLOWER_COUNT_UNKNOWN (a count is never estimated).</li>
+            <li>Men, couples, group/org accounts, and gender-ambiguous profiles without reliable evidence are excluded.</li>
+            <li>Nothing is inferred from appearance or clothing; categories are objective (Athlete, Creator, Model…).</li>
+            <li>Missing or ambiguous evidence becomes a flagged irregularity, never a guessed catalog row.</li>
+          </ul>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="stats-grid" aria-label="Reference profile statistics">
+        <article class="stat-card">
+          <span class="stat-label">Reference profiles</span>
+          <strong id="stat-total">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Verified 18+</span>
+          <strong id="stat-verified">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Needs review</span>
+          <strong id="stat-review">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Follower count unknown</span>
+          <strong id="stat-unknown-followers">0</strong>
+        </article>
+      </section>
+
+      <section id="catalog" class="panel" aria-labelledby="catalog-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Reference profiles</p>
+            <h2 id="catalog-title">Verified without Instagram or TikTok</h2>
+          </div>
+          <div class="toolbar" role="group" aria-label="Export actions">
+            <button id="download-json" class="button secondary" type="button">Download JSON</button>
+            <button id="download-csv" class="button secondary" type="button">Download CSV</button>
+          </div>
+        </div>
+
+        <form class="filters filters-expanded" aria-label="Reference profile filters">
+          <label>
+            <span>Search</span>
+            <input id="search" type="search" placeholder="Name, category, platform, source..." autocomplete="off" />
+          </label>
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="all">All statuses</option>
+              <option value="verified">Verified</option>
+              <option value="needs-review">Needs review</option>
+              <option value="blocked">Blocked</option>
+            </select>
+          </label>
+          <label>
+            <span>Category</span>
+            <select id="category-filter">
+              <option value="all">All categories</option>
+            </select>
+          </label>
+          <label>
+            <span>Platform</span>
+            <select id="platform-filter">
+              <option value="all">All platforms</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort-filter">
+              <option value="recent">Recently verified</option>
+              <option value="name-asc">Name A → Z</option>
+              <option value="followers-asc">Followers: Low → High</option>
+              <option value="followers-desc">Followers: High → Low</option>
+            </select>
+          </label>
+        </form>
+
+        <p class="filter-hint">
+          Reference profiles are documented via Wikipedia, personal/agency websites, X, YouTube,
+          Facebook, or press — they have <strong>no</strong> published Instagram or TikTok account,
+          so follower counts are usually recorded as FOLLOWER_COUNT_UNKNOWN (never estimated).
+        </p>
+
+        <div class="table-wrap">
+          <table id="catalog-table">
+            <caption>
+              Verified adult women without an Instagram or TikTok account, documented via Wikipedia,
+              personal/agency websites, X, YouTube, Facebook, or press. Each row lists reviewable
+              official links and any observed follower counts.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Category</th>
+                <th scope="col">Followers</th>
+                <th scope="col">Age evidence</th>
+                <th scope="col">Official links</th>
+                <th scope="col">Status</th>
+                <th scope="col">Last reviewed</th>
+                <th scope="col">Flags</th>
+              </tr>
+            </thead>
+            <tbody id="catalog-body"></tbody>
+          </table>
+          <div id="empty-state" class="empty-state">
+            <h3>No records match the current filters</h3>
+            <p>
+              Try clearing the search box or filters. Reference profiles that do carry an Instagram
+              or TikTok account belong on the
+              <a href="index.html">Instagram / TikTok catalog</a> page.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="docs" class="panel" aria-labelledby="docs-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Documentation</p>
+            <h2 id="docs-title">Docs &amp; machine-readable data</h2>
+          </div>
+        </div>
+        <div class="doc-grid">
+          <article class="doc-card">
+            <h3>Reference data</h3>
+            <p>Derived reference profiles with a documented absence of an Instagram/TikTok account.</p>
+            <a class="button secondary" href="data/catalog-reference.json">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Full catalog data</h3>
+            <p>Master entries and irregularities consumed by this site.</p>
+            <a class="button secondary" href="data/catalog.json">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Data schema</h3>
+            <p>JSON Schema defining every field a published record must carry.</p>
+            <a class="button secondary" href="data/schema.json">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Review log</h3>
+            <p>Session notes, irregularity decisions, and the audit trail behind the catalog.</p>
+            <a class="button secondary" href="docs/review-log.md">Open</a>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Static GitHub Pages app — no automated scraping or bulk collection is performed. Reference
+        data lives in <a href="data/catalog-reference.json">data/catalog-reference.json</a>; the
+        master catalog (all entries, with the Instagram/TikTok split) lives in
+        <a href="data/catalog.json">data/catalog.json</a>. Last generated 2026-09-07.
+      </p>
+    </footer>
+
+    <script src="assets/catalog.js" defer></script>
+  </body>
+</html>
