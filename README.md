@@ -50,10 +50,10 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `index.html` — main page and UI shell.
 - `assets/styles.css` — responsive styling.
 - `assets/app.js` — catalog loading, filtering, table rendering, and export buttons.
-- `data/catalog.json` — entries and irregularities. Now contains 4 verified women (W-2026-001..004) plus 4 blocked irregularities; further rows require opt-in or professional/public context with line-by-line verification.
-- `data/schema.json` — JSON Schema for catalog entries (includes optional `genderEvidence` for women-only verification).
-- `docs/verification-protocol.md` — line-by-line verification requirements.
-- `docs/review-log.md` — review notes and irregularity log (Sessions 01–04).
+- `data/catalog.json` — entries and irregularities. Now contains **7 verified women (W-2026-001..007 — Serena Williams, Simone Biles, Naomi Osaka, Alex Morgan, Megan Rapinoe, Katie Ledecky, Chloe Kim)** plus 5 blocked irregularities; swimwear/bikini content is objectively classified (Swimwear/Bikini Fashion/Beachwear etc., never hot/sexy) and college attendance never proves adult; further rows require opt-in or professional/public context with line-by-line Tier-1 verification (micro/college/swimwear creators without Tier-1 DOB/gender evidence remain `REVIEW_REQUIRED`, not VERIFIED).
+- `data/schema.json` — JSON Schema for catalog entries (includes optional `genderEvidence` for women-only verification and objective-category description).
+- `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits).
+- `docs/review-log.md` — review notes and irregularity log (Sessions 01–05).
 
 ## Local preview
 
