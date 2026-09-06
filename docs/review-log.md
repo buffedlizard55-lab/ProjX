@@ -2,6 +2,52 @@
 
 ## 2026-09-06
 
+### Session 10 — second-pass queue verification + activity-first discovery (5 promotions, 4 new verified, breakdown UI)
+
+**Request.** Resubmission of the baseline task: inspect repo → activity-first public-web discovery across categories and follower-size ranges → verify real person / woman / 18+ / category / profile ownership per candidate → collect publicly displayed follower counts (never estimated, never summed across platforms) → maintain VERIFIED and REVIEW_REQUIRED datasets → add/update website follower filtering, sorting and creator-size statistics → test → audit. "Flag irregularities for review. No hallucinations."
+
+**What was done (activity-first research → line-by-line verification).**
+
+- Inspected repository (branch `arena/01a07456-projx`, clean tree; catalog at 46 VERIFIED / 9 REVIEW_REQUIRED / 7 irregularities; Session-09 follower infrastructure confirmed present: range filter, platform/category/status filters, combined AND-filtering, low↔high sorting, distribution chart, review queue rendering).
+- Ran second-pass verification searches on all 9 queue candidates plus new discovery queries (female-fitness-creator articles, FamousBirthdays fitness directory, fitness-influencer press features). No logins, CAPTCHAs, or access controls bypassed; only public pages/search snapshots used.
+- **5 REVIEW_REQUIRED promotions (R → W)** after independent evidence was found this session:
+  * **R-2026-007 → W-2026-047 Melissa Bender** — DOB 1983-03-22 on two independent biographies (CelebsAges + FamousBirthdays); she/her consistent; YouTube 110K+ / IG @benderfitness 20K+ / X @BenderFitness 3,044 (exact platform display) — benderfitness.com official site via her X bio.
+  * **R-2026-006 → W-2026-048 Kahdia** — explicit "25-year-old Kahdia" + she/her profile text (StackInfluence); IG @kahdiaaa public display **6,604 followers recorded exactly** (prior third-party 28K snapshot variance logged, not hidden).
+  * **R-2026-003 → W-2026-049 Olivia Vance** — volleybox DOB 2001-03-02 (structured, gender Female) + OpenSponsorship "Female, 25" + Opendorse "Female, 24"; volleybox sameAs links @oliviafvance; TikTok 106K / IG 25K per Collabstr snapshot.
+  * **R-2026-004 → W-2026-050 Emersen "Emmy" Schrom** — **Tier-1** goduquesne.com roster: born March 21, 2006, women's volleyball #11, marketing major, "daughter of…" — resolves adult (20) + woman + identity; handle triangulation (unique surname + school + sport + major + age) documented in notes; TikTok count FOLLOWER_COUNT_UNKNOWN (never estimated).
+  * **R-2026-011 → W-2026-051 Jade Haliburton** — surname conflict RESOLVED: née Jade Jones (Iowa State cheerleader/teacher), engaged to Tyrese Haliburton (July 2025); FamousBirthdays sameAs confirms @jadehaliburton = same person; DOB 1998-01-30 (three sources; day conflict 30 vs 31 flagged `CONFLICTING_INFORMATION`, year consistent).
+- **4 newly discovered VERIFIED (W-2026-052..055)** via activity-first searches:
+  * **W-2026-052 Jen Selter** (fitness/fitness-model; DOB 1993-08-08 ×5 sources incl. Generation Iron press; IG @jenselter 13.6M Feb-2023 public snapshot).
+  * **W-2026-053 Paige Hathaway** (fitness/fitness-model; DOB 1987-07-31 ×5 sources; FLEX 2013 Bikini Model Search winner — objective category; IG 3.6M Famecop snapshot).
+  * **W-2026-054 Joan MacDonald** (fitness/wellness; DOB 1946-03-31 + press ages 74/75/77 across BI/GMA/KPRC; Penguin Random House author; IG @trainwithjoan 1.7M+ — senior-creator diversity).
+  * **W-2026-055 Sarah Stevenson "Sarah's Day"** (fitness/lifestyle/wellness; DOB 1992-08-30 ×5 sources; YouTube @SarahsDay 1.54M subs largest; Sunee app founder).
+- **4 queue candidates kept and enriched (never guessed, never discarded):** R-2026-001 Jessica Parker (full URI bio: redshirt junior, Elon transfer, HS record 1,637 assists — still no explicit DOB/age → AGE_UNVERIFIED; **namesake warning recorded**: UWSP's Jessica Parker b. 5/19/82 is a different person); R-2026-005 Lizzie Martinez (X @LizzieIfbbpro found: "Born May 30" no year, 1,444 followers, lizzieifbbpro.com → still AGE_UNVERIFIED); R-2026-008 Rachel Cooper (TheOrg: Technogym Master Trainer, instructor since 2014, B.A. 2004–2007 → career timeline not used as age inference; stays AGE_UNVERIFIED + GENDER_UNVERIFIED); R-2026-012 Valentina Villa (Zaver.one: IG 5,686 exact, Pilates studios NJ; bio contact email deliberately NOT collected; stays AGE/GENDER_UNVERIFIED).
+- **W-2026-033 Victoria Garrick Browne backfill:** Tier-1 USC Athletics roster added as direct DOB source ("Victoria Lane Garrick was born on April 30, 1997").
+- **Website updated:** new "Largest following by category" and "Observed accounts by platform" breakdown panels in the Follower distribution section (buckets Under 10K · 10K–49.9K · 50K–249.9K · 250K–999.9K · 1M+ · Unknown — computed from actual catalog data only); responsive CSS added. Existing follower-range filter + platform/category/status/search combined filtering and follower/named/recent sorting untouched (Session 09).
+- Follower-count discipline maintained: every count recorded **verbatim as publicly displayed** (e.g., 6,604 exact vs 13.6M rounded publication snapshot), each with platform, URL, exact/rounded type, checked date 2026-09-06, size bucket; largest-public-following never sums platforms.
+
+**Manual-review links (new rows)**
+
+- https://www.celebsages.com/melissa-bender/ · https://www.famousbirthdays.com/people/melissa-bender.html · https://x.com/benderfitness · https://www.instagram.com/benderfitness/ · https://benderfitness.com
+- https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/ · https://www.instagram.com/kahdiaaa/
+- https://women.volleybox.net/olivia-vance-p93444 · https://opensponsorship.com/profiles/olivia-vance-1 · https://opendorse.com/profile/olivia-vance · https://www.tiktok.com/@oliviafvance · https://www.instagram.com/oliviafvance/
+- https://goduquesne.com/sports/womens-volleyball/roster/emersen-schrom/13197 · https://www.tiktok.com/@emmyschrom
+- https://www.famousbirthdays.com/people/jade-jones-instagramstar.html · https://wealthyspy.com/jade-jones/ · https://newsbritania.co.uk/jade-jones/ · https://www.soapcentral.com/entertainment/who-jade-jones-all-tyrese-haliburton-s-fiancee-friend-dies-bachelorette-party · https://www.instagram.com/jadehaliburton/
+- https://mabumbe.com/people/jen-selter-age-net-worth-relationships-biography/ · https://generationiron.com/jen-selter-profile-bio-stats/ · https://famousbio.net/jen-selter-8777.html · https://www.instagram.com/jenselter/ · https://jenselter.com
+- https://www.thefamouspeople.com/profiles/paige-hathaway-31518.php · https://celebrityborns.com/biography/paige-hathaway/8618 · https://famecop.com/paige-hathaway/ · https://marriedceleb.com/paige-hathaway · https://www.instagram.com/paigehathaway/
+- https://www.goodmorningamerica.com/wellness/story/75-year-woman-lost-60-pounds-fitness-influencer-82655773 · https://www.thecityceleb.com/biography/personality/content-creator/joan-macdonald-bio-age-height-husband-daughter-net-worth-book-transformation-youtube-instagram/ · https://www.click2houston.com/houston-life/2023/09/15/age-is-just-a-number-meet-the-77-year-old-fitness-influencer-joan-mcdonald/ · https://www.penguinrandomhouse.com/authors/2266784/joan-macdonald/ · https://www.instagram.com/trainwithjoan/
+- https://nationaltoday.com/birthday/sarah-stevenson/ · https://wikitia.com/wiki/Sarah's_Day · https://famecop.com/fitness/sarahs-day/ · https://gossipsdiary.com/sarahs-day-wiki-bio/ · https://www.youtube.com/@SarahsDay · https://www.instagram.com/sarahs_day/
+
+**Irregularities logged for review**
+
+- `IRR-2026-09-06-008` — needs-review: (1) Kahdia follower variance 28K (3rd-party Oct 2025) vs 6,604 (IG display 2026-09-06); (2) Jade Haliburton DOB-day conflict Jan 30 vs 31 (year 1998 consistent); (3) Paige Hathaway 3.6M vs 4M historical snapshots; (4) Jessica Parker namesake caution (URI ≠ UWSP); (5) Joan MacDonald 1.7M+ (2023) vs 2M+ (2026) snapshots; (6) scale note: 1,000 remains a non-quota target. Status: `requires-owner-review`.
+
+**Tests.** `python3 -m json.tool data/catalog.json` OK; structural schema check of all 55 entries + 4 queue items PASS (required fields, relationship/countType enums, no extra keys, unknown counts carry no numeric, largest-range consistency); duplicate guard PASS — 0 duplicate IDs/names/source-URLs (script asserts before write; add-blocked if violated); `node` parse of `assets/app.js` PASS; local server smoke HTTP 200 for `/`, `/data/catalog.json` (55 entries / 4 queue), `/data/schema.json`, `/assets/app.js`, `/assets/styles.css`, both docs; new DOM ids (`follower-by-category`, `follower-by-platform`) present; hallucination audit — every new field traces to a search-result URL recorded above; no private data collected (a creator's bio-visible contact email explicitly excluded); minor-rejection log unchanged (no minors surfaced this session).
+
+**Counts.** Promoted to VERIFIED **5**; newly discovered VERIFIED **4**; total **55 VERIFIED (W-2026-001..055)**; REVIEW_REQUIRED **4**; irregularities **8**; duplicates **0**; broken links **0 new**; conflicting records **1 flagged-in-place** (Jade Haliburton DOB day, verified unaffected); verification date **2026-09-06**. Files modified: `data/catalog.json`, `scripts/session10_update.py`, `index.html`, `assets/app.js`, `assets/styles.css`, `README.md`, `docs/review-log.md`. Build **OK**.
+
+**Scale status.** 1,000 remains a target, not a quota. Next iterations: DOB research for R-2026-001 (URI media guide), R-2026-005 (NPC/IFBB competitor records), R-2026-008 (first-party bio/press), R-2026-012; more under-10K creators whose age/gender is documented by Tier-1 sources (university rosters with public birth dates, agency age boards).
+
 ### Session 09 — follower-count schema + website filters + 12 verified creators
 
 **Request.** Expand the database of adult female public creators with activity-first discovery across follower sizes; add follower-count fields (per-platform, never summed); implement website follower filtering/sorting; continue line-by-line verification from official/trusted public sources; no hallucinations.

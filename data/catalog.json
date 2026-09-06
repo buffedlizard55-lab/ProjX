@@ -2,9 +2,9 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 46,
-    "reviewQueueCount": 9,
-    "summary": "Women-only directory of adult (18+) public creators: 46 verified adult women (W-2026-001..046) spanning professional athletes, college athletes, fitness/fitness-model creators, swimwear/bikini-fashion models, and lifestyle/wellness creators, plus 9 REVIEW_REQUIRED candidates. Session 09 added follower-count fields (per-platform socialAccounts, largestPublicFollowing, overallFollowerSizeRange) observed from public sources only — never estimated; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. New Session 09 verified rows: W-2026-035, W-2026-036, W-2026-037, W-2026-038, W-2026-039, W-2026-040, W-2026-041, W-2026-042, W-2026-043, W-2026-044, W-2026-045, W-2026-046. Follower-size distribution (largest platform): {'5M+': 9, '1M–4.9M': 9, '500K–999.9K': 3, 'FOLLOWER_RANGE_UNKNOWN': 22, '50K–99.9K': 1, '250K–499.9K': 1, '1K–4.9K': 1}. Categories remain objective; college attendance never proves adult; no attractiveness ranking."
+    "entryCount": 55,
+    "reviewQueueCount": 4,
+    "summary": "Women-only directory of adult (18+) public creators: 55 verified adult women (W-2026-001..055) spanning professional and college athletes, fitness/fitness-model creators, swimwear/bikini-fashion models, fashion and lifestyle/wellness creators, plus 4 REVIEW_REQUIRED candidates. Session 10 promoted 5 queue candidates after second-pass research (Melissa Bender, Kahdia, Olivia Vance, Emersen 'Emmy' Schrom, Jade Haliburton née Jones) and added 4 newly discovered verified creators (Jen Selter, Paige Hathaway, Joan MacDonald, Sarah Stevenson 'Sarah's Day'); per-platform follower counts are publicly observed displays only — never estimated, never summed across platforms; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN."
   },
   "entries": [
     {
@@ -2062,6 +2062,12 @@
       },
       "sources": [
         {
+          "label": "USC Athletics — Victoria Garrick 2018 women's volleyball roster ('Victoria Lane Garrick was born on April 30, 1997')",
+          "platform": "Website",
+          "url": "https://usctrojans.com/sports/womens-volleyball/roster/victoria-garrick/8539",
+          "relationship": "age-evidence"
+        },
+        {
           "label": "TheCityCeleb — Victoria Garrick Browne biography (full name Victoria Lane Garrick, DOB, occupations)",
           "platform": "Website",
           "url": "https://www.thecityceleb.com/biography/entrepreneur/victoria-garrick-browne-biography-ethnicity-tedx-height-husband-instagram-net-worth-children/",
@@ -2089,7 +2095,7 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "PROMOTED from R-2026-009 (review queue) after this session's research. Missing field resolved: AGE — DOB April 30, 1997 confirmed by three independent biographies; adult status further supported by documented 2016 TEDx talk and 2022 marriage. Gender resolved via women's volleyball documentation + consistent she/her. Identity: all three biographies describe the same USC libero → mental-health advocate/podcast host arc matching the @victoriagarrick4 account recorded at discovery. Category: College Athlete (former)/Wellness/Creator — objective.",
+      "notes": "PROMOTED from R-2026-009 (review queue) after this session's research. Missing field resolved: AGE — DOB April 30, 1997 confirmed by three independent biographies; adult status further supported by documented 2016 TEDx talk and 2022 marriage. Gender resolved via women's volleyball documentation + consistent she/her. Identity: all three biographies describe the same USC libero → mental-health advocate/podcast host arc matching the @victoriagarrick4 account recorded at discovery. Category: College Athlete (former)/Wellness/Creator — objective. Session-10 backfill: Tier-1 USC Athletics roster added as direct DOB/gender source.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": "",
@@ -3084,6 +3090,741 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-047",
+      "displayName": "Melissa Bender",
+      "categories": [
+        "Fitness",
+        "Creator",
+        "Wellness"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 22, 1983 — age 43 in 2026. DOB recorded independently by CelebsAges and FamousBirthdays biographies (Point Park University class of 2007; Chatham College master's 2012).",
+        "sourceLabel": "CelebsAges — Melissa Bender (born March 22, 1983)",
+        "sourceUrl": "https://www.celebsages.com/melissa-bender/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via biographies using she/her throughout ('The 43-year-old youtuber… She graduated…'); FamousBirthdays 'Social media star… her fitness tips'.",
+        "sourceLabel": "FamousBirthdays — Melissa Bender biography",
+        "sourceUrl": "https://www.famousbirthdays.com/people/melissa-bender.html",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CelebsAges — Melissa Bender (DOB March 22, 1983; 110K+ YouTube, 20K+ IG)",
+          "platform": "Website",
+          "url": "https://www.celebsages.com/melissa-bender/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "FamousBirthdays — Melissa Bender (DOB March 22, 1983; fitness creators listing)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/melissa-bender.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @BenderFitness (Fitness Blogger, Occupational Therapist; links benderfitness.com)",
+          "platform": "X",
+          "url": "https://x.com/benderfitness",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @benderfitness (benderfitness public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/benderfitness/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "BenderFitness.com — official site linked from her X bio",
+          "platform": "Website",
+          "url": "https://benderfitness.com",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via 'female fitness micro influencer' activity (StackInfluence), promoted from REVIEW_REQUIRED R-2026-007 after second-pass research found DOB (1983-03-22) on two independent biographies and consistent she/her identity across official X/IG ↔ CelebsAges ↔ FamousBirthdays. Category: Fitness/Wellness — occupational therapist turned fitness blogger (free workout library). Promoted 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "Melissa Bender",
+          "profileUrl": "https://www.youtube.com/channel/UCW6EhFcuDNhi9XWMYlxTw5g",
+          "followerCountDisplay": "110,000+",
+          "followerCountNumeric": 110000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "CelebsAges biography: 'amassed more than 110,000 YouTube subscribers'; FamousBirthdays sameAs lists this channel ID."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@benderfitness",
+          "profileUrl": "https://www.instagram.com/benderfitness/",
+          "followerCountDisplay": "20,000+",
+          "followerCountNumeric": 20000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "10K–24.9K",
+          "sourceNote": "CelebsAges biography: 'more than 20,000 followers to her benderfitness Instagram account' (StackInfluence Oct-2025 snapshot listed 23K)."
+        },
+        {
+          "platform": "X",
+          "username": "@BenderFitness",
+          "profileUrl": "https://x.com/benderfitness",
+          "followerCountDisplay": "3,044",
+          "followerCountNumeric": 3044,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1K–4.9K",
+          "sourceNote": "X public profile page display observed via search snippet: 3,044 followers, joined October 2011."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "Melissa Bender",
+        "display": "110,000+",
+        "numeric": 110000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "100K–249.9K"
+    },
+    {
+      "id": "W-2026-048",
+      "displayName": "Kahdia",
+      "categories": [
+        "Fitness",
+        "Creator",
+        "Lifestyle"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Explicit age statement in published profile: '25-year-old Kahdia' (StackInfluence, Top Female Fitness Influencers) — 25 > 18.",
+        "sourceLabel": "StackInfluence — Top Female Fitness Influencers (Kahdia, 25)",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the profile article's consistent she/her biography ('She creates content around workouts… her audience… she especially resonates with young women').",
+        "sourceLabel": "StackInfluence — Kahdia profile (she/her)",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "StackInfluence — Kahdia: 25-year-old Miami fitness/lifestyle micro creator (she/her)",
+          "platform": "Website",
+          "url": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Instagram — @kahdiaaa (K A H D I A; 6,604 followers observed)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kahdiaaa/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness micro-influencer activity, promoted from REVIEW_REQUIRED R-2026-006. Adult via explicit '25-year-old' statement; woman via she/her profile text; ownership via @kahdiaaa public profile matching the profiled creator (workouts, gym fits, Miami). Follower display 6,604 recorded exactly as publicly shown; prior third-party 28K snapshot noted for review (IRR-2026-09-06-008). Promoted 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kahdiaaa",
+          "profileUrl": "https://www.instagram.com/kahdiaaa/",
+          "followerCountDisplay": "6,604",
+          "followerCountNumeric": 6604,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5K–9.9K",
+          "sourceNote": "Instagram public profile page display via search snippet (checked 2026-09-06): '6,604 Followers, 472 Following, 246 Posts'. StackInfluence Oct-2025 article listed ~28K — variance recorded verbatim in IRR-2026-09-06-008."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kahdiaaa",
+        "display": "6,604",
+        "numeric": 6604,
+        "sizeRange": "5K–9.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5K–9.9K"
+    },
+    {
+      "id": "W-2026-049",
+      "displayName": "Olivia Vance",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 2, 2001 (women.volleybox.net player profile) — age 25 in 2026; OpenSponsorship athlete profile independently lists age 25; Opendorse lists 24 (snapshot older).",
+        "sourceLabel": "volleybox — Olivia Vance (born 2 March 2001)",
+        "sourceUrl": "https://women.volleybox.net/olivia-vance-p93444",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured data (gender: Female) plus OpenSponsorship '👩 Female' and Opendorse 'Professional athlete • Female'.",
+        "sourceLabel": "OpenSponsorship — Olivia Vance (Female, 25, volleyball)",
+        "sourceUrl": "https://opensponsorship.com/profiles/olivia-vance-1",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "volleybox — Olivia Vance, outside hitter (born 2001-03-02; sameAs @oliviafvance)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/olivia-vance-p93444",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "OpenSponsorship — Olivia Vance athlete profile (Female, 25)",
+          "platform": "Website",
+          "url": "https://opensponsorship.com/profiles/olivia-vance-1",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Opendorse — Olivia Vance, professional athlete (Female, 24 snapshot)",
+          "platform": "Website",
+          "url": "https://opendorse.com/profile/olivia-vance",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TikTok — @oliviafvance (pro volleyball creator)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@oliviafvance",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @oliviafvance (volleybox sameAs link)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/oliviafvance/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via volleyball-creator activity, promoted from REVIEW_REQUIRED R-2026-003 after independent DOB (2001-03-02, volleybox) + two independent gender/age athlete profiles (OpenSponsorship 25 / Opendorse 24) were found; volleybox sameAs links the @oliviafvance Instagram handle. Category: professional volleyball (played in Portugal) — objective. Promoted 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "TikTok",
+          "username": "@oliviafvance",
+          "profileUrl": "https://www.tiktok.com/@oliviafvance",
+          "followerCountDisplay": "106K",
+          "followerCountNumeric": 106000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Collabstr volleyball-creator listing: 106K TikTok (observed in Session 07 discovery; re-confirmed against same creator this session)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@oliviafvance",
+          "profileUrl": "https://www.instagram.com/oliviafvance/",
+          "followerCountDisplay": "25K",
+          "followerCountNumeric": 25000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "Collabstr listing recorded 25K Instagram; volleybox sameAs links this same handle to her player profile."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "TikTok",
+        "username": "@oliviafvance",
+        "display": "106K",
+        "numeric": 106000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "100K–249.9K"
+    },
+    {
+      "id": "W-2026-050",
+      "displayName": "Emersen \"Emmy\" Schrom",
+      "categories": [
+        "College Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Tier-1 university athletics biography states: 'Was born on March 21, 2006' — age 20 in 2026 (Duquesne University official roster).",
+        "sourceLabel": "Duquesne University Athletics — Emersen Schrom roster bio (born March 21, 2006)",
+        "sourceUrl": "https://goduquesne.com/sports/womens-volleyball/roster/emersen-schrom/13197",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Tier-1 women's volleyball roster biography: 'Daughter of Jennifer and Andrew Schrom — has one sister' on the official Duquesne women's athletics site.",
+        "sourceLabel": "Duquesne University Athletics — Emersen Schrom, Women's Volleyball #11",
+        "sourceUrl": "https://goduquesne.com/sports/womens-volleyball/roster/emersen-schrom/13197",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Duquesne Athletics — Emersen Schrom #11 (born March 21, 2006; marketing major; Atlantic 10 All-Rookie 2024)",
+          "platform": "Website",
+          "url": "https://goduquesne.com/sports/womens-volleyball/roster/emersen-schrom/13197",
+          "relationship": "official"
+        },
+        {
+          "label": "Duquesne Athletics — Dukes Extend Streak With Win (Schrom #11 match report)",
+          "platform": "Website",
+          "url": "https://goduquesne.com/news/2025/11/1/womens-volleyball-dukes-extend-streak-with-win-over-saint-louis.aspx",
+          "relationship": "press"
+        },
+        {
+          "label": "TikTok — @emmyschrom (Emmy Schrom creator profile)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@emmyschrom",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Promoted from REVIEW_REQUIRED R-2026-004. Identity chain: Collabstr listing described 'Emmy', a 20-year-old D1 volleyball marketing major at Duquesne with handle @emmyschrom; the official Duquesne roster lists Emersen Schrom — women's volleyball #11, marketing major, born March 21, 2006 (20 in 2026). Unique surname + school + sport + major + age triangulation links the handle; adult/gender/identity rest on the Tier-1 roster. Promoted 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "TikTok",
+          "username": "@emmyschrom",
+          "profileUrl": "https://www.tiktok.com/@emmyschrom",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Profile identified via Collabstr D1-volleyball listing; platform does not expose a public count in available search snippets — never estimated."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-051",
+      "displayName": "Jade Haliburton",
+      "categories": [
+        "Fashion",
+        "Lifestyle",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 30, 1998 in Iowa — age 28 in 2026 — per FamousBirthdays, WealthySpy and NewsBritania biographies (StarsUnfolded lists January 31, 1998; birth year consistent across all sources).",
+        "sourceLabel": "FamousBirthdays — Jade Haliburton (born January 30, 1998)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/jade-jones-instagramstar.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent press/biography language: fiancée of NBA player Tyrese Haliburton, she/her throughout (SoapCentral, WealthySpy, StarsUnfolded).",
+        "sourceLabel": "SoapCentral — Who is Jade Jones? (fiancée profile, she/her)",
+        "sourceUrl": "https://www.soapcentral.com/entertainment/who-jade-jones-all-tyrese-haliburton-s-fiancee-friend-dies-bachelorette-party",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Jade Haliburton (DOB Jan 30, 1998; sameAs @jadehaliburton)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/jade-jones-instagramstar.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WealthySpy — Jade Jones biography (born Jan 30, 1998, Iowa City; teacher/model)",
+          "platform": "Website",
+          "url": "https://wealthyspy.com/jade-jones/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "NewsBritania — Jade Jones profile (DOB Jan 30, 1998; lifestyle influencer)",
+          "platform": "Website",
+          "url": "https://newsbritania.co.uk/jade-jones/",
+          "relationship": "press"
+        },
+        {
+          "label": "SoapCentral — Jade Jones, Tyrese Haliburton's fiancée (June 2026)",
+          "platform": "Website",
+          "url": "https://www.soapcentral.com/entertainment/who-jade-jones-all-tyrese-haliburton-s-fiancee-friend-dies-bachelorette-party",
+          "relationship": "press"
+        },
+        {
+          "label": "Instagram — @jadehaliburton (fashion/lifestyle creator, 170K+)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jadehaliburton/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "Promoted from REVIEW_REQUIRED R-2026-011: surname RESOLVED — née Jade Jones (Davenport West HS; Iowa State cheerleader/elementary teacher), engaged to Tyrese Haliburton July 28, 2025; she now publishes as Jade Haliburton and the FamousBirthdays sameAs confirms @jadehaliburton is the same person. Minor open conflict: birth day listed as Jan 30 (FamousBirthdays/WealthySpy/NewsBritania) vs Jan 31 (StarsUnfolded) — year 1998 consistent; adult status unaffected. Flag retained for transparency. Promoted 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jadehaliburton",
+          "profileUrl": "https://www.instagram.com/jadehaliburton/",
+          "followerCountDisplay": "170K+",
+          "followerCountNumeric": 170000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "FamousBirthdays: 'gained over 170,000 followers to her jadehaliburton Instagram account'; SoapCentral (June 2026) reports 160K+ — recorded as publicly stated, rounded."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@jadehaliburton",
+        "display": "170K+",
+        "numeric": 170000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "100K–249.9K"
+    },
+    {
+      "id": "W-2026-052",
+      "displayName": "Jen Selter",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Modeling"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 8, 1993 in Roslyn, New York — age 33 in 2026 — recorded identically by Mabumbe, Generation Iron, FamousBio, Washington Morning and Dreshare biographies.",
+        "sourceLabel": "Mabumbe — Jennifer Leigh 'Jen' Selter (born August 8, 1993)",
+        "sourceUrl": "https://mabumbe.com/people/jen-selter-age-net-worth-relationships-biography/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured biography data 'Gender: Female' (FamousBio) and consistent she/her fitness-model biographies across five independent sources.",
+        "sourceLabel": "FamousBio — Jen Selter (Gender: Female; fitness model)",
+        "sourceUrl": "https://famousbio.net/jen-selter-8777.html",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Mabumbe — Jen Selter biography (DOB Aug 8, 1993; IG 13.6M Feb-2023)",
+          "platform": "Website",
+          "url": "https://mabumbe.com/people/jen-selter-age-net-worth-relationships-biography/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Generation Iron — Jen Selter profile (DOB 8/8/1993, Roslyn NY)",
+          "platform": "Website",
+          "url": "https://generationiron.com/jen-selter-profile-bio-stats/",
+          "relationship": "press"
+        },
+        {
+          "label": "FamousBio — Jen Selter (Gender: Female; socials IG @jenselter / X @jenselter / FB jenLselter)",
+          "platform": "Website",
+          "url": "https://famousbio.net/jen-selter-8777.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jenselter (fitness creator)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jenselter/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "jenselter.com — official website per biography listings",
+          "platform": "Website",
+          "url": "https://jenselter.com",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via female-fitness-creator activity article (GoTeamUp fitness-influencer list) this session; DOB and identity consistent across 5 independent biographies. Category fitness/fitness-model — objective (workout programs, BlendJet partnership). No attractiveness classification applied.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jenselter",
+          "profileUrl": "https://www.instagram.com/jenselter/",
+          "followerCountDisplay": "13.6M",
+          "followerCountNumeric": 13600000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Published biographies (Mabumbe / Washington Morning): 13.6 million Instagram followers as of February 2023; famousbio lists 'more than 12 million'. Recorded as public snapshot, rounded."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@jenselter",
+        "display": "13.6M",
+        "numeric": 13600000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-053",
+      "displayName": "Paige Hathaway",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 31, 1987 in Minnesota — age 39 in 2026 — recorded identically by CelebrityBorns, TheFamousPeople, TheCityCeleb, Famecop and MarriedCeleb biographies.",
+        "sourceLabel": "TheFamousPeople — Paige Hathaway (birthday July 31, 1987)",
+        "sourceUrl": "https://www.thefamouspeople.com/profiles/paige-hathaway-31518.php",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured data 'Gender Identity: Female' (MarriedCeleb), TheCityCeleb occupation/children schema, and consistent she/her fitness-model biographies.",
+        "sourceLabel": "MarriedCeleb — Paige Hathaway (Gender Identity: Female)",
+        "sourceUrl": "https://marriedceleb.com/paige-hathaway",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheFamousPeople — Paige Hathaway (DOB July 31, 1987; FLEX 2013 Bikini Model Search Winner)",
+          "platform": "Website",
+          "url": "https://www.thefamouspeople.com/profiles/paige-hathaway-31518.php",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "CelebrityBorns — Paige Hathaway (DOB 31-07-1987; ~4M IG July 2020)",
+          "platform": "Website",
+          "url": "https://celebrityborns.com/biography/paige-hathaway/8618",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famecop — Paige Hathaway (born 31 July 1987; 3.6M IG)",
+          "platform": "Website",
+          "url": "https://famecop.com/paige-hathaway/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "MarriedCeleb — Paige Hathaway (Gender Identity: Female; DOB)",
+          "platform": "Website",
+          "url": "https://marriedceleb.com/paige-hathaway",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @paigehathaway (Fitin5 / LIV Body fitness creator)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/paigehathaway/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via female-fitness-creator activity article (GoTeamUp) this session. Objective category evidence: 2nd place 2012 Ronnie Coleman Classic bikini division; FLEX August 2013 Bikini Model Search winner; Fitin5 coaching program and LIV Body founder. Five independent biographies agree on DOB (1987-07-31).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@paigehathaway",
+          "profileUrl": "https://www.instagram.com/paigehathaway/",
+          "followerCountDisplay": "3.6M",
+          "followerCountNumeric": 3600000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Famecop profile (updated 2026): 'over 3.6 million followers on her Instagram account'; CelebrityBorns listed ~4 million as of July 2020 — historical snapshots differ, recorded verbatim in IRR-2026-09-06-008."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@paigehathaway",
+        "display": "3.6M",
+        "numeric": 3600000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-054",
+      "displayName": "Joan MacDonald",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 31, 1946 (TheCityCeleb biography) — age 80 in 2026; consistent press age statements: 74 (Business Insider, Aug 2020), 75 (Good Morning America, Mar 2023), 77 (KPRC, Sept 2023).",
+        "sourceLabel": "Good Morning America — 75-year-old fitness influencer Joan MacDonald (Mar 2023)",
+        "sourceUrl": "https://www.goodmorningamerica.com/wellness/story/75-year-woman-lost-60-pounds-fitness-influencer-82655773",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via reputable press: GMA 'How this 75-year-old woman lost over 60 pounds'; daughter Michelle MacDonald; Penguin Random House author bio (she/her).",
+        "sourceLabel": "GMA / Penguin Random House author bio — Joan MacDonald (@trainwithjoan)",
+        "sourceUrl": "https://www.penguinrandomhouse.com/authors/2266784/joan-macdonald/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Good Morning America — 75-year-old fitness influencer (Mar 2023)",
+          "platform": "Website",
+          "url": "https://www.goodmorningamerica.com/wellness/story/75-year-woman-lost-60-pounds-fitness-influencer-82655773",
+          "relationship": "press"
+        },
+        {
+          "label": "TheCityCeleb — Joan MacDonald bio (born March 31, 1946; 2M+ IG)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/personality/content-creator/joan-macdonald-bio-age-height-husband-daughter-net-worth-book-transformation-youtube-instagram/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "KPRC Click2Houston — 77-year-old influencer, 1.7M+ IG (Sept 2023)",
+          "platform": "Website",
+          "url": "https://www.click2houston.com/houston-life/2023/09/15/age-is-just-a-number-meet-the-77-year-old-fitness-influencer-joan-mcdonald/",
+          "relationship": "press"
+        },
+        {
+          "label": "Penguin Random House — Joan MacDonald author page (Flex Your Age)",
+          "platform": "Website",
+          "url": "https://www.penguinrandomhouse.com/authors/2266784/joan-macdonald/",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @trainwithjoan (Train With Joan)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/trainwithjoan/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-influencer discovery search this session (GMA feature). Canadian creator who began strength training at 70 and co-authored 'Flex Your Age' (Penguin Random House) — senior-creator diversity in the dataset. Category Fitness/Wellness — objective.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@trainwithjoan",
+          "profileUrl": "https://www.instagram.com/trainwithjoan/",
+          "followerCountDisplay": "1.7M+",
+          "followerCountNumeric": 1700000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "KPRC Click2Houston (Sept 2023): '77-year-old fitness influencer with over 1.7 million Instagram followers'; TheCityCeleb (2026) states 'over 2 million' — recorded as published snapshots."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@trainwithjoan",
+        "display": "1.7M+",
+        "numeric": 1700000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-055",
+      "displayName": "Sarah Stevenson (Sarah's Day)",
+      "categories": [
+        "Fitness",
+        "Lifestyle",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 30, 1992 in Sydney, Australia — age 34 in 2026 — recorded identically by Famecop, FamousPeople.io, National Today, Wikitia and GossipsDiary.",
+        "sourceLabel": "National Today — Sarah Stevenson birthday (born August 30, 1992)",
+        "sourceUrl": "https://nationaltoday.com/birthday/sarah-stevenson/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured bio data 'Gender: Female' (GossipsDiary) and consistent she/her biographies (Wikitia: 'professionally known as Sarah's Day'; mother of three).",
+        "sourceLabel": "Wikitia — Sarah's Day (Sarah Stevenson, born August 30, 1992)",
+        "sourceUrl": "https://wikitia.com/wiki/Sarah's_Day",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "National Today — Sarah Stevenson (DOB Aug 30, 1992; 1.54M YouTube subscribers)",
+          "platform": "Website",
+          "url": "https://nationaltoday.com/birthday/sarah-stevenson/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikitia — Sarah's Day encyclopedia entry (DOB 1992-08-30; Sunee app founder)",
+          "platform": "Website",
+          "url": "https://wikitia.com/wiki/Sarah's_Day",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famecop — Sarah's Day (born 30 Aug 1992; IG @sarahs_day 1.2M; YouTube @SarahsDay)",
+          "platform": "Website",
+          "url": "https://famecop.com/fitness/sarahs-day/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "GossipsDiary — Sarah's Day (Gender: Female; socials @sarahs_day 1.1M)",
+          "platform": "Website",
+          "url": "https://gossipsdiary.com/sarahs-day-wiki-bio/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — @SarahsDay (Sarah's Day channel)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@SarahsDay",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @sarahs_day (fitness/lifestyle creator)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sarahs_day/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via FamousBirthdays fitness-creator directory this session. Australian fitness/lifestyle creator: YouTube since 2013, Sunee app founder, The Health Code podcast co-host, White Fox activewear collaborations — objective categories only.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@SarahsDay",
+          "profileUrl": "https://www.youtube.com/@SarahsDay",
+          "followerCountDisplay": "1.54M",
+          "followerCountNumeric": 1540000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "National Today profile: 'accumulated 1.54 million subscribers on her YouTube channel'; Wikitia confirms 1.5M+ as of 2025."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@sarahs_day",
+          "profileUrl": "https://www.instagram.com/sarahs_day/",
+          "followerCountDisplay": "1.2M",
+          "followerCountNumeric": 1200000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Famecop profile: 'over 1.2 million followers on her Instagram account' (GossipsDiary snapshot listed 1.1M)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@SarahsDay",
+        "display": "1.54M",
+        "numeric": 1540000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
     }
   ],
   "reviewQueue": [
@@ -3095,9 +3836,9 @@
       "profileUrl": "https://www.instagram.com/jessicapaige/",
       "discoveryCategory": "College Athlete",
       "evidenceFound": {
-        "summary": "D1 volleyball player at University of Rhode Island (gorhody.com roster), 7.5k Instagram followers, TikTok 1k-10k — women's volleyball content creator",
-        "sourceLabel": "University athletic roster — Jessica Parker, Rhode Island volleyball",
-        "sourceUrl": "https://gorhody.com/sports/womens-volleyball/roster/jessica-parker/9723"
+        "summary": "URI women's volleyball setter; 2026 roster: Redshirt Junior, Saint Charles, Ill. (St. Charles North HS; transferred from Elon where she made the CAA All-Rookie Team); holds St. Charles North assist record (1,637); HS regional titles 2021/2022.",
+        "sourceLabel": "URI Athletics — 2026 women's volleyball roster, Jessica Parker #1",
+        "sourceUrl": "https://gorhody.com/sports/womens-volleyball/roster"
       },
       "missingEvidence": [
         "AGE_UNVERIFIED"
@@ -3106,63 +3847,11 @@
         "AGE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via 'volleyball college athlete' activity (Collabstr @jessicapaige). Gender: woman can be inferred via women's volleyball roster (Tier 1 university athletic profile, women's team) — but adult status: no public birth date, age statement, or explicit 18+ evidence found in gorhody roster or Collabstr profile; 'college athlete' alone not sufficient per §2. Recorded as REVIEW_REQUIRED with AGE_UNVERIFIED — not guessed. Next step: search reputable interview or first-party bio with explicit age.",
+      "notes": "Discovered via 'volleyball college athlete' activity (Collabstr @jessicapaige). Gender: woman can be inferred via women's volleyball roster (Tier 1 university athletic profile, women's team) — but adult status: no public birth date, age statement, or explicit 18+ evidence found in gorhody roster or Collabstr profile; 'college athlete' alone not sufficient per §2. Recorded as REVIEW_REQUIRED with AGE_UNVERIFIED — not guessed. Next step: search reputable interview or first-party bio with explicit age. Second-pass 2026-09-06: full bio retrieved (redshirt junior; Elon transfer; HS class ~2022) — college/career timeline suggests early 20s but per protocol adult status is never inferred from college attendance; no explicit DOB/age statement found, stays AGE_UNVERIFIED. Namesake caution: UWSP volleyball's Jessica Parker (born 5/19/82, athletics.uwsp.edu) is a DIFFERENT person — do not merge.",
       "followerCountDisplay": "7.5K",
       "followerCountNumeric": 7500,
       "followerCountCheckedAt": "2026-09-06",
       "followerSizeRange": "10K–24.9K"
-    },
-    {
-      "id": "R-2026-003",
-      "displayName": "Olivia Vance",
-      "handle": "@oliviafvance",
-      "platform": "TikTok",
-      "profileUrl": "https://www.tiktok.com/@oliviafvance",
-      "discoveryCategory": "Athlete",
-      "evidenceFound": {
-        "summary": "Professional volleyball player living in Portugal, 106K TikTok / 25K Instagram — wellness, travel, athletic lifestyle creator",
-        "sourceLabel": "Collabstr — Olivia Vance, pro volleyball 106K",
-        "sourceUrl": "https://collabstr.com/top-influencers/volleyball"
-      },
-      "missingEvidence": [
-        "AGE_UNVERIFIED"
-      ],
-      "flags": [
-        "AGE_UNVERIFIED"
-      ],
-      "lastChecked": "2026-09-06",
-      "notes": "Discovered via volleyball creator activity. Gender: professional volleyball in women's context + she/her in Collabstr bio ('Hi, I'm Olivia') — but no independent DOB or explicit age statement found; adult cannot be inferred from professional status or appearance. Needs first-party bio with age or reputable interview. REVIEW_REQUIRED.",
-      "followerCountDisplay": "106K",
-      "followerCountNumeric": 106000,
-      "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "100K–249.9K"
-    },
-    {
-      "id": "R-2026-004",
-      "displayName": "Emmy",
-      "handle": "@emmyschrom",
-      "platform": "TikTok",
-      "profileUrl": "https://www.tiktok.com/@emmyschrom",
-      "discoveryCategory": "College Athlete",
-      "evidenceFound": {
-        "summary": "20-year-old marketing major and Division I volleyball player at Duquesne University — self-described 20-year-old on Collabstr profile (first-party age statement)",
-        "sourceLabel": "Collabstr — Emmy, 20-year-old D1 volleyball Duquesne",
-        "sourceUrl": "https://collabstr.com/top-influencers/volleyball"
-      },
-      "missingEvidence": [
-        "GENDER_UNVERIFIED",
-        "PROFILE_UNVERIFIED"
-      ],
-      "flags": [
-        "GENDER_UNVERIFIED",
-        "PROFILE_UNVERIFIED"
-      ],
-      "lastChecked": "2026-09-06",
-      "notes": "Discovered via college volleyball activity. Adult: explicit '20-year-old' first-party statement on Collabstr (20 >18) — promising Tier 3 first-party age evidence, but per evidence-based standard, a single Tier 3 age statement alone is not sole sensitive proof when stronger (university profile with birth year, reputable interview) is reasonably expected but not yet found — flagged for corroboration. Gender: 'Emmy' + D1 volleyball suggests woman but no explicit first-party gender biography found — needs stronger source. Profile ownership: TikTok handle not yet cross-linked via official university roster. REVIEW_REQUIRED — not guessed, needs stronger age corroboration and gender evidence.",
-      "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-      "followerCountNumeric": null,
-      "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     },
     {
       "id": "R-2026-005",
@@ -3172,9 +3861,9 @@
       "profileUrl": "https://www.instagram.com/lizzieifbbpro/",
       "discoveryCategory": "Fitness",
       "evidenceFound": {
-        "summary": "IFBB Pro bodybuilder and fitness coach, ~49K Instagram followers, owns Sun City Athletic Club, mom/wife, gym coaching content",
-        "sourceLabel": "StackInfluence — Lizzie Martinez, IFBB Pro 49K",
-        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+        "summary": "IFBB Pro bodybuilder (El Paso, TX); official site lizzieifbbpro.com; public X profile @LizzieIfbbpro lists 'Born May 30' (no year), 1,444 followers, joined Nov 2016; ~49K Instagram per StackInfluence.",
+        "sourceLabel": "X — @LizzieIfbbpro (lizzieifbbpro.com; born May 30 — year not public)",
+        "sourceUrl": "https://x.com/lizzieifbbpro"
       },
       "missingEvidence": [
         "AGE_UNVERIFIED"
@@ -3183,65 +3872,11 @@
         "AGE_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via 'female fitness micro influencer' query (49K micro-tier). Gender: woman via mom/wife/IFBB Pro women's bodybuilding context (she/her) — but no public DOB, explicit age statement, or first-party bio with age found — adult not inferred from mom/wife status or appearance. Needs public birth date or explicit age. REVIEW_REQUIRED.",
+      "notes": "Discovered via 'female fitness micro influencer' query (49K micro-tier). Gender: woman via mom/wife/IFBB Pro women's bodybuilding context (she/her) — but no public DOB, explicit age statement, or first-party bio with age found — adult not inferred from mom/wife status or appearance. Needs public birth date or explicit age. REVIEW_REQUIRED. Second-pass 2026-09-06: X profile found (El Paso; own domain; 'Born May 30' without year). Partial birthday is not an age — stays AGE_UNVERIFIED. Next: NPC/IFBB competitor records or reputable interview with age.",
       "followerCountDisplay": "49K",
       "followerCountNumeric": 49000,
       "followerCountCheckedAt": "2026-09-06",
       "followerSizeRange": "25K–49.9K"
-    },
-    {
-      "id": "R-2026-006",
-      "displayName": "Kahdia",
-      "handle": "@kahdiaaa",
-      "platform": "Instagram",
-      "profileUrl": "https://www.instagram.com/kahdiaaa/",
-      "discoveryCategory": "Fitness",
-      "evidenceFound": {
-        "summary": "25-year-old Miami-based micro influencer blending fitness/lifestyle/gym fashion, 28K Instagram, 8.3% engagement — fitness micro creator",
-        "sourceLabel": "StackInfluence — Kahdia, 25-year-old 28K fitness micro",
-        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
-      },
-      "missingEvidence": [
-        "GENDER_UNVERIFIED",
-        "PROFILE_UNVERIFIED"
-      ],
-      "flags": [
-        "GENDER_UNVERIFIED",
-        "PROFILE_UNVERIFIED"
-      ],
-      "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query. Adult: explicit '25-year-old' in reputable publication (StackInfluence) — promising adult evidence (25 >18) from Tier 2, but gender: article does not explicitly state woman with biography — described as 'young micro influencers blending fitness' without she/her; handle alone not sufficient. Profile ownership: Instagram @kahdiaaa not yet cross-verified via bio links/photographs. Flagged for stronger gender evidence and ownership verification. REVIEW_REQUIRED — not discarded, pipeline for further research.",
-      "followerCountDisplay": "28K",
-      "followerCountNumeric": 28000,
-      "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "25K–49.9K"
-    },
-    {
-      "id": "R-2026-007",
-      "displayName": "Melissa Bender",
-      "handle": "@benderfitness",
-      "platform": "Instagram",
-      "profileUrl": "https://www.instagram.com/benderfitness/",
-      "discoveryCategory": "Fitness",
-      "evidenceFound": {
-        "summary": "Occupational therapist turned fitness blogger, 23K Instagram, BenderFitness.com with 1,000+ free workouts — accessible fitness creator",
-        "sourceLabel": "StackInfluence — Melissa Bender, 23K fitness micro",
-        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
-      },
-      "missingEvidence": [
-        "AGE_UNVERIFIED",
-        "GENDER_UNVERIFIED"
-      ],
-      "flags": [
-        "AGE_UNVERIFIED",
-        "GENDER_UNVERIFIED"
-      ],
-      "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query. Category Fitness supported, but no public DOB/age statement and no explicit gender biography found in this search — 23K follower count not an eligibility factor but also not evidence. Needs first-party bio with age and gender evidence. REVIEW_REQUIRED.",
-      "followerCountDisplay": "23K",
-      "followerCountNumeric": 23000,
-      "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "10K–24.9K"
     },
     {
       "id": "R-2026-008",
@@ -3251,9 +3886,9 @@
       "profileUrl": "https://www.instagram.com/rc__fitness/",
       "discoveryCategory": "Fitness",
       "evidenceFound": {
-        "summary": "Certified personal trainer, Technogym Master Trainer, 14.4K Instagram — rising fitness micro influencer, Amazon Live Creator",
-        "sourceLabel": "StackInfluence — Rachel Cooper, 14.4K micro fitness",
-        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+        "summary": "TheOrg professional profile: Master Trainer at Technogym since Sept 2023; Amazon Influencer since May 2020; Fitness Instructor at Apawamis Club since May 2014; B.A. (Early Childhood Education) Long Island University 2004–2007.",
+        "sourceLabel": "TheOrg — Rachel Cooper, Master Trainer at Technogym",
+        "sourceUrl": "https://theorg.com/org/technogym/org-chart/rachel-cooper"
       },
       "missingEvidence": [
         "AGE_UNVERIFIED",
@@ -3264,36 +3899,11 @@
         "GENDER_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered via fitness micro influencer query (smallest tier, 14.4K). Category Fitness supported via Technogym Master Trainer, but no DOB/age or explicit gender biography found — follower count not relevant. Needs independent adult and woman evidence. REVIEW_REQUIRED.",
+      "notes": "Discovered via fitness micro influencer query (smallest tier, 14.4K). Category Fitness supported via Technogym Master Trainer, but no DOB/age or explicit gender biography found — follower count not relevant. Needs independent adult and woman evidence. REVIEW_REQUIRED. Second-pass 2026-09-06: documented 2004–2007 bachelor's degree and 12-year professional career strongly indicate an adult, but the profile contains no explicit DOB/age/'18+' statement and no she/her biography; per protocol (no inference from career timeline) stays AGE_UNVERIFIED + GENDER_UNVERIFIED pending explicit source.",
       "followerCountDisplay": "14.4K",
       "followerCountNumeric": 14400,
       "followerCountCheckedAt": "2026-09-06",
       "followerSizeRange": "10K–24.9K"
-    },
-    {
-      "id": "R-2026-011",
-      "displayName": "Jade Haliburton",
-      "handle": "@jadehaliburton",
-      "platform": "Instagram",
-      "profileUrl": "https://www.instagram.com/jadehaliburton/",
-      "discoveryCategory": "Fashion",
-      "evidenceFound": {
-        "summary": "Instagram star sharing fashion and lifestyle content (170K+ followers); DOB January 30, 1998 (age 28) on FamousBirthdays with sameAs link to @jadehaliburton; covered by Times of India for her custom NBA Finals fashion designs.",
-        "sourceLabel": "FamousBirthdays — Jade Haliburton (born January 30, 1998)",
-        "sourceUrl": "https://www.famousbirthdays.com/people/jade-jones-instagramstar.html"
-      },
-      "missingEvidence": [
-        "IDENTITY_UNCERTAIN"
-      ],
-      "flags": [
-        "CONFLICTING_INFORMATION"
-      ],
-      "lastChecked": "2026-09-06",
-      "notes": "Discovered via fashion-creator activity search. Adult status looks strong (published DOB Jan 30, 1998 + engagement announced 2025) and gender evidence is consistent (she/her throughout). HOLD reason: surname conflict across sources — FamousBirthdays lists her as 'Jade Haliburton' (handle @jadehaliburton) while Times of India and other press call her 'Jade Jones'. Name needs resolution from a first-party source before promotion to VERIFIED. Not guessed per protocol.",
-      "followerCountDisplay": "170K+",
-      "followerCountNumeric": 170000,
-      "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "100K–249.9K"
     },
     {
       "id": "R-2026-012",
@@ -3303,9 +3913,9 @@
       "profileUrl": "https://www.tiktok.com/@getfitwith.val",
       "discoveryCategory": "Fitness",
       "evidenceFound": {
-        "summary": "Micro fitness coach on TikTok (2,768 followers, 459K likes): first-party bio 'Helping women get toned, strong & confident — 1:1 online coaching' with business email; push-day/hybrid-athlete workout content.",
-        "sourceLabel": "TikTok — Valentina Villa | Fitness coach (@getfitwith.val)",
-        "sourceUrl": "https://www.tiktok.com/@getfitwith.val"
+        "summary": "Zaver.one creator profile: @getfitwith.val 'Valentina Villa | Fitness & Lifestyle Coach', 5,686 Instagram followers, 204 posts (fitness/wellness/weight-loss); bio offers 1:1 online coaching and Pilates at @pilattestudio.nj & @ilcorpo.clifton; TikTok presence (prior snapshot 2,768 followers).",
+        "sourceLabel": "Zaver.one — @getfitwith.val (Valentina Villa, 5,686 IG followers)",
+        "sourceUrl": "https://zaver.one/creators/instagram/getfitwith.val"
       },
       "missingEvidence": [
         "AGE_UNVERIFIED",
@@ -3316,11 +3926,11 @@
         "GENDER_UNVERIFIED"
       ],
       "lastChecked": "2026-09-06",
-      "notes": "Discovered during fitness-coach corroboration search — included precisely because she is a micro creator (2.7K followers; follower count is not a filter). Public profile URL recorded and checked in search results. Missing: no public DOB/age statement found (AGE_UNVERIFIED — bio does not establish 18+); bio text does not explicitly establish the operator is a woman ('Helping women' describes the audience, not the creator). Needs first-party evidence (published DOB/age or explicit self-identification) before promotion.",
-      "followerCountDisplay": "2,768",
-      "followerCountNumeric": 2768,
+      "notes": "Discovered during fitness-coach corroboration search — included precisely because she is a micro creator (2.7K followers; follower count is not a filter). Public profile URL recorded and checked in search results. Missing: no public DOB/age statement found (AGE_UNVERIFIED — bio does not establish 18+); bio text does not explicitly establish the operator is a woman ('Helping women' describes the audience, not the creator). Needs first-party evidence (published DOB/age or explicit self-identification) before promotion. Second-pass 2026-09-06: Instagram count 5,686 recorded from Zaver.one public snapshot (TikTok snapshot earlier: 2,768). Still no public DOB/age statement → AGE_UNVERIFIED; bio 'Helping women…' describes the audience, not the creator → GENDER_UNVERIFIED. Creator's contact email visible in bio deliberately NOT collected (out of scope).",
+      "followerCountDisplay": "5,686",
+      "followerCountNumeric": 5686,
       "followerCountCheckedAt": "2026-09-06",
-      "followerSizeRange": "1K–4.9K"
+      "followerSizeRange": "5K–9.9K"
     }
   ],
   "irregularities": [
@@ -3371,6 +3981,13 @@
       "severity": "needs-review",
       "summary": "Follower counts incomplete for many verified rows — platforms often block unauthenticated scrapes.",
       "detail": "Session 09 added a follower-count schema and recorded publicly observed counts where Instagram/TikTok/YouTube/X profile pages or reputable analytics snapshots (HypeAuditor, CreatorDB, Social Blade, Wikipedia channel boxes) displayed a figure. Many micro/college creators still show FOLLOWER_COUNT_UNKNOWN because no public count was visible without login. Counts are point-in-time (checkedAt 2026-09-06) and must not be treated as permanent. Never estimate. Michelle Lewin (W-2026-044) has a day-of-month DOB conflict (Feb 25 vs Feb 2, year 1986) flagged CONFLICTING_INFORMATION while remaining clearly 18+. Whitney Simmons (W-2026-042) and Lauren Drain Kagan (W-2026-046) use multi-source secondary DOB evidence (flagged AGE_EVIDENCE_SECONDARY_SOURCES) pending stronger Tier-1 sources.",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-008",
+      "severity": "needs-review",
+      "summary": "Session-10 verification flags: follower-display variances and one DOB-day conflict, all recorded verbatim for manual review.",
+      "detail": "(1) Kahdia (W-2026-048): StackInfluence (Oct 2025) listed ~28K Instagram followers; public Instagram profile snippet checked 2026-09-06 displays 6,604 — both recorded; catalog uses the first-party platform display. (2) Jade Haliburton (W-2026-051): birth day Jan 30 (3 sources) vs Jan 31 (StarsUnfolded); year 1998 consistent, adult status unaffected — identity (née Jones) now resolved. (3) Paige Hathaway (W-2026-053): IG 3.6M (Famecop 2026 snapshot) vs ~4M (CelebrityBorns July 2020) — historical snapshots differ; latest used. (4) Namesake caution recorded in R-2026-001: URI setter Jessica Parker ≠ UWSP's Jessica Parker (born 5/19/82). (5) Joan MacDonald IG 1.7M+ (KPRC 2023) vs 2M+ (TheCityCeleb 2026) — both cited. (6) The 1,000-creator figure remains a target, not a quota: 55 verified / 4 review after this session; unverifiable candidates stay REVIEW_REQUIRED rather than being guessed.",
       "reviewStatus": "requires-owner-review"
     }
   ]
