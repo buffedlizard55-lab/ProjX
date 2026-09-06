@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 234,
+    "entryCount": 236,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16186,6 +16186,152 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-235",
+      "displayName": "Asjia O'Neal",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 23, 1999 in Portland, Oregon — age 26 in 2026 — per the OFFICIAL volleyballworld governing-body page (Birth date 23/10/1999 = 23 October 1999 DD/MM), Wikipedia (born October 23, 1999), The Sporting News ('Born Oct. 23, 1999') and her own X profile ('Born October 23').",
+        "sourceLabel": "Volleyball World — official O'Neal Asjia bio (Birth date 23/10/1999)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/200701",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Texas Longhorns women's volleyball career — two-time national champion; pro with LOVB Austin; Team USA women's national team middle blocker (volleyballworld/Wikipedia).",
+        "sourceLabel": "Volleyball World — official VNL player bio (Team USA middle blocker)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/200701",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Asjia O'Neal bio (Birth date 23/10/1999)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/200701",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Asjia O'Neal (DOB 1999-10-23; 2x NCAA champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Asjia_O'Neal",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "The Sporting News — Asjia O'Neal profile ('Born Oct. 23, 1999')",
+          "platform": "Website",
+          "url": "https://www.sportingnews.com/us/other-sports/news/asjia-oneal-texas-volleyball-daughter-jermaine-oneal-heart/6bc76c4fc23f4f2a71eaaf56",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @asjiaoneal (own profile: 'Born October 23'; 4,606 followers)",
+          "platform": "X",
+          "url": "https://x.com/asjiaoneal",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time NCAA champion middle blocker for Texas and LOVB Austin pro (USA national team) — objective athlete category; verified 26 years old. X count from live profile display (4,606 on 2026-09-06); bio '@lovbatx #7' matches identity.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@asjiaoneal",
+          "profileUrl": "https://x.com/asjiaoneal",
+          "followerCountDisplay": "4,606",
+          "followerCountNumeric": 4606,
+          "countType": "approximate",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1K–4.9K",
+          "sourceNote": "Own X profile displays 'Born October 23' and 4,606 followers (live display 2026-09-06); recorded rounded to displayed integer."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "X",
+        "username": "@asjiaoneal",
+        "display": "4,606",
+        "numeric": 4606,
+        "sizeRange": "1K–4.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1K–4.9K"
+    },
+    {
+      "id": "W-2026-236",
+      "displayName": "Merritt Beason",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 16, 2003 in Gardendale, Alabama — age 23 in 2026 — per the OFFICIAL Provolleyball.com player page ('Born April 16, 2003'), Wikipedia (born April 16, 2003), volleybox structured record (birthDate 2003-04-16) and famousbirthdays (Birthday April 16, 2003).",
+        "sourceLabel": "Provolleyball.com — official Merritt Beason player page (Born April 16, 2003)",
+        "sourceUrl": "https://provolleyball.com/teams/atlanta-vibe/roster/2025-roster/players/merritt-beason",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and Florida/Nebraska women's volleyball career — number one draft pick for the Pro Volleyball Federation in 2024 (Wikipedia/volleybox).",
+        "sourceLabel": "volleybox — Merritt Beason (gender Female; Omaha Supernovas)",
+        "sourceUrl": "https://women.volleybox.net/merritt-beason-p69078",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Provolleyball.com — official Merritt Beason player page (Born April 16, 2003)",
+          "platform": "Website",
+          "url": "https://provolleyball.com/teams/atlanta-vibe/roster/2025-roster/players/merritt-beason",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Merritt Beason (DOB 2003-04-16; 2024 PVF #1 pick)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Merritt_Beason",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "volleybox — Merritt Beason (birthDate 2003-04-16; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/merritt-beason-p69078",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @merbson (volleybox + famousbirthdays sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/merbson/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Pro Volleyball Federation first-overall draft pick, two-time All-Big Ten/AVCA first-team All-America at Nebraska — objective athlete category; verified 23 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@merbson",
+          "profileUrl": "https://www.instagram.com/merbson/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs (also on famousbirthdays sameAs); count not captured."
         }
       ],
       "largestPublicFollowing": {
