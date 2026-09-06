@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 180,
+    "entryCount": 184,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -12553,6 +12553,244 @@
           "sourceNote": "Handle via women.volleybox.net structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-181",
+      "displayName": "Ons Jabeur",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 28, 1994 in Ksar Hellal, Tunisia — age 32 in 2026 — per Wikipedia (born 28 August 1994), ESPN tennis profile (Birth Date August 28, 1994), tennisworldusa (born in Ksar Hellal on August 28, 1994) and her personal bio site ons-jabeur.com (Date of birth 28 August 1994).",
+        "sourceLabel": "ESPN — Ons Jabeur tennis profile (Birth Date August 28, 1994)",
+        "sourceUrl": "https://www.espn.com/tennis/player/_/id/1803/ons-jabeur",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's singles career — three-time major finalist, highest-ranked African/Arab player in tennis history (Wikipedia/tennisworldusa); 2019 Arab Woman of the Year award.",
+        "sourceLabel": "TennisWorldUSA — Ons Jabeur bio (2019 Arab Woman of the Year)",
+        "sourceUrl": "https://www.tennisworldusa.org/tennis-player/350/ons-jabeur/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPN — Ons Jabeur profile (DOB Aug 28, 1994)",
+          "platform": "Website",
+          "url": "https://www.espn.com/tennis/player/_/id/1803/ons-jabeur",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Ons Jabeur (DOB 1994-08-28; career-high No. 2)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ons_Jabeur",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ons-jabeur.com — official bio site (Date of birth 28 August 1994)",
+          "platform": "Website",
+          "url": "https://ons-jabeur.com/",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time Grand Slam finalist and career-high WTA No. 2 ('Minister of Happiness') — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-182",
+      "displayName": "Markéta Vondroušová",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 28, 1999 in Sokolov, Czech Republic — age 27 in 2026 — per tennismajors (born on June 28, 1999 in Sokolov), thecityceleb structured record (birthDate 1999-06-28), grokipedia (born 28 June 1999) and kiddle replication.",
+        "sourceLabel": "Tennis Majors — Markéta Vondroušová profile ('born on June 28, 1999 in Sokolov')",
+        "sourceUrl": "https://www.tennismajors.com/wta-tour-news/czech-left-handed-roland-garros-everything-you-always-wanted-to-know-about-marketa-vondrousova-but-never-had-time-to-find-out-696380.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via thecityceleb structured data ('gender: Female' JSON-LD) and WTA women's singles career — 2023 Wimbledon champion, first unseeded women's champion in the Open Era (grokipedia/tennismajors).",
+        "sourceLabel": "TheCityCeleb — Markéta Vondroušová ('gender: Female' JSON-LD; Wimbledon champion)",
+        "sourceUrl": "https://www.thecityceleb.com/biography/public-figure/sportsperson/marketa-vondrousova-biography-age-awards-parents-siblings-net-worth-height-boyfriend-team/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Tennis Majors — Markéta Vondroušová (DOB June 28, 1999)",
+          "platform": "Website",
+          "url": "https://www.tennismajors.com/wta-tour-news/czech-left-handed-roland-garros-everything-you-always-wanted-to-know-about-marketa-vondrousova-but-never-had-time-to-find-out-696380.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TheCityCeleb — Markéta Vondroušová (birthDate 1999-06-28; gender Female JSON-LD)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/public-figure/sportsperson/marketa-vondrousova-biography-age-awards-parents-siblings-net-worth-height-boyfriend-team/",
+          "relationship": "gender-evidence"
+        },
+        {
+          "label": "Wikipedia mirror Kiddle — Markéta Vondroušová (DOB 1999-06-28)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Mark%C3%A9ta_Vondrou%C5%A1ov%C3%A1",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 Wimbledon champion and first unseeded women's singles champion (2020 Olympic silver) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-183",
+      "displayName": "Jessica Pegula",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 24, 1994 in Buffalo, New York — age 32 in 2026 — per ESPN tennis profile (Birth Date February 24, 1994), leaderbiography (Date of Birth February 24, 1994), tennisuptodate (born February 24, 1994) and grokipedia.",
+        "sourceLabel": "ESPN — Jessica Pegula tennis profile (Birth Date February 24, 1994)",
+        "sourceUrl": "https://www.espn.com/tennis/player/photos/_/id/2113/jessica-pegula",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's career — career-high No. 3 in singles, world No. 1 in doubles (with Coco Gauff, 2023), per leaderbiography/WTA record.",
+        "sourceLabel": "LeaderBiography — Jessica Pegula bio (No. 1 doubles record with Coco Gauff)",
+        "sourceUrl": "https://leaderbiography.com/jessica-pegula/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPN — Jessica Pegula profile (DOB Feb 24, 1994)",
+          "platform": "Website",
+          "url": "https://www.espn.com/tennis/player/photos/_/id/2113/jessica-pegula",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LeaderBiography — Jessica Pegula bio (DOB February 24, 1994; Instagram @jpegula)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/jessica-pegula/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Jessica Pegula (born February 24, 1994; 9 WTA singles titles)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Jessica_Pegula",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jpegula (leaderbiography socials table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jpegula/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Career-high WTA No. 3 in singles and former world No. 1 in doubles; Buffalo Bills/Sabres family ownership context noted — objective athlete category. IG handle via leaderbiography; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jpegula",
+          "profileUrl": "https://www.instagram.com/jpegula/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via leaderbiography.com socials table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-184",
+      "displayName": "Madison Keys",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 17, 1995 in Rock Island, Illinois — age 31 in 2026 — per ESPN tennis profile (Birth Date February 17, 1995), tennis-infinity (Date of Birth: 17 February 1995), biographyadda (born on February 17, 1995) and mabumbe.",
+        "sourceLabel": "ESPN — Madison Keys tennis profile (Birth Date February 17, 1995)",
+        "sourceUrl": "https://www.espn.com/tennis/player/_/id/1556/madison-keys",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's singles career — 2025 Australian Open champion (biographyadda; 2017 US Open finalist), career-high WTA No. 5/7 documented.",
+        "sourceLabel": "BiographyAdda — Madison Keys biography (2025 Australian Open champion)",
+        "sourceUrl": "https://biographyadda.com/madison-keys-biography/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPN — Madison Keys profile (DOB Feb 17, 1995)",
+          "platform": "Website",
+          "url": "https://www.espn.com/tennis/player/_/id/1556/madison-keys",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "BiographyAdda — Madison Keys (DOB February 17, 1995; 2025 AO champion)",
+          "platform": "Website",
+          "url": "https://biographyadda.com/madison-keys-biography/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Tennis Infinity — Madison Keys (Date of Birth 17 February 1995)",
+          "platform": "Website",
+          "url": "https://tennis-infinity.com/madison-keys",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2025 Australian Open champion and 11x WTA singles title winner — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
