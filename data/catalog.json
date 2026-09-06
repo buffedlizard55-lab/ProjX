@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 188,
+    "entryCount": 190,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13073,6 +13073,116 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "1K–4.9K"
+    },
+    {
+      "id": "W-2026-189",
+      "displayName": "Aitana Bonmatí",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 18, 1998 in Vilanova i la Geltrú, Spain — age 28 in 2026 — per the OFFICIAL FC Barcelona player profile (Date of birth: 18/01/1998), Britannica (Born: January 18, 1998) and Wikipedia (born 18 January 1998).",
+        "sourceLabel": "FC Barcelona — official Aitana Bonmatí player profile (Date of birth 18/01/1998)",
+        "sourceUrl": "https://players.fcbarcelona.com/en/player/2517-aitana-aitana-bonmati-conca",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via FC Barcelona Femení and Spain women's national team career — three consecutive Ballon d'Or Féminin awards (2023/2024/2025, first in women's football history), 2023 FIFA Women's World Cup champion and 4x UEFA Women's Champions League winner per the official club profile and Britannica.",
+        "sourceLabel": "Britannica — Aitana Bonmatí (3x Ballon d'Or Féminin)",
+        "sourceUrl": "https://www.britannica.com/biography/Aitana-Bonmati",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FC Barcelona — official Aitana Bonmatí player profile (DOB 18/01/1998; titles incl. 4 UWCL)",
+          "platform": "Website",
+          "url": "https://players.fcbarcelona.com/en/player/2517-aitana-aitana-bonmati-conca",
+          "relationship": "official"
+        },
+        {
+          "label": "Britannica — Aitana Bonmatí (born January 18, 1998; 3x Ballon d'Or Féminin 2023-25)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Aitana-Bonmati",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "kiddle/Wikipedia replication — Aitana Bonmatí (DOB 18 January 1998)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Aitana_Bonmat%C3%AD",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time consecutive Ballon d'Or Féminin winner (2023–2025) and FIFA Women's World Cup champion — objective athlete category; verified 28 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-190",
+      "displayName": "Caroline Graham Hansen",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 18, 1995 in Oslo, Norway — age 31 in 2026 — per the OFFICIAL FC Barcelona player profile (Date of birth: 18/02/1995), fbref.com structured record (birthDate 1995-02-18) and ESPN player bio (Birthdate 2/18/1995).",
+        "sourceLabel": "FC Barcelona — official Caroline Graham Hansen player profile (Date of birth 18/02/1995)",
+        "sourceUrl": "https://players.fcbarcelona.com/en/player/2799-caroline-graham-caroline-graham-hansen",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via FC Barcelona Femení and Norway women's national team career — 4x UEFA Women's Champions League winner and 7x Spanish league champion with Barcelona per the official club profile; regarded one of the best wingers in women's football.",
+        "sourceLabel": "FC Barcelona — official Caroline Graham Hansen profile (Femení honours list)",
+        "sourceUrl": "https://players.fcbarcelona.com/en/player/2799-caroline-graham-caroline-graham-hansen",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FC Barcelona — official Caroline Graham Hansen player profile (DOB 18/02/1995; 7 Liga, 4 UWCL)",
+          "platform": "Website",
+          "url": "https://players.fcbarcelona.com/en/player/2799-caroline-graham-caroline-graham-hansen",
+          "relationship": "official"
+        },
+        {
+          "label": "fbref — Caroline Graham Hansen (birthDate 1995-02-18 structured)",
+          "platform": "Website",
+          "url": "https://fbref.com/en/players/e891b7ae/Caroline-Graham-Hansen",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ESPN — Caroline Graham Hansen player bio (Birthdate 2/18/1995)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/matches/_/id/253699/caroline-graham-hansen",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Seven-time Spanish league champion and 4x UEFA Women's Champions League winner with Barcelona — objective athlete category; verified 31 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
