@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 214,
+    "entryCount": 216,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -14878,6 +14878,134 @@
           "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-215",
+      "displayName": "Alessia Orro",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 18, 1998 in Narbolia, Oristano, Sardinia, Italy — age 28 in 2026 — per Wikipedia (born 18 July 1998), Il Messaggero (born on July 18, 1998, in Narbolia (Oristano)) and Grokipedia (born on 18 July 1998 in Narbolia).",
+        "sourceLabel": "Wikipedia — Alessia Orro (born 18 July 1998)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alessia_Orro",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — 'setter of Fenerbahçe and Italy women's national volleyball team'; women's tournament participant at 2016/2020/2024 Olympics, gold medalist and Best Setter at Paris 2024 (Wikipedia/Il Messaggero).",
+        "sourceLabel": "Wikipedia — Alessia Orro (Italy women's national team setter)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alessia_Orro",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Alessia Orro (DOB 1998-07-18; 2024 Olympic gold + Best Setter)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Alessia_Orro",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Il Messaggero — Alessia Orro profile (born July 18, 1998, Narbolia)",
+          "platform": "Website",
+          "url": "https://www.ilmessaggero.it/en/alessia_orro_the_italian_volleyball_setter_s_journey_to_olympic_gold-8301295.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Alessia Orro (born 18 July 1998; Fenerbahçe career)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Alessia_Orro",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @alessiaorro8 (published on volleybox profile video page)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/alessiaorro8",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Olympic gold medalist and Best Setter (Paris 2024) for Italy, 2025 FIVB World Championship MVP + Best Setter, Fenerbahçe Istanbul setter — objective athlete category; verified 28 years old. IG handle published by volleybox; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@alessiaorro8",
+          "profileUrl": "https://www.instagram.com/alessiaorro8",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle published by volleybox ('Her instagram: instagram.com/alessiaorro8'); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-216",
+      "displayName": "Zehra Güneş",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 7, 1999 in Kartal, Istanbul, Türkiye — age 27 in 2026 — per the OFFICIAL Vakıfbank club bio ('Born on July 7, 1999 in Istanbul Kartal'), Wikipedia (born 7 July 1999), Küre Encyclopedia (Birth: July 7, 1999) and Grokipedia (born 7 July 1999).",
+        "sourceLabel": "Vakıfbank SK — official Zehra Güneş player profile (Born July 7, 1999)",
+        "sourceUrl": "https://www.vakifbanksporkulubu.com/en/playerdetails/zehra-gunes-p31",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team and Vakıfbank women's career — 'member of the Turkey women's national volleyball team'; Vakıfbank captain 2024-25 (Wikiwand/Vakıfbank official).",
+        "sourceLabel": "Vakıfbank SK — official player profile (women's A Team captain)",
+        "sourceUrl": "https://www.vakifbanksporkulubu.com/en/playerdetails/zehra-gunes-p31",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Vakıfbank SK — official Zehra Güneş player profile (Born July 7, 1999; honours list)",
+          "platform": "Website",
+          "url": "https://www.vakifbanksporkulubu.com/en/playerdetails/zehra-gunes-p31",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Zehra Güneş (DOB 1999-07-07; Vakıfbank middle blocker)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Zehra_G%C3%BCne%C5%9F",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Küre Encyclopedia — Zehra Güneş (Birth July 7, 1999)",
+          "platform": "Website",
+          "url": "https://kureansiklopedi.com/en/detay/zehra-gunes-79949",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Vakıfbank Istanbul captain (2024–25 season) and middle blocker for the Turkey women's national team — 3x FIVB Clubs World champion and 3x CEV Champions League winner — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
