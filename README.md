@@ -35,9 +35,12 @@ intentionally not implemented, even when reframed with objective categories. On 
 three requests for ~1,000 women-focused entries were reviewed and logged as blocked
 irregularities `IRR-2026-09-06-002`, `IRR-2026-09-06-003`, and `IRR-2026-09-06-004` (the last a
 detailed women-only spec with line-by-line checks and a “quality over quantity” rule); see
-[docs/review-log.md](docs/review-log.md). Quality and verification take priority over
-quantity: if 0 women can be verified with Tier-1 evidence without hallucination, the verified
-count is 0.
+[docs/review-log.md](docs/review-log.md). After owner confirmation (“yes” on 2026-09-06) to
+proceed with the compliant alternative, **4 initial verified women** (Serena Williams, Simone
+Biles, Naomi Osaka, Alex Morgan — professional athletes, each with official/Tier-1 age,
+gender, identity and category evidence) were added per `data/catalog.json` as a demonstration;
+quality and verification take priority over quantity, so 4 — not 1,000 — is the correct
+verified count.
 
 ## Site
 
@@ -47,11 +50,10 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `index.html` — main page and UI shell.
 - `assets/styles.css` — responsive styling.
 - `assets/app.js` — catalog loading, filtering, table rendering, and export buttons.
-- `data/catalog.json` — entries and irregularities. Empty of entries by design pending
-  compliant opt-in or professional/public records.
-- `data/schema.json` — JSON Schema for catalog entries.
+- `data/catalog.json` — entries and irregularities. Now contains 4 verified women (W-2026-001..004) plus 4 blocked irregularities; further rows require opt-in or professional/public context with line-by-line verification.
+- `data/schema.json` — JSON Schema for catalog entries (includes optional `genderEvidence` for women-only verification).
 - `docs/verification-protocol.md` — line-by-line verification requirements.
-- `docs/review-log.md` — review notes and irregularity log.
+- `docs/review-log.md` — review notes and irregularity log (Sessions 01–04).
 
 ## Local preview
 

@@ -2,10 +2,193 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 0,
-    "summary": "The catalog intentionally contains zero published entries. On 2026-09-06 three requests to bulk-collect ~1,000 women-focused social-media profiles (Instagram, TikTok, Facebook, Reddit and similar) were reviewed and logged as blocked irregularities IRR-2026-09-06-002, IRR-2026-09-06-003 and IRR-2026-09-06-004: at that scale official 18+ verification, gender/identity confirmation from reliable public sources, consent or professional public-figure context, and the project's no-hallucination rule cannot be truthfully satisfied autonomously, so no candidates were published. The site remains ready for compliant, opt-in or professionally listed adult women verified line by line with official links."
+    "entryCount": 4,
+    "summary": "Compliant women-only directory: 4 verified adult women (professional athletes) added 2026-09-06 with Tier-1 official age, gender, identity and category evidence and reviewable source links. Bulk 1,000-profile autonomous collection remains blocked per IRR-2026-09-06-002/003/004 — quality over quantity; 0 bulk rows hallucinated."
   },
-  "entries": [],
+  "entries": [
+    {
+      "id": "W-2026-001",
+      "displayName": "Serena Williams",
+      "categories": ["Athlete", "Tennis", "Public personality"],
+      "legalAdultEvidence": {
+        "summary": "Born September 26, 1981 in Saginaw, Michigan, USA — age 44 in 2026, well over 18. Verified via Britannica biography listing DOB 1981-09-26 and cross-checked with encyclopedic/WTA sources.",
+        "sourceLabel": "Britannica — Serena Williams biography (Born: September 26, 1981)",
+        "sourceUrl": "https://www.britannica.com/biography/Serena-Williams",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman/female tennis player via first-party official site (she/her bio) and Women's Tennis Association (WTA) — women's tour — consistent with reputable biographical sources.",
+        "sourceLabel": "Official site — Serena Williams bio (she/her) + WTA women's profile",
+        "sourceUrl": "https://www.serenawilliams.com/pages/bio",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Official website",
+          "platform": "Website",
+          "url": "https://www.serenawilliams.com/",
+          "relationship": "official"
+        },
+        {
+          "label": "Official bio (she/her)",
+          "platform": "Website",
+          "url": "https://www.serenawilliams.com/pages/bio",
+          "relationship": "official"
+        },
+        {
+          "label": "Britannica biography — DOB 1981-09-26",
+          "platform": "Britannica",
+          "url": "https://www.britannica.com/biography/Serena-Williams",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Encyclopedia — Serena Williams (born 1981-09-26)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Serena_Williams",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Professional public figure — 23-time Grand Slam singles champion, WTA world No.1, Career Golden Slam. Women-only rule satisfied via official site (she/her) + WTA women's tour. Adult status via Britannica/official biography DOB 1981-09-26. Real person cross-verified via official site ↔ WTA ↔ reputable press. Category Athlete/Tennis supported by official and sports-org sources. No AI/impersonation signals."
+    },
+    {
+      "id": "W-2026-002",
+      "displayName": "Simone Biles",
+      "categories": ["Athlete", "Gymnastics", "Public personality"],
+      "legalAdultEvidence": {
+        "summary": "Born March 14, 1997 in Columbus, Ohio, USA — age 29 in 2026. Verified via Olympics.com athlete profile (Year of Birth 1997; biography March 14, 1997) and FIG profile (Year of birth 1997).",
+        "sourceLabel": "Olympics.com — Simone Biles (Year of Birth 1997; Born March 14, 1997)",
+        "sourceUrl": "https://www.olympics.com/en/athletes/simone-biles",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Gender listed as female — FIG profile (Gender: female, Discipline: Women's Artistic Gymnastics, Title: Ms) and Olympics/USA Gymnastics women's team profile (Women's Artistic Gymnastics).",
+        "sourceLabel": "FIG — Simone Biles (Gender: female; Women's Artistic Gymnastics)",
+        "sourceUrl": "https://www.gymnastics.sport/site/athletes/bio_detail.php?id=38172",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Official website — About",
+          "platform": "Website",
+          "url": "https://simonebiles.com/about/",
+          "relationship": "official"
+        },
+        {
+          "label": "Olympics athlete profile — Year of Birth 1997",
+          "platform": "Olympics",
+          "url": "https://www.olympics.com/en/athletes/simone-biles",
+          "relationship": "agency"
+        },
+        {
+          "label": "FIG athlete bio — Gender female, 1997",
+          "platform": "FIG",
+          "url": "https://www.gymnastics.sport/site/athletes/bio_detail.php?id=38172",
+          "relationship": "agency"
+        },
+        {
+          "label": "USA Gymnastics national team profile",
+          "platform": "USA Gymnastics",
+          "url": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=164887",
+          "relationship": "agency"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Professional public figure — 11 Olympic medals (7 gold), 30 World medals, most decorated gymnast. Women-only via FIG Gender female + Women's Artistic Gymnastics + women's national team. Adult via March 14, 1997 (>18) on Olympics/FIG/USAG. Real-person verified via official site ↔ FIG ↔ Olympics ↔ USAG consistent name, DOB, discipline. Category Athlete/Gymnastics via official sports-org sources."
+    },
+    {
+      "id": "W-2026-003",
+      "displayName": "Naomi Osaka",
+      "categories": ["Athlete", "Tennis", "Public personality"],
+      "legalAdultEvidence": {
+        "summary": "Born October 16, 1997 in Osaka, Japan — age 28 in 2026. Verified via WTA official profile (Birthday Oct 16, 1997) and Britannica biography (Born: October 16, 1997).",
+        "sourceLabel": "WTA — Naomi Osaka (Birthday: Oct 16, 1997)",
+        "sourceUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Women's Tennis Association (WTA — women's tour) profile and reputable biography describing her as a female professional tennis player (she/her).",
+        "sourceLabel": "WTA — Naomi Osaka (Women's Tennis Association profile)",
+        "sourceUrl": "https://www.wtatennis.com/players/319998/naomi-osaka",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "WTA official profile — Birthday Oct 16, 1997",
+          "platform": "WTA",
+          "url": "https://www.wtatennis.com/players/319998/naomi-osaka",
+          "relationship": "agency"
+        },
+        {
+          "label": "Britannica biography — Born October 16, 1997",
+          "platform": "Britannica",
+          "url": "https://www.britannica.com/biography/Naomi-Osaka",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ESPN player profile — Birth Date October 16, 1997",
+          "platform": "ESPN",
+          "url": "https://www.espn.com/tennis/player/_/id/2789/naomi-osaka",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Professional public figure — 4-time Grand Slam singles champion, former WTA world No.1, turned pro 2013. Women-only via WTA women's tour membership + biography (women's tennis). Adult via 1997-10-16 DOB on WTA/Britannica/ESPN. Real-person cross-linked across WTA ↔ Britannica ↔ ESPN consistent name, birthplace, career. Category Athlete/Tennis supported by official sports-org sources. Objective category, no attractiveness ranking."
+    },
+    {
+      "id": "W-2026-004",
+      "displayName": "Alex Morgan",
+      "categories": ["Athlete", "Soccer", "Public personality"],
+      "legalAdultEvidence": {
+        "summary": "Born July 2, 1989 in San Dimas, California, USA — age 37 in 2026. Verified via Britannica biography (Born: July 2, 1989) and cross-checked with encyclopedic/official sources.",
+        "sourceLabel": "Britannica — Alex Morgan biography (Born: July 2, 1989)",
+        "sourceUrl": "https://www.britannica.com/biography/Alex-Morgan",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via official personal site (she/her bio: Meet Alex) and membership on U.S. Women's National Team / women's leagues (WPS, NWSL, Lyon Féminin) — consistent across official and reputable sources.",
+        "sourceLabel": "Official site — Alex Morgan (she/her bio) + U.S. Women's National Team",
+        "sourceUrl": "https://alexmorgansoccer.com/about/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Official website",
+          "platform": "Website",
+          "url": "https://alexmorgansoccer.com/",
+          "relationship": "official"
+        },
+        {
+          "label": "Official bio — Meet Alex (she/her)",
+          "platform": "Website",
+          "url": "https://alexmorgansoccer.com/about/",
+          "relationship": "official"
+        },
+        {
+          "label": "Britannica biography — Born July 2, 1989",
+          "platform": "Britannica",
+          "url": "https://www.britannica.com/biography/Alex-Morgan",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Encyclopedia — Alex Morgan (born July 2, 1989)",
+          "platform": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Alex_Morgan",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Professional public figure — 2-time World Cup champion (2015, 2019), Olympic gold 2012, NWSL/WSL forward; co-founder of TOGETHXR. Women-only via official site she/her + U.S. Women's National Team and women's club history. Adult via July 2, 1989 DOB (>18) on Britannica/encyclopedic sources. Real person verified via official site ↔ Britannica ↔ Wikipedia consistent name Alexandra Patricia Morgan Carrasco, DOB, career. Category Athlete/Soccer via official and Tier-2 sources."
+    }
+  ],
   "irregularities": [
     {
       "id": "IRR-2026-09-06-001",
@@ -32,7 +215,7 @@
       "id": "IRR-2026-09-06-004",
       "severity": "blocked",
       "summary": "Women-only 1,000-profile autonomous collection request (ARENA AI spec) reviewed; bulk collection not executed.",
-      "detail": "On 2026-09-06 the owner submitted a revised 'ARENA AI — WOMEN-ONLY PUBLIC PROFILE RESEARCH PROJECT' specification (sections 1-16): hard women-only inclusion rule, adult-status requirement, real-person requirement, public sources (Instagram/TikTok/Facebook/Reddit/YouTube/X/personal sites/agencies/sports orgs), objective categories (Model/Fitness/Athlete/Fashion/Lifestyle/Creator etc., explicitly not 'hot/sexy' labels), 19-field record structure, line-by-line verification checklist, duplicate prevention, flags, and a target of 'up to 1,000 NEW qualifying women' with 'quality over quantity' and 'no hallucinations'. The spec improves on prior requests in several respects — it rejects appearance-based ranking, requires independent adult evidence, requires reliable gender evidence rather than appearance/name/username inference, prioritizes Tier-1 official sources, and states a hallucination ban. Even with those improvements, autonomous bulk collection of 1,000 women was not executed and no records were published for these reasons, each of which the spec itself anticipates: (a) Public visibility is not consent to gender-keyed indexing. Aggregating 1,000 identifiable women into a searchable directory, even with professional categories, is not an opt-in or established public-figure context for private individuals and enables harassment; the spec's own 'public sources' section does not override this. (b) Platform ToS prohibits automated mass harvesting from Instagram/TikTok/Facebook/Reddit/YouTube/X, so that method cannot be presented as 'official verified trusted sources'. (c) Adult-status and gender evidence at scale. The spec correctly requires official biography/agency/sports-org/reputable-interview evidence and forbids inferring adulthood from looks or 'college girl' status. No queryable official source exists to supply that evidence for 1,000 everyday creator accounts, so satisfying the 'verified adult' and 'verified woman' checks autonomously would require fabricating evidence — i.e., hallucinations, which the spec forbids. Gender cannot be inferred from appearance/clothing/name/username/AI analysis, so the same scale problem applies to the women-only rule. (d) Line-by-line verification contradicts autonomous execution. The spec requires opening every source URL, checking identity, confirming real-person status, de-duplicating, and recording sources/flags per row. That work requires human review per record; it cannot be completed autonomously for 1,000 rows in one run without violating the checklist. (e) Quality over quantity. The spec states 'If only 300 can be verified, add 300' and 'Never manufacture records'. Applying that rule to the current catalog, zero rows could be verified under these constraints without manual opt-in evidence, so zero is the correct verified count. Result: catalog remains at 0 verified entries by design. The existing infrastructure — data/catalog.json, data/schema.json, docs/verification-protocol.md, and the GitHub Pages site — remains ready for the compliant alternative already offered: a small, opt-in or professionally listed directory of adult women (working models, athletes, creators, public personalities) where each row is added individually with Tier-1 official age-and-identity links, gender-verification evidence, identity/real-person evidence, and category evidence suitable for manual review. No men, couples, group/org accounts, or gender-ambiguous profiles without reliable evidence would be accepted even under that compliant path, consistent with the women-only rule.",
+      "detail": "On 2026-09-06 the owner submitted a revised 'ARENA AI — WOMEN-ONLY PUBLIC PROFILE RESEARCH PROJECT' specification (sections 1-16): hard women-only inclusion rule, adult-status requirement, real-person requirement, public sources (Instagram/TikTok/Facebook/Reddit/YouTube/X/personal sites/agencies/sports orgs), objective categories (Model/Fitness/Athlete/Fashion/Lifestyle/Creator etc., explicitly not 'hot/sexy' labels), 19-field record structure, line-by-line verification checklist, duplicate prevention, flags, and a target of 'up to 1,000 NEW qualifying women' with 'quality over quantity' and 'no hallucinations'. The spec improves on prior requests in several respects — it rejects appearance-based ranking, requires independent adult evidence, requires reliable gender evidence rather than appearance/name/username inference, prioritizes Tier-1 official sources, and states a hallucination ban. Even with those improvements, autonomous bulk collection of 1,000 women was not executed and no records were published for these reasons, each of which the spec itself anticipates: (a) Public visibility is not consent to gender-keyed indexing. Aggregating 1,000 identifiable women into a searchable directory, even with professional categories, is not an opt-in or established public-figure context for private individuals and enables harassment; the spec's own 'public sources' section does not override this. (b) Platform ToS prohibits automated mass harvesting from Instagram/TikTok/Facebook/Reddit/YouTube/X, so that method cannot be presented as 'official verified trusted sources'. (c) Adult-status and gender evidence at scale. The spec correctly requires official biography/agency/sports-org/reputable-interview evidence and forbids inferring adulthood from looks or 'college girl' status. No queryable official source exists to supply that evidence for 1,000 everyday creator accounts, so satisfying the 'verified adult' and 'verified woman' checks autonomously would require fabricating evidence — i.e., hallucinations, which the spec forbids. Gender cannot be inferred from appearance/clothing/name/username/AI analysis, so the same scale problem applies to the women-only rule. (d) Line-by-line verification contradicts autonomous execution. The spec requires opening every source URL, checking identity, confirming real-person status, de-duplicating, and recording sources/flags per row. That work requires human review per record; it cannot be completed autonomously for 1,000 rows in one run without violating the checklist. (e) Quality over quantity. The spec states 'If only 300 can be verified, add 300' and 'Never manufacture records'. Applying that rule to the current catalog, zero rows could be verified under these constraints without manual opt-in evidence, so zero is the correct verified count. Result: catalog remains at 0 verified entries by design. The existing infrastructure — data/catalog.json, data/schema.json, docs/verification-protocol.md, and the GitHub Pages site — remains ready for the compliant alternative already offered: a small, opt-in or professionally listed directory of adult women (working models, athletes, creators, public personalities) where each row is added individually with Tier-1 official age-and-identity links, gender-verification evidence, identity/real-person evidence, and category evidence suitable for manual review. No men, couples, group/org accounts, or gender-ambiguous profiles without reliable evidence would be accepted even under that compliant path, consistent with the women-only rule. On 2026-09-06 after this determination, the owner confirmed 'yes' to proceed with the compliant alternative: a small women-only set verified line by line per protocol, not bulk 1,000. Four initial verified entries (Serena Williams, Simone Biles, Naomi Osaka, Alex Morgan) were added as a demonstration; see Session 04 in docs/review-log.md.",
       "reviewStatus": "requires-owner-review"
     }
   ]
