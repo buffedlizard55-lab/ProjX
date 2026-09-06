@@ -527,3 +527,45 @@ tr:last-child td {
     justify-content: flex-start;
   }
 }
+
+/* Documentation cards */
+
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 0.25rem;
+}
+
+.doc-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: #fff;
+  padding: 1.1rem;
+}
+
+.doc-card h3 {
+  margin-bottom: 0;
+}
+
+.doc-card p {
+  flex: 1;
+  margin-bottom: 0;
+  font-size: 0.95rem;
+}
+
+.doc-card .button {
+  min-height: 36px;
+  padding: 0.45rem 0.9rem;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 620px) {
+  .doc-grid {
+    grid-template-columns: 1fr;
+  }
+}

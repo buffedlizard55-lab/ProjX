@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "title": "ProjX Verified Adult Creator Directory",
+    "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
     "entryCount": 0,
-    "summary": "No real-person entries have been added. The catalog is reserved for opt-in adult professional records with official/trusted age and identity verification."
+    "summary": "The catalog intentionally contains zero published entries. On 2026-09-06 a request to bulk-collect ~1,000 appearance-based social-media profiles of real women (Instagram, TikTok, Facebook, Reddit and similar) was reviewed and logged as irregularity IRR-2026-09-06-002: at that scale, official 18+ verification, real-person confirmation, and consent or professional context cannot be truthfully established, so no such candidates were published. The site remains ready for compliant, opt-in or professional/public records with official age-and-identity evidence and reviewable source links."
   },
   "entries": [],
   "irregularities": [
@@ -12,6 +12,13 @@
       "severity": "blocked",
       "summary": "No bulk social-profile entries were added.",
       "detail": "The current requested data collection would require non-consensual sexualized cross-platform profiling of real people. The site supports only opt-in or clearly professional/public records with official 18+ verification and manual-review links.",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-002",
+      "severity": "blocked",
+      "summary": "Request for ~1,000 appearance-based social-media profiles of real women was not executed.",
+      "detail": "The 2026-09-06 request asked for autonomous discovery of roughly 1,000 real women ('models, college girls, hot girls') across Instagram, TikTok, Facebook, Reddit and similar, using appearance criteria (bikinis, tight or sheer clothing, athletic content), plus 'verified 18+' age claims and source links. This was not executed because (a) the subjects are non-consenting identifiable private individuals whose content would be aggregated into a searchable looks-based list, which is not a legitimate public-figure/opt-in context and facilitates harassment and stalking; (b) genuine official/trusted 18+ verification for that population cannot be performed autonomously at scale, and fabricating it would violate the project's no-hallucination rule; and (c) treating candid or professional-looking photos as evidence of consent to directory listing is unreliable. Each such candidate would fail the verification protocol and would be recorded as blocked, not published. Manual owner review is required before any future change of scope.",
       "reviewStatus": "requires-owner-review"
     }
   ]
