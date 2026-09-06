@@ -1,9 +1,11 @@
 {
   "metadata": {
-    "title": "ProjX Instagram / TikTok Directory",
+    "title": "ProjX Instagram / TikTok Directory (all)",
     "generatedAt": "2026-09-06",
     "entryCount": 1301,
-    "summary": "Published catalog records with a documented Instagram or TikTok account. Derived from data/catalog.json (the single source of truth) by catalogType=social. Powers directory/index.html and directory/{id}.html. No fields are estimated.",
+    "knownCount": 150,
+    "unknownCount": 1151,
+    "summary": "Published catalog records with a documented Instagram or TikTok account. Derived from data/catalog.json (the single source of truth) by catalogType=social. Powers directory/index.html and directory/{id}.html. No fields are estimated. Split into known (directory/) and unknown (directory-unknown/) follower buckets.",
     "sourceCatalog": "data/catalog.json"
   },
   "entries": [
@@ -7351,20 +7353,28 @@
           "platform": "Instagram",
           "username": "@annadanesi",
           "profileUrl": "https://www.instagram.com/annadanesi/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "180K",
+          "followerCountNumeric": 180000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle recorded in Wikidata Q22069374. No follower count was publicly observed on 2026-09-06 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Instagram public snippet retrieved 2026-09-06 via web_search: '180K followers, 1,374 following, 240 posts – @annadanesi'. Italian women's volleyball captain, Olympic gold Paris 2024."
         }
       ],
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "100K–249.9K",
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Italy. English Wikipedia: https://en.wikipedia.org/wiki/Anna_Danesi. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
-      "catalogType": "social"
+      "catalogType": "social",
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@annadanesi",
+        "display": "180K",
+        "numeric": 180000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      }
     },
     {
       "id": "W-2026-208",
@@ -23604,23 +23614,23 @@
           "platform": "Instagram",
           "username": "@elisabethrioux",
           "profileUrl": "https://www.instagram.com/elisabethrioux/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "1.6M",
+          "followerCountNumeric": 1617362,
+          "countType": "exact",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle copied from an already-stored official/source URL on this catalog row. No follower count was publicly observed on 2026-09-06, so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "SPEAKRJ public analytics page for @elisabethrioux retrieved 2026-09-06: '1.6M followers count' with historical table 2022-08-10 showing 1,617,362 followers. Instagram profile blocks automated retrieval, so public analytics snapshot is recorded verbatim. Alternative handle @elisabeth.rioux shows 670.3k in older Pinterest snippet (2017), but primary handle @elisabethrioux is 1.6M."
         }
       ],
       "largestPublicFollowing": {
-        "platform": "",
-        "username": "",
-        "display": "FOLLOWER_COUNT_UNKNOWN",
-        "numeric": null,
-        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "platform": "Instagram",
+        "username": "@elisabethrioux",
+        "display": "1.6M",
+        "numeric": 1617362,
+        "sizeRange": "1M–4.9M",
         "checkedAt": "2026-09-06"
       },
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "1M–4.9M",
       "catalogType": "social"
     },
     {
@@ -48242,23 +48252,23 @@
           "platform": "Instagram",
           "username": "@lexiisun",
           "profileUrl": "https://www.instagram.com/lexiisun/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "60K",
+          "followerCountNumeric": 60000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle copied from an already-stored official/source URL on this catalog row. No follower count was publicly observed on 2026-09-06, so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "FamousBirthdays public page for Lexi Sun retrieved 2026-09-06: 'has accrued 60,000 followers' for @lexiisun Instagram account. Omaha Magazine 2022-04-28 article states 'As of presstime, Sun had 85,000 followers on Instagram'. Using 60K as conservative publicly observed rounded figure (FamousBirthdays)."
         }
       ],
       "largestPublicFollowing": {
-        "platform": "",
-        "username": "",
-        "display": "FOLLOWER_COUNT_UNKNOWN",
-        "numeric": null,
-        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "platform": "Instagram",
+        "username": "@lexiisun",
+        "display": "60K",
+        "numeric": 60000,
+        "sizeRange": "50K–99.9K",
         "checkedAt": "2026-09-06"
       },
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "50K–99.9K",
       "catalogType": "social"
     },
     {
@@ -62756,12 +62766,12 @@
           "platform": "Instagram",
           "username": "@miriamsylla",
           "profileUrl": "https://www.instagram.com/miriamsylla/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "402K",
+          "followerCountNumeric": 402000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "Instagram public snippet retrieved 2026-09-06: '402K seguidores, 1,149 siguiendo, 595 publicaciones - @miriamsylla'. Italian volleyball player, Olympic champion Paris 2024."
         },
         {
           "platform": "Facebook",
@@ -62776,14 +62786,14 @@
         }
       ],
       "largestPublicFollowing": {
-        "platform": null,
-        "username": null,
-        "display": null,
-        "numeric": null,
-        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "platform": "Instagram",
+        "username": "@miriamsylla",
+        "display": "402K",
+        "numeric": 402000,
+        "sizeRange": "250K–499.9K",
         "checkedAt": "2026-09-06"
       },
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "250K–499.9K",
       "catalogType": "social"
     },
     {
@@ -69163,20 +69173,28 @@
           "platform": "Instagram",
           "username": "@paolaegonu",
           "profileUrl": "https://www.instagram.com/paolaegonu/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "632K",
+          "followerCountNumeric": 632000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle recorded in Wikidata Q22049086. No follower count was publicly observed on 2026-09-06 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "Instagram public snippet retrieved 2026-09-06 via web_search: '632K seguidores, 2,896 seguidos, 866 publicaciones - Paola Egonu (@paolaegonu)'. Also SPEAKRJ analytics 2022-06-08 shows 259,821 followers, FamousBirthdays states 550,000 followers. Using 632K as most recent rounded public observation."
         }
       ],
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "500K–999.9K",
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Italy. Evidence chain — reference URL(s): https://championsleague.cev.eu/en/women/team/12044-a-carraro-imoco-conegliano/player/51754-egonu-paola-ogechi. English Wikipedia: https://en.wikipedia.org/wiki/Paola_Egonu. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
-      "catalogType": "social"
+      "catalogType": "social",
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@paolaegonu",
+        "display": "632K",
+        "numeric": 632000,
+        "sizeRange": "500K–999.9K",
+        "checkedAt": "2026-09-06"
+      }
     },
     {
       "id": "W-2026-1416",
@@ -78948,23 +78966,23 @@
           "platform": "Instagram",
           "username": "@fitgirl_08",
           "profileUrl": "https://www.instagram.com/fitgirl_08/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "3M",
+          "followerCountNumeric": 3000000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle copied from an already-stored official/source URL on this catalog row. No follower count was publicly observed on 2026-09-06, so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Public Instagram profile snippet retrieved 2026-09-06 via web_search: '3M followers, 50 following, 1,713 posts – @fitgirl_08'. Corroborated by whatainfo.in biography (3M followers as of 2026, born 12 Aug 1995) and excelebiz.in (3M+ @fitgirl_08, 2.9M Feb 2026). Count recorded as rounded 3M (platform displays rounded for large accounts)."
         }
       ],
       "largestPublicFollowing": {
-        "platform": "",
-        "username": "",
-        "display": "FOLLOWER_COUNT_UNKNOWN",
-        "numeric": null,
-        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "platform": "Instagram",
+        "username": "@fitgirl_08",
+        "display": "3M",
+        "numeric": 3000000,
+        "sizeRange": "1M–4.9M",
         "checkedAt": "2026-09-06"
       },
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "1M–4.9M",
       "catalogType": "social"
     },
     {
@@ -84096,12 +84114,12 @@
           "platform": "Instagram",
           "username": "@valentinagottardi_",
           "profileUrl": "https://www.instagram.com/valentinagottardi_/",
-          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
-          "followerCountNumeric": null,
-          "countType": "unknown",
+          "followerCountDisplay": "133K",
+          "followerCountNumeric": 133000,
+          "countType": "rounded",
           "checkedAt": "2026-09-06",
-          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
-          "sourceNote": "Handle recorded in Wikidata Q109232107. No follower count was publicly observed on 2026-09-06 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Instagram public snippet retrieved 2026-09-06: '133K followers, 874 following, 293 posts – @valentinagottardi_'. Italian beach volleyball Olympian."
         },
         {
           "platform": "Facebook",
@@ -84115,12 +84133,20 @@
           "sourceNote": "Handle recorded in Wikidata Q109232107. No follower count was publicly observed on 2026-09-06 (the platform blocks automated retrieval of the profile page), so it is recorded as FOLLOWER_COUNT_UNKNOWN rather than estimated."
         }
       ],
-      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "overallFollowerSizeRange": "100K–249.9K",
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Italy. Evidence chain — imported from the German Wikipedia. English Wikipedia: https://en.wikipedia.org/wiki/Valentina_Gottardi. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
-      "catalogType": "social"
+      "catalogType": "social",
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@valentinagottardi_",
+        "display": "133K",
+        "numeric": 133000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      }
     },
     {
       "id": "W-2026-026",

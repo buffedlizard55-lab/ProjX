@@ -24,7 +24,10 @@ from urllib.parse import urlparse
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG = os.path.join(ROOT, "data", "catalog.json")
 SOCIAL_JSON = os.path.join(ROOT, "data", "catalog-social.json")
+SOCIAL_KNOWN_JSON = os.path.join(ROOT, "data", "catalog-social-known.json")
+SOCIAL_UNKNOWN_JSON = os.path.join(ROOT, "data", "catalog-social-unknown.json")
 DIRECTORY = os.path.join(ROOT, "directory")
+DIRECTORY_UNKNOWN = os.path.join(ROOT, "directory-unknown")
 TODAY = date.today().isoformat()
 
 ID_RE = re.compile(r"^W-2026-\d+$")
@@ -143,6 +146,18 @@ def source_list(sources: list) -> str:
             text = f"{text} · {platform}"
         items.append(f"<li>{chip(text, source.get('url'))}</li>")
     return f'<ul class="source-list">{"".join(items)}</ul>'
+
+
+def has_known_follower(entry: dict) -> bool:
+    """True if at least one IG/TT account has a numeric follower count."""
+    for acc in entry.get("socialAccounts", []) or []:
+        if acc.get("platform") in SOCIAL_PLATFORMS and isinstance(acc.get("followerCountNumeric"), (int, float)):
+            return True
+    # Also check largestPublicFollowing numeric as fallback (some early rows store only there)
+    lpf = entry.get("largestPublicFollowing") or {}
+    if isinstance(lpf.get("numeric"), (int, float)):
+        return True
+    return False
 
 
 def first_letter(name: str) -> str:
@@ -312,15 +327,23 @@ def main() -> int:
         print(f"ERROR: unexpected social ids: {bad_ids[:10]}")
         return 1
 
+    known = [e for e in social if has_known_follower(e)]
+    unknown = [e for e in social if not has_known_follower(e)]
+    known.sort(key=lambda e: ((e.get("displayName") or "").casefold(), e.get("id") or ""))
+    unknown.sort(key=lambda e: ((e.get("displayName") or "").casefold(), e.get("id") or ""))
+
     social_catalog = {
         "metadata": {
-            "title": "ProjX Instagram / TikTok Directory",
+            "title": "ProjX Instagram / TikTok Directory (all)",
             "generatedAt": TODAY,
             "entryCount": len(social),
+            "knownCount": len(known),
+            "unknownCount": len(unknown),
             "summary": (
                 "Published catalog records with a documented Instagram or TikTok account. "
                 "Derived from data/catalog.json (the single source of truth) by catalogType=social. "
-                "Powers directory/index.html and directory/{id}.html. No fields are estimated."
+                "Powers directory/index.html and directory/{id}.html. No fields are estimated. "
+                "Split into known (directory/) and unknown (directory-unknown/) follower buckets."
             ),
             "sourceCatalog": "data/catalog.json",
         },
@@ -329,37 +352,104 @@ def main() -> int:
         "irregularities": [],
     }
 
+    known_catalog = {
+        "metadata": {
+            "title": "ProjX Instagram / TikTok Directory — Known follower counts",
+            "generatedAt": TODAY,
+            "entryCount": len(known),
+            "summary": (
+                "Published catalog records with a documented Instagram or TikTok account AND a publicly "
+                "observed follower count. Derived from data/catalog.json. Powers directory/index.html."
+            ),
+            "sourceCatalog": "data/catalog.json",
+        },
+        "entries": known,
+        "reviewQueue": [],
+        "irregularities": [],
+    }
+
+    unknown_catalog = {
+        "metadata": {
+            "title": "ProjX Instagram / TikTok Directory — Unknown follower counts",
+            "generatedAt": TODAY,
+            "entryCount": len(unknown),
+            "summary": (
+                "Published catalog records with a documented Instagram or TikTok account but no publicly "
+                "observed follower count (FOLLOWER_COUNT_UNKNOWN). Derived from data/catalog.json. "
+                "Powers directory-unknown/index.html. These are retained for completeness but moved out of "
+                "the main Instagram/TikTok directory per user request to fix UNKNOWN display."
+            ),
+            "sourceCatalog": "data/catalog.json",
+        },
+        "entries": unknown,
+        "reviewQueue": [],
+        "irregularities": [],
+    }
+
     if dry:
-        print(f"social={len(social)} would write {SOCIAL_JSON} and {len(social)} profile pages")
+        print(f"social={len(social)} known={len(known)} unknown={len(unknown)}")
+        print(f"would write {SOCIAL_JSON}, {SOCIAL_KNOWN_JSON}, {SOCIAL_UNKNOWN_JSON}")
+        print(f"would write {len(known)} pages in {DIRECTORY} and {len(unknown)} in {DIRECTORY_UNKNOWN}")
         return 0
 
     os.makedirs(DIRECTORY, exist_ok=True)
+    os.makedirs(DIRECTORY_UNKNOWN, exist_ok=True)
     with open(SOCIAL_JSON, "w", encoding="utf-8") as fh:
         json.dump(social_catalog, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
+    with open(SOCIAL_KNOWN_JSON, "w", encoding="utf-8") as fh:
+        json.dump(known_catalog, fh, indent=2, ensure_ascii=False)
+        fh.write("\n")
+    with open(SOCIAL_UNKNOWN_JSON, "w", encoding="utf-8") as fh:
+        json.dump(unknown_catalog, fh, indent=2, ensure_ascii=False)
+        fh.write("\n")
 
-    wanted = {f"{entry['id']}.html" for entry in social}
-    wanted.add("index.html")
-    removed = 0
+    # Clean stale files in known directory
+    wanted_known = {f"{entry['id']}.html" for entry in known}
+    wanted_known.add("index.html")
+    removed_known = 0
     for name in os.listdir(DIRECTORY):
         if not name.endswith(".html"):
             continue
-        if name in wanted:
+        if name in wanted_known:
             continue
         if not ID_RE.match(name[: -len(".html")]):
             continue
         os.remove(os.path.join(DIRECTORY, name))
-        removed += 1
+        removed_known += 1
 
-    for i, entry in enumerate(social):
-        prev_entry = social[i - 1] if i > 0 else None
-        next_entry = social[i + 1] if i + 1 < len(social) else None
+    # Clean stale files in unknown directory
+    wanted_unknown = {f"{entry['id']}.html" for entry in unknown}
+    wanted_unknown.add("index.html")
+    removed_unknown = 0
+    for name in os.listdir(DIRECTORY_UNKNOWN):
+        if not name.endswith(".html"):
+            continue
+        if name in wanted_unknown:
+            continue
+        if not ID_RE.match(name[: -len(".html")]):
+            continue
+        os.remove(os.path.join(DIRECTORY_UNKNOWN, name))
+        removed_unknown += 1
+
+    for i, entry in enumerate(known):
+        prev_entry = known[i - 1] if i > 0 else None
+        next_entry = known[i + 1] if i + 1 < len(known) else None
         path = os.path.join(DIRECTORY, f"{entry['id']}.html")
         with open(path, "w", encoding="utf-8") as fh:
             fh.write(render_profile(entry, prev_entry, next_entry))
 
-    print(f"social={len(social)} wrote {SOCIAL_JSON}")
-    print(f"wrote {len(social)} profile pages in {DIRECTORY} (removed stale {removed})")
+    for i, entry in enumerate(unknown):
+        prev_entry = unknown[i - 1] if i > 0 else None
+        next_entry = unknown[i + 1] if i + 1 < len(unknown) else None
+        path = os.path.join(DIRECTORY_UNKNOWN, f"{entry['id']}.html")
+        with open(path, "w", encoding="utf-8") as fh:
+            fh.write(render_profile(entry, prev_entry, next_entry))
+
+    print(f"social={len(social)} (known={len(known)} unknown={len(unknown)})")
+    print(f"wrote {SOCIAL_JSON}, {SOCIAL_KNOWN_JSON}, {SOCIAL_UNKNOWN_JSON}")
+    print(f"wrote {len(known)} profile pages in {DIRECTORY} (removed stale {removed_known})")
+    print(f"wrote {len(unknown)} profile pages in {DIRECTORY_UNKNOWN} (removed stale {removed_unknown})")
     return 0
 
 
