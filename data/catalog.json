@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 242,
+    "entryCount": 244,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16752,6 +16752,116 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-243",
+      "displayName": "Sarah Luisa Fahr",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 12, 2001 in Kulmbach, Bavaria, Germany — age 24 (25 in Sept 2026) in 2026 — per the OFFICIAL volleyballworld governing-body page (Birth date 12/09/2001 = 12 September 2001 DD/MM, Age 24), Wikipedia (born 12 September 2001) and Wikiwand (born 12 September 2001 in Kulmbach).",
+        "sourceLabel": "Volleyball World — official Fahr bio (Birth date 12/09/2001)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/club-world-championship-women/players/163616",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Imoco Volley Conegliano women's team career and Italy women's national team service ('middle-blocker for Imoco Volley Conegliano'; represents Italy internationally — Wikipedia/Wikiwand).",
+        "sourceLabel": "Volleyball World — official FIVB Club World Championships player page (women)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/club-world-championship-women/players/163616",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Sarah Luisa Fahr bio (Birth date 12/09/2001)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/club-world-championship-women/players/163616",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Sarah Fahr (DOB 2001-09-12)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Sarah_Fahr",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikiwand — Sarah Luisa Fahr (born 12 September 2001, Kulmbach)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Sarah_Luisa_Fahr",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "German-born Italian international middle blocker for Imoco Volley Conegliano and Italy's women's national team — objective athlete category; verified 24 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-244",
+      "displayName": "Monica De Gennaro",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 8, 1987 in Piano di Sorrento, Italy — age 39 in 2026 — per Wikipedia (born 8 January 1987), Grokipedia (born on January 8, 1987, in Piano di Sorrento) and famousdetails (born on January 8, 1987 in Naples).",
+        "sourceLabel": "Wikipedia — Monica De Gennaro (born 8 January 1987)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monica_De_Gennaro",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — four-time Olympian (2012/2016/2020/2024); 2024 Paris Olympic gold medalist and Best Libero (Wikipedia translations/Grokipedia).",
+        "sourceLabel": "Wikipedia — Monica De Gennaro (4x Olympian; 2024 gold + Best Libero)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Monica_De_Gennaro",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Monica De Gennaro (DOB 1987-01-08; 4x Olympic libero)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Monica_De_Gennaro",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Monica De Gennaro (born January 8, 1987; retired 2025)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Monica_De_Gennaro",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Famous Details — Monica De Gennaro (born January 8, 1987)",
+          "platform": "Website",
+          "url": "https://www.famousdetails.com/monica-de-gennaro/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Four-time Olympian libero and 2024 Paris Olympic gold medalist + Best Libero — widely regarded as the greatest libero in the sport's history; retired from the Italy national team in 2025, continuing with Imoco Volley Conegliano — objective athlete category; verified 39 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
