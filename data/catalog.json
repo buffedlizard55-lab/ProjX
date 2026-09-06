@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 238,
+    "entryCount": 240,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16497,6 +16497,116 @@
           "sourceNote": "Handle via official FSU roster structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-239",
+      "displayName": "Anne Buijs",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 2, 1991 in the Netherlands — age 34 in 2026 — per Wikipedia (born 2 December 1991), the Olympedia athlete record (Born: 2 December 1991) and Grokipedia (born on 2 December 1991). Birthplace given as Oostzaan (Wikipedia/Wikiwand) vs Geleen, Limburg (Olympedia) — minor variance between reliable sources, noted; DOB identical.",
+        "sourceLabel": "Olympedia — Anne Buijs record (Born 2 December 1991)",
+        "sourceUrl": "https://www.olympedia.org/athletes/131205",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Netherlands women's national volleyball team — 16-year international career (2008–2024), mother Irene Pelser was also a Dutch international; retired from the NT after Paris 2024 (Wikipedia/Wikiwand).",
+        "sourceLabel": "Wikipedia — Anne Buijs (Netherlands women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Buijs",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Anne Buijs (Born 2 December 1991; Geleen)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/131205",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Anne Buijs (DOB 1991-12-02; Oostzaan)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Anne_Buijs",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Anne Buijs (born 2 December 1991; 2016 Rio Olympics)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Anne_Buijs",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Longtime Netherlands women's national team star and captain — Rio 2016 fourth-place leader, European silver Best Outside Hitter (2015 & 2017), first Dutch player to win Brazil's Superliga (with Rexona Sesc) — now LOVB Nebraska — objective athlete category; verified 34 years old. Birthplace variance (Oostzaan vs Geleen) noted with a MINOR_SOURCE_CONFLICT_NOTED. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-240",
+      "displayName": "Nika Daalderop",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 29, 1998 in Amsterdam, Netherlands — age 27 in 2026 — per the OFFICIAL volleyballworld governing-body page (Birth date 29/11/1998 = 29 November 1998 DD/MM, Age 27), Wikipedia (born 29 November 1998), bvbinfo.com (Birth Date November 29, 1998 (26 years old)) and Grokipedia (born on November 29, 1998, in Amsterdam).",
+        "sourceLabel": "Volleyball World — official Daalderop bio (Birth date 29/11/1998)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/150809",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Netherlands women's national volleyball team — current captain (2025 VNL); Wikipedia quotes 'Dutch professional volleyball player for Imoco Volley and the Dutch national team... played in the Paris 2024 Olympics'.",
+        "sourceLabel": "Wikipedia — Nika Daalderop (Netherlands women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nika_Daalderop",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Daalderop bio (Birth date 29/11/1998)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/150809",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Nika Daalderop (DOB 1998-11-29; THY S.K.)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Nika_Daalderop",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "bvbinfo — Nika Daalderop career record (Birth Date November 29, 1998)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=15437",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Netherlands women's national team captain and outside hitter — 2017 European silver medalist, Paris 2024 Olympian, currently with THY Istanbul (Turkey); amateur beach background (CEV U20 European champion 2015/2016) — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
