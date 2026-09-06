@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 240,
+    "entryCount": 242,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16607,6 +16607,151 @@
       "flags": [],
       "notes": "Netherlands women's national team captain and outside hitter — 2017 European silver medalist, Paris 2024 Olympian, currently with THY Istanbul (Turkey); amateur beach background (CEV U20 European champion 2015/2016) — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-241",
+      "displayName": "Louisa Lippmann",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 23, 1994 in Herford, Germany — age 31 (32 in Sept 2026) in 2026 — per Wikipedia (born 23 September 1994), the Wikimedia Commons structured record (Date of birth 23 September 1994, Herford), PlaySport structured record (birthDate 1994-09-23) and Listal (Age 31, born 23 September 1994).",
+        "sourceLabel": "Wikimedia Commons — Louisa Lippmann record (Date of birth 23 September 1994)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/Category:Louisa_Lippmann",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Germany women's national volleyball team career ('over 100 appearances for the Germany women's national volleyball team'); transitioned to beach and represented Germany at Paris 2024 (Wikipedia/Wikiwand).",
+        "sourceLabel": "Wikipedia — Louisa Lippmann (Germany women's NT, 100+ caps)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Louisa_Lippmann",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Louisa Lippmann (DOB 1994-09-23; Herford)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Louisa_Lippmann",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikimedia Commons — Louisa Lippmann category record (DOB 23 September 1994)",
+          "platform": "Website",
+          "url": "https://commons.wikimedia.org/wiki/Category:Louisa_Lippmann",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "PlaySport — Louisa Lippmann (birthDate 1994-09-23 structured)",
+          "platform": "Website",
+          "url": "https://playsport.com/athlete/louisa-lippmann",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Bundesliga MVP and 2017 German volleyball player of the year — 100+ caps for Germany, then moved to beach volleyball and competed at Paris 2024 with Laura Ludwig — objective athlete category; verified 31 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-242",
+      "displayName": "Camilla Weitzel",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 11, 2000 in Hamburg, Germany — age 26 in 2026 — per the OFFICIAL volleyballworld/FIVB player registry (Birth Date 11/06/2000 = 11 June 2000 DD/MM, Birth Place Hamburg), Wikipedia (born 11 June 2000), volleybox structured record (birthDate 2000-06-11) and the Wikimedia Commons record (Date of birth 11 June 2000).",
+        "sourceLabel": "Volleyball World/FIVB — official Camilla Weitzel registry (Birth Date 11/06/2000)",
+        "sourceUrl": "https://en.volleyballworld.com/en/volleyball/ioqt/2019/women-pool2/teams/ger-germany/players/camilla_weitzel?id=75148",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and Germany women's national volleyball team middle blocker career (volleyballworld official registry; Grokipedia).",
+        "sourceLabel": "volleybox — Camilla Weitzel (gender Female; Savino Del Bene Scandicci)",
+        "sourceUrl": "https://women.volleybox.net/camilla-weitzel-p23489",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World/FIVB — official Camilla Weitzel registry (Birth Date 11/06/2000)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/en/volleyball/ioqt/2019/women-pool2/teams/ger-germany/players/camilla_weitzel?id=75148",
+          "relationship": "official"
+        },
+        {
+          "label": "volleybox — Camilla Weitzel (birthDate 2000-06-11; gender Female; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/camilla-weitzel-p23489",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Camilla Weitzel (DOB 2000-06-11; Hamburg)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Camilla_Weitzel",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @camilla_weitzel (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/camilla_weitzel/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @camilla.weitzel (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/camilla.weitzel",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Germany women's national team middle blocker — Paris 2024 + European championships veteran; club career through Dresden, Chieri, Scandicci and (2026–) Eczacıbaşı — objective athlete category; verified 26 years old. IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@camilla_weitzel",
+          "profileUrl": "https://www.instagram.com/camilla_weitzel/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@camilla.weitzel",
+          "profileUrl": "https://www.facebook.com/camilla.weitzel",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
