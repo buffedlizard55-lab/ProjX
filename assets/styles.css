@@ -481,6 +481,37 @@ tr:last-child td {
   margin-bottom: 0.4rem;
 }
 
+.review-queue-list {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.review-queue-card {
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--warning);
+  border-radius: 16px;
+  background: #fff;
+  padding: 1rem;
+}
+
+.review-queue-card header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.review-queue-card p {
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.review-queue-card p.notes {
+  color: var(--muted, #555);
+  font-size: 0.9rem;
+}
+
 .site-footer {
   padding: 2rem 0 3rem;
   text-align: center;

@@ -24,6 +24,7 @@
         </a>
         <div class="nav-links">
           <a href="#catalog">Catalog</a>
+          <a href="#review-queue">Review queue</a>
           <a href="#eligibility">Eligibility</a>
           <a href="#verification">Verification</a>
           <a href="#docs">Docs &amp; data</a>
@@ -74,6 +75,10 @@
         <article class="stat-card">
           <span class="stat-label">Verified 18+</span>
           <strong id="stat-verified">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Review queue</span>
+          <strong id="stat-review-queue">0</strong>
         </article>
         <article class="stat-card">
           <span class="stat-label">Needs review</span>
@@ -139,29 +144,34 @@
             <tbody id="catalog-body"></tbody>
           </table>
           <div id="empty-state" class="empty-state">
-            <h3>No publishable records yet</h3>
+            <h3>No records match the current filters</h3>
             <p>
-              The table intentionally holds zero rows. Three bulk requests for roughly 1,000
-              women-focused social profiles (Instagram, TikTok, Facebook, Reddit and similar)
-              were made on 2026-09-06 and are logged as blocked irregularities
-              <strong>IRR-2026-09-06-002</strong>, <strong>IRR-2026-09-06-003</strong> and
-              <strong>IRR-2026-09-06-004</strong> (the latest a detailed women-only spec
-              with objective categories and line-by-line checks): at that scale the required
-              18+ verification, gender/identity confirmation from official sources, consent
-              or professional public-figure context, and the no-hallucination rule cannot be
-              truthfully satisfied autonomously, so every such candidate is blocked rather
-              than published. Per the spec’s own “quality over quantity” rule, zero verified
-              rows is the correct result when zero candidates can pass every check.
-            </p>
-            <p>
-              The framework is ready for the compliant path: a small, opt-in or
-              professionally listed directory of <em>adult women only</em> — working models,
-              athletes, creators, public personalities — where each woman is added
-              individually with official, openable evidence for gender, age (18+), identity,
-              and category, per the verification protocol and reviewable source links.
+              Every published row passed the full line-by-line verification protocol. If you
+              expected a row here, try clearing the search box or filters — or check the
+              <a href="#review-queue">review queue</a> for candidates whose verification is
+              still incomplete, and the
+              <a href="#irregularities">irregularities</a> list for logged issues.
             </p>
           </div>
         </div>
+      </section>
+
+      <section id="review-queue" class="panel" aria-labelledby="review-queue-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">REVIEW_REQUIRED</p>
+            <h2 id="review-queue-title">Review queue</h2>
+          </div>
+        </div>
+        <p>
+          Promising public creators discovered through activity-first research whose verification
+          is <strong>incomplete</strong> — one or more required facts (age 18+, gender, identity,
+          profile ownership) are not yet supported by legitimate public evidence. These candidates
+          are never guessed into the catalog and never silently discarded: each entry records the
+          evidence found so far, the exact missing field, and the reason for review. Open the
+          profile and source links to continue the manual review.
+        </p>
+        <div id="review-queue-list" class="review-queue-list"></div>
       </section>
 
       <section id="eligibility" class="panel" aria-labelledby="eligibility-title">

@@ -2,12 +2,14 @@ const state = {
   entries: [],
   filteredEntries: [],
   irregularities: [],
+  reviewQueue: [],
 };
 
 const elements = {
   total: document.querySelector('#stat-total'),
   verified: document.querySelector('#stat-verified'),
   review: document.querySelector('#stat-review'),
+  reviewQueue: document.querySelector('#stat-review-queue'),
   irregularities: document.querySelector('#stat-irregularities'),
   search: document.querySelector('#search'),
   statusFilter: document.querySelector('#status-filter'),
@@ -15,6 +17,7 @@ const elements = {
   catalogBody: document.querySelector('#catalog-body'),
   emptyState: document.querySelector('#empty-state'),
   irregularityList: document.querySelector('#irregularity-list'),
+  reviewQueueList: document.querySelector('#review-queue-list'),
   downloadJson: document.querySelector('#download-json'),
   downloadCsv: document.querySelector('#download-csv'),
 };
@@ -34,6 +37,7 @@ async function loadCatalog() {
     const catalog = await response.json();
     state.entries = Array.isArray(catalog.entries) ? catalog.entries : [];
     state.irregularities = Array.isArray(catalog.irregularities) ? catalog.irregularities : [];
+    state.reviewQueue = Array.isArray(catalog.reviewQueue) ? catalog.reviewQueue : [];
   } catch (error) {
     state.entries = [];
     state.irregularities = [
@@ -50,7 +54,42 @@ async function loadCatalog() {
   populateCategories();
   applyFilters();
   renderIrregularities();
+  renderReviewQueue();
   updateStats();
+}
+
+function renderReviewQueue() {
+  if (!elements.reviewQueueList) return;
+  elements.reviewQueueList.innerHTML = '';
+
+  if (!state.reviewQueue.length) {
+    elements.reviewQueueList.innerHTML = '<p>No candidates are currently awaiting review.</p>';
+    return;
+  }
+
+  state.reviewQueue.forEach((item) => {
+    const card = document.createElement('article');
+    card.className = 'review-queue-card';
+    const profileUrl = safeUrl(item.profileUrl);
+    const evidenceUrl = safeUrl(item.evidenceFound?.sourceUrl);
+    card.innerHTML = `
+      <header>
+        <div>
+          <strong>${escapeHtml(item.displayName || 'Unnamed candidate')}</strong>
+          ${item.handle ? `<small>${escapeHtml(item.handle)} · ${escapeHtml(item.platform || '')}</small>` : `<small>${escapeHtml(item.platform || '')}</small>`}
+        </div>
+        <span class="status-pill needs-review">REVIEW_REQUIRED</span>
+      </header>
+      <p><strong>Discovery category:</strong> ${escapeHtml(item.discoveryCategory || 'Unspecified')}</p>
+      ${profileUrl ? `<p><strong>Profile:</strong> <a class="chip" href="${escapeAttribute(profileUrl)}" rel="noopener noreferrer" target="_blank">${escapeHtml(item.profileUrl)}</a></p>` : ''}
+      ${item.evidenceFound?.summary ? `<p><strong>Evidence found:</strong> ${escapeHtml(item.evidenceFound.summary)}${evidenceUrl ? ` <a class="chip" href="${escapeAttribute(evidenceUrl)}" rel="noopener noreferrer" target="_blank">${escapeHtml(item.evidenceFound.sourceLabel || 'Source')}</a>` : ''}</p>` : ''}
+      <p><strong>Missing verification:</strong> ${renderChips(normalizeArray(item.missingEvidence), 'Unspecified')}</p>
+      ${normalizeArray(item.flags).length ? `<p><strong>Flags:</strong> ${renderChips(normalizeArray(item.flags))}</p>` : ''}
+      ${item.notes ? `<p class="notes">${escapeHtml(item.notes)}</p>` : ''}
+      <small>Last checked: ${escapeHtml(item.lastChecked || 'Unknown')}</small>
+    `;
+    elements.reviewQueueList.append(card);
+  });
 }
 
 function populateCategories() {
@@ -197,6 +236,9 @@ function updateStats() {
   elements.total.textContent = entries.length.toLocaleString();
   elements.verified.textContent = verified.toLocaleString();
   elements.review.textContent = needsReview.toLocaleString();
+  if (elements.reviewQueue) {
+    elements.reviewQueue.textContent = state.reviewQueue.length.toLocaleString();
+  }
   elements.irregularities.textContent = state.irregularities.length.toLocaleString();
 }
 
