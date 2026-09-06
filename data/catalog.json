@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 186,
+    "entryCount": 188,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -12928,6 +12928,151 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-187",
+      "displayName": "Shilese Jones",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 26, 2002 in Seattle, Washington — age 24 in 2026 — per nbcolympics.com official athlete bio ('was born July 26, 2002'), Wikipedia (born July 26, 2002), Kiddle replication and thecityceleb.",
+        "sourceLabel": "NBColympics — Shilese Jones athlete bio (born July 26, 2002)",
+        "sourceUrl": "https://www.nbcolympics.com/news/shilese-jones-meet-athlete",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's gymnastics career — team gold at 2022/2023 World Championships, 2022 World all-around silver (Wikipedia/nbcolympics).",
+        "sourceLabel": "Wikipedia — Shilese Jones (2x World team gold; 2022 AA silver)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Shilese_Jones",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "NBColympics — Shilese Jones athlete bio (DOB July 26, 2002)",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/shilese-jones-meet-athlete",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Shilese Jones (DOB 2002-07-26; career record)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Shilese_Jones",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TheCityCeleb — Shilese Jones biography (Born 26 July, 2002; profile)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/public-figure/sportsperson/shilese-jones-biography-age-net-worth-parents-boyfriend-career-height-siblings-instagram/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2x World Championship team gold medalist and 2022 World all-around silver medalist — objective athlete category. Note: famousbirthdays.com/people/shilese-jones.html displays 'over 110,000 followers on Instagram' but does not show the handle — count kept here in notes only (no account object), per the Manuel precedent. Follower range UNKNOWN on record.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-188",
+      "displayName": "Konnor McClain",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 1, 2005 in Las Vegas, Nevada — age 21 in 2026 — per USA Gymnastics OFFICIAL athlete profile (Birthdate: 2/1/2005), Wikipedia (born February 1, 2005), playerswiki (February 1, 2005) and thegymter.net.",
+        "sourceLabel": "USA Gymnastics — Konnor McClain official athlete profile (Birthdate 2/1/2005)",
+        "sourceUrl": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=446354",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's national gymnastics team membership — 2022 U.S. national champion (Wikipedia/USAG official 'Program: Women's Artistic').",
+        "sourceLabel": "USA Gymnastics — Konnor McClain official profile ('Program: Women's Artistic')",
+        "sourceUrl": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=446354",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USA Gymnastics — Konnor McClain official athlete profile (Birthdate 2/1/2005; self-registered socials)",
+          "platform": "Website",
+          "url": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=446354",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Konnor McClain (DOB 2005-02-01; 2022 US national champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Konnor_McClain",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TheGymter.net — Konnor McClain (Birthdate February 1, 2005)",
+          "platform": "Website",
+          "url": "https://thegymter.net/konnor-mcclain/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @_KonnorMcClain (live profile; 1,786 followers)",
+          "platform": "X",
+          "url": "https://x.com/_KonnorMcClain",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @konnormcclain_ (USAG official self-registered socials)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/konnormcclain_/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2022 US all-around national champion and LSU gymnast — objective athlete category; verified 21 years old. X account count from live profile display (1,786 on 2026-09-06); USAG official bio lists her X as '@Konnormcclain_' — case/underscore variant of the same account, noted. IG handle via USAG self-registration — count not captured.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@_KonnorMcClain",
+          "profileUrl": "https://x.com/_KonnorMcClain",
+          "followerCountDisplay": "1,786",
+          "followerCountNumeric": 1786,
+          "countType": "exact",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1K–4.9K",
+          "sourceNote": "Live X profile display on 2026-09-06 (1,786 followers; bio 'LSU Gymnastics ’27, 5x usa national team member'). USAG official bio registers the variant handle '@Konnormcclain_'."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@konnormcclain_",
+          "profileUrl": "https://www.instagram.com/konnormcclain_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via USAG official self-registered socials ('Instagram.com/Konnormcclain_'); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "X",
+        "username": "@_KonnorMcClain",
+        "display": "1,786",
+        "numeric": 1786,
+        "sizeRange": "1K–4.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1K–4.9K"
     }
   ],
   "reviewQueue": [
