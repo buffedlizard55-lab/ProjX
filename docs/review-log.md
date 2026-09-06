@@ -1339,3 +1339,58 @@ idempotently. Hallucination audit: 0 platform/host mismatches (socialAccounts an
 0 required-field gaps, split is a pure partition (681 + 162 = 843, no overlap, no loss), validator
 errors=0 for both `data/catalog.json` and `data/catalog-reference.json`. Schema updated to declare
 `catalogType` (enum social/reference).
+
+**Session 16 (2026-09-07, deep Wikidata sweep — volleyball/beach/NCAA/European leagues).**
+Goal: keep searching the focused categories until the structured source is honestly exhausted.
+Method: enumerate the full female volleyball population via graph relations rather than single
+birth-year bands — occupation Q15117302/Q17361156, sport Q1734/Q4543, and the Instagram/X
+follow-graphs around the beach scene (pool H/I) — then re-fetch every candidate item-by-item.
+Artifacts: `data/research/urls/s16_*.url` (exact SPARQL queries), `data/research/s16_det00..14`,
+`s16_ev0..5`, `s16_cls0..6` (raw harvest), `s16_master.tsv` (445 rows, collapsed per QID:
+qid|name|dob|ig|x|tt|countries|srcs|urls|wiki|teams|occs|sports|group) and
+`scripts/session16_parse.py`; builder `scripts/session16_build.py` + audit
+`data/research/s16_selected.tsv`.
+
+Outcome: **+341 verified entries W-2026-845..1185** (4 NCAA/US-college, 112 beach, 225
+European/international indoor; 311 Instagram/TikTok published records + 30 X-only reference
+profiles), **+46 REVIEW_REQUIRED (R-2026-098..143, all AGE_SOURCE_NOT_RECORDED** — a birth date
+exists in the structured record but no reference, reference URL or English-Wikipedia sitelink is
+attached, so it is not promoted and not guessed), 24 duplicate-QID skips (items already cited in
+the catalog — including Charlotte Flair W-2026-127 and Abby Hornacek W-2026-675, correctly kept
+single) and 34 duplicate-name/handle skips (name collisions are never merged by guesswork; the
+rows stay in `s16_master.tsv` for a future alias pass).
+
+Verification per row (line-by-line, no bulk acceptance): sex/gender Q6581072 female from the
+item itself; DOB with evidence tier per IRR-2026-09-07-020 (P854 reference URL > English-Wikipedia
+sitelink > named source only, flagged); volleyball/beach corroboration from P106/P641 statements;
+age recomputed to 2026-09-07 and none under 18 (youngest: Harper Murray 2005-02-24, 21); handles
+taken verbatim from P2003/P2002/P7085 with dedupe on normalized name + every handle
+(case-insensitive, including review-queue handles); category extensions only from occupation
+statements (Q4610556 model → Modeling, Q762121 personal trainer / Q15982795 bodybuilder → Fitness,
+dual beach+indoor statements → both sport tags). Manual-review links are embedded per entry
+(Wikidata item, cited reference URL / Wikipedia article, and each social profile URL).
+
+Irregularities & flags (IRR-2026-09-07-021; flags on the affected entries):
+- SUSPECT_HANDLE_VERIFY_FORMAT: Q98082815 (X "AMNOS13JN"), Q110272655 (X "izi7dsluwmz9len").
+- DOB_JAN1_POSSIBLE_YEAR_PRECISION: Q3339245, Q42904009, Q64784044, Q65162192.
+- NAME_ALIAS_IN_WIKIPEDIA: Q19577569 (label "Taylor Pischke", article "Taylor Wilson (volleyball)").
+- NON_ENGLISH_LABEL_SOURCE: Q9301467 (zh), Q109485566 (ru), Q134507911 (ja).
+- CONFLICTING_IG_STATEMENTS: Q2829153; COUNTRY_NOT_RECORDED on 4 items; AGE_EVIDENCE_NAMED_SOURCE_ONLY
+  where only a named source (no URL) backs the DOB.
+- Multi-sport/multi-career statements preserved in notes (Q2891336 pro wrestling, Q42904009 pesäpallo,
+  Q23020603 para canoeing, Q112988491 dual ITA/RUS citizenship, Q269766 triple citizenship, others).
+- Query-shape lessons recorded for future passes: any unbound term inside an outer CONCAT silently
+  drops the row (COALESCE everything); multi-language label OPTIONALs cross-multiply with
+  citizenship rows and blow past LIMIT (fetch one en label + country Q-IDs, collapse locally).
+- TikTok-only band resolved: the archived pool query was malformed (UNION group placed after the
+  FILTER clause — the earlier HTTP 500s masked a MalformedQueryException). The corrected query
+  (poolI_ttonly.url, lightest shape) returned exactly 3 QIDs — Q108771081, Q134029261, Q56250371 —
+  all already catalogued. No uncatalogued TikTok-only female volleyball player exists in Wikidata.
+
+Hallucination audit for this session: every promoted row was built mechanically from the archived
+raw responses (master TSV regenerated from files, not from memory); a random sample of 20 audit
+rows was re-checked against the raw files; dedupe guards re-run with `Q\d+` (catching short IDs);
+validator errors=0 on `data/catalog.json` and the re-derived `data/catalog-reference.json`
+(992 social + 192 reference = 1184). Follower counts: none publicly observed for this batch — all
+recorded FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN, never estimated, never summed.
+Also fixed: pre-existing `validate_catalog.py` crash on `largestPublicFollowing: null` (null guard).

@@ -1,0 +1,25 @@
+# s16_det12+det13 — collapsed unique rows (raw responses contained duplicate rows from
+# multi-language label x country cross-products; one row per unique QID preserved verbatim).
+# last field = sex/gender QID (Q6581072 = female). det13 rows carry country as Q-ID (Q30=United States, Q16=Canada, Q1037=Burundi).
+Q110272655|Lizaveta Bahayeva|2003-09-03||izi7dsluwmz9len||Belarus|Q6581072
+Q11796105|Odina Aliyeva|1990-05-22|odina_5_aliyeva|||Azerbaijan;Uzbekistan|Q6581072
+Q11817026|Pilar Marie Victoria|1995-10-11|pilarvictoria21|||United States|Q6581072
+Q129156808|Abby Hornacek|1994-04-25|abbyhornacek|abbyhornacek|abbyhornacek_|United States|Q6581072
+Q138018834|Romana Redondo Krišková|1993-05-02|romanakriskova|||Slovakia|Q6581072
+Q17265995|Kelsey Robinson|1992-06-25|krobin32|||United States|Q6581072
+Q17285056|Molly Kreklow|1992-02-17|mkreklowtaylor|||United States|Q6581072
+Q18812039|Micha Hancock|1992-11-10|michahancock|||United States|Q6581072
+Q19577569|Taylor Pischke|1993-04-18|taylor_pischke|taylorpischke||Canada|Q6581072
+Q19984711|Haley Eckerman|1992-11-10|haymama10|||United States|Q6581072
+Q24956528|Megan Courtney|1993-10-27|megcourt17|||United States|Q6581072
+Q26262233|Lindsay Dowd|1991-05-14|nodowdaboutit4|||United States|Q6581072
+Q3416056|Rachael Adams|1990-06-03|rachaeladams|RADAMSS||United States|Q6581072
+Q46998410|Emily Thater|1995-02-01|emilythater|emilythater||United States|Q6581072
+Q55217322|Chiaka Ogbogu|1995-04-15|chiaka11|ChiakaOgbogu||United States|Q6581072
+Q56044679|Krystal Rivers|1994-05-23|krysdenise|||United States|Q6581072
+Q58011215|Naya Crittenden|1995-06-15|nayacrittenden|||United States|Q6581072
+Q59209361|Haleigh Washington|1995-09-22|hales__storm|Hales__Yeah||United States|Q6581072
+Q61944285|Brittany Abercrombie|1995-12-28|brittanyabercrombie|||United States|Q6581072
+Q68193497|Karis Watson|1992-12-30|karisw8|||United States|Q6581072
+Q71718453|Charlotte Sider|1992-08-31|charlottesider|cjsider||Canada|Q6581072
+Q99522833|Denyse Mutatsimpundu|1993-05-27|denysemutatsimpundu2|||Burundi|Q6581072

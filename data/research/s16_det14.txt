@@ -1,0 +1,11 @@
+# s16_det14 — collapsed unique rows (raw response had duplicate rows from multi-language
+# label fallback; unique row per QID preserved). Last field = sex/gender QID (Q6581072 = female).
+Q107406911|Ana Cristina de Souza|2004-04-07|ana.cristina.desouza|||Brazil|Q6581072
+Q108147302|Martyna Czyrniańska|2003-10-13|martynaczyrnianskaa|||Poland|Q6581072
+Q112988491|Ekaterina Antropova|2003-03-19|e.antropova17|||Italy;Russia|Q6581072
+Q131481469|Lexi Rodriguez|2003-03-11|lexi.rodriguez__|||United States|Q6581072
+Q134742426|Merritt Beason|2003-04-16|merbson|merbson|merbson|United States|Q6581072
+Q137995531|Harper Murray|2005-02-24|harpermurrayy|||United States|Q6581072
+Q58133729|Janisa Johnson|1991-09-22|janisa.johnson|||United States|Q6581072
+Q87256477|Cassidy Baird|1995-10-14|cassie_baird2|||United States|Q6581072
+Q99387328|Alexia Căruțașu|2003-06-10|alexiaioanacarutasu|||Romania|Q6581072
