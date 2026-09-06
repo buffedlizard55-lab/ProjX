@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 228,
+    "entryCount": 230,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15767,6 +15767,153 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "2.03m opposite for the Poland women's national team — Paris 2024 Olympian; Turkish league champion back-to-back with Fenerbahçe (2023-24) and Eczacıbaşı — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-229",
+      "displayName": "Melissa Vargas",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 16, 1999 in Cienfuegos, Cuba — age 26 in 2026 — per Wikipedia (born 16 October 1999), volleybox structured record (birthDate 1999-10-16), Türkiye Today (born Melissa Teresa Vargas Abreu on Oct. 16, 1999, in Cienfuegos) and the 2014-ready biography replications.",
+        "sourceLabel": "Wikipedia — Melissa Vargas (born 16 October 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Melissa_Vargas",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and Turkey women's national volleyball team / Cuban-born career — Fenerbahçe opposite; 2023 VNL and European champion with Turkey (Türkiye Today/Wikipedia).",
+        "sourceLabel": "volleybox — Melissa Vargas (gender Female; Fenerbahçe)",
+        "sourceUrl": "https://women.volleybox.net/melissa-vargas-p1385",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Melissa Vargas (DOB 1999-10-16; Fenerbahçe)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Melissa_Vargas",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "volleybox — Melissa Vargas (birthDate 1999-10-16; gender Female; sameAs IG/YT)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/melissa-vargas-p1385",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Türkiye Today — Melissa Vargas profile (born Oct. 16, 1999, Cienfuegos)",
+          "platform": "Website",
+          "url": "https://www.turkiyetoday.com/sports/everything-about-turkish-womens-volleyball-teams-cuban-gem-melissa-vargas-39650",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @abreusmelisavargas (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://instagram.com/abreusmelisavargas",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "YouTube — @melisaabreus2040 (volleybox structured sameAs)",
+          "platform": "YouTube",
+          "url": "https://youtube.com/@melisaabreus2040",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Cuban-born Turkish national team star (Turkish citizen from 2021) — 2023 VNL and CEV European champion; Fenerbahçe's explosive opposite ('Vargas Airlines') — objective athlete category; verified 26 years old. Handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@abreusmelisavargas",
+          "profileUrl": "https://instagram.com/abreusmelisavargas",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@melisaabreus2040",
+          "profileUrl": "https://youtube.com/@melisaabreus2040",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-230",
+      "displayName": "Ebrar Karakurt",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 17, 2000 in Balıkesir, Turkey — age 26 in 2026 — per Wikipedia (born 17 January 2000), Küre Encyclopedia structured record (Doğum tarihi 2000-01-17), CEV transfer article ('Born in 2000') and Kiddle (born January 17, 2000). NOTE: Küre's own prose body says '1999' — a self-contradictory outlier vs its structured field, Wikipedia and CEV; majority+structured value recorded.",
+        "sourceLabel": "Wikipedia — Ebrar Karakurt (born 17 January 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ebrar_Karakurt",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career ('plays for Eczacıbaşı Dynavit and Turkey women's national volleyball team'; CEV 'Turkish SuperStar... Turkish National Team').",
+        "sourceLabel": "Wikipedia — Ebrar Karakurt (Turkey women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ebrar_Karakurt",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Ebrar Karakurt (DOB 2000-01-17; Eczacıbaşı)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ebrar_Karakurt",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CEV — official transfer article (Born in 2000; Eczacıbaşı signing)",
+          "platform": "Website",
+          "url": "https://www.cev.eu/articles/club-volleyball/yes-i-m-here-turkish-superstar-ebrar-karakurt-joins-eczacibasi-istanbul/",
+          "relationship": "official"
+        },
+        {
+          "label": "Küre Encyclopedia — Ebrar Karakurt (structured Doğum tarihi 2000-01-17)",
+          "platform": "Website",
+          "url": "https://kureansiklopedi.com/en/detay/ebrar-karakurt-b94b3",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "MINOR_SOURCE_CONFLICT_NOTED"
+      ],
+      "notes": "Turkey's high-voltage opposite ('The Black Wolf') — CEV Champions League winner with VakıfBank (2018) and star for Eczacıbaşı, ex-Novara/Lokomotiv; Tokyo 2020 Olympian — objective athlete category; verified 26 years old. Minor single-source year conflict (one bio site's body text says 1999 vs its own structured 2000) noted here; majority recorded. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
