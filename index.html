@@ -13,14 +13,17 @@
   <body data-view="catalog">
     <a class="skip-link" href="#catalog-table">Skip to catalog table</a>
 
-    <div class="site-banner" role="region" aria-label="Instagram and TikTok profile directory">
+        <div class="site-banner" role="region" aria-label="Instagram and TikTok profile directory">
       <div class="site-banner-inner">
         <p>
           <strong>Instagram / TikTok profile directory</strong>
           Every Catalog Published record with a documented Instagram or TikTok account —
           same columns as this table, one subpage each.
+          <br><strong>Known follower counts</strong> live in <a href="directory/">directory/</a> (publicly observed counts only).
+          Profiles with <strong>FOLLOWER_COUNT_UNKNOWN</strong> have been moved to <a href="directory-unknown/">directory-unknown/</a> per user request to fix UNKNOWN display.
         </p>
-        <a class="button banner-cta" href="directory/">Open Instagram / TikTok directory</a>
+        <a class="button banner-cta" href="directory/">Open Known directory</a>
+        <a class="button banner-cta" href="directory-unknown/" style="margin-left:8px;">Open Unknown directory</a>
       </div>
     </div>
 
@@ -35,7 +38,8 @@
         </a>
         <div class="nav-links">
           <a href="#catalog">Catalog</a>
-          <a class="nav-cta" href="directory/">Instagram / TikTok directory</a>
+          <a class="nav-cta" href="directory/">Known directory</a>
+          <a class="nav-cta" href="directory-unknown/">Unknown directory</a>
           <a href="reference.html">Reference profiles</a>
           <a href="#follower-stats">Follower sizes</a>
           <a href="#review-queue">Review queue</a>
@@ -61,7 +65,8 @@
             Athlete, Fashion, Lifestyle, Creator…), never attractiveness rankings.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="directory/">Instagram / TikTok directory</a>
+            <a class="button primary" href="directory/">Known directory</a>
+            <a class="button primary" href="directory-unknown/" style="margin-left:8px;">Unknown directory</a>
             <a class="button secondary" href="#catalog">Catalog published records</a>
             <a class="button secondary" href="docs/review-log.md">Open review log</a>
           </div>
@@ -180,9 +185,9 @@
           This page lists only profiles with a documented <strong>Instagram or TikTok</strong> account.
           Follower counts are point-in-time observations from public profiles or reputable analytics
           snapshots — never estimated. Combine filters freely (e.g. Fitness + Instagram + 10K–24.9K).
-          Creators without an observed count appear under “Unknown / not observed.” Each name opens
-          that record’s
-          <a href="directory/"><strong>profile directory</strong></a> subpage. Verified people
+          Creators without an observed count appear under “Unknown / not observed” and now live in
+          <a href="directory-unknown/"><strong>directory-unknown/</strong></a> per user request. Each name opens
+          that record’s profile subpage (known in <a href="directory/">directory/</a>, unknown in <a href="directory-unknown/">directory-unknown/</a>). Verified people
           documented via Wikipedia, personal websites, X, YouTube, Facebook, or press (no Instagram
           or TikTok) live on the
           <a href="reference.html"><strong>Reference profiles</strong></a> page.

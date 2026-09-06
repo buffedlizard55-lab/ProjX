@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="ProjX Instagram and TikTok profile directory: every published catalog record with a documented Instagram or TikTok account, listed with the same columns as Catalog Published records."
+      content="ProjX Instagram and TikTok profile directory — known follower counts only: every published catalog record with a documented Instagram or TikTok account and a publicly observed follower count."
     />
-    <title>ProjX — Instagram / TikTok directory</title>
+    <title>ProjX — Instagram / TikTok directory (Known followers)</title>
     <link rel="stylesheet" href="../assets/styles.css" />
   </head>
   <body data-view="directory" data-base="../">
@@ -24,7 +24,8 @@
         </a>
         <div class="nav-links">
           <a href="../index.html">Catalog</a>
-          <a class="nav-cta" href="./">Instagram / TikTok directory</a>
+          <a class="nav-cta" href="./">Known directory</a>
+          <a href="../directory-unknown/">Unknown directory</a>
           <a href="../reference.html">Reference profiles</a>
           <a href="#catalog">A–Z list</a>
           <a href="../docs/review-log.md">Review log</a>
@@ -34,11 +35,14 @@
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-copy">
           <p class="eyebrow">Women only • 18+ with official evidence • Instagram &amp; TikTok</p>
-          <h1 id="page-title">Profile directory — every published Instagram and TikTok record.</h1>
+          <h1 id="page-title">Profile directory — Instagram and TikTok records with known follower counts.</h1>
           <p>
-            This subpage is the same set as
+            This subpage is the <strong>known-follower</strong> slice of
             <a href="../index.html"><strong>Catalog Published records</strong></a>:
-            verified adult (18+) women with a documented Instagram or TikTok profile.
+            verified adult (18+) women with a documented Instagram or TikTok profile
+            <strong>and a publicly observed follower count</strong>.
+            Profiles where no public count could be observed have been moved to
+            <a href="../directory-unknown/"><strong>Unknown follower count</strong></a> per user request.
             The table uses the same columns and filters (name, category, followers, age
             evidence, official links, status). Each name opens that record’s own subpage.
             Reference-only people (Wikipedia, websites, X, YouTube, Facebook — no Instagram
@@ -46,17 +50,19 @@
             <a href="../reference.html">Reference profiles</a>.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#catalog">Browse directory</a>
+            <a class="button primary" href="#catalog">Browse known directory</a>
+            <a class="button secondary" href="../directory-unknown/">Unknown follower counts</a>
             <a class="button secondary" href="../index.html">Catalog published records</a>
           </div>
         </div>
         <aside class="policy-card" aria-labelledby="policy-title">
           <h2 id="policy-title">What this directory contains</h2>
           <ul>
-            <li>Only catalogType=social rows — a documented Instagram or TikTok account.</li>
+            <li>Only catalogType=social rows WITH a publicly observed follower count (numeric).</li>
+            <li>Profiles with FOLLOWER_COUNT_UNKNOWN are now in <a href="../directory-unknown/">directory-unknown/</a>.</li>
             <li>Same organization as Catalog Published records: filters, follower ranges, official links.</li>
             <li>One static subpage per record (W-2026-…) with the stored evidence, never invented fields.</li>
-            <li>Follower counts are public observations or FOLLOWER_COUNT_UNKNOWN — never estimated.</li>
+            <li>Follower counts are public observations — never estimated; unknown bucket removed from this view.</li>
             <li>A–Z jump filters by the first letter of the display name.</li>
           </ul>
         </aside>
@@ -208,7 +214,7 @@
     <footer class="site-footer">
       <p>
         Static GitHub Pages app. Directory data lives in
-        <a href="../data/catalog-social.json">data/catalog-social.json</a>, derived from
+        <a href="../data/catalog-social-known.json">data/catalog-social-known.json</a>, derived from
         <a href="../data/catalog.json">data/catalog.json</a>. Rebuild with
         <code>python3 scripts/build_directory.py</code>.
       </p>

@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="ProjX Instagram and TikTok profile directory — unknown follower counts: every published catalog record with a documented Instagram or TikTok account but no publicly observed follower count."
+    />
+    <title>ProjX — Instagram / TikTok directory (Unknown followers)</title>
+    <link rel="stylesheet" href="../assets/styles.css" />
+  </head>
+  <body data-view="unknown" data-base="../">
+    <a class="skip-link" href="#catalog-table">Skip to directory table</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="../" aria-label="ProjX home">
+          <span class="brand-mark" aria-hidden="true">PX</span>
+          <span>
+            <strong>ProjX</strong>
+            <small>Verified Directory</small>
+          </span>
+        </a>
+        <div class="nav-links">
+          <a href="../index.html">Catalog</a>
+          <a href="../directory/">Known directory</a>
+          <a class="nav-cta" href="./">Unknown directory</a>
+          <a href="../reference.html">Reference profiles</a>
+          <a href="#catalog">A–Z list</a>
+          <a href="../docs/review-log.md">Review log</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Women only • 18+ with official evidence • Instagram &amp; TikTok</p>
+          <h1 id="page-title">Profile directory — Instagram and TikTok records with unknown follower counts.</h1>
+          <p>
+            This subpage is the <strong>unknown-follower</strong> slice of
+            <a href="../index.html"><strong>Catalog Published records</strong></a>:
+            verified adult (18+) women with a documented Instagram or TikTok profile
+            <strong>but no publicly observed follower count</strong> (FOLLOWER_COUNT_UNKNOWN).
+            These were moved out of the main <a href="../directory/"><strong>Known directory</strong></a>
+            per user request to fix UNKNOWN display. Each name opens that record’s own subpage.
+            Reference-only people (Wikipedia, websites, X, YouTube, Facebook — no Instagram
+            or TikTok) stay on
+            <a href="../reference.html">Reference profiles</a>.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#catalog">Browse unknown directory</a>
+            <a class="button secondary" href="../directory/">Known follower counts</a>
+            <a class="button secondary" href="../index.html">Catalog published records</a>
+          </div>
+        </div>
+        <aside class="policy-card" aria-labelledby="policy-title">
+          <h2 id="policy-title">What this directory contains</h2>
+          <ul>
+            <li>Only catalogType=social rows WITH FOLLOWER_COUNT_UNKNOWN (no public count observed).</li>
+            <li>These are retained for completeness but separated from the main known directory per user request.</li>
+            <li>Same organization as Catalog Published records: filters, official links, A–Z jump.</li>
+            <li>One static subpage per record (W-2026-…) with the stored evidence, never invented fields.</li>
+            <li>Follower counts are FOLLOWER_COUNT_UNKNOWN — never estimated; known counts live in directory/.</li>
+          </ul>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="stats-grid" aria-label="Directory statistics">
+        <article class="stat-card">
+          <span class="stat-label">Directory profiles</span>
+          <strong id="stat-total">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Verified 18+</span>
+          <strong id="stat-verified">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Needs review</span>
+          <strong id="stat-review">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Under 10K followers</span>
+          <strong id="stat-under-10k">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">10K–249.9K</span>
+          <strong id="stat-mid-followers">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">1M+ largest following</span>
+          <strong id="stat-mega-followers">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Follower count unknown</span>
+          <strong id="stat-unknown-followers">0</strong>
+        </article>
+      </section>
+
+      <section id="catalog" class="panel" aria-labelledby="catalog-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Profile directory</p>
+            <h2 id="catalog-title">Published Instagram &amp; TikTok records</h2>
+          </div>
+          <div class="toolbar" role="group" aria-label="Export actions">
+            <button id="download-json" class="button secondary" type="button">Download JSON</button>
+            <button id="download-csv" class="button secondary" type="button">Download CSV</button>
+          </div>
+        </div>
+
+        <form class="filters filters-expanded" aria-label="Directory filters">
+          <label>
+            <span>Search</span>
+            <input id="search" type="search" placeholder="Name, category, platform, source..." autocomplete="off" />
+          </label>
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="all">All statuses</option>
+              <option value="verified">Verified</option>
+              <option value="needs-review">Needs review</option>
+              <option value="blocked">Blocked</option>
+            </select>
+          </label>
+          <label>
+            <span>Category</span>
+            <select id="category-filter">
+              <option value="all">All categories</option>
+            </select>
+          </label>
+          <label>
+            <span>Platform</span>
+            <select id="platform-filter">
+              <option value="all">All platforms</option>
+            </select>
+          </label>
+          <label>
+            <span>Follower range</span>
+            <select id="follower-filter">
+              <option value="all">All sizes</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort-filter">
+              <option value="name-asc">Name A → Z</option>
+              <option value="recent">Recently verified</option>
+              <option value="followers-asc">Followers: Low → High</option>
+              <option value="followers-desc">Followers: High → Low</option>
+            </select>
+          </label>
+        </form>
+
+        <p class="filter-hint">
+          Jump by first letter of the display name, or combine search, category, platform, follower
+          range, and status — the same controls as Catalog Published records. Click a name to open
+          that profile’s subpage.
+        </p>
+
+        <nav class="letter-nav" id="letter-nav" aria-label="Jump by name letter"></nav>
+
+        <div class="table-wrap">
+          <table id="catalog-table">
+            <caption>
+              Instagram and TikTok directory rows that passed consent or professional-context, age,
+              authenticity, and source verification. Each name links to that record’s subpage.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Category</th>
+                <th scope="col">Followers</th>
+                <th scope="col">Age evidence</th>
+                <th scope="col">Official links</th>
+                <th scope="col">Status</th>
+                <th scope="col">Last reviewed</th>
+                <th scope="col">Flags</th>
+              </tr>
+            </thead>
+            <tbody id="catalog-body"></tbody>
+          </table>
+          <div id="empty-state" class="empty-state">
+            <h3>No records match the current filters</h3>
+            <p>
+              Try clearing the A–Z jump, search box, or filters. This directory only lists
+              Instagram/TikTok published records — Wikipedia/website-only people are on
+              <a href="../reference.html">Reference profiles</a>.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="follower-stats" class="panel" aria-labelledby="follower-stats-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Creator size</p>
+            <h2 id="follower-stats-title">Follower distribution</h2>
+          </div>
+        </div>
+        <p>
+          Distribution uses each creator’s <strong>largest single-platform</strong> publicly observed
+          following (never a sum across platforms). Unknown means no public count was observed —
+          not zero followers.
+        </p>
+        <div id="follower-distribution" class="follower-distribution" aria-label="Follower size distribution"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Static GitHub Pages app. Directory data lives in
+        <a href="../data/catalog-social-unknown.json">data/catalog-social-unknown.json</a>, derived from
+        <a href="../data/catalog.json">data/catalog.json</a>. Rebuild with
+        <code>python3 scripts/build_directory.py</code>.
+      </p>
+    </footer>
+
+    <script src="../assets/catalog.js" defer></script>
+  </body>
+</html>

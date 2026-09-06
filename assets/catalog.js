@@ -54,7 +54,10 @@ const BASE = document.body.dataset.base || '';
 const CATALOG_URLS = {
   catalog: 'data/catalog.json',
   reference: 'data/catalog-reference.json',
-  directory: 'data/catalog-social.json',
+  directory: 'data/catalog-social-known.json',
+  'directory-all': 'data/catalog-social.json',
+  known: 'data/catalog-social-known.json',
+  unknown: 'data/catalog-social-unknown.json',
 };
 
 const state = {
@@ -118,8 +121,14 @@ async function loadCatalog() {
     state.irregularities = Array.isArray(catalog.irregularities) ? catalog.irregularities : [];
     state.reviewQueue = Array.isArray(catalog.reviewQueue) ? catalog.reviewQueue : [];
 
-    if (state.view === 'catalog' || state.view === 'directory') {
-      // Primary published records / profile directory = Instagram or TikTok.
+    if (state.view === 'catalog') {
+      // Primary published records = Instagram or TikTok.
+      state.entries = state.entries.filter((entry) => entry.catalogType === 'social');
+    }
+    if (state.view === 'directory' || state.view === 'known') {
+      state.entries = state.entries.filter((entry) => entry.catalogType === 'social');
+    }
+    if (state.view === 'unknown') {
       state.entries = state.entries.filter((entry) => entry.catalogType === 'social');
     }
   } catch (error) {
@@ -354,8 +363,14 @@ function firstLetter(name) {
 
 function profilePageHref(entry) {
   if (!entry?.id) return '';
-  if (state.view === 'directory') return `${entry.id}.html`;
-  if (state.view === 'catalog') return `directory/${entry.id}.html`;
+  if (state.view === 'directory' || state.view === 'known') return `${entry.id}.html`;
+  if (state.view === 'unknown') return `${entry.id}.html`;
+  if (state.view === 'catalog') {
+    // Catalog may contain both known and unknown; decide directory based on follower presence
+    const hasKnown = entry.largestPublicFollowing?.numeric != null ||
+      (entry.socialAccounts || []).some(a => typeof a.followerCountNumeric === 'number');
+    return hasKnown ? `directory/${entry.id}.html` : `directory-unknown/${entry.id}.html`;
+  }
   return '';
 }
 
