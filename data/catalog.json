@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 172,
+    "entryCount": 176,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -11958,6 +11958,308 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-173",
+      "displayName": "Alexa Bliss",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 9, 1991 in Columbus, Ohio — age 35 in 2026 — per thesmackdownhotel ('was born in Columbus, Ohio on August 9, 1991'), officialwwe.fandom (Born August 9, 1991), dailywikibio (Date of Birth August 9, 1991) and leaderbiography (Date of Birth August 9, 1991).",
+        "sourceLabel": "TheSmackDownHotel — Alexa Bliss profile (born August 9, 1991)",
+        "sourceUrl": "https://www.thesmackdownhotel.com/wrestlers/alexa-bliss",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via thesmackdownhotel profile field ('Gender Female') and WWE women's championship career — multiple Raw/SmackDown women's titles, Grand Slam Champion (leaderbiography/officialwwe.fandom).",
+        "sourceLabel": "TheSmackDownHotel — Alexa Bliss ('Gender Female' profile field; title history)",
+        "sourceUrl": "https://www.thesmackdownhotel.com/wrestlers/alexa-bliss",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheSmackDownHotel — Alexa Bliss (DOB 1991-08-09; Gender Female; real name Alexis Cabrera née Kaufman)",
+          "platform": "Website",
+          "url": "https://www.thesmackdownhotel.com/wrestlers/alexa-bliss",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "LeaderBiography — Alexa Bliss bio (DOB August 9, 1991; IG/X handles)",
+          "platform": "Website",
+          "url": "https://leaderbiography.com/alexa-bliss/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "DailyWikiBio — Alexa Bliss (DOB August 9, 1991; career history)",
+          "platform": "Website",
+          "url": "https://dailywikibio.com/sports/alexa-bliss-biography/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @alexa_bliss_wwe_ (leaderbiography socials table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/alexa_bliss_wwe_/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @AlexaBliss_WWE (leaderbiography socials table)",
+          "platform": "X",
+          "url": "https://x.com/AlexaBliss_WWE",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Multi-time WWE women's champion and first Grand Slam women's champion era ('Five Feet of Fury') — objective athlete category. Handles via leaderbiography socials table; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@alexa_bliss_wwe_",
+          "profileUrl": "https://www.instagram.com/alexa_bliss_wwe_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via leaderbiography.com socials table; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@AlexaBliss_WWE",
+          "profileUrl": "https://x.com/AlexaBliss_WWE",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via leaderbiography.com socials table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-174",
+      "displayName": "Asuka",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 26, 1981 in Osaka, Japan — age 44 in 2026 — per thesmackdownhotel (born September 26, 1981), wrestlingprofiles JSON-LD birthDate 1981-09-26, IMDb (born September 26, 1981) and theefed replication.",
+        "sourceLabel": "TheSmackDownHotel — Asuka profile (born September 26, 1981)",
+        "sourceUrl": "https://www.thesmackdownhotel.com/wrestlers/asuka",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via thesmackdownhotel and wrestlingprofiles structured data ('Gender Female'; JSON-LD 'gender: Female') and WWE women's championship career — women's Triple Crown and Grand Slam Champion.",
+        "sourceLabel": "WrestlingProfiles — Asuka ('gender: Female' JSON-LD; WWE women's titles)",
+        "sourceUrl": "https://wrestlingprofiles.com/wrestler/asuka/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheSmackDownHotel — Asuka (DOB 1981-09-26; Gender Female; real name Kanako Urai)",
+          "platform": "Website",
+          "url": "https://www.thesmackdownhotel.com/wrestlers/asuka",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WrestlingProfiles — Asuka (birthDate 1981-09-26; gender Female JSON-LD)",
+          "platform": "Website",
+          "url": "https://wrestlingprofiles.com/wrestler/asuka/",
+          "relationship": "gender-evidence"
+        },
+        {
+          "label": "IMDb — Kanako Urai (born September 26, 1981)",
+          "platform": "Website",
+          "url": "https://www.imdb.com/name/nm7542723/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "'The Empress of Tomorrow' — WWE women's Triple Crown + Grand Slam winner, Stardom legend — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-175",
+      "displayName": "Nia Jax",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 29, 1984 in Sydney, Australia — age 42 in 2026 — per thesmackdownhotel (born May 29, 1984), wrestlingprofiles JSON-LD birthDate 1984-05-29, Wikipedia (born May 29, 1984) and prowrestling.fandom replication.",
+        "sourceLabel": "TheSmackDownHotel — Nia Jax profile (born May 29, 1984)",
+        "sourceUrl": "https://www.thesmackdownhotel.com/wrestlers/nia-jax",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via thesmackdownhotel and wrestlingprofiles structured data ('Gender Female'; JSON-LD 'gender: Female') plus WWE women's championship career — former Raw Women's Champion, 2x WWE Women's Champion 'two-time WWE Women's Champion' (Wikipedia).",
+        "sourceLabel": "WrestlingProfiles — Nia Jax ('gender: Female' JSON-LD; women's title record)",
+        "sourceUrl": "https://wrestlingprofiles.com/wrestler/nia-jax/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheSmackDownHotel — Nia Jax (DOB 1984-05-29; Gender Female; real name Savelina Fanene)",
+          "platform": "Website",
+          "url": "https://www.thesmackdownhotel.com/wrestlers/nia-jax",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WrestlingProfiles — Nia Jax (birthDate 1984-05-29; gender Female JSON-LD)",
+          "platform": "Website",
+          "url": "https://wrestlingprofiles.com/wrestler/nia-jax/",
+          "relationship": "gender-evidence"
+        },
+        {
+          "label": "Wikipedia — Nia Jax (DOB 1984-05-29; 2x WWE Women's Champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Nia_Jax",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @linafanene (sportskeeda photo credit @linafanene/IG)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/linafanene/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time WWE Women's Champion and Queen of the Ring ('The Irresistible Force'); Dwayne Johnson's second cousin once removed — objective athlete category. IG handle via sportskeeda photo credit; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@linafanene",
+          "profileUrl": "https://www.instagram.com/linafanene/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via sportskeeda photo credit @linafanene/IG; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-176",
+      "displayName": "Iyo Sky",
+      "categories": [
+        "Athlete",
+        "Wrestling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 8, 1990 in Kamakura, Kanagawa, Japan — age 36 in 2026 — per wrestlingprofiles JSON-LD birthDate 1990-05-08, sportskeeda (Date of Birth May 8, 1990), trendland (May 8, 1990) and mabumbe replication. Her official X account structured data shows 'Born May 8'.",
+        "sourceLabel": "WrestlingProfiles — Iyo Sky (birthDate 1990-05-08)",
+        "sourceUrl": "https://wrestlingprofiles.com/wrestler/iyo-sky/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via wrestlingprofiles structured data ('gender: Female' JSON-LD) and WWE women's championship career — NXT Women's Champion, WWE Women's Championship win at SummerSlam 2023, 2026 Queen of the Ring (wrestlingprofiles career summary).",
+        "sourceLabel": "WrestlingProfiles — Iyo Sky ('gender: Female' JSON-LD; career summary)",
+        "sourceUrl": "https://wrestlingprofiles.com/wrestler/iyo-sky/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "WrestlingProfiles — Iyo Sky (birthDate 1990-05-08; gender Female JSON-LD)",
+          "platform": "Website",
+          "url": "https://wrestlingprofiles.com/wrestler/iyo-sky/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Sportskeeda — Iyo Sky player page (DOB May 8, 1990; Damage CTRL bio)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/player/io-shirai",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "X — @Iyo_SkyWWE (official account, 'ONLY Official account'; born May 8; 460.2K followers)",
+          "platform": "X",
+          "url": "https://x.com/Iyo_SkyWWE",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @iyo_sky (linked from her official X bio)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/iyo_sky/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "WWE Women's Champion and 2026 Queen of the Ring ('The Genius of the Sky'; real name Masami Ōdate) — objective athlete category. X account count is the platform's own structured figure (460,243 FollowAction count, displayed 460.2K) recorded live; IG handle cross-referenced from her official X bio — count UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@Iyo_SkyWWE",
+          "profileUrl": "https://x.com/Iyo_SkyWWE",
+          "followerCountDisplay": "460.2K",
+          "followerCountNumeric": 460243,
+          "countType": "estimated",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "Live X structured data on official account: 460,243 FollowAction count displayed as 460.2K on 2026-09-06 (x.com JSON-LD)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@iyo_sky",
+          "profileUrl": "https://www.instagram.com/iyo_sky/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle cross-referenced from her official X account bio link; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "X",
+        "username": "@Iyo_SkyWWE",
+        "display": "460.2K",
+        "numeric": 460243,
+        "sizeRange": "250K–499.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "250K–499.9K"
     }
   ],
   "reviewQueue": [
