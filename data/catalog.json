@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 138,
+    "entryCount": 146,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -9890,6 +9890,483 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-139",
+      "displayName": "Lynn Biyendolo (née Williams)",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 21, 1993 in Fresno, California — age 33 in 2026 — per marriedbiography structured record (JSON-LD birthDate 1993-05-21), Wikipedia (born May 21, 1993 under both Lynn Williams and Lynn Biyendolo pages) and Gotham FC official bio (DATE OF BIRTH: May 21, 1993).",
+        "sourceLabel": "Married Biography — Lynn Williams (birthDate 1993-05-21)",
+        "sourceUrl": "https://marriedbiography.com/lynn-williams-biography/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via marriedbiography structured data (JSON-LD 'gender: https://schema.org/Female') and USWNT/NWSL women's forward career — NWSL all-time leading scorer (Wikipedia/Gotham FC).",
+        "sourceLabel": "Married Biography — Lynn Williams structured record (gender schema.org/Female)",
+        "sourceUrl": "https://marriedbiography.com/lynn-williams-biography/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Married Biography — Lynn Williams (birthDate/gender Female JSON-LD; sameAs IG/X handles)",
+          "platform": "Website",
+          "url": "https://marriedbiography.com/lynn-williams-biography/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Lynn Biyendolo (DOB 1993-05-21; NWSL all-time leading scorer)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lynn_Biyendolo",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Gotham FC — Lynn Williams official player page (DOB May 21, 1993)",
+          "platform": "Website",
+          "url": "https://www.gothamfc.com/10-williams",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @lynnwilliams9 (marriedbiography structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/lynnwilliams9/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @lynnraenie (marriedbiography structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/lynnraenie",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "NWSL all-time leading scorer and USWNT forward — objective athlete category. Married name Biyendolo per Wikipedia redirect (birth name Lynn Raenie Williams). Handles via marriedbiography structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@lynnwilliams9",
+          "profileUrl": "https://www.instagram.com/lynnwilliams9/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via marriedbiography.com structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@lynnraenie",
+          "profileUrl": "https://x.com/lynnraenie",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via marriedbiography.com structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-140",
+      "displayName": "Catarina Macario",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 4, 1999 in São Luís, Brazil — age 26 in 2026 — per Wikipedia (born October 4, 1999), US Soccer official player profile (Date of Birth Oct 04 1999) and San Diego Wave FC official signing release ('Macario, 26 ... Date of Birth: Oct. 4, 1999'). ESPN structured birthDate 10/4/1999 matches.",
+        "sourceLabel": "US Soccer — Catarina Macario official profile (DOB Oct 04 1999)",
+        "sourceUrl": "https://www.ussoccer.com/players/m/catarina-macario",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team and Chelsea FC Women / San Diego Wave FC career (US Soccer official profile; San Diego Wave acquisition release).",
+        "sourceLabel": "US Soccer — Catarina Macario official profile (USWNT)",
+        "sourceUrl": "https://www.ussoccer.com/players/m/catarina-macario",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Catarina Macario official player profile (DOB Oct 4 1999)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/m/catarina-macario",
+          "relationship": "official"
+        },
+        {
+          "label": "San Diego Wave FC — Macario signing release (Age 26; DOB Oct. 4, 1999)",
+          "platform": "Website",
+          "url": "https://sandiegowavefc.com/catarina-macario-signing-release/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Catarina Macario (DOB 1999-10-04)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Catarina_Macario",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USWNT forward, 2021 Mac Hermann Trophy winner and Stanford alum — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-141",
+      "displayName": "Ashley Sanchez",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 16, 1999 in Pasadena, California — age 27 in 2026 — per US Soccer official profile (Date of Birth Mar 16 1999), Wikipedia (born March 16, 1999), soccerdonna.de (Date of birth 16.03.1999) and ESPN structured birthDate 3/16/1999.",
+        "sourceLabel": "US Soccer — Ashley Sanchez official profile (DOB Mar 16 1999)",
+        "sourceUrl": "https://www.ussoccer.com/players/s/ashley-sanchez",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team midfielder career — 2016 U.S. Soccer Young Female Player of the Year (US Soccer official), NC Courage/UCLA women's soccer track (Wikipedia/ESPN).",
+        "sourceLabel": "US Soccer — Ashley Sanchez official profile (Young Female Player of the Year 2016)",
+        "sourceUrl": "https://www.ussoccer.com/players/s/ashley-sanchez",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Ashley Sanchez official player profile (DOB Mar 16 1999)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/s/ashley-sanchez",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Ashley Sanchez (DOB 1999-03-16)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ashley_Sanchez",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ESPN — Ashley Sanchez player page (birthDate 3/16/1999 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/_/id/279297/ashley-sanchez",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USWNT attacking midfielder, 2021 NWSL champion and UCLA all-time assist leader — objective athlete category. No handle captured this pass — follower range UNKNOWN. (soccerdonna's non-English '16.03.1999' date style matches Wikipedia.)",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-142",
+      "displayName": "Alyssa Thompson",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 7, 2004 in Los Angeles, California — age 21 in 2026 — per Wikipedia (born November 7, 2004), US Soccer official profile (Date of Birth Nov 07 2004), ESPN structured birthDate 11/7/2004 and broadbiography (Birth Date November 7, 2004).",
+        "sourceLabel": "US Soccer — Alyssa Thompson official profile (DOB Nov 07 2004)",
+        "sourceUrl": "https://www.ussoccer.com/players/t/alyssa-thompson",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team career (US Soccer official profile; youngest-teen debut milestones) and Chelsea FC Women forward role (ESPN/Grokipedia career record).",
+        "sourceLabel": "US Soccer — Alyssa Thompson official profile (USWNT debut record)",
+        "sourceUrl": "https://www.ussoccer.com/players/t/alyssa-thompson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Alyssa Thompson official player profile (DOB Nov 07 2004)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/t/alyssa-thompson",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Alyssa Thompson (DOB 2004-11-07)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Alyssa_Thompson",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ESPN — Alyssa Thompson player page (birthDate 11/7/2004 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/_/id/351658/alyssa-thompson",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 NWSL first-overall pick (at 18) and USWNT forward now with Chelsea — objective athlete category; verified 21 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-143",
+      "displayName": "Jaedyn Shaw",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 20, 2004 in Frisco, Texas — age 21 in 2026 — per US Soccer official profile (Date of Birth Nov 20 2004), Red Bull athlete profile (Date of birth: November 20, 2004 / '20 November 2004' on int-en) and Wikipedia (born November 20, 2004).",
+        "sourceLabel": "US Soccer — Jaedyn Shaw official profile (DOB Nov 20 2004)",
+        "sourceUrl": "https://www.ussoccer.com/players/s/jaedyn-shaw",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team forward career — 2022 U.S. Soccer Young Female Player of the Year (san diegowavefc.com signing release; US Soccer profile).",
+        "sourceLabel": "San Diego Wave FC — Jaedyn Shaw contract release ('2022 U.S. Soccer Young Female Player of the Year')",
+        "sourceUrl": "https://sandiegowavefc.com/san-diego-wave-fc-signs-jaedyn-shaw-to-new-contract/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Jaedyn Shaw official player profile (DOB Nov 20 2004)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/s/jaedyn-shaw",
+          "relationship": "official"
+        },
+        {
+          "label": "Red Bull — Jaedyn Shaw athlete profile (Date of birth November 20, 2004)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/us-en/athlete/jaedyn-shaw",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Jaedyn Shaw (DOB 2004-11-20)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jaedyn_Shaw",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "USWNT forward and Gotham FC attacking midfielder — objective athlete category; verified 21 years old. Flag: San Diego Wave's 2023 signing release printed 'Date of Birth: Oct. 20, 2004' — an outlier vs US Soccer + Red Bull + Wikipedia (all Nov 20, 2004); majority/official value recorded, minor logged via flag. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-144",
+      "displayName": "Midge Purce",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 18, 1995 in Silver Spring, Maryland — age 30 in 2026 — per US Soccer official profile (Date of Birth Sep 18 1995), sportslib profile (September 18, 1995), Kiddle/Wikiwand Wikipedia replication (born September 18, 1995) and ESPN structured birthDate 9/18/1995.",
+        "sourceLabel": "US Soccer — Midge Purce official profile (DOB Sep 18 1995)",
+        "sourceUrl": "https://www.ussoccer.com/players/p/midge-purce",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team forward career and Gotham FC — MVP of Gotham's 2023 NWSL Championship (Wikiwand/Wikipedia).",
+        "sourceLabel": "US Soccer — Midge Purce official profile (USWNT)",
+        "sourceUrl": "https://www.ussoccer.com/players/p/midge-purce",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Midge Purce official player profile (DOB Sep 18 1995)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/p/midge-purce",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikiwand — Midge Purce (DOB 1995-09-18; 2023 NWSL Championship MVP)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Midge_Purce",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ESPN — Midge Purce player page (birthDate 9/18/1995 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/_/id/226566/midge-purce",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 NWSL Championship MVP and USWNT forward (full name Margaret Melinda Williams-Purce) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-145",
+      "displayName": "Andi Sullivan",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 20, 1995 in Honolulu, Hawaii — age 30 in 2026 — per Wikiwand/Wikipedia (born December 20, 1995), baike replication (December 20, 1995) and ESPN structured birthDate 12/20/1995.",
+        "sourceLabel": "Wikiwand — Andi Sullivan (born December 20, 1995)",
+        "sourceUrl": "https://www.wikiwand.com/en/articles/Andi_Sullivan",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team midfielder career — 2023 FIFA Women's World Cup squad (Wikipedia/baike) and Washington Spirit 2021 NWSL championship.",
+        "sourceLabel": "Wikiwand — Andi Sullivan (USWNT/Washington Spirit career)",
+        "sourceUrl": "https://www.wikiwand.com/en/articles/Andi_Sullivan",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikiwand — Andi Sullivan (DOB 1995-12-20)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Andi_Sullivan",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "ESPN — Andi Sullivan player page (birthDate 12/20/1995 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/bio/_/id/212209/andi-sullivan",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Baike — Andi Sullivan (Date of Birth December 20, 1995)",
+          "platform": "Website",
+          "url": "https://baike.baidu.com/en/item/Andi%20Sullivan/1773414",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2021 NWSL champion and former USWNT midfielder (Stanford All-American) — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-146",
+      "displayName": "Casey Murphy",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 25, 1996 in Bridgewater, New Jersey — age 30 in 2026 — per US Soccer official profile (Date of Birth Apr 25 1996), ESPN structured birthDate 4/25/1996 and NJ Sports profile ('Casey Grace Murphy was born April 25, 1996 in Bridgewater, NJ').",
+        "sourceLabel": "US Soccer — Casey Murphy official profile (DOB Apr 25 1996)",
+        "sourceUrl": "https://www.ussoccer.com/players/m/casey-murphy",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via USWNT women's national-team goalkeeper career — 2024 Olympic gold medalist (US Soccer official profile heading) and tallest goalkeeper in USWNT history.",
+        "sourceLabel": "US Soccer — Casey Murphy official profile ('2024 OLYMPIC GOLD MEDALIST')",
+        "sourceUrl": "https://www.ussoccer.com/players/m/casey-murphy",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "US Soccer — Casey Murphy official player profile (DOB Apr 25 1996; 2024 Olympic gold)",
+          "platform": "Website",
+          "url": "https://www.ussoccer.com/players/m/casey-murphy",
+          "relationship": "official"
+        },
+        {
+          "label": "ESPN — Casey Murphy player page (birthDate 4/25/1996 structured)",
+          "platform": "Website",
+          "url": "https://www.espn.com/soccer/player/_/id/209771/Casey-Murphy",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "NJ Sports — Casey Murphy profile ('born April 25, 1996 in Bridgewater')",
+          "platform": "Website",
+          "url": "https://njsports.com/casey-murphy/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic gold-medalist goalkeeper (North Carolina Courage; Montpellier D1 Féminine top GK) — objective athlete category. Note: US Soccer page JSON-LD inline birthDate shows '1996-04-23' — a two-day serialized-field artifact vs its own displayed 'Apr 25 1996' (matching ESPN + njsports); displayed/majority value recorded. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
@@ -10096,6 +10573,13 @@
       "summary": "Session-12 batch-D flags: thirds-party stated counts recorded verbatim; pre-existing duplicate catches.",
       "detail": "(1) Simone Manuel IG 142k/X 114k are PlayersWiki-stated counts from a December-2018 page — recorded verbatim + dated; handles were not shown on that page so no account objects were created. (2) Cassey Ho was re-verified this wave but excluded — an entry already exists under displayName 'Cassey Ho (Blogilates)' (dup-guard caught). (3) Other re-verified-but-pre-existing catches: Regan Smith (W-2026-078), Pamela Reif (W-2026-013), Iga Świątek (W-2026-093).",
       "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-015",
+      "severity": "resolved-mild",
+      "summary": "Session-12 batch-E: two DOB source conflicts resolved to majority/official values.",
+      "detail": "(1) Jaedyn Shaw — sandiegowavefc.com 2023 signing release printed Oct. 20, 2004; US Soccer + Red Bull + Wikipedia all say Nov. 20, 2004 → recorded Nov 20, 2004, entry flagged CONFLICTING_INFORMATION. (2) Casey Murphy — US Soccer inline JSON-LD birthDate reads 1996-04-23 while the same page displays 'Date of Birth Apr 25 1996'; ESPN and njsports corroborate Apr 25 → recorded 1996-04-25, artifact noted in entry notes (same class of machine-field artifact as Sophia Smith's 08-09-vs-08-10 from batch A).",
+      "reviewStatus": "no-action-required"
     }
   ]
 }
