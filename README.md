@@ -36,7 +36,7 @@ Then open `http://localhost:8000`.
 
 ## GitHub Pages deployment
 
-A GitHub Actions workflow is included at `.github/workflows/pages.yml`. It packages the static site and deploys it to GitHub Pages when changes land on `main` or this Arena branch, depending on repository Pages settings.
+This repository is configured to serve GitHub Pages from the `main` branch repository root. After these files are merged to `main`, the static site is served directly from `index.html`.
 
 Expected Pages URL for this repository:
 
