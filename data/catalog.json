@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 293,
+    "entryCount": 295,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -20131,6 +20131,142 @@
       "flags": [],
       "notes": "Serbia's 1.95 m rising middle blocker — Paris 2024 Olympian; from OK Tent Obrenovac through Neptunes de Nantes to Vero Volley Milano; twice Best Middle Blocker at CEV youth European championships (U17 2020 + U19) — objective athlete category; verified 21 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-294",
+      "displayName": "Tina Graudina",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 9, 1998 in Riga, Latvia — age 28 in 2026 — per the OFFICIAL USC Athletics beach roster (PERSONAL: 'Tina Laura Graudina was born on March 9, 1998, in Riga, Latvia'), the OFFICIAL volleyballworld/FIVB Beach Worlds registry (Birth date 09/03/1998 DD/MM, Age 28), the OFFICIAL AVP pro profile (Birthday March 9, 1998) and bvbinfo (March 9, 1998).",
+        "sourceLabel": "USC Athletics — official Tina Graudina roster (born March 9, 1998)",
+        "sourceUrl": "https://usctrojans.com/sports/womens-beach-volleyball/roster/tina-graudina/12227",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's beach volleyball career — two-time Olympian (Tokyo 2020 + Paris 2024, 4th in Tokyo) per Olympics.com; four-time AVCA All-American for USC women's beach per the official roster.",
+        "sourceLabel": "Olympics.com — official Tina Graudina profile (2 Olympic Games, beach volleyball)",
+        "sourceUrl": "https://www.olympics.com/en/athletes/tina-graudina",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USC Athletics — official roster (born March 9, 1998, Riga)",
+          "platform": "Website",
+          "url": "https://usctrojans.com/sports/womens-beach-volleyball/roster/tina-graudina/12227",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleyball World — official Graudina registry (Birth date 09/03/1998, Worlds Adelaide 2025)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/players/141983",
+          "relationship": "official"
+        },
+        {
+          "label": "AVP — official Tina Graudina pro profile (Birthday March 9, 1998)",
+          "platform": "Website",
+          "url": "https://avp.com/player/tina-graudina/",
+          "relationship": "official"
+        },
+        {
+          "label": "Olympics.com — official profile (2x Olympian; YOB 1998)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/tina-graudina",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Latvia's two-time Olympian beach blocker (Tokyo 2020 4th place with Anastasija; Paris 2024) and USC icon — first active collegiate player ever to qualify for Olympic beach volleyball; 122-9 career record, four-time AVCA All-American, NCAA champion 2021 — objective athlete category; verified 28 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-295",
+      "displayName": "Anastasija Samoilova",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 19, 1997 in Daugavpils, Latvia — age 29 in 2026 — per Wikipedia (Anastasija Samoilova née Kravčenoka, born 19 January 1997), the Red Bull official athlete page (Date of birth January 19, 1997, Daugavpils; structured birthDate 1997-01-19) and bvbinfo (Birth Date January 19, 1997).",
+        "sourceLabel": "Red Bull — official Anastasija Samoilova athlete page (DOB January 19, 1997)",
+        "sourceUrl": "https://www.redbull.com/us-en/athlete/anastasija-kravcenoka",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Red Bull official page structured 'gender: female' and Latvia women's beach volleyball career — Tokyo 2020 fourth place + 2019 European champion + 2025 WORLD CHAMPION with partner Tīna Graudiņa (Wikipedia/Red Bull).",
+        "sourceLabel": "Red Bull — official athlete page (structured gender female + sameAs FB)",
+        "sourceUrl": "https://www.redbull.com/us-en/athlete/anastasija-kravcenoka",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Red Bull — official Anastasija Samoilova page (birthDate 1997-01-19; gender female; sameAs FB)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/us-en/athlete/anastasija-kravcenoka",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Anastasija Samoilova (DOB 1997-01-19; née Kravčenoka)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Anastasija_Samoilova",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BVBinfo — Anastasija Samoilova career record (Birth Date January 19, 1997)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=14774",
+          "relationship": "reference"
+        },
+        {
+          "label": "Facebook — @lil.busjka (Red Bull official page structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/lil.busjka",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2025 beach volleyball WORLD CHAMPION (Adelaide, with Tīna Graudiņa) and 2019 European champion — Tokyo 2020 fourth place as the first Latvian women's beach pair; married partner's brother Mihails Samoilovs (Sept 2022) and competes as Samoilova (née Kravčenoka) — objective athlete category; verified 29 years old. FB handle via Red Bull official structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Facebook",
+          "username": "@lil.busjka",
+          "profileUrl": "https://www.facebook.com/lil.busjka",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via Red Bull official athlete page structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
