@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 208,
+    "entryCount": 210,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -14429,6 +14429,134 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-209",
+      "displayName": "Kristen Nuss (Kristen Cruz)",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 16, 1997 in New Orleans, Louisiana — age 28 in 2026 — per Wikipedia (born December 16, 1997), beach.volleybox structured record (birthDate 1997-12-16), womenfitness.net (born December 16, 1997) and oreateai (born on December 16, 1997).",
+        "sourceLabel": "Wikipedia — Kristen Nuss (born December 16, 1997)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kristen_Nuss",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via beach.volleybox structured record ('gender: Female') and NCAA/pro beach volleyball career — winningest player in collegiate beach volleyball history (LSU, 136 NCAA wins), 2024 Olympian in Paris (womenfitness/Wikipedia).",
+        "sourceLabel": "beach.volleybox — Kristen Nuss (gender Female; birthDate 1997-12-16)",
+        "sourceUrl": "https://beach.volleybox.net/kristen-nuss-p49478",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Kristen Nuss (DOB 1997-12-16; 2024 Olympics)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Kristen_Nuss",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "beach.volleybox — Kristen Nuss (birthDate 1997-12-16; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/kristen-nuss-p49478",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "womenfitness.net — Kristen Nuss bio (born December 16, 1997; LSU record)",
+          "platform": "Website",
+          "url": "https://www.womenfitness.net/kristen-nuss/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kristen_nuss (beach.volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kristen_nuss/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Most victorious player in NCAA beach volleyball history (136 wins at LSU) and 2024 Paris Olympian — objective athlete category; verified 28 years old. Married name Kristen Cruz recorded as alias. IG handle via beach.volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kristen_nuss",
+          "profileUrl": "https://www.instagram.com/kristen_nuss/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-210",
+      "displayName": "Taryn Kloth Brasher",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 10, 1997 in Sioux Falls, South Dakota — age 29 in 2026 — per Wikipedia (born April 10, 1997), nbcolympics.com official athlete bio ('was born April 10, 1997') and olympics.com official profile (Year of Birth 1997).",
+        "sourceLabel": "NBColympics — Taryn Kloth athlete bio (born April 10, 1997)",
+        "sourceUrl": "https://www.nbcolympics.com/news/taryn-kloth-and-kristen-nuss-meet-athletes",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA/pro beach volleyball career — 'American beach volleyball player... played with Kristen Nuss at the 2024 Summer Olympics' (Wikipedia); Creighton indoor + LSU beach collegiate career.",
+        "sourceLabel": "Wikipedia — Taryn Brasher (beach volleyball; 2024 Olympics)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Taryn_Brasher",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "NBColympics — Taryn Kloth bio (DOB April 10, 1997)",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/taryn-kloth-and-kristen-nuss-meet-athletes",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Taryn Kloth Brasher (DOB 1997-04-10; Olympian)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Taryn_Brasher",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Olympics.com — Taryn Kloth official athlete profile (Year of Birth 1997)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/taryn-kloth",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Paris Olympian (with Kristen Nuss) and former Creighton indoor/LSU beach star — objective athlete category; verified 29 years old. Married name Brasher used in current pro identity. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
