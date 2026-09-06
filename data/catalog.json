@@ -2,9 +2,9 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 55,
+    "entryCount": 100,
     "reviewQueueCount": 4,
-    "summary": "Women-only directory of adult (18+) public creators: 55 verified adult women (W-2026-001..055) spanning professional and college athletes, fitness/fitness-model creators, swimwear/bikini-fashion models, fashion and lifestyle/wellness creators, plus 4 REVIEW_REQUIRED candidates. Session 10 promoted 5 queue candidates after second-pass research (Melissa Bender, Kahdia, Olivia Vance, Emersen 'Emmy' Schrom, Jade Haliburton née Jones) and added 4 newly discovered verified creators (Jen Selter, Paige Hathaway, Joan MacDonald, Sarah Stevenson 'Sarah's Day'); per-platform follower counts are publicly observed displays only — never estimated, never summed across platforms; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN."
+    "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
   "entries": [
     {
@@ -3825,6 +3825,3387 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-056",
+      "displayName": "Anllela Sagra",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 6, 1993 in Medellín, Colombia — age 32 in 2026. DOB recorded identically by NewsUnzip, JustBiography, Swagsy, CliveHealth and VrGyani biographies.",
+        "sourceLabel": "NewsUnzip — Anllela Sagra (born October 6, 1993)",
+        "sourceUrl": "https://www.newsunzip.com/wiki/anllela-sagra/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent she/her biographies — described as 'Colombia's first female fitness model' (Swagsy); sister Laura Sagra.",
+        "sourceLabel": "Swagsy — Anllela Sagra fitness-model biography (she/her)",
+        "sourceUrl": "https://swagsy.in/fitness-models/anllela-sagra-fitness-model/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CliveHealth — Anllela Sagra bio (DOB 1993-10-06; IG 27.1M, YT 400K+)",
+          "platform": "Website",
+          "url": "https://www.clivehealth.com/anllela-sagra-biography-age-net-worth-married-salary-height-weight-dating-and-fitness-journey/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "NewsUnzip — Anllela Sagra wiki (DOB October 6, 1993, Medellín)",
+          "platform": "Website",
+          "url": "https://www.newsunzip.com/wiki/anllela-sagra/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Swagsy — Anllela Sagra: Colombia's first female fitness model",
+          "platform": "Website",
+          "url": "https://swagsy.in/fitness-models/anllela-sagra-fitness-model/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @anllela_sagra (fitness model)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/anllela_sagra/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via famousbio.net Instagram-fitness-model directory this session. Category fitness/model — objective (personal trainer, 1Up Nutrition athlete, YouTube workouts). DOB and identity consistent across 5 independent biographies.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@anllela_sagra",
+          "profileUrl": "https://www.instagram.com/anllela_sagra/",
+          "followerCountDisplay": "27.1M",
+          "followerCountNumeric": 27100000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "CliveHealth biography social-media table: Instagram 27.1M followers (checked 2026-09-06)."
+        },
+        {
+          "platform": "YouTube",
+          "username": "Anllela Sagra",
+          "profileUrl": "https://www.youtube.com/@anllela_sagra",
+          "followerCountDisplay": "400K+",
+          "followerCountNumeric": 400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "CliveHealth/Swagsy biographies: 400K+ YouTube subscribers."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@anllela_sagra",
+        "display": "27.1M",
+        "numeric": 27100000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-057",
+      "displayName": "Katya Elise Henry",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Fashion"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 14, 1994 in Minneapolis, Minnesota — age 32 in 2026. DOB recorded identically by TheFamousPeople, UpdatesTM, Legit.ng, MetroBiography and NBAwags.",
+        "sourceLabel": "TheFamousPeople — Katya Elise Henry (birthday June 14, 1994)",
+        "sourceUrl": "https://www.thefamouspeople.com/profiles/katya-elise-henry-32504.php",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured bio data 'Gender: Female' (Legit.ng) and consistent she/her fitness-model profiles across five sources.",
+        "sourceLabel": "Legit.ng — Katya Elise Henry profile (Gender: Female)",
+        "sourceUrl": "https://www.legit.ng/ask-legit/biographies/1473942-katya-elise-henrys-biography-tyler-herros-girlfriend/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheFamousPeople — Katya Elise Henry (DOB June 14, 1994; family details)",
+          "platform": "Website",
+          "url": "https://www.thefamouspeople.com/profiles/katya-elise-henry-32504.php",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "UpdatesTM — Katya Elise Henry (DOB 1994-06-14; IG @katyaelisehenry 7.8M)",
+          "platform": "Website",
+          "url": "https://updatestm.com/katya-elise-henry/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Legit.ng — Katya Elise Henry (Gender: Female; IG 7.5M+ June 2025)",
+          "platform": "Website",
+          "url": "https://www.legit.ng/ask-legit/biographies/1473942-katya-elise-henrys-biography-tyler-herros-girlfriend/",
+          "relationship": "press"
+        },
+        {
+          "label": "Instagram — @katyaelisehenry (workouts, WBK FIT)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/katyaelisehenry/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-creator directory this session. Category fitness/model — objective: Workouts by Katya / WBK FIT founder, EHPlabs ambassador; also founded Kiss My Peach Swimwear (Fashion noted). Secondary IG @workouts_by_her (~497K) listed by UpdatesTM but not separately catalogued.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@katyaelisehenry",
+          "profileUrl": "https://www.instagram.com/katyaelisehenry/",
+          "followerCountDisplay": "7.8M",
+          "followerCountNumeric": 7800000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "UpdatesTM biography (May 2026): 'over 7.8 million followers on her main account @katyaelisehenry' (Legit.ng listed 7.5M+ June 2025)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@katyaelisehenry",
+        "display": "7.8M",
+        "numeric": 7800000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-058",
+      "displayName": "Amanda Elise Lee",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Modeling"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 13, 1986 in Canada — age 39 in 2026. DOB recorded identically by BiographyPedia, Dreshare, WomanMagazine and the famousbio.net directory.",
+        "sourceLabel": "BiographyPedia — Amanda Elise Lee (born December 13, 1986)",
+        "sourceUrl": "https://biographypedia.org/who-is-amanda-lee-wiki-age-height-boyfriend-family-facts/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured bio data 'Gender: Female' (BiographyPedia profile table) and consistent she/her fitness-model biographies.",
+        "sourceLabel": "BiographyPedia — Amanda Lee profile table (Gender: Female)",
+        "sourceUrl": "https://biographypedia.org/who-is-amanda-lee-wiki-age-height-boyfriend-family-facts/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "BiographyPedia — Amanda Elise Lee (DOB 1986-12-13; Gender: Female; IG 11M+)",
+          "platform": "Website",
+          "url": "https://biographypedia.org/who-is-amanda-lee-wiki-age-height-boyfriend-family-facts/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Dreshare — Amanda Elise Lee wiki (DOB December 13, 1986)",
+          "platform": "Website",
+          "url": "https://www.dreshare.com/amanda-elise-lee-wiki/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "WomanMagazine — Amanda Elise Lee (@amandaeliselee 12M snapshot; FB @amandaleefit 775K+)",
+          "platform": "Website",
+          "url": "https://www.womanmagazine.com/who-is-amanda-elise-lee-instagram-dating-bio/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @amandaeliselee (trainer/Pilates instructor)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/amandaeliselee/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via famousbio.net Instagram-fitness-model directory. Certified personal trainer and Pilates instructor — objective fitness category. IG count 11M+ (BiographyPedia 2024) recorded; older 12M snapshot (WomanMagazine 2021) cited.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@amandaeliselee",
+          "profileUrl": "https://www.instagram.com/amandaeliselee/",
+          "followerCountDisplay": "11M+",
+          "followerCountNumeric": 11000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "BiographyPedia (2024): 'more than 11 million followers' on Instagram; WomanMagazine (2021) listed 12M — snapshots differ."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@amandaleefit",
+          "profileUrl": "https://www.facebook.com/amandaleefit",
+          "followerCountDisplay": "775K+",
+          "followerCountNumeric": 775000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "WomanMagazine biography: Facebook @amandaleefit over 775,000 followers."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@amandaeliselee",
+        "display": "11M+",
+        "numeric": 11000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-059",
+      "displayName": "Mia Sand (Miss Mia Fit)",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 11, 1987 in Copenhagen, Denmark — age 38 in 2026 — per BiographyTribune and TheCityCeleb (structured birthDate 1987-10-11). Note: Ithy article cites 1988 as an alternative year — conflict logged, adult either way.",
+        "sourceLabel": "TheCityCeleb — Mia Sand bio (born October 11, 1987)",
+        "sourceUrl": "https://www.thecityceleb.com/biography/personality/model/mia-sand-biography-age-husband-children-net-worth-height-career-instagram/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent she/her fitness-model biographies — Danish fitness model and personal trainer, mother of two (TheCityCeleb structured family data).",
+        "sourceLabel": "BiographyTribune — Mia Sand wiki (she/her, Miss Mia Fit)",
+        "sourceUrl": "https://biographytribune.com/mia-sands-wiki-biography-age-height-pregnant-husband/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheCityCeleb — Mia Sand bio (DOB 1987-10-11; @missmiafit; 2.5M+ IG)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/personality/model/mia-sand-biography-age-husband-children-net-worth-height-career-instagram/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "BiographyTribune — Mia Sand wiki (DOB 11 October 1987, Denmark)",
+          "platform": "Website",
+          "url": "https://biographytribune.com/mia-sands-wiki-biography-age-height-pregnant-husband/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Pinterest-captured Instagram display — Mia Sand @missmiafit (2M followers, Oct 2024)",
+          "platform": "Website",
+          "url": "https://www.pinterest.com/pin/miss-mia-sand--922956517379143270/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @missmiafit ('Bodybuilding, Health nerd')",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/missmiafit/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "Discovered via famousbio.net Instagram-fitness-model directory. Objective fitness category (online fitness school, Sand Fitness coaching). DOB-year conflict 1987 (two structured bios) vs 1988 (Ithy) recorded but adult unaffected.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@missmiafit",
+          "profileUrl": "https://www.instagram.com/missmiafit/",
+          "followerCountDisplay": "2M",
+          "followerCountNumeric": 2000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public display captured Oct 2024 (Pinterest mirror): '2M Followers, 167 Following, 1,478 Posts'; TheCityCeleb biography states 2.5M+ — latest bio higher; both cited."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@missmiafit",
+        "display": "2M",
+        "numeric": 2000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-060",
+      "displayName": "Dee Marie Ditt",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 10, 1994 — age 31 in 2026 — per FamousBirthdays structured profile (birthDate 1994-10-10; WBFF titles dated 2023–2025 corroborate an adult competition timeline).",
+        "sourceLabel": "FamousBirthdays — Dee Marie Ditt (birthDate 1994-10-10)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/dee-ditt.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via she/her biography ('She is an entrepreneur and businesswoman… founder of DMD Coaching') and WBFF women's division titles (Miss Bikini USA 2023).",
+        "sourceLabel": "FamousBirthdays — Dee Marie Ditt biography (she/her)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/dee-ditt.html",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Dee Marie Ditt (DOB 1994-10-10; IG @deemariedi 470K+)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/dee-ditt.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "IDCrawl — TikTok @deemariedi (WBFF MISS FITNESS WORLDS '24 / MISS BIKINI USA '23; 41K)",
+          "platform": "Website",
+          "url": "https://www.idcrawl.com/dee-marie",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @deemariedi (linked via FamousBirthdays sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/deemariedi",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @deemariedi (WBFF title in bio, links IG)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@deemariedi",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via FamousBirthdays WBFF fitness creator profile. Objective category: WBFF Miss Bikini USA 2023, Miss Fitness World Champion 2024; DMD Coaching founder. Identity: FamousBirthdays sameAs ↔ TikTok bio title string match.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@deemariedi",
+          "profileUrl": "https://www.instagram.com/deemariedi",
+          "followerCountDisplay": "470K+",
+          "followerCountNumeric": 470000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "FamousBirthdays: 'over 470,000 followers' on her Instagram page."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@deemariedi",
+          "profileUrl": "https://www.tiktok.com/@deemariedi",
+          "followerCountDisplay": "41K",
+          "followerCountNumeric": 41000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "IDCrawl snapshot of TikTok bio: 41K followers, bio lists WBFF MISS FITNESS WORLDS '24 / MISS BIKINI USA '23."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@deemariedi",
+        "display": "470K+",
+        "numeric": 470000,
+        "sizeRange": "250K–499.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "250K–499.9K"
+    },
+    {
+      "id": "W-2026-061",
+      "displayName": "Clara Felicia Lindblom",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Modeling"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 10, 1994 in Stockholm, Sweden — age 32 in 2026 — recorded identically by FamousBirthdays (birthDate 1994-01-10), Mabumbe, GreatestPhysiques, Listal and WikiBirthday.",
+        "sourceLabel": "FamousBirthdays — Clara Felicia Lindblom (birthDate 1994-01-10)",
+        "sourceUrl": "https://www.famousbirthdays.com/people/clara-lindblom.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent she/her fitness-model profiles (Mabumbe: 'her journey… she rose to prominence'; bikini competitor).",
+        "sourceLabel": "Mabumbe — Clara Lindblom biography (she/her)",
+        "sourceUrl": "https://mabumbe.com/people/clara-lindblom-age-net-worth-biography-career/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FamousBirthdays — Clara Lindblom (DOB 1994-01-10; IG @clara_lindblom 1.5M+)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/clara-lindblom.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Listal — Clara Felicia Lindblom (DOB 10 Jan 1994; IG follower count 1.8m)",
+          "platform": "Website",
+          "url": "https://www.listal.com/clara-felicia-lindblom",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Mabumbe — Clara Lindblom bio (over two million followers; real-estate 2025)",
+          "platform": "Website",
+          "url": "https://mabumbe.com/people/clara-lindblom-age-net-worth-biography-career/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @clara_lindblom (linked via FamousBirthdays sameAs + Listal)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/clara_lindblom",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via famousbio.net Instagram-fitness-model directory. Swedish fitness model and bikini competitor; Workout Empire/Lounge Underwear model — objective categories. Follower snapshots 1.5M+ (FamousBirthdays), 1.8M (Listal), 2M+ (Mabumbe) — latest-bio value used with notes.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@clara_lindblom",
+          "profileUrl": "https://www.instagram.com/clara_lindblom",
+          "followerCountDisplay": "1.8M",
+          "followerCountNumeric": 1800000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Listal: 'Instagram follower count: 1.8m' (FamousBirthdays 1.5M+; Mabumbe 2M+ snapshots also cited)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@clara_lindblom",
+        "display": "1.8M",
+        "numeric": 1800000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-062",
+      "displayName": "Yovanna Ventura",
+      "categories": [
+        "Modeling",
+        "Fashion",
+        "Swimwear",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 24, 1995 in Miami, Florida — age 30 in 2026 — recorded identically by TheBiography, NaiBuzz, HollywoodLife, TheNewsGod and BookingAgentInfo.",
+        "sourceLabel": "TheBiography — Yovanna Ventura (born 24 November 1995)",
+        "sourceUrl": "https://thebiography.org/who-is-yovanna-ventura-age-height-relationships-parents-wiki/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent she/her model/actress biographies (TheNewsGod profile lists Gender: Female; IMG/Wilhelmina/Next women's boards).",
+        "sourceLabel": "TheNewsGod — Yovanna Ventura bio (Gender: Female)",
+        "sourceUrl": "https://thenewsgod.com/yovanna-ventura-biography-wiki-net-worth-personal-life-and-more/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheBiography — Yovanna Ventura (DOB 1995-11-24; IG @yoventura 5.3M+)",
+          "platform": "Website",
+          "url": "https://thebiography.org/who-is-yovanna-ventura-age-height-relationships-parents-wiki/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "BookingAgentInfo — Yovanna Ventura (DOB 24/11/1995; 5M+ IG)",
+          "platform": "Website",
+          "url": "https://bookingagentinfo.com/celebrity/yovanna-ventura/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "NaiBuzz — Yovanna Ventura (Wilhelmina LA/UK; 5.3M+ IG)",
+          "platform": "Website",
+          "url": "https://naibuzz.com/yovanna-ventura-inside-the-life-of-the-instagram-star/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @yoventura (model, ISHINE365 swimwear line)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/yoventura/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via famousbio.net Instagram-fitness-model directory. Objective categories: runway model (Milan/NYFW) and swimwear designer (ISHINE365 Miami Swim Week collection). Alternative handle @yoventuraventura cited by TheNewsGod — primary @yoventura per TheBiography/NaiBuzz.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@yoventura",
+          "profileUrl": "https://www.instagram.com/yoventura/",
+          "followerCountDisplay": "5.3M+",
+          "followerCountNumeric": 5300000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "TheBiography/NaiBuzz biographies: official Instagram over 5.3 million followers; BookingAgentInfo 5M+."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@yoventura",
+        "display": "5.3M+",
+        "numeric": 5300000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-063",
+      "displayName": "Kathryn Plummer",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 16, 1998 in Long Beach, California — age 27 in 2026 — per Wikipedia encyclopedic biography (Kathryn Plummer Boden, US national team outside hitter).",
+        "sourceLabel": "Wikipedia — Kathryn Plummer (born October 16, 1998)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kathryn_Plummer",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's national volleyball team and Stanford women's volleyball career documented in the encyclopedia entry (she/her).",
+        "sourceLabel": "Wikipedia — Kathryn Plummer (US women's national team)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kathryn_Plummer",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Kathryn Plummer (DOB 1998-10-16; Eczacıbaşı Dynavit)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Kathryn_Plummer",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "HypeAuditor — @kathrynplummer IG stats (42.4K; Pro Volley | Team USA | Stanford)",
+          "platform": "Website",
+          "url": "https://hypeauditor.com/instagram/kathrynplummer/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kathrynplummer (Pro Volley | Team USA)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kathrynplummer/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via female-volleyball-player research this session. Objective athlete category (2020 Olympic gold team, pro Eczacıbaşı). Mid-size creator (42.4K) — supports follower-size diversity.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kathrynplummer",
+          "profileUrl": "https://www.instagram.com/kathrynplummer/",
+          "followerCountDisplay": "42.4K",
+          "followerCountNumeric": 42400,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "HypeAuditor account page: @kathrynplummer audience 42.4K followers (checked 2026-09-06)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kathrynplummer",
+        "display": "42.4K",
+        "numeric": 42400,
+        "sizeRange": "25K–49.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "25K–49.9K"
+    },
+    {
+      "id": "W-2026-064",
+      "displayName": "Andrea \"Annie\" Drews",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 25, 1993 in Muncie, Indiana — age 32 in 2026 — per Tier-1 FIVB volleyballworld.com player bio ('Birth date 25/12/1993', age 32) and Wikipedia-derived biography.",
+        "sourceLabel": "Volleyball World (FIVB) — Drews Andrea player bio (birth date 25/12/1993)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/155307",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via United States women's national volleyball team roster (Tier-1 FIVB) and consistent she/her coverage (Sportskeeda: married Tanner Schumacher 2021).",
+        "sourceLabel": "Sportskeeda — Andrea Drews profile (US women's national team)",
+        "sourceUrl": "https://www.sportskeeda.com/us/olympics/andrea-drews-husband",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — Andrea Drews bio (DOB 25/12/1993; opposite spiker, USA)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/155307",
+          "relationship": "official"
+        },
+        {
+          "label": "Grokipedia (Wikipedia-derived) — Andrea Drews biography",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Andrea_Drews",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Women.volleybox — Andrea Drews page linking Instagram @adrews04",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/top-15-powerful-volleyball-spikes-by-andrea-drews-lefty-m23906",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @adrews04 (linked via volleybox)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/adrews04",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Olympic gold (Tokyo 2020) and silver (Paris 2024) opposite — objective athlete category. IG handle verified via volleybox page ('Her instagram: adrews04'); no public follower count displayed in available snippets — recorded UNKNOWN, never estimated.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@adrews04",
+          "profileUrl": "https://www.instagram.com/adrews04",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed via women.volleybox.net page ('Her instagram: https://www.instagram.com/adrews04'); count not publicly displayed in captured snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-065",
+      "displayName": "Justine Wong-Orantes",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 6, 1995 in Torrance, California — age 30 in 2026 — per Wikipedia/Wikiwand biography, volleybox structured birthDate 1995-10-06, and USA Volleyball athlete page (born 1995).",
+        "sourceLabel": "Wikiwand — Justine Wong-Orantes (born October 6, 1995)",
+        "sourceUrl": "https://www.wikiwand.com/en/articles/Justine_Wong-Orantes",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured gender 'Female' and US women's national-team libero role (Wikipedia; USA Volleyball).",
+        "sourceLabel": "volleybox — Justine Wong-Orantes player data (gender: Female)",
+        "sourceUrl": "https://women.volleybox.net/justine-wong-orantes-p5966/movies",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "USA Volleyball — Justine Wong-Orantes athlete page (born 1995; national team libero)",
+          "platform": "Website",
+          "url": "https://usavolleyball.org/athlete/justine-wong-orantes/",
+          "relationship": "official"
+        },
+        {
+          "label": "Women.volleybox — Justine Wong-Orantes (birthDate 1995-10-06; gender Female; LOVB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/justine-wong-orantes-p5966/movies",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikiwand — Justine Wong-Orantes biography (DOB 1995-10-06)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Justine_Wong-Orantes",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jwongorantes (volleybox sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jwongorantes/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Olympic gold (Tokyo 2020, Best Libero) + silver (Paris 2024). Objective athlete category; LOVB pro. IG public display recorded from instagram.com search snippet 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jwongorantes",
+          "profileUrl": "https://www.instagram.com/jwongorantes/",
+          "followerCountDisplay": "55K",
+          "followerCountNumeric": 55000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "Instagram public profile page display via search snippet: '55K followers, 681 following, 480 posts' (bio: 2x Olympic Medalist, pro volley LOVB)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@jwongorantes",
+        "display": "55K",
+        "numeric": 55000,
+        "sizeRange": "50K–99.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "50K–99.9K"
+    },
+    {
+      "id": "W-2026-066",
+      "displayName": "Winifer Fernández",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 6, 1995 in Santiago de los Caballeros, Dominican Republic — age 31 in 2026 — recorded by CelebsAges and TheFamousPeople (structured), consistent across both.",
+        "sourceLabel": "CelebsAges — Winifer Fernandez (born January 6, 1995)",
+        "sourceUrl": "https://www.celebsages.com/winifer-fernandez/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Dominican Republic women's national volleyball team career (2016 Pan-American Cup gold) and she/her biography.",
+        "sourceLabel": "TheFamousPeople — Famous female volleyball players (Winifer Fernandez, she/her)",
+        "sourceUrl": "https://www.thefamouspeople.com/women-volleyball-players.php",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CelebsAges — Winifer Fernandez (DOB 1995-01-06; 280K+ IG historical)",
+          "platform": "Website",
+          "url": "https://www.celebsages.com/winifer-fernandez/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TheFamousPeople — female volleyball players (birthdate January 6, 1995)",
+          "platform": "Website",
+          "url": "https://www.thefamouspeople.com/women-volleyball-players.php",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @winifer.fernandezofficial (current public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/winifer.fernandezofficial/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dominican national-team volleyball player — objective athlete category. Current public IG @winifer.fernandezofficial displays 24K (2026-09-06 snippet); CelebsAges historically cited 280K+ on a prior account — both recorded, not summed.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@winifer.fernandezofficial",
+          "profileUrl": "https://www.instagram.com/winifer.fernandezofficial/",
+          "followerCountDisplay": "24K",
+          "followerCountNumeric": 24000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "10K–24.9K",
+          "sourceNote": "Instagram public profile page display via search snippet (2026-09-06): '24K seguidores, 238 siguiendo, 9 publicaciones'. CelebsAges cited 280K+ historically — separate snapshot."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@winifer.fernandezofficial",
+        "display": "24K",
+        "numeric": 24000,
+        "sizeRange": "10K–24.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "10K–24.9K"
+    },
+    {
+      "id": "W-2026-067",
+      "displayName": "Petra Stoker (Petra)",
+      "categories": [
+        "Entertainment",
+        "Creator",
+        "Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 1, 1993 — age 33 in 2026 — per Liquipedia professional player profile (born June 1, 1993; years active 2020–2025; retired 2025-12-08).",
+        "sourceLabel": "Liquipedia — Petra player profile (born June 1, 1993)",
+        "sourceUrl": "https://liquipedia.net/valorant/Petra",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via esports press: G2 Gozen founding roster — 'the first women to win World Championships in two different games' (Esports Insider) alongside mimi and juliano.",
+        "sourceLabel": "Esports Insider — Petra moves to G2 Gozen bench (women's championship roster)",
+        "sourceUrl": "https://esportsinsider.com/2025/04/g2-gozen-valorant-benches-petra",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Liquipedia — Petra (DOB 1993-06-01; G2 Gozen 2021–2025)",
+          "platform": "Website",
+          "url": "https://liquipedia.net/valorant/Petra",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Esports Insider — Petra benched article (GC Championship 2022 winner)",
+          "platform": "Website",
+          "url": "https://esportsinsider.com/2025/04/g2-gozen-valorant-benches-petra",
+          "relationship": "press"
+        },
+        {
+          "label": "bo3.gg — Top 10 female Valorant players (Petra, G2 Gozen)",
+          "platform": "Website",
+          "url": "https://bo3.gg/valorant/articles/top-10-female-players-in-valorant",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via women's-esports research this session. Dutch retired pro Valorant/CS:GO player (G2 Gozen founding roster; inaugural Game Changers Championship 2022 winner per press). Objective esports/entertainment category. No social handles with observed public counts captured in snippets — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-068",
+      "displayName": "Sarah \"sarahcat\" Simpson",
+      "categories": [
+        "Entertainment",
+        "Creator",
+        "Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 30, 2002 — age 23 in 2026 — per Liquipedia professional player profile (born September 30, 2002; years active 2022–2026; retired).",
+        "sourceLabel": "Liquipedia — sarah player profile (born September 30, 2002)",
+        "sourceUrl": "https://liquipedia.net/valorant/Sarah",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via career on women's Game Changers rosters — Shopify Rebellion Gold and G2 Gozen (Liquipedia female-team history; bo3 female-player list context).",
+        "sourceLabel": "Liquipedia — G2 Gozen team history (sarah roster entries)",
+        "sourceUrl": "https://liquipedia.net/valorant/G2_Gozen",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Liquipedia — sarah (DOB 2002-09-30; Shopify Rebellion Gold)",
+          "platform": "Website",
+          "url": "https://liquipedia.net/valorant/Sarah",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Liquipedia — G2 Gozen (sarah stand-in → player, 2023)",
+          "platform": "Website",
+          "url": "https://liquipedia.net/valorant/G2_Gozen",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Canadian retired pro Valorant player (alternate ID sarahcat). Objective esports/entertainment category. No social handles with observed public counts captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-069",
+      "displayName": "Caroline Marks",
+      "categories": [
+        "Athlete",
+        "Creator",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 14, 2002 in Boca Raton, Florida — age 24 in 2026 — per Tier-1 WSL official athlete bio ('Age 24, Feb 14, 2002') and Wikipedia.",
+        "sourceLabel": "World Surf League — Caroline Marks surfer bio (Feb 14, 2002)",
+        "sourceUrl": "https://www.worldsurfleague.com/athletes/4688/caroline-marks",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's Championship Tour career and Olympic women's shortboard gold (Paris 2024) — 'youngest woman to compete in a World Surf League event' (Wikipedia).",
+        "sourceLabel": "Wikipedia — Caroline Marks (women's shortboard, she/her)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Caroline_Marks",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "World Surf League — Caroline Marks official athlete bio",
+          "platform": "Website",
+          "url": "https://www.worldsurfleague.com/athletes/4688/caroline-marks",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Caroline Marks (DOB 2002-02-14; 2023 world champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Caroline_Marks",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Instagram — @caroline_markss (WSL-linked handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/caroline_markss/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 WSL world champion and 2024 Olympic gold medalist — objective athlete category. IG count 16K recorded exactly as displayed on the WSL-mirror wavereport.org follow widget; may be stale vs main-tour fame — variance logged in IRR-2026-09-06-009.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@caroline_markss",
+          "profileUrl": "https://www.instagram.com/caroline_markss/",
+          "followerCountDisplay": "16K",
+          "followerCountNumeric": 16000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "10K–24.9K",
+          "sourceNote": "wavereport.org mirror of WSL athlete profile: '16k Followers @caroline_markss' follow widget (snapshot; possible staleness — see IRR-2026-09-06-009)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@caroline_markss",
+        "display": "16K",
+        "numeric": 16000,
+        "sizeRange": "10K–24.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "10K–24.9K"
+    },
+    {
+      "id": "W-2026-070",
+      "displayName": "Tatiana Weston-Webb",
+      "categories": [
+        "Athlete",
+        "Creator",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 9, 1996 in Porto Alegre, Brazil — age 30 in 2026 — per Tier-1 WSL official athlete bio ('Age 29 May 9, 1996' snapshot) and Wikipedia (1996-05-09).",
+        "sourceLabel": "World Surf League — Tatiana Weston-Webb surfer bio (May 9, 1996)",
+        "sourceUrl": "https://origin.worldsurfleague.com/athletes/2026/tatiana-weston-webb",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's Championship Tour and Olympic women's shortboard silver (Paris 2024) — 'first Brazilian woman surfer to win an Olympic medal' (Wikipedia/Kiddle).",
+        "sourceLabel": "Wikipedia — Tatiana Weston-Webb (women's surfing, she/her)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tatiana_Weston-Webb",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "World Surf League — Tatiana Weston-Webb official athlete bio",
+          "platform": "Website",
+          "url": "https://origin.worldsurfleague.com/athletes/2026/tatiana-weston-webb",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Tatiana Weston-Webb (DOB 1996-05-09)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Tatiana_Weston-Webb",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "SurfersOfBali YouTube — description linking instagram.com/tatiwest",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/shorts/OHaKV4P6Ws8",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @tatiwest (pro surfer)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tatiwest/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Brazilian women's CT surfer, 2024 Olympic silver — objective athlete category; handle @tatiwest confirmed via surfersofbali video description. IG 'over one million followers' per Grokipedia biography statement.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tatiwest",
+          "profileUrl": "https://www.instagram.com/tatiwest/",
+          "followerCountDisplay": "1M+",
+          "followerCountNumeric": 1000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Grokipedia biography: 'over one million followers on Instagram' (checked 2026-09-06); handle via surfersofbali description link."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@tatiwest",
+        "display": "1M+",
+        "numeric": 1000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-071",
+      "displayName": "Kysre Gondrezick",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator",
+        "Fashion"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 27, 1997 in Benton Harbor, Michigan — age 29 in 2026 — recorded by SportsDunia, Sportskeeda, ProBallers and Basketball-Reference (structured birthDate + IG handle).",
+        "sourceLabel": "Basketball-Reference — Kysre Gondrezick (born July 27, 1997)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/g/gondrky01w/gamelog-playoffs/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's basketball career — 'Michigan Miss Basketball', WNBA guard (Indiana Fever/Chicago Sky), she/her throughout.",
+        "sourceLabel": "Sportskeeda — Kysre Gondrezick player profile (WNBA women's basketball)",
+        "sourceUrl": "https://www.sportskeeda.com/us/wnba/kysre-gondrezick",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "SportsDunia — Kysre Gondrezick bio (DOB 1997-07-27; IG @kysrerae 598K; X 170.7K)",
+          "platform": "Website",
+          "url": "https://www.sportsdunia.com/wnba-players/kysre-gondrezick-biography-net-worth-height-age-contract-career",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Sportskeeda — Kysre Gondrezick (DOB July 27, 1997; IG 550K+)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/us/wnba/kysre-gondrezick",
+          "relationship": "press"
+        },
+        {
+          "label": "Basketball-Reference — Kysre Gondrezick WNBA page (lists Instagram: kysrerae)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/g/gondrky01w/gamelog-playoffs/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kysrerae (WNBA guard; model/brand work)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kysrerae/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @KysreRae",
+          "platform": "X",
+          "url": "https://x.com/KysreRae",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "WNBA guard (2021 #4 pick) and Adidas athlete — objective athlete category; fashion/model activity noted objectively per SportsDunia (Vogue ramp-walk content).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kysrerae",
+          "profileUrl": "https://www.instagram.com/kysrerae/",
+          "followerCountDisplay": "598K",
+          "followerCountNumeric": 598000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "SportsDunia biography: 598K Instagram followers (Sportskeeda snapshot: 550K+) — recorded as published."
+        },
+        {
+          "platform": "X",
+          "username": "@KysreRae",
+          "profileUrl": "https://x.com/KysreRae",
+          "followerCountDisplay": "170.7K",
+          "followerCountNumeric": 170700,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "SportsDunia biography: X following 170.7K."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@kysrerae",
+        "display": "598K",
+        "numeric": 598000,
+        "sizeRange": "500K–999.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "500K–999.9K"
+    },
+    {
+      "id": "W-2026-072",
+      "displayName": "Deauzya \"DiDi\" Richards",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 8, 1999 in Houston/Cypress, Texas — age 27 in 2026 — structured birthDate on Basketball-Reference plus Eurobasket and ProBallers records.",
+        "sourceLabel": "Basketball-Reference — DiDi Richards (born February 8, 1999)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/r/richadi01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career (New York Liberty 2021 draft; Washington Mystics) and she/her college/pro coverage.",
+        "sourceLabel": "Eurobasket — Didi Richards player profile (USA basketball, WNBA draft)",
+        "sourceUrl": "https://basketball.eurobasket.com/player/Didi-Richards/447315",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Deauzya Richards WNBA page (DOB 1999-02-08; Instagram: didirich2)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/r/richadi01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "CelebsFact — DiDi Richards bio (IG @didirich2 146K; X @Deauzya 35.6K)",
+          "platform": "Website",
+          "url": "https://celebsfact.net/didi-richards/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @didirich2 (basketball creator)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/didirich2/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @Deauzya",
+          "platform": "X",
+          "url": "https://x.com/Deauzya",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "WNBA 2021 All-Rookie; 2020 Naismith Defensive Player of the Year at Baylor — objective athlete category; fashion/creator crossover noted by coverage.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@didirich2",
+          "profileUrl": "https://www.instagram.com/didirich2/",
+          "followerCountDisplay": "146K",
+          "followerCountNumeric": 146000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "CelebsFact biography: @didirich2 currently has 146K followers (Nov 2022 snapshot; checked 2026-09-06)."
+        },
+        {
+          "platform": "X",
+          "username": "@Deauzya",
+          "profileUrl": "https://x.com/Deauzya",
+          "followerCountDisplay": "35.6K",
+          "followerCountNumeric": 35600,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "25K–49.9K",
+          "sourceNote": "CelebsFact biography: Twitter @Deauzya 35.6K followers."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@didirich2",
+        "display": "146K",
+        "numeric": 146000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "100K–249.9K"
+    },
+    {
+      "id": "W-2026-073",
+      "displayName": "Dani Danielle \"Elle\" Speegle",
+      "categories": [
+        "Fitness",
+        "Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 10, 1993 in Conifer, Colorado — age 33 in 2026 — per Legit.ng, WikiBioStar, MuscleHustles and Grokipedia. NextBiography lists 1994/Houston — year/place conflict logged; adult either way.",
+        "sourceLabel": "Grokipedia — Dani Speegle (born January 10, 1993)",
+        "sourceUrl": "https://grokipedia.com/page/dani_speegle",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's CrossFit division career and she/her biographies; #GirlsWhoEat body-positivity founder; Titan Games season 2 women's winner.",
+        "sourceLabel": "Legit.ng — Dani Speegle biography (she/her)",
+        "sourceUrl": "https://www.legit.ng/ask-legit/biographies/1565515-dani-speegles-age-height-net-worth-married/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Legit.ng — Dani Speegle (DOB 10 January 1993; IG @dellespeegle 1.8M+)",
+          "platform": "Website",
+          "url": "https://www.legit.ng/ask-legit/biographies/1565515-dani-speegles-age-height-net-worth-married/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Grokipedia — Dani Speegle (DOB 1993-01-10; IG 2M+; TikTok ~372K; YT ~180K)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/dani_speegle",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @dellespeegle (CrossFit athlete)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/dellespeegle/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "Six-time CrossFit Games athlete and Titan Games S2 women's winner — objective fitness/athlete category. DOB-year conflict (1993 across 4 sources vs 1994 NextBiography) logged; adult unaffected.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@dellespeegle",
+          "profileUrl": "https://www.instagram.com/dellespeegle/",
+          "followerCountDisplay": "1.8M+",
+          "followerCountNumeric": 1800000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Legit.ng biography: 'over 1.8 million followers' on Instagram (Grokipedia snapshot: 2M+, late 2024)."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@dellespeegle",
+          "profileUrl": "https://www.tiktok.com/@dellespeegle",
+          "followerCountDisplay": "372K",
+          "followerCountNumeric": 372000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "Grokipedia biography: TikTok @dellespeegle approximately 372,000 followers."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@dellespeegle",
+          "profileUrl": "https://www.youtube.com/@dellespeegle",
+          "followerCountDisplay": "180K",
+          "followerCountNumeric": 180000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Grokipedia biography: YouTube channel around 180,000 subscribers."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@dellespeegle",
+        "display": "1.8M+",
+        "numeric": 1800000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-074",
+      "displayName": "Demi Bagby",
+      "categories": [
+        "Fitness",
+        "Athlete",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 10, 2001 in San Diego, California — age 25 in 2026 — recorded identically by TheFamousPeople, FactCeleb, Dreshare, Gymless and Spreadthoughts (plus her public IG bio lists age 25).",
+        "sourceLabel": "TheFamousPeople — Demi Bagby (birthday January 10, 2001)",
+        "sourceUrl": "https://www.thefamouspeople.com/profiles/demi-bagby-43857.php",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via structured bio data 'Gender: Female' (FactCeleb) and she/her CrossFit/fitness coverage.",
+        "sourceLabel": "FactCeleb — Demi Bagby biography (Gender: Female)",
+        "sourceUrl": "https://factceleb.com/biography/demi-bagby-bio-wiki-parents-weight-height-ethnicity-boyfriend-school-app-siblings/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "TheFamousPeople — Demi Bagby (DOB 2001-01-10; IG 2.7M)",
+          "platform": "Website",
+          "url": "https://www.thefamouspeople.com/profiles/demi-bagby-43857.php",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Spreadthoughts — Demi Bagby bio (DOB 2001-01-10; IG ~2.7M; YT ~1.77M)",
+          "platform": "Website",
+          "url": "https://www.spreadthoughts.com/demi-bagby-biography/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @demibagby (calisthenics/CrossFit creator)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/demibagby/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "YouTube — Demi Bagby channel",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@demibagby",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "CrossFit/calisthenics creator, DemiBagbyFit app founder — objective fitness category. YouTube subscriber figure (~1.77M) recorded from SocialBlade citation in Spreadthoughts (counts change frequently).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@demibagby",
+          "profileUrl": "https://www.instagram.com/demibagby/",
+          "followerCountDisplay": "2.7M",
+          "followerCountNumeric": 2700000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "TheFamousPeople/Spreadthoughts biographies: ~2.7 million Instagram followers (HypeAuditor historical Jan–Feb 2026)."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@demibagby",
+          "profileUrl": "https://www.youtube.com/@demibagby",
+          "followerCountDisplay": "1.77M",
+          "followerCountNumeric": 1770000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Spreadthoughts biography citing SocialBlade: ~1.77M YouTube subscribers (counts change frequently)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@demibagby",
+        "display": "2.7M",
+        "numeric": 2700000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-075",
+      "displayName": "Sara Hughes",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 14, 1995 in Long Beach, California — age 31 in 2026 — per NBC Olympics bio and Sportskeeda coverage; Olympics.com lists year of birth 1995 (Tier-1).",
+        "sourceLabel": "NBC Olympics — Kelly Cheng and Sara Hughes athlete bios (born February 14, 1995)",
+        "sourceUrl": "https://www.nbcolympics.com/news/kelly-cheng-and-sara-hughes-meet-athletes",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US beach volleyball women's national team — Olympics.com athlete profile and Team USA bio (Sara Elizabeth Hughes).",
+        "sourceLabel": "Team USA — Sara Hughes athlete profile (Olympian 2024)",
+        "sourceUrl": "https://www.teamusa.com/profiles/sara-hughes",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "NBC Olympics — Sara Hughes bio (DOB Feb 14, 1995; USC champion)",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/kelly-cheng-and-sara-hughes-meet-athletes",
+          "relationship": "press"
+        },
+        {
+          "label": "USA Volleyball — Sara Hughes athlete page (beach national team)",
+          "platform": "Website",
+          "url": "https://usavolleyball.org/athlete/sara-hughes/",
+          "relationship": "official"
+        },
+        {
+          "label": "AVP — Sara Hughes official player page (lists @sarahughesbeach)",
+          "platform": "Website",
+          "url": "https://avp.com/player/sara-hughes/",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @sarahughesbeach (linked by USAV embed + AVP)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sarahughesbeach/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 FIVB beach volleyball world champion (with Kelly Cheng), Paris 2024 Olympian — objective athlete category. Handle verified via Tier-1 USAV/AVP pages; no public follower count in captured snippets — recorded UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sarahughesbeach",
+          "profileUrl": "https://www.instagram.com/sarahughesbeach/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed by usavolleyball.org embedded post and avp.com player page; count not captured in public snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-076",
+      "displayName": "Kelly Cheng (née Claes)",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 18, 1995 in Fullerton, California — age 30 in 2026 — per Tier-1 volleyballworld.com Olympic player bio ('Birth date 18/09/1995', age 30) and NBC Olympics bio.",
+        "sourceLabel": "Volleyball World (FIVB) — Kelly Cheng player bio (birth date 18/09/1995)",
+        "sourceUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-olympic-games-paris-2024/players/140066",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured gender 'Female' and US women's beach national-team career (USC women's beach volleyball championships 2016–17).",
+        "sourceLabel": "Beach.volleybox — Kelly Cheng player data (gender: Female)",
+        "sourceUrl": "https://beach.volleybox.net/kelly-cheng-p19093",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — Kelly Cheng Olympic player bio (DOB 18/09/1995)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-olympic-games-paris-2024/players/140066",
+          "relationship": "official"
+        },
+        {
+          "label": "NBC Olympics — Kelly Cheng bio (born September 18, 1995)",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/kelly-cheng-and-sara-hughes-meet-athletes",
+          "relationship": "press"
+        },
+        {
+          "label": "Beach.volleybox — Kelly Cheng (Claes; gender Female; sameAs @kellycheng)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/kelly-cheng-p19093",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kellycheng (linked via Olympics.com embed + volleybox sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kellycheng/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 FIVB beach volleyball world champion (with Sara Hughes), Paris 2024 Olympian — objective athlete category; maiden name Claes per volleybox. IG handle verified via Olympics.com embed; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kellycheng",
+          "profileUrl": "https://www.instagram.com/kellycheng/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed via Olympics.com article embed and volleybox sameAs; count not captured in public snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-077",
+      "displayName": "Brooks Nader",
+      "categories": [
+        "Modeling",
+        "Swimwear",
+        "Fashion",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 7, 1997 in Baton Rouge, Louisiana — age 29 in 2026 — per NewYorkStyleGuide and BiographyKind. Dreshare lists 1996 — year conflict logged; adult either way.",
+        "sourceLabel": "NewYorkStyleGuide — Brooks Nader profile (born February 7, 1997)",
+        "sourceUrl": "https://newyorkstyleguide.com/brooks-nader-50-lifestyle-swimsuit-photos/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Sports Illustrated Swimsuit model career (2019 Swim Search winner; 2023 cover) and she/her coverage.",
+        "sourceLabel": "BiographyKind — Brooks Nader bio (model, she/her; IG @brooksnader)",
+        "sourceUrl": "https://en.biographykind.com/brooks-nader/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "NewYorkStyleGuide — Brooks Nader (DOB 1997-02-07; IG ~1.8M late-2025; TikTok 269.1K)",
+          "platform": "Website",
+          "url": "https://newyorkstyleguide.com/brooks-nader-50-lifestyle-swimsuit-photos/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Yahoo Entertainment — Brooks Nader (1.4M IG, Dec 2024 snapshot)",
+          "platform": "Website",
+          "url": "https://www.yahoo.com/entertainment/sports-illustrated-swimsuit-model-brooks-191502838.html",
+          "relationship": "press"
+        },
+        {
+          "label": "Dreshare — Brooks Nader wiki (DOB listed 1996 — conflict logged)",
+          "platform": "Website",
+          "url": "https://www.dreshare.com/brooks-nader/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @brooksnader (SI Swimsuit model)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/brooksnader/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "2019 SI Swim Search winner and 2023 SI Swimsuit cover model — objective swimwear/modeling categories (activity-based, never an appearance rating). DOB-year conflict 1997 (most sources) vs 1996 (Dreshare) logged.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@brooksnader",
+          "profileUrl": "https://www.instagram.com/brooksnader/",
+          "followerCountDisplay": "1.8M",
+          "followerCountNumeric": 1800000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "NewYorkStyleGuide (June 2026): roughly 1.8 million Instagram followers as of late 2025; Yahoo (Dec 2024) listed 1.4M."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@brooksnader",
+          "profileUrl": "https://www.tiktok.com/@brooksnader",
+          "followerCountDisplay": "269.1K",
+          "followerCountNumeric": 269100,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "NewYorkStyleGuide: 269.1k TikTok followers as of late 2025."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@brooksnader",
+        "display": "1.8M",
+        "numeric": 1800000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-078",
+      "displayName": "Regan Smith",
+      "categories": [
+        "Athlete",
+        "Creator",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 9, 2002 in Lakeville, Minnesota — age 24 in 2026 — per Olympedia Tier-1 record ('Born: 9 February 2002') and EssentiallySports feature.",
+        "sourceLabel": "Olympedia — Regan Smith (born 9 February 2002; 8 Olympic medals)",
+        "sourceUrl": "https://www.olympedia.org/athletes/147282",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Olympedia structured 'Sex: Female' and women's backstroke/butterfly Olympic events.",
+        "sourceLabel": "Olympedia — Regan Smith record (Sex: Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/147282",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Regan Smith (DOB 2002-02-09; Sex: Female; medals record)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/147282",
+          "relationship": "official"
+        },
+        {
+          "label": "EssentiallySports — Regan Smith family feature (born February 9, 2002)",
+          "platform": "Website",
+          "url": "https://www.essentiallysports.com/olympics-swimming-news-who-are-regan-smiths-parents-and-siblings-meet-the-family-behind-usas-backstroke-star/",
+          "relationship": "press"
+        },
+        {
+          "label": "Grokipedia (Wikipedia-derived) — Regan Smith swimmer biography",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Regan_Smith_(swimmer)",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Olympic gold medalist (Paris 2024) and world-record holder in the 100m backstroke — objective athlete category. No public social handles captured in snippets — follower range UNKNOWN (not a disqualifier).",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-079",
+      "displayName": "Adriene Mishler (Yoga with Adriene)",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 29, 1984 in Austin, Texas — age 41 in 2026 — per Wikipedia (encyclopedic biography) and TheFamousPeople; structured birthDate 1984-09-29 also present in InfluencerFee profile data.",
+        "sourceLabel": "Wikipedia — Adriene Mishler (born September 29, 1984)",
+        "sourceUrl": "https://www.wikiwand.com/en/Adriene_Mishler",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography (actress and yoga teacher, she/her throughout) and TheFamousPeople profile of her career.",
+        "sourceLabel": "TheFamousPeople — Adriene Mishler biography (she/her)",
+        "sourceUrl": "https://www.thefamouspeople.com/profiles/adriene-mishler-42957.php",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Adriene Mishler (DOB 1984-09-29; 13M+ YouTube subscribers)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/Adriene_Mishler",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TheFamousPeople — Adriene Mishler (birthday September 29, 1984)",
+          "platform": "Website",
+          "url": "https://www.thefamouspeople.com/profiles/adriene-mishler-42957.php",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "InfluencerFee — Adriene Mishler (structured sameAs: @yogawithadriene, @adrienelouise 2.5M)",
+          "platform": "Website",
+          "url": "https://influencerfee.com/influencer/yoga-with-adriene/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — @yogawithadriene (channel per Wikipedia infobox)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@yogawithadriene",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @adrienelouise (structured sameAs link)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/adrienelouise/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered this session via yoga/wellness creator pipeline. Objective category: certified yoga teacher and host of YouTube's largest yoga channel (Yoga with Adriene); Find What Feels Good co-founder. No appearance-based data used.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@yogawithadriene",
+          "profileUrl": "https://www.youtube.com/@yogawithadriene",
+          "followerCountDisplay": "13M+",
+          "followerCountNumeric": 13000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Wikipedia (Jan 2025 snapshot): 'over 13 million subscribers… top 500 most subscribed YouTube channels'; LiveYogaTeachers (2026) cites 13M+."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@adrienelouise",
+          "profileUrl": "https://www.instagram.com/adrienelouise/",
+          "followerCountDisplay": "2.5M",
+          "followerCountNumeric": 2500000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "InfluencerFee biography (2026): Instagram 2.5M followers (structured sameAs link)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@yogawithadriene",
+        "display": "13M+",
+        "numeric": 13000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-080",
+      "displayName": "Maddie Lymburner (MadFit)",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 14, 1995 in Waterdown (Hamilton), Ontario — age 30 in 2026 — recorded identically by InformationCradle (structured), Celebrity-Birthdays, FeaturedBiography and St-Aug profile pages.",
+        "sourceLabel": "InformationCradle — Maddie Lymburner (born November 14, 1995)",
+        "sourceUrl": "https://informationcradle.com/maddie-lymburner/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via InformationCradle profile table listing 'Gender: Female' and consistent she/her biographies (fitness blogger, married to Chris Hartwig).",
+        "sourceLabel": "InformationCradle — Maddie Lymburner profile (Gender: Female)",
+        "sourceUrl": "https://informationcradle.com/maddie-lymburner/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "InformationCradle — Maddie Lymburner (DOB 1995-11-14; Gender: Female; MadFit 6M+ Jun 2021)",
+          "platform": "Website",
+          "url": "https://informationcradle.com/maddie-lymburner/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "St-Aug profile — Maddie 'MadFit' Lymburner (over 7.3M MadFit subscribers)",
+          "platform": "Website",
+          "url": "https://explore.st-aug.edu/exp/maddie-lymburner-madfit-bio-wiki-age-height-family-husband-youtube-and-net-worth",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "FeaturedBiography — Maddie Lymburner (MadFit 6.86M subs; IG credit @madfit.ig)",
+          "platform": "Website",
+          "url": "https://featuredbiography.com/maddie-lymburner/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — MadFit channel (fitness workouts)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@MadFit",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @madfit.ig (per FeaturedBiography image credit)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/madfit.ig/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Canadian home-workout creator; named Google's top Canadian YouTube creator 2020 (InformationCradle). Objective fitness category. Latest published count (7.3M, Mar 2026 profile) recorded with 6.86M snapshot cited.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "MadFit",
+          "profileUrl": "https://www.youtube.com/@MadFit",
+          "followerCountDisplay": "7.3M+",
+          "followerCountNumeric": 7300000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "St-Aug profile (March 2026): MadFit channel 'over 7.3 million subscribers'; FeaturedBiography snapshot 6.86M; InformationCradle 6M+ (Jun 2021)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@madfit.ig",
+          "profileUrl": "https://www.instagram.com/madfit.ig/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed via FeaturedBiography photo credit (@madfit.ig); follower count not captured in snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "MadFit",
+        "display": "7.3M+",
+        "numeric": 7300000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-081",
+      "displayName": "Natacha Océane",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 6, 1993 in England — age 33 in 2026 — recorded identically by AllFamous (structured birthday set), FameCop, WikiCelebs full-name bio table, and 2010Media profile.",
+        "sourceLabel": "AllFamous — Natacha Océane (born August 6, 1993)",
+        "sourceUrl": "https://allfamous.org/people/natacha-oceane-19930806.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via consistent she/her biographies — English fitness YouTuber with UCL biophysics master's; FameCop describes her channel history with 'she/her' throughout.",
+        "sourceLabel": "FameCop — Natacha Océane biography (she/her)",
+        "sourceUrl": "https://famecop.com/fitness/natacha-oceane/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "WikiCelebs — Natacha Océane (DOB 1993-08-06; 1.6M YT; handles table)",
+          "platform": "Website",
+          "url": "https://www.wikicelebs.com/natacha-oceane/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "AllFamous — Natacha Océane (YT 1.1M+ subs; IG natacha.oceane 1M+)",
+          "platform": "Website",
+          "url": "https://allfamous.org/people/natacha-oceane-19930806.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "FameCop — Natacha Océane (1.55M YouTube subscribers snapshot)",
+          "platform": "Website",
+          "url": "https://famecop.com/fitness/natacha-oceane/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — @natachaoceane (per WikiCelebs handles table)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@natachaoceane",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @natacha.oceane (per AllFamous)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/natacha.oceane/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "UK science-based fitness creator (UCL biophysics MSc). Objective fitness/wellness category. Birthplace recorded as England by four sources; one profile (2010Media) states Houston-born/UK-raised — minor birthplace variance, DOB consistent.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@natachaoceane",
+          "profileUrl": "https://www.youtube.com/@natachaoceane",
+          "followerCountDisplay": "1.6M+",
+          "followerCountNumeric": 1600000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "WikiCelebs biography (Sep 2025): 'over 1.6 million subscribers'; FameCop snapshot 1.55M; AllFamous 1.1M+ (older)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@natacha.oceane",
+          "profileUrl": "https://www.instagram.com/natacha.oceane/",
+          "followerCountDisplay": "1M+",
+          "followerCountNumeric": 1000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "AllFamous biography: 'Instagram account, natacha.oceane, now has more than 1 million followers'."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@natachaoceane",
+        "display": "1.6M+",
+        "numeric": 1600000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-082",
+      "displayName": "Chloe Ting",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 9, 1986 in Brunei — age 40 in 2026 — recorded identically by CelebFacts, CelebWags, FameCop, BrandMentions and InnovaterHub biographies.",
+        "sourceLabel": "CelebFacts — Chloe Ting (born April 9, 1986)",
+        "sourceUrl": "https://www.celebsfacts.com/chloe-ting/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via FameCop structured profile data listing 'Gender: Female' and consistent she/her fitness-creator biographies.",
+        "sourceLabel": "FameCop — Chloe Ting profile (structured gender: Female)",
+        "sourceUrl": "https://famecop.com/chloe-ting/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FameCop — Chloe Ting (DOB 1986-04-09; gender Female; YT 26.1M subs structured, Aug 2026)",
+          "platform": "Website",
+          "url": "https://famecop.com/chloe-ting/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "CelebFacts — Chloe Ting biography (2.3M IG snapshot)",
+          "platform": "Website",
+          "url": "https://www.celebsfacts.com/chloe-ting/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "InnovaterHub — Chloe Ting biography (25M+ YouTube, Feb 2024)",
+          "platform": "Website",
+          "url": "https://innovaterhub.com/chloe-ting/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — @ChloeTing (structured sameAs per FameCop)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@ChloeTing",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Bruneian-Australian fitness creator; NASM-certified personal trainer ('Two Week Shred Challenge'). Objective fitness category; one of YouTube's largest fitness channels. Instagram 2.3–2.9M snapshots cited in biographies but no verified handle capture this session — noted only.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@ChloeTing",
+          "profileUrl": "https://www.youtube.com/@ChloeTing",
+          "followerCountDisplay": "26.1M",
+          "followerCountNumeric": 26100000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "FameCop structured data (dateModified 2026-08-09): YouTube interactionStatistic 26,100,000 subscribers to @ChloeTing; InnovaterHub 25M+ (2024)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@ChloeTing",
+        "display": "26.1M",
+        "numeric": 26100000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-083",
+      "displayName": "Anna Engelschall (growingannanas)",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 27, 1995 in Austria — age 31 in 2026 — recorded by YouTube Fandom (structured), NetworthChart, CelebsWorlds and IWMBuzz (German) biographies.",
+        "sourceLabel": "YouTube Fandom — growingannanas (born June 27, 1995)",
+        "sourceUrl": "https://youtube.fandom.com/wiki/Growingannanas",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via IWMBuzz profile table 'Geschlecht: Weiblich' (gender: female) and consistent she/her biographies of the Austrian CrossFit coach/creator.",
+        "sourceLabel": "IWMBuzz — growingannanas (Geschlecht: Weiblich)",
+        "sourceUrl": "https://iwmbuzz.de/growingannanas/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CelebsWorlds — Anna Engelschall (DOB 1995-06-27; 7M+ YT; 1.4M TikTok @growingannanas)",
+          "platform": "Website",
+          "url": "https://www.celebsworlds.com/anna-engelschall/",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "YouTube Fandom — growingannanas (handles: IG/Threads/TikTok @growingannanas)",
+          "platform": "Website",
+          "url": "https://youtube-fandom-com.translate.goog/wiki/Growingannanas?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "IWMBuzz — growingannanas (CrossFit coach; @growingannanas channels)",
+          "platform": "Website",
+          "url": "https://iwmbuzz.de/growingannanas/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — @growingannanas (full-length workout channel)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@growingannanas",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @growingannanas (per WikiCelebs/CelebsWorlds handle tables)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@growingannanas",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @growingannanas (per YouTube-Wiki infobox)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/growingannanas/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Austrian certified personal trainer/CrossFit coach and CEO of Grow with Anna GmbH — objective fitness category. YT count 7M+ (CelebsWorlds, Sep 2025); older snapshots 2.2M (2024) and 4.2M (2023) show growth trajectory.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "@growingannanas",
+          "profileUrl": "https://www.youtube.com/@growingannanas",
+          "followerCountDisplay": "7M+",
+          "followerCountNumeric": 7000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "CelebsWorlds biography (Sep 2025): 'more than 7 million subscribers on YouTube'."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@growingannanas",
+          "profileUrl": "https://www.tiktok.com/@growingannanas",
+          "followerCountDisplay": "1.4M+",
+          "followerCountNumeric": 1400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "CelebsWorlds biography (Sep 2025): TikTok over 1.4 million followers."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@growingannanas",
+          "profileUrl": "https://www.instagram.com/growingannanas/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed via YouTube-Wiki infobox social links; count not captured in snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "@growingannanas",
+        "display": "7M+",
+        "numeric": 7000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-084",
+      "displayName": "Caroline Girvan",
+      "categories": [
+        "Fitness",
+        "Wellness",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 22, 1984 — age 42 in 2026 — per Wikipedia (encyclopedic biography: 'born 22 June 1984', age 41 at snapshot) and NetworthSpot profile (June 22, 1984, County Antrim).",
+        "sourceLabel": "Wikipedia — Caroline Girvan (born June 22, 1984)",
+        "sourceUrl": "https://wikiwand.com/en/articles/Caroline_Girvan",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography (certified personal trainer and mother of two; she/her) and consistent coverage.",
+        "sourceLabel": "Wikipedia — Caroline Girvan biography (she/her)",
+        "sourceUrl": "https://wikiwand.com/en/articles/Caroline_Girvan",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Caroline Girvan (DOB 1984-06-22; Channel: Caroline Girvan; 4M subs, Mar 2025)",
+          "platform": "Website",
+          "url": "https://wikiwand.com/en/articles/Caroline_Girvan",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "NetworthSpot — Caroline Girvan profile (DOB Jun 22 1984; 3.4M+ subs, May 2026)",
+          "platform": "Website",
+          "url": "https://www.networthspot.com/caroline-girvan/net-worth/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "YouTube — Caroline Girvan channel (channel name per Wikipedia)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@CarolineGirvan",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Northern Irish certified personal trainer; lockdown-launch home-workout channel and CGX app — objective fitness category. Subscriber snapshots vary: Wikipedia infobox 4M (Mar 26, 2025) vs NetworthSpot 3.4M (May 2026) — variance logged in IRR-2026-09-06-010.",
+      "socialAccounts": [
+        {
+          "platform": "YouTube",
+          "username": "Caroline Girvan",
+          "profileUrl": "https://www.youtube.com/@CarolineGirvan",
+          "followerCountDisplay": "4M",
+          "followerCountNumeric": 4000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Wikipedia infobox: 'Subscribers: 4 million' (last updated 26 March 2025); NetworthSpot (May 2026) cites 3.4M+ — both recorded verbatim."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "YouTube",
+        "username": "Caroline Girvan",
+        "display": "4M",
+        "numeric": 4000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-085",
+      "displayName": "Sunisa \"Suni\" Lee",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 9, 2003 in St. Paul, Minnesota — age 23 in 2026 — per Britannica ('How old is Suni Lee? … born on March 9, 2003') and Biography.com (BORN: March 9, 2003).",
+        "sourceLabel": "Britannica — Suni Lee (born March 9, 2003)",
+        "sourceUrl": "https://www.britannica.com/biography/Suni-Lee",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Britannica biography (American gymnast, 'the fifth consecutive American woman to claim the sport's most coveted prize'; US women's national team).",
+        "sourceLabel": "Britannica — Suni Lee biography (she/her, women's gymnastics)",
+        "sourceUrl": "https://www.britannica.com/biography/Suni-Lee",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Suni Lee (DOB 2003-03-09)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Suni-Lee",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Biography.com — Suni Lee (BORN: March 9, 2003, Saint Paul)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/a61611825/suni-lee",
+          "relationship": "press"
+        },
+        {
+          "label": "USA Gymnastics — Suni Lee official athlete profile (lists IG @sunisalee_, X @sunii567)",
+          "platform": "Website",
+          "url": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=467541",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @sunisalee_ (per USA Gymnastics official profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sunisalee_/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @sunii567 (per USA Gymnastics official profile)",
+          "platform": "X",
+          "url": "https://x.com/sunii567",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2020 Olympic all-around champion and 2024 Olympic team gold medalist — objective athlete category. Handles come from her official USA Gymnastics national-team page (Tier-1); no public follower counts captured — recorded UNKNOWN, never estimated.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sunisalee_",
+          "profileUrl": "https://www.instagram.com/sunisalee_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle per USA Gymnastics official national-team profile ('Instagram: Instagram.com/sunisalee_'); count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@sunii567",
+          "profileUrl": "https://x.com/sunii567",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle per USA Gymnastics official national-team profile ('Twitter/X: @sunii567'); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-086",
+      "displayName": "Olivia \"Livvy\" Dunne",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Modeling",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 1, 2002 in Westwood, New Jersey — age 23 in 2026 — per Wikipedia encyclopedic biography (full name Olivia Paige Dunne) and Sportskeeda/NetInfluencer profiles.",
+        "sourceLabel": "Wikipedia — Livvy Dunne (born October 1, 2002)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livvy_Dunne",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Wikipedia biography (actress, model; former LSU Tigers women's gymnastics team member and SI Swimsuit model; she/her).",
+        "sourceLabel": "Wikipedia — Livvy Dunne biography (she/her)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Livvy_Dunne",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Livvy Dunne (DOB 2002-10-01; NCAA champion; SI swimsuit model)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Livvy_Dunne",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Luxus Magazine — Olivia Dunne (8M TikTok + 5.4M Instagram, Nov 2025 page)",
+          "platform": "Website",
+          "url": "https://magazine.luxus-plus.com/en/who-is-olivia-dunne-ex-gymnast-turned-social-media-star/",
+          "relationship": "press"
+        },
+        {
+          "label": "NetInfluencer — Olivia Dunne (IG embed @livvydunne)",
+          "platform": "Website",
+          "url": "https://www.netinfluencer.com/olivia-dunne/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @livvydunne (per NetInfluencer IG embed)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/livvydunne/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @livvy (per TikTok-Wiki + Luxus)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@livvy",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 NCAA team champion with LSU and Sports Illustrated Swimsuit model — objective athlete/modeling categories. TikTok cadence: Wikipedia 'more than 8 million followers on TikTok' (Feb 2023), Luxus 8M (2025); IG 5.4M (Luxus Sept 2025 clip) — recorded verbatim per-platform.",
+      "socialAccounts": [
+        {
+          "platform": "TikTok",
+          "username": "@livvy",
+          "profileUrl": "https://www.tiktok.com/@livvy",
+          "followerCountDisplay": "8M+",
+          "followerCountNumeric": 8000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Luxus Magazine (Nov 2025): 8 million TikTok followers; Wikipedia: >8M TikTok (Feb 2023); Sportskeeda-wiki snapshot 7.2–7.6M (older)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@livvydunne",
+          "profileUrl": "https://www.instagram.com/livvydunne/",
+          "followerCountDisplay": "5.4M",
+          "followerCountNumeric": 5400000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "5M+",
+          "sourceNote": "Luxus Magazine (Nov 2025): 5.4 million Instagram followers; Wikipedia notes >5M IG (Feb 2023)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "TikTok",
+        "username": "@livvy",
+        "display": "8M+",
+        "numeric": 8000000,
+        "sizeRange": "5M+",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "5M+"
+    },
+    {
+      "id": "W-2026-087",
+      "displayName": "Jordan Chiles",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 15, 2001 — age 25 in 2026 — per NBC Olympics ('Jordan Chiles was born April 15, 2001 and is 23 years old', July 2024) and Wikipedia (born April 15, 2001); Team USA lists age 25.",
+        "sourceLabel": "NBC Olympics — Jordan Chiles athlete bio (born April 15, 2001)",
+        "sourceUrl": "https://www.nbcolympics.com/news/jordan-chiles-meet-athlete",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's national gymnastics team career (NBC Olympics/Team USA 'Golden Girls' women's team) and she/her coverage.",
+        "sourceLabel": "Team USA — Jordan Chiles profile (women's team)",
+        "sourceUrl": "https://www.teamusa.com/profiles/jordan-chiles-908302",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "NBC Olympics — Jordan Chiles (DOB 2001-04-15)",
+          "platform": "Website",
+          "url": "https://www.nbcolympics.com/news/jordan-chiles-meet-athlete",
+          "relationship": "press"
+        },
+        {
+          "label": "Wikipedia — Jordan Chiles (born April 15, 2001, Tualatin OR)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Chiles",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "USA Gymnastics — Jordan Chiles official profile (lists IG @jordanchiles, X @ChilesJordan)",
+          "platform": "Website",
+          "url": "https://members.usagym.org/pages/athletes/athleteListDetail.html?id=279968",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @jordanchiles (live display 2M followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jordanchiles",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @ChilesJordan (live display 100.4K followers)",
+          "platform": "X",
+          "url": "https://x.com/ChilesJordan",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — Jordan Chiles official page (82K followers)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/jordanchiles2020",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic team champion; TIME 2025 Woman of the Year per USAG profile — objective athlete category. IG/X/FB counts are platform-native public displays captured via search snippets 2026-09-06 (not estimates).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jordanchiles",
+          "profileUrl": "https://www.instagram.com/jordanchiles",
+          "followerCountDisplay": "2M",
+          "followerCountNumeric": 2000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public profile display via Yahoo search snippet: '2M Followers, 527 Following, 783 Posts' (checked 2026-09-06); handle also listed on usagym.org official profile."
+        },
+        {
+          "platform": "X",
+          "username": "@ChilesJordan",
+          "profileUrl": "https://x.com/ChilesJordan",
+          "followerCountDisplay": "100.4K",
+          "followerCountNumeric": 100400,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Live X profile page display via search snippet: '126 Following, 100.4K Followers' (checked 2026-09-06)."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@jordanchiles2020",
+          "profileUrl": "https://www.facebook.com/jordanchiles2020",
+          "followerCountDisplay": "82K",
+          "followerCountNumeric": 82000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "50K–99.9K",
+          "sourceNote": "Facebook official page snippet via search: 'This is the official Facebook page for 2X Olympian & World Champion Jordan Chiles — Followers: 82K' (checked 2026-09-06)."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@jordanchiles",
+        "display": "2M",
+        "numeric": 2000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-088",
+      "displayName": "Jade Carey",
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 27, 2000 in Phoenix, Arizona — age 26 in 2026 — per Wikipedia infobox and TheGymter database record ('Birthdate May 27, 2000'); Team USA lists age 26.",
+        "sourceLabel": "Wikipedia — Jade Carey (born May 27, 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jade_Carey",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US national team women's artistic gymnastics career (USA Gymnastics 'Program: Women's Artistic'; Team USA women's team 'Golden Girls').",
+        "sourceLabel": "USA Gymnastics — Jade Carey athlete profile (Women's Artistic program)",
+        "sourceUrl": "https://members.usagym.org/pages/athletes/nationalTeamWomen.html?id=239522",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Jade Carey (DOB 2000-05-27)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jade_Carey",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TheGymter — Jade Carey database record (Birthdate May 27, 2000)",
+          "platform": "Website",
+          "url": "https://thegymter.net/jade-carey/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Team USA — Jade Carey profile (2020/2024 Olympian; Oregon State)",
+          "platform": "Website",
+          "url": "https://www.teamusa.com/profiles/jade-carey-1095482",
+          "relationship": "official"
+        },
+        {
+          "label": "SpeakRJ — Jade Carey @jadecareyy audit (2021: 55.7K; bio matches US team/OSU)",
+          "platform": "Website",
+          "url": "https://www.speakrj.com/audit/report/jadecareyy/instagram",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "CONFLICTING_INFORMATION"
+      ],
+      "notes": "2020 Olympic floor champion and 2024 Olympic team champion — objective athlete category. IG handle anomaly: @jadecareyy was her account per a June-2021 audit (55.7K, bio 'world champion, usa national team, future osu gymnast'), but the current live display under @jadecareyy shows a small fan-run account (366 followers) — probable handle change; pending re-verification (see IRR-2026-09-06-010).",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jadecareyy",
+          "profileUrl": "https://www.instagram.com/jadecareyy/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "June 2021 audit identified @jadecareyy as Jade Carey's account (55.7K, matching bio); current live display shows fan-run account — handle state under review, no count recorded."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-089",
+      "displayName": "Tara Davis-Woodhall",
+      "categories": [
+        "Athlete",
+        "Sports",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 20, 1999 in Mesquite, Texas — age 27 in 2026 — per Wikipedia (born May 20, 1999) and FamousBirthdays structured birthDate; Team USA lists age 27.",
+        "sourceLabel": "Wikipedia — Tara Davis-Woodhall (born May 20, 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tara_Davis-Woodhall",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's long-jump career (Wikipedia 'Women's athletics … 2024 Paris Long jump, Gold'; Team USA biography, she/her).",
+        "sourceLabel": "Team USA — Tara Davis-Woodhall biography",
+        "sourceUrl": "https://www.teamusa.com/profiles/tara-davis",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Tara Davis-Woodhall (DOB 1999-05-20; 2024 Olympic gold; 2025 world gold)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Tara_Davis-Woodhall",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Team USA — Tara Davis-Woodhall (Olympic gold long jump; UT Austin)",
+          "platform": "Website",
+          "url": "https://www.teamusa.com/profiles/tara-davis",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @_taarra_ live display (1M followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/_taarra_/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Threads — @_taarra_ live display (284.6K followers)",
+          "platform": "Threads",
+          "url": "https://www.threads.com/@_taarra_",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic and 2025 world long-jump champion — objective athlete category. Joint husband-wife account @thewoodhalls (972K) recorded separately with attribution note; never summed with her solo account.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@_taarra_",
+          "profileUrl": "https://www.instagram.com/_taarra_/",
+          "followerCountDisplay": "1M",
+          "followerCountNumeric": 1000000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1M–4.9M",
+          "sourceNote": "Instagram public profile display via search snippet: '1M seguidores, 1,149 siguiendo, 1,190 publicaciones — Tara Davis-Woodhall OLY (TDW) (@_taarra_)' (checked 2026-09-06)."
+        },
+        {
+          "platform": "Threads",
+          "username": "@_taarra_",
+          "profileUrl": "https://www.threads.com/@_taarra_",
+          "followerCountDisplay": "284.6K",
+          "followerCountNumeric": 284600,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "250K–499.9K",
+          "sourceNote": "Threads public profile display via search snippet: '284.6K Followers • 590 Threads' (checked 2026-09-06)."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@thewoodhalls",
+          "profileUrl": "https://www.instagram.com/thewoodhalls/",
+          "followerCountDisplay": "972K",
+          "followerCountNumeric": 972000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "500K–999.9K",
+          "sourceNote": "Joint Tara & Hunter Woodhall account — live display via search snippet '972K seguidores' (checked 2026-09-06); shared couple account, noted separately."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@_taarra_",
+        "display": "1M",
+        "numeric": 1000000,
+        "sizeRange": "1M–4.9M",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1M–4.9M"
+    },
+    {
+      "id": "W-2026-090",
+      "displayName": "Anna Hall",
+      "categories": [
+        "Athlete",
+        "Sports",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 23, 2001 in Denver/Highlands Ranch, Colorado — age 25 in 2026 — per University of Georgia athletics roster ('Born March 23, 2001'), Wikipedia, TheCityCeleb and SportsSpectrum ('24-year-old', Sept 2025).",
+        "sourceLabel": "University of Georgia Athletics — Anna Hall roster (Born March 23, 2001)",
+        "sourceUrl": "https://georgiadogs.com/sports/track-and-field/roster/anna-hall/4971",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's heptathlon career (NCAA/Team USA/USATF) and SportsSpectrum article ('the first American woman to win the heptathlon at the worlds or Olympics since Jackie Joyner-Kersee').",
+        "sourceLabel": "SportsSpectrum — Anna Hall heptathlon silver feature (she/her)",
+        "sourceUrl": "https://sportsspectrum.com/sport/olympics/2023/08/21/follower-of-christ-anna-hall-heptathlon-silver-worlds/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "University of Georgia Athletics — Anna Hall roster (DOB 2001-03-23)",
+          "platform": "Website",
+          "url": "https://georgiadogs.com/sports/track-and-field/roster/anna-hall/4971",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Anna Hall (heptathlete) biography (DOB 2001-03-23)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Anna_Hall_(heptathlete)",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Florida Gators athletics — Anna Hall roster (sameAs: IG @annaa.hall, X @annaahalll)",
+          "platform": "Website",
+          "url": "https://floridagators.com/sports/track-and-field/roster/anna-hall/14962",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @annaa.hall (per UF roster structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/annaa.hall",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @annaahalll (per UF roster structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/annaahalll",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2025 world heptathlon champion — objective athlete category. Handles verbatim from official Florida Gators roster structured data; no follower counts captured — UNKNOWN, never estimated.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@annaa.hall",
+          "profileUrl": "https://www.instagram.com/annaa.hall",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle per floridagators.com roster structured sameAs link; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@annaahalll",
+          "profileUrl": "https://x.com/annaahalll",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle per floridagators.com roster structured sameAs link; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-091",
+      "displayName": "Masai Russell",
+      "categories": [
+        "Athlete",
+        "Sports",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 17, 2000 in Washington, D.C. — age 26 in 2026 — per Wikipedia (born June 17, 2000); NPR describes her as 24 at the Aug 2024 final and On3 as 25 in May 2026.",
+        "sourceLabel": "Wikipedia — Masai Russell (born June 17, 2000)",
+        "sourceUrl": "https://www.wikiwand.com/en/Masai_Russell",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's 100m hurdles career — 'Women's athletics … 2024 Paris 100 m hurdles, Gold' (Wikipedia medal record) and she/her NPR coverage.",
+        "sourceLabel": "NPR — Masai Russell wins Olympic gold (she/her)",
+        "sourceUrl": "https://www.npr.org/2024/08/10/nx-s1-5070567/masai-russell-gold-100m-hurdle-olympic",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Masai Russell (DOB 2000-06-17; 2024 Olympic 100m hurdles gold)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/Masai_Russell",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "NPR — Masai Russell wins 100m hurdles gold by one hundredth (Aug 2024)",
+          "platform": "Website",
+          "url": "https://www.npr.org/2024/08/10/nx-s1-5070567/masai-russell-gold-100m-hurdle-olympic",
+          "relationship": "press"
+        },
+        {
+          "label": "Bullis School — Masai Russell wins Olympic gold (class of 2018; Kentucky)",
+          "platform": "Website",
+          "url": "https://www.bullis.org/news/article/~board/bullis/post/bullis-alumnus-masai-russell-wins-olympic-gold-in-womens-100m-hurdles",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic 100m hurdles champion and NCAA/American record holder — objective athlete category. No social handles captured in this session's snippets — follower range UNKNOWN (not a disqualifier for athletes-window).",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-092",
+      "displayName": "Nelly Korda",
+      "categories": [
+        "Athlete",
+        "Sports",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 28, 1998 in Bradenton, Florida — age 28 in 2026 — per Wikipedia encyclopedic biography and Celebrity-Birthdays/InfoSeeMedia profiles (structured DOB 1998-07-28).",
+        "sourceLabel": "Wikipedia — Nelly Korda (born July 28, 1998)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nelly_Korda",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LPGA Tour women's golf career — 'women's world rankings', Solheim Cup and Women's PGA Championship (Wikipedia); daughter of Petr Korda.",
+        "sourceLabel": "Wikipedia — Nelly Korda biography (LPGA women's tour, she/her)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Nelly_Korda",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Nelly Korda (DOB 1998-07-28; 4-time major winner; Olympic gold 2020)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Nelly_Korda",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Celebrity-Birthdays — Nelly Korda (DOB Jul 28, 1998; Bradenton)",
+          "platform": "Website",
+          "url": "https://celebrity-birthdays.com/people/nelly-korda",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "KemiFilani — Nelly Korda bio update (career majors and titles)",
+          "platform": "Website",
+          "url": "https://www.kemifilani.ng/breaking-news/nelly-korda-bio-update-age-personal-life-career-net-worth",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "World No.1-ranked LPGA golfer, 2020 Olympic gold medalist and 4-time major champion — objective athlete category. No social handle captured in this session's snippets — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-093",
+      "displayName": "Iga Świątek",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 31, 2001 in Warsaw, Poland — age 25 in 2026 — per ESPN player profile ('Birth Date May 31, 2001 (Age: 25)') and Wikipedia (31 May 2001); tennisworldusa structured birthDate.",
+        "sourceLabel": "ESPN — Iga Świątek player profile (Birth Date May 31, 2001)",
+        "sourceUrl": "https://www.espn.com/tennis/player/_/id/3730/iga-swiatek",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's singles career — six major titles and women's world No. 1 ranking (Wikipedia/ESPN), she/her.",
+        "sourceLabel": "Wikipedia — Iga Świątek biography (women's singles No. 1)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPN — Iga Świątek (DOB 2001-05-31; WTA record 437-105)",
+          "platform": "Website",
+          "url": "https://www.espn.com/tennis/player/_/id/3730/iga-swiatek",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Iga Świątek (DOB 31 May 2001; 6 major titles)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Iga_%C5%9Awi%C4%85tek",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TennisWorldUSA — Iga Świątek bio (structured birthDate 2001-May-31)",
+          "platform": "Website",
+          "url": "https://www.tennisworldusa.org/tennis-player/450/iga-swiatek/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Six-time major champion and former WTA world No. 1 — objective athlete category. No social handle captured in this session's snippets — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-094",
+      "displayName": "Emma Raducanu",
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 13, 2002 in Toronto, Canada — age 23 in 2026 — per Tier-1 WTA official player page ('Birthday: Nov 13, 2002') and ESPN ('Birth Date November 13, 2002 (Age: 23)').",
+        "sourceLabel": "WTA — Emma Raducanu official player profile (Birthday Nov 13, 2002)",
+        "sourceUrl": "https://www.wtatennis.com/players/328366/emma-raducanu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WTA women's singles career — 2021 US Open champion; WTA bio (parents Ian and Renee, she/her coverage).",
+        "sourceLabel": "WTA — Emma Raducanu biography (women's tour)",
+        "sourceUrl": "https://www.wtatennis.com/players/328366/emma-raducanu",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "WTA — Emma Raducanu official page (DOB 2002-11-13; US Open 2021)",
+          "platform": "Website",
+          "url": "https://www.wtatennis.com/players/328366/emma-raducanu",
+          "relationship": "official"
+        },
+        {
+          "label": "ESPN — Emma Raducanu (Birth Date November 13, 2002)",
+          "platform": "Website",
+          "url": "https://www.espn.com/tennis/player/_/id/3398/emma-raducanu",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "TennisRatio — Emma Raducanu (structured birthDate + WTA affiliation)",
+          "platform": "Website",
+          "url": "https://www.tennisratio.com/players/EmmaRaducanu.html",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @emmaraducanu (per Sept 2021 coverage during US Open run)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/emmaraducanu/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2021 US Open singles champion — objective athlete category. The 2021-era snippet captured showed ~420K followers before her title run (massively stale by 2026) — current count treated as UNKNOWN rather than recording stale data, per anti-estimation rule.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@emmaraducanu",
+          "profileUrl": "https://www.instagram.com/emmaraducanu/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented in September 2021 coverage ('Emma Raducanu emmaraducanu', 420K at the time — pre-title, stale by 2026); current count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-095",
+      "displayName": "Trinity Rodman",
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 20, 2002 in Newport Beach, California — age 24 in 2026 — per Britannica encyclopedic biography and Biography.com (BORN: May 20, 2002); Chicago-area coverage records her 24th birthday in May 2026 timeframe (Britannica: age 24).",
+        "sourceLabel": "Britannica — Trinity Rodman (born May 20, 2002)",
+        "sourceUrl": "https://www.britannica.com/biography/Trinity-Rodman",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US Women's National Team and NWSL career — 'the 18-year-old Rodman became the youngest player to be drafted in NWSL history' (Britannica); she/her.",
+        "sourceLabel": "Britannica — Trinity Rodman biography (USWNT, she/her)",
+        "sourceUrl": "https://www.britannica.com/biography/Trinity-Rodman",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Trinity Rodman (DOB 2002-05-20; 2024 Olympic gold; record 2026 contract)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Trinity-Rodman",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Biography.com — Trinity Rodman (BORN: May 20, 2002; Washington Spirit)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/a60672592/trinity-rodman",
+          "relationship": "press"
+        },
+        {
+          "label": "SportsBigNews — Trinity Rodman (born May 20, 2002; 23 years old, 2026)",
+          "platform": "Website",
+          "url": "https://www.sportsbignews.com/football/who-is-trinity-rodman-career-stats-records-net-worth-and-relationship/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic gold medalist with the USWNT and record-setting 2026 Washington Spirit contract (world's highest-paid women's soccer player per Britannica) — objective athlete category. No social handle captured this session — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-096",
+      "displayName": "Paige Bueckers",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 20, 2001 in Edina, Minnesota — age 24 in 2026 — per Wikipedia encyclopedic biography and BiographyWallah (DOB 20 October 2001, Gender: Female).",
+        "sourceLabel": "Wikipedia — Paige Bueckers (born October 20, 2001)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Paige_Bueckers",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's college/pro basketball career — UConn Huskies women's basketball and WNBA Dallas Wings (Wikipedia); BiographyWallah structured 'Gender: Female'.",
+        "sourceLabel": "BiographyWallah — Paige Bueckers (Gender: Female)",
+        "sourceUrl": "https://biographywallah.com/paige-bueckers/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Paige Bueckers (DOB 2001-10-20; 2025 NCAA champion; WNBA Rookie of the Year)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Paige_Bueckers",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "StarsUnfolded — Paige Bueckers (DOB 20 October 2001; WNBA draft #1 2025)",
+          "platform": "Website",
+          "url": "https://starsunfolded.com/paige-bueckers/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2025 NCAA champion with UConn and 2025 WNBA #1 overall pick/Rookie of the Year — objective athlete category. Wikipedia records that her Instagram reached 1,000,000 followers on April 4, 2022 — the first women's college basketball player to do so; no current count or handle capture this session — recorded harmoniously as UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-097",
+      "displayName": "Angel Reese",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 6, 2002 in Randallstown, Maryland — age 24 in 2026 — per Britannica ('born May 6, 2002 (age 24)') and the Chicago Tribune ('On May 6, 2002, Angel Reese was born… turns 24', May 2026).",
+        "sourceLabel": "Britannica — Angel Reese (born May 6, 2002)",
+        "sourceUrl": "https://www.britannica.com/biography/Angel-Reese",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career (Chicago Sky/Atlanta Dream; LSU women's 2023 championship) and she/her Britannica coverage.",
+        "sourceLabel": "Britannica — Angel Reese biography (WNBA, she/her)",
+        "sourceUrl": "https://www.britannica.com/biography/Angel-Reese",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Angel Reese (DOB 2002-05-06; rookie rebound records)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Angel-Reese",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Chicago Tribune — Angel Reese turns 24 (May 6, 2002 birth)",
+          "platform": "Website",
+          "url": "https://www.chicagotribune.com/2026/05/06/today-in-history-angel-reese-turns-24/",
+          "relationship": "press"
+        },
+        {
+          "label": "Biography.com — Angel Reese (WNBA records overview)",
+          "platform": "Website",
+          "url": "https://www.biography.com/athletes/a64289466/angel-reese",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 NCAA champion (LSU) and two-time WNBA rebounding leader — objective athlete category. No social handle captured in this session's snippets — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-098",
+      "displayName": "Kate Douglass",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 17, 2001 in New York, N.Y. — age 24 in 2026 — per Tier-1 Olympedia record (Born: 17 November 2001) and her Arena sportswear athlete page (DATE OF BIRTH 17/11/2001).",
+        "sourceLabel": "Olympedia — Kate Douglass (Born 17 November 2001)",
+        "sourceUrl": "https://www.olympedia.org/athletes/2506216",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Olympedia structured 'Sex: Female' and Virginia Cavaliers women's swimming roster (Olympic bronze, 200 IM).",
+        "sourceLabel": "Olympedia — Kate Douglass record (Sex: Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/2506216",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Kate Douglass (DOB 2001-11-17; Sex: Female; Virginia)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/2506216",
+          "relationship": "official"
+        },
+        {
+          "label": "Arena — Kate Douglass athlete page (DATE OF BIRTH 17/11/2001)",
+          "platform": "Website",
+          "url": "https://about.arenasport.com/en/athletes/kate-douglass",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Virginia Athletics — Kate Douglass roster (2020 Olympic bronze medalist)",
+          "platform": "Website",
+          "url": "https://virginiasports.com/sports/swimming/roster/player/kate-douglass",
+          "relationship": "official"
+        },
+        {
+          "label": "FamousBirthdays — Kate Douglass (structured birthDate 2001-11-17)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/kate-douglass.html",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic 200m breaststroke champion and multiple-medal Olympic/NCAA swimmer — objective athlete category. Roster and sponsor pages link her socials, but no handle/counter surface in this session's snippets — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-099",
+      "displayName": "Torri Huske",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 7, 2002 in Arlington, Virginia — age 23 in 2026 — per Tier-1 Olympedia record (Born: 7 December 2002), FamousBirthdays structured birthDate, and Team USA (age 23).",
+        "sourceLabel": "Olympedia — Torri Huske (Born 7 December 2002)",
+        "sourceUrl": "https://www.olympedia.org/athletes/147283",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Olympedia structured 'Sex: Female' and US women's swimming 100m butterfly Olympic title (Team USA profile).",
+        "sourceLabel": "Olympedia — Torri Huske record (Sex: Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/147283",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Torri Huske (DOB 2002-12-07; Sex: Female; 6 Olympic medals)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/147283",
+          "relationship": "official"
+        },
+        {
+          "label": "FamousBirthdays — Torri Huske (birthday December 7, 2002)",
+          "platform": "Website",
+          "url": "https://www.famousbirthdays.com/people/torri-huske.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Team USA — Torri Huske profile (3 gold, 3 silver; Stanford)",
+          "platform": "Website",
+          "url": "https://www.teamusa.com/profiles/torri-huske",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @torri_huske (live display 108K followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/torri_huske/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Olympic 100m butterfly champion (plus two relay golds) — objective athlete category. IG count is the platform-native public display captured via search snippet 2026-09-06.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@torri_huske",
+          "profileUrl": "https://www.instagram.com/torri_huske/",
+          "followerCountDisplay": "108K",
+          "followerCountNumeric": 108000,
+          "countType": "rounded",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "100K–249.9K",
+          "sourceNote": "Instagram public profile display via search snippet: '108K followers, 1,007 following, 206 posts' (bio: USA Olympian Stanford) — checked 2026-09-06."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "Instagram",
+        "username": "@torri_huske",
+        "display": "108K",
+        "numeric": 108000,
+        "sizeRange": "100K–249.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "100K–249.9K"
+    },
+    {
+      "id": "W-2026-100",
+      "displayName": "Gretchen Walsh",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 29, 2003 in Nashville, Tennessee — age 23 in 2026 — per Wikipedia (born January 29, 2003), SwimSwam bio, and Team USA (age 23).",
+        "sourceLabel": "Wikipedia — Gretchen Walsh (born January 29, 2003)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gretchen_Walsh",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's swimming career — 'fastest female freshman', 100m butterfly world record holder; Team USA Women's team, she/her (SwimSwam).",
+        "sourceLabel": "SwimSwam — Gretchen Walsh bio (women's events, she/her)",
+        "sourceUrl": "https://swimswam.com/bio/gretchen-walsh/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Gretchen Walsh (DOB 2003-01-29; multiple world records)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Gretchen_Walsh",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Team USA — Gretchen Walsh profile (2 gold, 2 silver Paris 2024)",
+          "platform": "Website",
+          "url": "https://www.teamusa.com/profiles/gretchen-walsh",
+          "relationship": "official"
+        },
+        {
+          "label": "Sportskeeda — Gretchen Walsh hometown article (image credit @gretchwalsh2)",
+          "platform": "Website",
+          "url": "https://www.sportskeeda.com/swimming/where-is-gretchen-walsh-from",
+          "relationship": "press"
+        },
+        {
+          "label": "Instagram — @gretchwalsh2 (per Sportskeeda image attribution)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/gretchwalsh2/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "100m butterfly world-record holder and 2x Olympic gold medalist (Paris 2024) — objective athlete category. IG handle via Sportskeeda article's own image attribution; count not captured — UNKNOWN, never estimated.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@gretchwalsh2",
+          "profileUrl": "https://www.instagram.com/gretchwalsh2/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle confirmed via Sportskeeda article photo credit (@gretchwalsh2); follower count not captured in snippets."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
     }
   ],
   "reviewQueue": [
@@ -3988,6 +7369,20 @@
       "severity": "needs-review",
       "summary": "Session-10 verification flags: follower-display variances and one DOB-day conflict, all recorded verbatim for manual review.",
       "detail": "(1) Kahdia (W-2026-048): StackInfluence (Oct 2025) listed ~28K Instagram followers; public Instagram profile snippet checked 2026-09-06 displays 6,604 — both recorded; catalog uses the first-party platform display. (2) Jade Haliburton (W-2026-051): birth day Jan 30 (3 sources) vs Jan 31 (StarsUnfolded); year 1998 consistent, adult status unaffected — identity (née Jones) now resolved. (3) Paige Hathaway (W-2026-053): IG 3.6M (Famecop 2026 snapshot) vs ~4M (CelebrityBorns July 2020) — historical snapshots differ; latest used. (4) Namesake caution recorded in R-2026-001: URI setter Jessica Parker ≠ UWSP's Jessica Parker (born 5/19/82). (5) Joan MacDonald IG 1.7M+ (KPRC 2023) vs 2M+ (TheCityCeleb 2026) — both cited. (6) The 1,000-creator figure remains a target, not a quota: 55 verified / 4 review after this session; unverifiable candidates stay REVIEW_REQUIRED rather than being guessed.",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-009",
+      "severity": "needs-review",
+      "summary": "Session-11 batch-1 flags: follower snapshot variances + three DOB conflicts recorded verbatim for manual review.",
+      "detail": "(1) DOB conflicts (adult unaffected in all): Mia Sand 1987 vs 1988; Dani Speegle 1993 vs 1994; Brooks Nader 1997 vs 1996. (2) Caroline Marks IG @caroline_markss 16K comes from a WSL-mirror (wavereport.org) follow widget and may be stale or a secondary account — primary-platform re-check recommended. (3) Amanda Elise Lee IG 11M+ (BiographyPedia 2024) vs 12M (WomanMagazine 2021) — snapshots differ. (4) Winifer Fernández: current IG @winifer.fernandezofficial (24K) vs CelebsAges historic 280K+ account — recorded as separate snapshots, not merged. (5) Mia Sand IG 2M (Oct-2024 display) vs 2.5M+ (TheCityCeleb 2026 bio) — latest-bio cited in note, display value used. (6) Handful of pro athletes (Sara Hughes, Kelly Cheng, Andrea Drews, Regan Smith, Petra, sarahcat) have Tier-1-verified handles with no publicly captured follower displays — recorded FOLLOWER_COUNT_UNKNOWN, never estimated.",
+      "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-010",
+      "severity": "needs-review",
+      "summary": "Session-11 batch-2 flags: Jade Carey handle anomaly + snapshot variances recorded verbatim for manual review.",
+      "detail": "(1) Jade Carey: @jadecareyy was verified as her account in a June-2021 audit (55.7K, matching bio), but the current live display under that handle is a small fan-run account (366 followers) — probable handle change; is her current handle possibly @jadecarey? Requires manual re-verification; no count recorded. (2) Caroline Girvan YouTube subscriber snapshots conflict: Wikipedia infobox '4M' (Mar 26 2025) vs NetworthSpot '3.4M+' (May 2026) — both recorded; largest recorded as 4M citing Wikipedia's dated snapshot (a sub-count does not cross-bucket). (3) Emma Raducanu: only a September-2021 snippet captured her IG (420K pre-US-Open title) — deliberately recorded FOLLOWER_COUNT_UNKNOWN instead of stale data. (4) Paige Bueckers: Wikipedia documents her Instagram reaching 1,000,000 followers on 2022-04-04 (a milestone, not a current count) — noted in prose only, not recorded as current count. (5) Several Olympic athletes have Tier-1-official-profile handles (usagym/laus/roster sameAs) but no observable follower displays in search snippets: Suni Lee, Anna Hall, Gretchen Walsh, Masai Russell, Nelly Korda, Iga Świątek, Trinity Rodman, Angel Reese, Kate Douglass — recorded UNKNOWN per protocol (ranges unknown ≠ disqualifier). (6) Maddie Lymburner/Anna Engelschall YouTube handles are vanity-URL standard names matching multiple biographies; counts come from named biography snapshots, not platform-native displays (St-Aug/CelebsWorlds).",
       "reviewStatus": "requires-owner-review"
     }
   ]
