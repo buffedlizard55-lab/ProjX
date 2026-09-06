@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 268,
+    "entryCount": 270,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18456,6 +18456,118 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-269",
+      "displayName": "Lena Stigrot",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 20, 1994 in Bad Tölz, Germany — age 31 in 2026 — per the OFFICIAL Team Deutschland/Olympic page (Geburtsdatum 20.12.1994) and TWO official volleyballworld/FIVB registry pages (Birth date 20/12/1994 = 20 December 1994 DD/MM; VNL 2025 Age 30, WCH 2025 Age 31). NOTE: en.wikipedia prints '21 December 1994' — outlier vs all official registries; official value recorded and flagged.",
+        "sourceLabel": "Team Deutschland — official Lena Stigrot page (Geburtsdatum 20.12.1994)",
+        "sourceUrl": "https://www.teamdeutschland.de/team/details/lena-stigrot",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Germany women's national volleyball team career — 'part of the Germany women's national volleyball team' (Wikipedia); official FIVB women's registry (VNL + World Championship squads).",
+        "sourceLabel": "Volleyball World — official FIVB women's registry (Germany #10 Stigrot)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/144980",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Team Deutschland — official Lena Stigrot page (Geburtsdatum 20.12.1994)",
+          "platform": "Website",
+          "url": "https://www.teamdeutschland.de/team/details/lena-stigrot",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleyball World — official Stigrot registry (Birth date 20/12/1994; Age 31)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/144980",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Lena Stigrot (context; DOB day outlier)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lena_Stigrot",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "MINOR_SOURCE_CONFLICT_NOTED"
+      ],
+      "notes": "German national-team outside hitter (#10) and 2025 FIVB World Championship squad member — club career through Dresdner SC; 2017 Montreux Volley Masters silver with Germany — objective athlete category; verified 31 years old. Wikipedia 21-vs-20-Dec outlier noted against two independent official registries and flagged. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-270",
+      "displayName": "Pia Kästner",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 29, 1998 in Eisenhüttenstadt, Germany — age 27 (28 in June 2026) in 2026 — per the OFFICIAL volleyballworld/FIVB registry (Birth date 29/06/1998 = 29 June 1998 DD/MM, Age 27-28) and Wikipedia/Wikiwand (born 29 June 1998 in Eisenhüttenstadt) plus volleybox listing (Birthdate 1998-06-29).",
+        "sourceLabel": "Volleyball World — official Kästner registry (Birth date 29/06/1998)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/150973",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Germany women's national volleyball team career — official FIVB Setter page ('Kästner Pia... Team Germany'); 'German volleyball player... 2018 FIVB Volleyball Women's Nations League' (Wikipedia).",
+        "sourceLabel": "Volleyball World — official FIVB women's registry (Germany #2 Kästner, Setter)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/150973",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Kästner registry (Birth date 29/06/1998)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/150973",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Pia Kästner (born 29 June 1998, Eisenhüttenstadt)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Pia_K%C3%A4stner",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Pia Kästner listing (Birthdate 1998-06-29)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/best-of-plays-pia-kastner-m29830",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "German national-team setter — club career through VCO Berlin, Allianz MTV Stuttgart, ASPTT Mulhouse and SSC Palmberg Schwerin; VNL regular since 2018 — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
