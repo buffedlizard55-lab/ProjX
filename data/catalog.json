@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 284,
+    "entryCount": 286,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19529,6 +19529,110 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Turkish setter legend — 2012 London Olympian, FIVB Roster 100 member; won Club World titles with both Fenerbahçe and VakıfBank, multiple Turkish leagues; daughter of national players Alev and Ali Aydemir; signed with Galatasaray for 2025-26 — objective athlete category; verified 35 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-285",
+      "displayName": "CC McGraw",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Adult former NCAA Division I athlete and now professional-club coach — per official University of Minnesota athletics (Golden Gophers 2018-22 roster; bachelor's degree in psychology + master's degree in sports and exercise science) and official University of Louisville athletics (volunteer coach from 2023) plus official provolleyball.com (named MLV Minnesota assistant coach, Jan 2026). A documented five-year college playing career capped by two university degrees and a professional coaching career is reliable 18+ evidence; no exact birth date is published — DOB unknown, noted.",
+        "sourceLabel": "PVF/MLV — official CC McGraw assistant-coach announcement (Jan 2026)",
+        "sourceUrl": "https://provolleyball.com/news/2026/01/mlv-minnesota-names-cc-mcgraw-as-assistant-coach",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's volleyball career — University of Minnesota women's volleyball standout libero 2018-22 (official gophersports.com) and Louisville women's volleyball volunteer coach (official gocards.com).",
+        "sourceLabel": "University of Minnesota Athletics — official CC McGraw bio (women's volleyball libero)",
+        "sourceUrl": "https://gophersports.com/news/2017/11/8/Volleyball_Adds_Four_to_Gopher_Roster",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "PVF/MLV — official CC McGraw assistant-coach announcement",
+          "platform": "Website",
+          "url": "https://provolleyball.com/news/2026/01/mlv-minnesota-names-cc-mcgraw-as-assistant-coach",
+          "relationship": "official"
+        },
+        {
+          "label": "University of Louisville Athletics — official CC McGraw volunteer-coach announcement",
+          "platform": "Website",
+          "url": "https://gocards.com/news/2023/4/7/womens-volleyball-cc-mcgraw-added-as-volunteer-coach-in-volleyball",
+          "relationship": "official"
+        },
+        {
+          "label": "University of Minnesota Athletics — official roster announcement (CC McGraw)",
+          "platform": "Website",
+          "url": "https://gophersports.com/news/2017/11/8/Volleyball_Adds_Four_to_Gopher_Roster",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Minnesota women's volleyball standout libero (No. 3 all-time with 1,924 digs; Pro Volleyball Federation player 2023-25) turned coach — Louisville volunteer, now assistant coach for the new MLV Minnesota pro franchise — objective athlete/coaching category; adult via documented five-year NCAA career + two degrees; exact DOB not published (noted). No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-286",
+      "displayName": "Bella Bergmark",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 5, 2000 in Larkspur, California — age 25-26 in 2026 — per the volleybox structured profile (birthDate 2000-09-05; maiden name Isabella Nicole Bergmark) consistent with six NCAA seasons (Cal 2018-21, Texas 2022-23) per the official LOVB athlete page.",
+        "sourceLabel": "Volleybox — Isabella Bergmark structured profile (birthDate 2000-09-05; gender Female)",
+        "sourceUrl": "https://women.volleybox.net/isabella-bergmark-p73792",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + pro women's volleyball career — two-time NCAA Division I champion with University of Texas women's volleyball (2022-23) per the official lovb.com athlete page; volleybox structured 'gender: Female'.",
+        "sourceLabel": "LOVB — official Bella Bergmark athlete page (two-time NCAA champion, Texas women)",
+        "sourceUrl": "https://www.lovb.com/teams/lovb-austin-volleyball/athletes/bella-bergmark",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "LOVB — official Bella Bergmark athlete page (Cal + Texas career)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-austin-volleyball/athletes/bella-bergmark",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleybox — Isabella Bergmark structured profile (birthDate 2000-09-05; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/isabella-bergmark-p73792",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time NCAA Division I champion middle blocker with Texas (2022-23; Academic All-American third team) from Larkspur, Calif. — pro career through Pinkin de Corozal (PR), Vandœuvre Nancy (France) and LOVB Austin (league champions) — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
