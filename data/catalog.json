@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 289,
+    "entryCount": 291,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19882,6 +19882,145 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-290",
+      "displayName": "Božana Butigan",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 19, 2000 in Mostar, Bosnia and Herzegovina — age 25-26 in 2026 — per Wikipedia (born 19 August 2000, Mostar), worldofvolley profile (Date of birth 19.08.2000) and the volleybox structured profile (birthDate 2000-08-19).",
+        "sourceLabel": "Wikipedia — Božana Butigan (born 19 August 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bo%C5%BEana_Butigan",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Croatia women's national volleyball team career ('She is a member of the Croatia women's national volleyball team'; 2021 Women's European Volleyball League silver; Wikipedia + volleybox structured 'gender: Female').",
+        "sourceLabel": "Wikipedia — Božana Butigan (Croatia women NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Bo%C5%BEana_Butigan",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Božana Butigan (DOB 2000-08-19; Mostar)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Bo%C5%BEana_Butigan",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Božana Butigan structured profile (birthDate 2000-08-19; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/bozana-butigan-p6073",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @bozanabutigan (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/bozanabutigan",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @bozana.butigan (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/bozana.butigan",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Croatian national-team middle blocker born in Mostar — club career through Mulhouse and Imoco Volley Conegliano; European Volleyball League silver 2021 — objective athlete category; verified 25 years old. IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@bozanabutigan",
+          "profileUrl": "https://www.instagram.com/bozanabutigan",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@bozana.butigan",
+          "profileUrl": "https://www.facebook.com/bozana.butigan",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-291",
+      "displayName": "Maja Aleksić",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 6, 1997 in Užice, Serbia — age 28-29 in 2026 — per the OFFICIAL volleyballworld/FIVB registry (Birth date 06/06/1997 = 6 June 1997 DD/MM, Age 28), Wikipedia (born 6 June 1997, Užice) and Grokipedia (born on 6 June 1997 in Užice).",
+        "sourceLabel": "Volleyball World — official Aleksić registry (Birth date 06/06/1997)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/players/143548",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — 2018 WORLD CHAMPION and Tokyo 2020 Olympic bronze medalist middle blocker (official FIVB registry + Wikipedia/Grokipedia).",
+        "sourceLabel": "Volleyball World — official FIVB women's registry (Aleksić #14, Serbia)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/players/143548",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Aleksić registry (Birth date 06/06/1997)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/players/143548",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Maja Aleksić (DOB 1997-06-06; Užice)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Maja_Aleksi%C4%87",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Maja Aleksić (born 6 June 1997; 2018 World champion)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Maja_Aleksi%C4%87",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Serbia golden-generation middle blocker — 2018 World champion, Tokyo 2020 Olympic bronze; club career through Vizura Ruma, Alba Blaj (plus CEV finals) and Igor Gorgonzola Novara, now Zeren Spor — objective athlete category; verified 28 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
