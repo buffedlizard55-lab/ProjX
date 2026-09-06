@@ -1,0 +1,108 @@
+# Session 13 pass 3 — evidence harvest for pool C (NCAA / US-college-linked volleyball and beach volleyball players
+# with a public Instagram, X or TikTok handle, DOB 1990-01-01..2008-09-06). 26 candidates not already catalogued.
+# Query: data/research/urls/evC1.url (4-branch UNION), executed 2026-09-06, transcribed verbatim.
+#   S = named source on the date-of-birth reference (P248 label); "NONE" = a reference exists carrying neither a
+#       named source nor a URL -> NOT age evidence
+#   U = reference URL on the date-of-birth statement (P854)
+#   W = English Wikipedia article linked to the item
+#   N = label of a member-of sports team (P54) whose country is the United States and whose English label contains
+#       "volleyball" (used only to document college-team membership; national teams and professional leagues in that
+#       set are distinguished by the generator, never assumed to be colleges)
+# Rows of the form "S|~<url>" are omitted because the identical URL is already recorded on the U line.
+# columns: qid<TAB>tag<TAB>value
+Q129156808	W	https://en.wikipedia.org/wiki/Abby_Hornacek
+Q89920715	W	https://en.wikipedia.org/wiki/Jenna_Gray
+Q19577569	W	https://en.wikipedia.org/wiki/Taylor_Wilson_(volleyball)
+Q19984711	W	https://en.wikipedia.org/wiki/Haley_Eckerman
+Q24956528	W	https://en.wikipedia.org/wiki/Megan_Courtney
+Q55217322	W	https://en.wikipedia.org/wiki/Chiaka_Ogbogu
+Q56044679	W	https://en.wikipedia.org/wiki/Krystal_Rivers
+Q59215854	W	https://en.wikipedia.org/wiki/Danielle_Cuttino
+Q59209361	W	https://en.wikipedia.org/wiki/Haleigh_Washington
+Q61944285	W	https://en.wikipedia.org/wiki/Brittany_Abercrombie
+Q11796105	W	https://en.wikipedia.org/wiki/Odina_Aliyeva
+Q11817026	W	https://en.wikipedia.org/wiki/Pilar_Marie_Victori%C3%A1
+Q16729605	W	https://en.wikipedia.org/wiki/Jennifer_Hamson
+Q17265995	W	https://en.wikipedia.org/wiki/Kelsey_Robinson
+Q17280076	W	https://en.wikipedia.org/wiki/TeTori_Dixon
+Q17285056	W	https://en.wikipedia.org/wiki/Molly_Kreklow
+Q18812039	W	https://en.wikipedia.org/wiki/Micha_Hancock
+Q3416056	W	https://en.wikipedia.org/wiki/Rachael_Adams
+Q9200989	W	https://en.wikipedia.org/wiki/Daly_Santana
+Q59209361	U	https://www.volleyball.world/en/volleyball/ioqt/2019/women-pool3/teams/usa-usa/players/haleigh_washington?id=75733
+Q129156808	U	http://www.bvbinfo.com/player.asp?ID=13815
+Q61944285	U	https://usctrojans.com/roster.aspx?rp_id=6035
+Q56044679	U	https://www.cev.eu/Competition-Area/PlayerDetails.aspx?TeamID=10583&PlayerID=72414&ID=1037
+Q17280076	U	http://www.worldofvolley.com/wov-community/players/40253.html
+Q16729605	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=678899090
+Q19577569	U	http://www.bvbinfo.com/player.asp?ID=14046
+Q46998410	U	https://mutigers.com/sports/womens-volleyball/roster/emily-thater/5180
+Q138018834	U	https://vcuathletics.com/sports/womens-volleyball/roster/romana-kriskova/3005
+Q89920715	U	https://www.dresdnersportclub.de/news/verein/item/6075-us-amerikanerin-jenna-gray-verstaerkt-den-dsc-im-zuspiel
+Q58011215	U	https://www.legavolleyfemminile.it/?page_id=194&idat=CRI-NAY-95
+Q46998410	S	VBL database
+Q68193497	S	VBL database
+Q89920715	S	VBL database
+Q84564888	S	VBL database
+Q16729605	S	FIBA database
+Q68193497	S	FIVB database
+Q138018834	S	FIVB database
+Q17285056	S	Volleybox
+Q138018834	S	Volleybox
+Q11796105	S	Volleybox
+Q46998410	S	Volleybox
+Q115788745	S	Volleybox
+Q26262233	S	Volleybox
+Q17285056	S	WorldofVolley
+Q138018834	S	WorldofVolley
+Q115788745	S	WorldofVolley
+Q55217322	S	Olympedia
+Q59209361	S	Olympedia
+Q18812039	S	Freebase Data Dumps
+Q24956528	S	NONE
+Q3416056	S	NONE
+Q17265995	S	NONE
+Q59209361	S	NONE
+Q55217322	S	NONE
+Q19984711	S	NONE
+Q59215854	S	NONE
+Q9200989	S	NONE
+Q11817026	S	NONE
+Q59215854	N	United States women's national volleyball team
+Q61944285	N	Puerto Rico women's national volleyball team
+Q89920715	N	Stanford Cardinal women's volleyball
+Q61944285	N	USC Trojans women's volleyball
+Q129156808	N	USC Trojans women's volleyball
+Q138018834	N	VCU Rams women's volleyball
+Q115788745	N	Wisconsin Badgers women's volleyball
+Q138018834	N	Wisconsin Badgers women's volleyball
+Q84564888	N	Kansas Jayhawks women's volleyball
+Q59215854	N	Purdue Boilermakers women's volleyball
+Q3416056	N	United States women's national volleyball team
+Q17265995	N	United States women's national volleyball team
+Q18812039	N	United States women's national volleyball team
+Q55217322	N	United States women's national volleyball team
+Q56044679	N	United States women's national volleyball team
+Q59209361	N	United States women's national volleyball team
+Q3416056	N	Texas Longhorns women's volleyball
+Q11817026	N	Texas Longhorns women's volleyball
+Q19984711	N	Texas Longhorns women's volleyball
+Q55217322	N	Texas Longhorns women's volleyball
+Q56044679	N	Alabama Crimson Tide women's volleyball
+Q9200989	N	Minnesota Golden Gophers women's volleyball
+Q17280076	N	Minnesota Golden Gophers women's volleyball
+Q17265995	N	Tennessee Lady Volunteers volleyball
+Q58011215	N	Oregon Ducks women's volleyball
+Q58011215	N	Illinois Fighting Illini women's volleyball
+Q17285056	N	Missouri Tigers women's volleyball
+Q46998410	N	Missouri Tigers women's volleyball
+Q16729605	N	BYU Cougars women's volleyball
+Q19577569	N	UC Santa Barbara Gauchos women's volleyball
+Q11796105	N	Athletes Unlimited Volleyball
+Q11817026	N	Arkansas Razorbacks women's volleyball
+Q26262233	N	UC Davis Aggies women's volleyball
+Q18812039	N	Penn State Nittany Lions women's volleyball
+Q24956528	N	Penn State Nittany Lions women's volleyball
+Q59209361	N	Penn State Nittany Lions women's volleyball
+Q17265995	N	Nebraska Cornhuskers women's volleyball
+Q68193497	N	Clemson Tigers women's volleyball

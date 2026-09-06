@@ -856,3 +856,84 @@ conventions are identical; `data/research/s13_pass2_selected.tsv` lists entry ID
 country, handles, named DOB sources, reference URLs and Wikipedia links for all 116 promotions.
 `scripts/validate_catalog.py` → 674 entries, 57 review-queue items, 18 irregularities, **0 errors** (2 pre-existing
 warnings).
+
+---
+
+## Session 13 pass 3 — NCAA / US college, both disciplines (2026-09-06)
+
+**Directive:** college sports first — NCAA volleyball and beach volleyball — then European and other women's
+leagues; keep searching; never invent a value.
+
+**Discovery.** Pool `data/research/urls/poolC1d.url`: female volleyball players (P106 = Q15117302) **or beach
+volleyball players** (P106 = Q17361156), DOB 1990-01-01..2008-09-06 (every candidate 18+), member of a sports team
+whose English label contains “volleyball” where the team's country is the United States **or** the player's
+citizenship is the United States, and with at least one public handle (Instagram / X / TikTok). `SELECT DISTINCT`
+returned **120 unique Q-IDs** → `data/research/s13_poolC.tsv`. Evidence (named source + URL on each date-of-birth
+reference, linked English Wikipedia article, US team labels) harvested via `data/research/urls/evC1.url` →
+`data/research/s13_evidenceC.tsv`.
+
+**The headline finding is exhaustion, not yield:** only **26 of 120** candidates were new — 81 already matched an
+existing entry by Q-ID, 12 by name, 1 by handle. Pass 1 had taken the Instagram-bearing college cohort born 1999+;
+pass 3 added what was left (alumni born 1990-1998, and players whose only public handle is on X or TikTok). Under
+these criteria the NCAA/US-college population with a documented DOB *and* a public handle is now essentially
+exhausted — further growth must come from the international birth-year bands, from primary-source work on the
+review queue, or from players with no public account (out of scope), not from re-running this pool.
+
+| Outcome | Count | Detail |
+| --- | --- | --- |
+| Promoted by the generator | 26 | 0 routed to the review queue — every candidate had a reference URL, a Wikipedia article or a named database source |
+| Net new entries after the duplicate merge | **25** | W-2026-675..699 |
+| — with an external reference URL on their own DOB statement | 11 | bvbinfo.com ×2, usctrojans.com, mutigers.com, vcuathletics.com, cev.eu, volleyball.world, volleyball-bundesliga.de, legavolleyfemminile.it, dresdnersportclub.de, worldofvolley.com |
+| — also with an English Wikipedia article | 19 | |
+| — recording US collegiate team membership | 25 | |
+| — flagged `AGE_EVIDENCE_SECONDARY_SOURCES` | 4 | Lindsay Dowd, Karis Watson, Ainise Havili, Sydney Hilley (Volleybox / VBL database / FIVB database / WorldofVolley named, no URL attached) |
+
+**Duplicate person — found and fixed.** The generator created **W-2026-678 “Kelsey Robinson”**, which is the same
+athlete as the Session-11 entry **W-2026-101 “Kelsey Robinson Cook”** (same DOB 1992-06-25, same Wikipedia
+article). The exact-name dedupe missed it because one row uses her married name and the older row had no social
+accounts. Caught by a post-generation scan for name-token subset matches and shared source URLs. Resolution: the
+new row was **deleted**, its verified material folded into W-2026-101 (Wikidata Q17265995 provenance, Instagram
+`@krobin32` with `FOLLOWER_COUNT_UNKNOWN`, `College Athlete` from documented Tennessee Lady Volunteers / Nebraska
+Cornhuskers women's volleyball membership), the merged entry flagged `ALIAS_MERGED_SESSION13_PASS3` and annotated,
+and the remaining pass-3 IDs renumbered to stay contiguous (**W-2026-678 retired, never reused**). Prevention:
+`scripts/session13_pass3.py` now dedupes on name-token subsets both ways and on cited profile URLs, not just exact
+names and handles. Logged as IRR-2026-09-06-019.
+
+**Wording correction (36 entries, passes 1-3).** Entries said *“no reference is attached to that statement”* when
+the weaker truth is that a reference **is** attached but carries neither a named source nor a URL. All 36 summaries
+now read *“the structured record names no source and no reference URL for that statement”*, and
+`scripts/session13_volleyball.py` was patched so future runs generate the accurate wording. No date, name, handle,
+URL or status changed.
+
+**Discipline correction (2 entries).** W-2026-675 Abby Hornacek and W-2026-676 Taylor Pischke were categorised
+beach-only because every DOB reference pointed at the Beach Volleyball Database; the spot-check showed each also has
+an indoor collegiate team in the same item, so both now list **Volleyball and Beach Volleyball**, the evidence
+sentence says “women's volleyball and beach volleyball”, and the notes name the two records supporting the two
+disciplines. The discovery-method sentence was reworded to “volleyball player and/or beach volleyball player”
+because the pool queried both occupations and the rows do not record which matched.
+
+**`College Athlete` guard.** Assigned only when the item records membership of a US *collegiate* volleyball team;
+national teams and professional leagues are excluded by an explicit `NOT_COLLEGE` pattern. Worked example:
+W-2026-680 Odina Aliyeva's only US-linked team is “Athletes Unlimited Volleyball” (professional), so she is
+categorised Athlete / Volleyball / Creator with **no** college claim. The category records documented collegiate
+team membership — historical or current — never current enrolment.
+
+**Spot-check audit (3/3 exact across passes 2-3).**
+
+| Entry | Primary page opened | Published on the page | Catalog | Result |
+| --- | --- | --- | --- | --- |
+| W-2026-675 Abby Hornacek | `bvbinfo.com/player.asp?ID=13815` | “Abby Hornacek”, United States; **Birth Date April 25, 1994 (32 years old)**; resides Paradise Valley, AZ; one beach event (2012 USAV IDQ, Los Angeles, partner Aren Cupp) | Abby Hornacek; 1994-04-25; age 32 on 2026-09-06; Beach Volleyball category; this bvbinfo record cited for the birth date | exact match on name, country, birth date and computed age; the page also shows the beach career is a single 2012 qualifying event, which is why the indoor collegiate team is now recorded *alongside* it |
+
+**Follower counts.** Nothing invented: Instagram, X and TikTok refuse automated retrieval here, so every account
+added by this pass keeps `FOLLOWER_COUNT_UNKNOWN` / `countType: unknown` / `FOLLOWER_RANGE_UNKNOWN` with a
+`sourceNote` explaining why.
+
+**Reproducibility.** `scripts/session13_pass3.py` is pool-agnostic (`--pool/--evidence/--audit/--label`, dry run by
+default) so later passes reuse it unchanged; `data/research/s13_pass3_selected.tsv` lists entry ID, Q-ID, group,
+name, DOB, computed age, handles, named DOB sources, reference URLs, Wikipedia links and US team labels for every
+promotion. `scripts/validate_catalog.py` → **699 entries, 57 review-queue items, 19 irregularities, 0 errors**.
+
+**Still unsearched (no completeness claim):** female volleyball/beach players born **2000-2008** whose items link a
+public handle but no US college team (the international bands — European, Asian and American leagues; the largest
+remaining pool); players with a documented DOB and **no** public handle (out of scope for a directory that requires
+a public account); and primary-source resolution of the 57 review-queue rows.

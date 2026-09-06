@@ -285,7 +285,7 @@ def build_entry(idx, cand, dob):
         provenance.append(f"the reference URL recorded against that statement is {refs[0]}")
     if imports:
         provenance.append(f"the statement was imported into Wikidata from the {join_sources(imports)}")
-    prov_text = ("; ".join(provenance)) if provenance else "no reference is attached to that statement"
+    prov_text = ("; ".join(provenance)) if provenance else (\n        "the structured record names no source and no reference URL for that statement")
 
     if refs:
         age_url = refs[0]
