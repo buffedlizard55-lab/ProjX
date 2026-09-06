@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 226,
+    "entryCount": 228,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15658,6 +15658,116 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-227",
+      "displayName": "Tijana Bošković",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 8, 1997 in Trebinje, Bosnia and Herzegovina — age 29 in 2026 — per the Olympedia athlete record (Born: 8 March 1997 in Trebinje), Alchetron (born 8 March 1997), sportsmanbiography (Date of Birth 8 March 1997) and the official CEV Champions League registry (birth year 1997, Trebinje).",
+        "sourceLabel": "Olympedia — Tijana Bošković record (Born 8 March 1997)",
+        "sourceUrl": "https://www.olympedia.org/athletes/131716",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career ('Serbian volleyball player for the Serbia women's national volleyball team' — Wikipedia/Alchetron) and CEV Women's Champions League player registry (championsleague.cev.eu 'Women' competition page).",
+        "sourceLabel": "CEV — official Champions League Women player registry (Tijana Bošković)",
+        "sourceUrl": "https://championsleague.cev.eu/en/women/team/12070-eczacibasi-vitra-istanbul/player/48453-boskovic-tijana",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Tijana Bošković (Born 8 March 1997; Trebinje)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/131716",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "CEV Champions League — official registry (birth year 1997; Eczacıbaşı VitrA)",
+          "platform": "Website",
+          "url": "https://championsleague.cev.eu/en/women/team/12070-eczacibasi-vitra-istanbul/player/48453-boskovic-tijana",
+          "relationship": "official"
+        },
+        {
+          "label": "Alchetron — Tijana Bošković (born 8 March 1997; Serbia NT)",
+          "platform": "Website",
+          "url": "https://alchetron.com/Tijana-Bo%C5%A1kovi%C4%87",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Superstar opposite for Serbia and VakıfBank (ex-Eczacıbaşı decade icon, captain) — 2018 & 2022 FIVB World Championship MVP, Rio 2016 silver / Tokyo 2020 bronze — objective athlete category; verified 29 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-228",
+      "displayName": "Magdalena Stysiak",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 3, 2000 in Turów, Poland — age 25 in 2026 — per the OFFICIAL volleyballworld governing-body player page (Birth date 03/12/2000 = 3 December 2000 DD/MM, confirmed on both the Paris 2024 Olympics and 2025 World Championship registries) and Wikipedia (born 3 December 2000).",
+        "sourceLabel": "Volleyball World — official Stysiak Magdalena player bio (Birth date 03/12/2000)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/152217",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Poland women's national volleyball team career and the FIVB Women's competition pages ('Volleyball Olympic Games Paris 2024 - Players' women's event; Wikipedia 'part of the Poland women's national volleyball team').",
+        "sourceLabel": "Wikipedia — Magdalena Stysiak (Poland women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Magdalena_Stysiak",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Stysiak bio (Birth date 03/12/2000; Poland)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/152217",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleyball World — Paris 2024 official player registry (same birth date)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/152217",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Magdalena Stysiak (born 3 December 2000; Turów)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Magdalena_Stysiak",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2.03m opposite for the Poland women's national team — Paris 2024 Olympian; Turkish league champion back-to-back with Fenerbahçe (2023-24) and Eczacıbaşı — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
