@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 236,
+    "entryCount": 238,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16332,6 +16332,169 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle via volleybox structured sameAs (also on famousbirthdays sameAs); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-237",
+      "displayName": "Lexy Denaburg",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 6, 2001 in Merritt Island, Florida — age 25 in 2026 — per the OFFICIAL volleyballworld governing-body player page for the Adelaide 2025 Beach World Championships (Birth date 06/06/2001), the official AVP athlete page (Birthday June 6, 2001), beach.volleybox structured record (birthDate 2001-06-06) and bvbinfo.com (Birth Date June 6, 2001 (25 years old)).",
+        "sourceLabel": "AVP — official Lexy Denaburg athlete page (Birthday June 6, 2001)",
+        "sourceUrl": "https://avp.com/player/lexy-denaburg/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via beach.volleybox structured record ('gender: Female') and UCLA Bruins beach volleyball career — four-time AVCA First Team All-American and UCLA all-time career wins leader (133; AVP official).",
+        "sourceLabel": "AVP — official Lexy Denaburg athlete page (UCLA career record)",
+        "sourceUrl": "https://avp.com/player/lexy-denaburg/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Denaburg bio (Birth date 06/06/2001; Adelaide 2025)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/players/182533",
+          "relationship": "official"
+        },
+        {
+          "label": "AVP — official Lexy Denaburg athlete page (Birthday June 6, 2001)",
+          "platform": "Website",
+          "url": "https://avp.com/player/lexy-denaburg/",
+          "relationship": "official"
+        },
+        {
+          "label": "beach.volleybox — Lexy Denaburg (birthDate 2001-06-06; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/lexy-denaburg-p65229",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "bvbinfo — Lexy Denaburg career record (Birth Date June 6, 2001)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=20789",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @lexydenaburg (beach.volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/lexydenaburg/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "UCLA beach volleyball's all-time career wins leader (133) and four-time AVCA First Team All-American; 2025 Beach World Championships (Adelaide) with Julia Donlin — objective athlete category; verified 25 years old. IG handle via beach.volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@lexydenaburg",
+          "profileUrl": "https://www.instagram.com/lexydenaburg/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-238",
+      "displayName": "Maddie Anderson",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 26, 2001 — age 24 in 2026 — per the OFFICIAL Florida State Athletics roster bio (PERSONAL: 'Born December 26, 2001', confirmed across three official roster seasons) and bvbinfo.com full career record (Madelyne May Anderson; Birth Date December 26, 2001 (24 years old)).",
+        "sourceLabel": "Florida State Athletics — official Maddie Anderson roster bio (Born December 26, 2001)",
+        "sourceUrl": "https://seminoles.com/sports/womens-beach-volleyball/roster/maddie-anderson/6567",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the official FSU roster page ('memberOf: Florida State Women's Beach Volleyball' structured record; on '2023-24 Women's Beach Volleyball Roster') — AVCA Second Team member (bvbinfo/seminoles).",
+        "sourceLabel": "Florida State Athletics — official roster (Women's Beach Volleyball; sameAs IG/X)",
+        "sourceUrl": "https://seminoles.com/sports/womens-beach-volleyball/roster/maddie-anderson/6567",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Florida State Athletics — official Maddie Anderson bio (Born December 26, 2001; structured sameAs IG/X)",
+          "platform": "Website",
+          "url": "https://seminoles.com/sports/womens-beach-volleyball/roster/maddie-anderson/6567",
+          "relationship": "official"
+        },
+        {
+          "label": "bvbinfo — Maddie Anderson career record (Birth Date December 26, 2001; FSU wins record)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=18936",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @maddie.mayy (FSU roster structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/maddie.mayy",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @madelyn_may (FSU roster structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/madelyn_may",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Florida State beach volleyball's program wins record holder (123) and AVCA Second Team honoree — objective athlete category; verified 24 years old. IG/X handles via official FSU roster structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@maddie.mayy",
+          "profileUrl": "https://www.instagram.com/maddie.mayy",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via official FSU roster structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@madelyn_may",
+          "profileUrl": "https://twitter.com/madelyn_may",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via official FSU roster structured sameAs; count not captured."
         }
       ],
       "largestPublicFollowing": {
