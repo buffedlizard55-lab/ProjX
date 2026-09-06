@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 286,
+    "entryCount": 287,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15974,7 +15974,7 @@
       "verificationStatus": "verified",
       "lastReviewed": "2026-09-06",
       "flags": [],
-      "notes": "Captain of the Japan women's national volleyball team and Paris 2024 Olympian ('retired after the 2024 Summer Olympics'); NEC Red Rockets legend — objective athlete category; verified 30 years old. Married name Sarina Nishida recorded as alias. IG handle + count from famousbirthdays display (650K rounded, approximate); count snapshot undated — treated as approximate.",
+      "notes": "Captain of the Japan women's national volleyball team and Paris 2024 Olympian ('retired after the 2024 Summer Olympics'); NEC Red Rockets legend — objective athlete category; verified 30 years old. Married name Sarina Nishida recorded as alias. IG handle + count from famousbirthdays display (650K rounded, approximate); count snapshot undated — treated as approximate. [Consolidation 2026-09-06: X @VSarina11 appended.]",
       "socialAccounts": [
         {
           "platform": "Instagram",
@@ -15986,6 +15986,17 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "500K–999.9K",
           "sourceNote": "famousbirthdays.com displays 'her sarina.koga Instagram account, which has amassed 650,000 followers' (rounded thousands, snapshot undated); recorded conservative-round."
+        },
+        {
+          "platform": "X",
+          "username": "@VSarina11",
+          "profileUrl": "https://twitter.com/VSarina11",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via peoplepill structured sameAs discovered during wave-40 dup-block consolidation; count not captured."
         }
       ],
       "largestPublicFollowing": {
@@ -19634,6 +19645,90 @@
       "flags": [],
       "notes": "Two-time NCAA Division I champion middle blocker with Texas (2022-23; Academic All-American third team) from Larkspur, Calif. — pro career through Pinkin de Corozal (PR), Vandœuvre Nancy (France) and LOVB Austin (league champions) — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-287",
+      "displayName": "Miyu Nagaoka",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 25, 1991 in Miyama, Fukuoka, Japan — age 34-35 in 2026 — per the Olympedia athlete record (Born: 25 July 1991 in Miyama, Fukuoka), Wikipedia (born July 25, 1991), the volleybox structured profile (birthDate 1991-07-25) and peoplepill (birthDate 25 July 1991).",
+        "sourceLabel": "Olympedia — Miyu Nagaoka record (Born 25 July 1991)",
+        "sourceUrl": "https://www.olympedia.org/athletes/130844",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Japan women's national volleyball team career — Rio 2016 Olympian (Wikipedia: 'member of Japan women's national volleyball team and participated at the 2016 Summer Olympics'); volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Miyu Nagaoka (Rio 2016 Olympian, Japan women NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miyu_Nagaoka",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Miyu Nagaoka (Born 25 July 1991; Miyama, Fukuoka)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/130844",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Miyu Nagaoka (DOB 1991-07-25; Rio 2016)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Miyu_Nagaoka",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @miyu_1_nagaoka (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/miyu_1_nagaoka/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X/Twitter — @miyu_nagaoka1 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/miyu_nagaoka1?s=21",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Rio 2016 Olympian opposite for Japan — Hisamitsu Springs legend (V.Premier League MVP 2012-13, World Grand Prix silver 2014, Asian Club champion 2014+) later with Imoco Volley Conegliano — objective athlete category; verified 34 years old. (Wave-40 dup-block: Sarina Koga already cataloged W-2026-231 — handle consolidated there instead of a duplicate entry.) IG/X handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@miyu_1_nagaoka",
+          "profileUrl": "https://www.instagram.com/miyu_1_nagaoka/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@miyu_nagaoka1",
+          "profileUrl": "https://x.com/miyu_nagaoka1?s=21",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
