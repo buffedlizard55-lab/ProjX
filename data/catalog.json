@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 270,
+    "entryCount": 272,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18568,6 +18568,145 @@
       "flags": [],
       "notes": "German national-team setter — club career through VCO Berlin, Allianz MTV Stuttgart, ASPTT Mulhouse and SSC Palmberg Schwerin; VNL regular since 2018 — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-271",
+      "displayName": "Alessia Gennari",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 3, 1991 in Parma, Italy — age 34 (35 in Nov 2026) in 2026 — per the OFFICIAL FIVB Rio 2016 Olympic registry (Birth Date 03/11/1991 = 3 November 1991 DD/MM, Birth Place Parma, club Imoco Volley Conegliano), Olympics.com official IOC profile (Year of Birth 1991), Wikipedia (born 3 November 1991) and Grokipedia (born on 3 November 1991 in Parma).",
+        "sourceLabel": "FIVB — official Rio 2016 registry (Birth Date 03/11/1991, Parma)",
+        "sourceUrl": "http://rio2016.fivb.com/en/og2016/women/teams/ita-italy/players/alessia-gennari?id=53453",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — Rio 2016 Olympian and 2022 FIVB World Championship BRONZE + 2022 VNL GOLD + 2021 EUROPEAN champion (Wikipedia/official FIVB women's registry).",
+        "sourceLabel": "Wikipedia — Alessia Gennari (Italy women's NT; Euro 2021/VNL 2022 gold)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Alessia_Gennari",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "FIVB — official Rio 2016 Gennari registry (Birth Date 03/11/1991, Parma)",
+          "platform": "Website",
+          "url": "http://rio2016.fivb.com/en/og2016/women/teams/ita-italy/players/alessia-gennari?id=53453",
+          "relationship": "official"
+        },
+        {
+          "label": "Olympics.com — official Alessia Gennari profile (YOB 1991; Rio 2016)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/alessia-gennari",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Alessia Gennari (DOB 1991-11-03; Parma)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Alessia_Gennari",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Rio 2016 Olympian outside hitter and 2021 European + 2022 VNL champion + 2022 World bronze with Italy — club career through Imoco Conegliano (Club World Championship title) and Busto Arsizio, now LOVB Austin — objective athlete category; verified 34 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-272",
+      "displayName": "Myriam Sylla",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 8, 1995 in Palermo, Italy — age 31 in 2026 — per Wikipedia (Myriam Fatime Sylla, born 8 January 1995, Palermo), the volleybox structured profile (birthDate 1995-01-08) and sportsmanbio (Date of Birth 8 January 1995).",
+        "sourceLabel": "Wikipedia — Myriam Sylla (born 8 January 1995)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Myriam_Sylla",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Italy women's national volleyball team career — Paris 2024 OLYMPIC GOLD medalist and 2025 WORLD CHAMPION (Wikipedia honours) plus volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Myriam Sylla (2024 Paris Olympic gold + 2025 World gold)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Myriam_Sylla",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Myriam Sylla (DOB 1995-01-08; 2024 Olympic gold)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Myriam_Sylla",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Myriam Sylla structured profile (birthDate 1995-01-08; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/miriam-sylla-p3757",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @miriamsylla (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/miriamsylla/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @miriam.syllafatime (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/miriam.syllafatime",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympic GOLD + 2025 World champion outside hitter for Italy — born Palermo to Ivorian parents; club career through Bergamo, Imoco Conegliano and Vero Volley Milano, now Galatasaray Daikin — objective athlete category; verified 31 years old. (Also spelled 'Miriam' on volleybox/fan media.) IG/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@miriamsylla",
+          "profileUrl": "https://www.instagram.com/miriamsylla/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@miriam.syllafatime",
+          "profileUrl": "https://www.facebook.com/miriam.syllafatime",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
