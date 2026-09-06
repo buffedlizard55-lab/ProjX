@@ -581,3 +581,20 @@ Owner request (verbatim): "see if there is a way to speed up the search and veri
 - IRR: 15 (unchanged during E–P) — last id IRR-2026-09-06-015; next free IRR-2026-09-06-016.
 - Validator: run before each of the 12 commits E–P; zero failures shipped.
 - Git: each batch committed + pushed to `arena/01a07456-projx` individually; docs synced in this commit.
+
+---
+
+## Session 12 — Continuation 2 (batches Q–V)
+
+Date: 2026-09-06. Same accelerated pipeline, same standing protocol.
+
+| Batch | IDs | Wave | Adds |
+|---|---|---|---|
+| Q | W-2026-191..192 | PWHL hockey (official thepwhl.com athlete page) + WSL surfing (official worldsurfleague.com + Red Bull JSON-LD). Fillier fan-blog DOB outlier (2000-08-31 vs official June 9) resolved in notes | 2 |
+| R | W-2026-193..194 | F1 Academy motorsport (motorsport.com/Autosport) + skateboarding (Britannica explicit "age 18" + olympics.com; Rayssa Leal verified 18+ via published DOB 2008-01-04) | 2 |
+| S | W-2026-195..196 | Rugby (Ilona Maher, handles IG @ilonamaher + X @ilona_maher via biographykind structured sameAs, counts UNKNOWN) + alpine skiing (Shiffrin via EBSCO/Wikipedia/POWDER) | 2 |
+| T | W-2026-197 | USC basketball JuJu Watkins — official usctrojans.com roster bio prose DOB + JSON-LD sameAs IG/X @jujubballin (counts UNKNOWN). Naomi Osaka dup-caught (pre-existing); birthdays.fyi 2006 year outlier noted vs official 2005 | 1 |
+| U | W-2026-198..199 | Freestyle skiing Eileen Gu (Britannica + Red Bull JSON-LD gender female + sameAs IG @eileen_gu_ + olympics.com) + cricket Smriti Mandhana (espncricinfo + cricket.com.au structured) | 2 |
+| V | W-2026-200 | Badminton PV Sindhu (Sportskeeda + Wikimedia Commons + FPJ + Jagran Josh). **Catalog milestone: 200 VERIFIED.** Faith Kipyegon + Femke Bol dup-caught pre-script | 1 |
+
+**Total Q–V: +10 (190 → 200 VERIFIED).** Dup-guard catches Q–V: 3 (Osaka, Kipyegon, Bol) + 2 research-stage (Suni Lee's full-name grep-miss was caught by URL guard in O; G. Thomas/M. Russell/N. Korda/L. Thompson caught during research greps). Validator `errors=0` before every commit; every batch pushed individually.
