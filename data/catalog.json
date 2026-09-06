@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 262,
+    "entryCount": 264,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18024,6 +18024,128 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-263",
+      "displayName": "Sarah Franklin",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 27, 2002 in Lake Worth Beach, Florida — age 24 in 2026 — per Wikipedia (born February 27, 2002), Wikidata Q127377777 (date of birth 27 February 2002; sex or gender: female), Wikimedia Commons category record (Date of birth 27 February 2002) and the volleybox structured profile (birthDate 2002-02-27).",
+        "sourceLabel": "Wikipedia — Sarah Franklin (born February 27, 2002)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Franklin_(volleyball)",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA women's volleyball career — 2023 AVCA NATIONAL PLAYER OF THE YEAR and two-time Big Ten Player of the Year (2023-24) for Wisconsin women's volleyball; Wikidata 'sex or gender: female'.",
+        "sourceLabel": "Wikipedia — Sarah Franklin (AVCA National POY 2023, Wisconsin women)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sarah_Franklin_(volleyball)",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Sarah Franklin (DOB 2002-02-27; AVCA POY 2023)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Sarah_Franklin_(volleyball)",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikidata Q127377777 — Sarah Franklin (date of birth 27 Feb 2002; gender female)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q127377777",
+          "relationship": "reference"
+        },
+        {
+          "label": "Wikimedia Commons — Category Sarah Franklin (Date of birth 27 February 2002)",
+          "platform": "Website",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sarah_Franklin_(volleyball)",
+          "relationship": "reference"
+        },
+        {
+          "label": "Volleybox — Sarah Franklin structured profile (birthDate 2002-02-27; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/sarah-franklin-p73676",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 AVCA National Player of the Year and back-to-back Big Ten POY (2023-24) — 6'4\" outside hitter via Michigan State and Wisconsin; now professional with Savino del Bene Scandicci after a stint with Zeren Spor — objective athlete category; verified 24 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-264",
+      "displayName": "Dani Drews",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 2, 1999 in Sandy, Utah — age 27 in 2026 — per Wikipedia (Danielle Drews née Barton, born February 2, 1999) and Grokipedia (Dani Drews was born on February 2, 1999, in Sandy, Utah).",
+        "sourceLabel": "Wikipedia — Dani Drews (born February 2, 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dani_Drews",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + USA women's volleyball career — four-time AVCA All-American for University of Utah women's volleyball (official utahutes.com roster; LOVB official athlete page) and United States women's national team member (Wikipedia).",
+        "sourceLabel": "LOVB — official Dani Drews athlete page (LOVB Salt Lake women)",
+        "sourceUrl": "https://www.lovb.com/teams/lovb-salt-lake-volleyball/athletes/dani-drews",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Dani Drews (DOB 1999-02-02; LOVB Salt Lake)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Dani_Drews",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Dani Drews (born February 2, 1999, Sandy UT)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Dani_Drews",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LOVB — official Dani Drews athlete page (four-time All-American, Utah)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-salt-lake-volleyball/athletes/dani-drews",
+          "relationship": "official"
+        },
+        {
+          "label": "Utah Utes Athletics — official roster bio (Dani Drews)",
+          "platform": "Website",
+          "url": "https://utahutes.com/sports/womens-volleyball/roster/dani_drews/12568",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Left-handed outside hitter — University of Utah's all-time leader in career kills, sets, matches and attempts + four-time AVCA All-American; pro career through Poland (Chemik Police champion), Italy, Japan and Athletes Unlimited, now LOVB Salt Lake; USA NT member — objective athlete category; verified 27 years old. Née Barton. DISTINCT PERSON from cataloged Andrea \"Annie\" Drews (W-2026-064) — same-surname different athlete confirmed via birth names, dates and careers. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
