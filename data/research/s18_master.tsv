@@ -1,0 +1,142 @@
+# Session 18 fashion/fitness-model pool (2026-09-07). Wikidata P106 sweep.
+# qid|name|dob|ig|tt|occ|refUrl|wiki
+# Source queries: data/research/urls/s18_prom_off{0,50,100,150,200}.url
+# Handles/DOBs/URLs transcribed from SPARQL TSV (markdown escapes removed). Nothing estimated.
+Q100249843|Sita Abellán|1993-03-27|sitabellan||model||https://en.wikipedia.org/wiki/Sita_Abellán
+Q100308188|Stella Belmondo|2003-08-13|stellabelmondo||model|https://www.programme-tv.net/biographie/260660-belmondo-stella/|
+Q100318|Lara-Isabelle Rentinck|1986-08-18|laraisabellerentinck||model||https://en.wikipedia.org/wiki/Lara-Isabelle_Rentinck
+Q100329044|Abril Montilla|2000-10-03|abrilmontilla_||model||https://en.wikipedia.org/wiki/Abril_Montilla
+Q1004398|Asumi Nakada|1988-04-05|asumi.nakada||fashion model||https://en.wikipedia.org/wiki/Asumi_Nakada
+Q100587672|Fatou Samba|1995-03-25|b_fatou_s||model||https://en.wikipedia.org/wiki/Fatou_Samba
+Q100768091|Elísabet Hulda Snorradóttir|1998-12-03|elisabet_hulda||model||https://en.wikipedia.org/wiki/Elísabet_Hulda_Snorradóttir
+Q100791874|Shudufhadzo Musida|1996-07-18|shudufhadzomusida||model||https://en.wikipedia.org/wiki/Shudufhadzo_Musida
+Q100805871|Rabiya Mateo|1996-11-14|rabiyamateo||model||https://en.wikipedia.org/wiki/Rabiya_Mateo
+Q100906570|Nova Stevens|1993-05-25|thenovastevens||model||https://en.wikipedia.org/wiki/Nova_Stevens
+Q101130426|Stephany Zreik|1995-12-25|stefyzreik||model||https://en.wikipedia.org/wiki/Stephany_Zreik
+Q101137091|Laci Mosley|1991-07-04|divalaci||model||https://en.wikipedia.org/wiki/Laci_Mosley
+Q101220338|Lindsey Coffey|1992-01-08|lindseymariecoffey||model||https://en.wikipedia.org/wiki/Lindsey_Coffey
+Q101506175|Jade Cargill|1992-06-03|ms_cargill||fitness model||https://en.wikipedia.org/wiki/Jade_Cargill
+Q101552918|Estefanía Soto|1993-04-27|estefania.sototorres||model||https://en.wikipedia.org/wiki/Estefanía_Soto
+Q101580018|Yvonne Chapman|1988-10-07|ypchapman||model||https://en.wikipedia.org/wiki/Yvonne_Chapman_(actress)
+Q101807505|Aya Samaha|1992-03-31|ayahsamaha|ayahsamaha.cs|fashion model||https://en.wikipedia.org/wiki/Aya_Samaha
+Q102042801|Ruby Rose Turner|2005-10-16|rubyroseturner|rubyroseturner|model|https://www.famousbirthdays.com/people/ruby-turner-dancer.html|https://en.wikipedia.org/wiki/Ruby_Rose_Turner
+Q102045767|Nunu Khumalo|1992-04-15|nunukhumalo||model||https://en.wikipedia.org/wiki/Nunu_Khumalo
+Q102082210|Laura Olascuaga|1995-07-19|lauraolascuaga||model||https://en.wikipedia.org/wiki/Laura_Olascuaga
+Q102155410|Đỗ Thị Hà|2001-07-20|doha.hhvn||model||https://en.wikipedia.org/wiki/Đỗ_Hà
+Q102279832|Margarida Corceiro|2002-10-26|magui_corceiro|magui.corceiro|model||https://en.wikipedia.org/wiki/Margarida_Corceiro
+Q102429561|Daniela Nicolás|1992-06-26|danielanicolas||model||https://en.wikipedia.org/wiki/Daniela_Nicolás
+Q102441334|Kaycee Rice|2002-10-21|KayceeRice||personal trainer|https://www.famousbirthdays.com/people/kaycee-rice.html|
+Q102661621|Janick Maceta|1994-03-09|janickmaceta||model|https://elpopular.pe/espectaculos/2021/05/14/miss-universo-quien-es-janick-maceta-donde-nacio-peruana-busca-coronarse-como-mujer-hermosa-universo-63696|https://en.wikipedia.org/wiki/Janick_Maceta
+Q10288028|Galadriel Stineman|1990-10-20|galaelf||model||https://en.wikipedia.org/wiki/Galadriel_Stineman
+Q10312853|Juliana Paiva|1993-03-28|juulianapaiva||model||https://en.wikipedia.org/wiki/Juliana_Paiva
+Q10313914|Karol Conká|1987-01-01|karolconka|karolconka|model|https://dicionariompb.com.br/artista/karol-conka/|https://en.wikipedia.org/wiki/Karol_Conká
+Q10316545|Laura Neiva|1993-09-21|neivalaura||model||https://en.wikipedia.org/wiki/Laura_Neiva
+Q10323204|Maisa Silva|2002-05-22|maisa|maisa|model|https://www.famousbirthdays.com/people/maisa-silva.html|https://en.wikipedia.org/wiki/Maisa_Silva
+Q1032908|Dominique Gallego|1990-03-05|dominiquegallegooficial||model||https://en.wikipedia.org/wiki/Dominique_Gallego
+Q10360309|Rhaisa Batista|1990-03-08|rhaisabatista||model||https://en.wikipedia.org/wiki/Rhaisa_Batista
+Q10367525|Sancler Frantz|1991-04-09|sanclerfrantz||model||https://en.wikipedia.org/wiki/Sancler_Frantz
+Q10368401|Sara Sampaio|1991-07-21|sarasampaio|realsarasampaio|model||https://en.wikipedia.org/wiki/Sara_Sampaio
+Q1037223|Rina Koike|1993-09-03|koike_rina_93||model||https://en.wikipedia.org/wiki/Rina_Koike
+Q103843097|Rina Lipa|2001-05-14|rinalipa||model|http://telegrafi.com/era-dhe-oda-rikthim-sukses-pasion/|https://en.wikipedia.org/wiki/Rina_Lipa
+Q103989609|Nicole Wallace|2002-03-22|itsnicolewallace||model||https://en.wikipedia.org/wiki/Nicole_Wallace_(actress)
+Q104012901|kei Katō|1994-05-16|kei_kato_||model|https://ascii.jp/elem/000/004/061/4061880/2/|
+Q104093818|Natasha Joubert|1997-07-23|natasha_joubert||model||https://en.wikipedia.org/wiki/Natasha_Joubert
+Q1041708|Nao Matsushita|1985-02-08|matsushita_nao_official||fashion model|http://www.matsushita-nao.com/profile/|https://en.wikipedia.org/wiki/Nao_Matsushita
+Q104211651|Giulia Salemi|1993-04-01|giuliasalemi|giuliasalemiofficial|model||https://en.wikipedia.org/wiki/Giulia_Salemi
+Q104372943|Amandine Petit|1997-09-30|amandinepetitoff||model||https://en.wikipedia.org/wiki/Amandine_Petit
+Q104396125|April Benayoum|1999-03-16|aprilbenayoum||model|https://www.voici.fr/bios-people/april-benayoum-miss-provence-2020|https://en.wikipedia.org/wiki/April_Benayoum
+Q104531238|Joy Corrigan|1988-01-16|joycorrigan||model||https://en.wikipedia.org/wiki/Joy_Corrigan
+Q104531953|Tanerelle Stephens|1994-04-09|tanerelle||model||https://en.wikipedia.org/wiki/Tanerélle
+Q104538853|Moe Yūki|1994-05-18|moe_yuki_||fashion model|https://www.kdash.jp/kdash/profile/archives/62|
+Q104538909|Moeka Ukawa|2002-04-10|moeka__ukawa||model|https://www.just-pro.jp/talent/actor-talent-model/ukawamoeka/|
+Q104596550|Thuzar Wint Lwin|1998-10-18|thuzar_wintlwin||model||https://en.wikipedia.org/wiki/Thuzar_Wint_Lwin
+Q1046271|Rozanna Purcell|1990-09-03|rozannapurcell||model||https://en.wikipedia.org/wiki/Rozanna_Purcell
+Q1046881|Mana Ogawa|1993-07-02|ogamana72||fashion model||https://en.wikipedia.org/wiki/Mana_Ogawa
+Q1046966|Manami Higa|1986-06-14|higa_manami||model|http://www.higamanami.com/profile.html|https://en.wikipedia.org/wiki/Manami_Higa
+Q104717556|Doreen Kabareebe|1990-12-25|doreenkabareebe||model||https://en.wikipedia.org/wiki/Doreen_Kabareebe
+Q104723308|Elly Lam|1989-12-17|ellyiloveyou||model||https://en.wikipedia.org/wiki/Elly_Lam
+Q1048397|Chrissie Chau|1985-05-22|chrissienana||model||https://en.wikipedia.org/wiki/Chrissie_Chau
+Q105101583|Özge Özacar|1995-04-22|ozgeozacar||model|https://www.kimnereli.net/ozge-ozacar.html|https://en.wikipedia.org/wiki/Özge_Özacar
+Q1051455|Kiko Mizuhara|1990-10-15|i_am_kiko||fashion model||https://en.wikipedia.org/wiki/Kiko_Mizuhara
+Q1051915|Yu Hasebe|1986-01-17|yuuhasebe||model||https://en.wikipedia.org/wiki/Yu_Hasebe
+Q1052483|Nana Yamada|1992-04-03|tannana.yamada|yamadanana0403|model||https://en.wikipedia.org/wiki/Nana_Yamada
+Q1052497|Maria Abe|1995-11-29|_abedesu||fashion model||https://en.wikipedia.org/wiki/Maria_Abe
+Q1052513|Miyuki Watanabe|1993-09-19|miyukichan919|miyuki.watanabe.official|model||https://en.wikipedia.org/wiki/Miyuki_Watanabe
+Q105258786|Aisha Harumi Tochigi|1996-01-04|aishatochigi||model||https://en.wikipedia.org/wiki/Aisha_Harumi_Tochigi
+Q105259079|Hinako Kikuchi|2002-02-03|kikuchihinako_official||fashion model|https://www.amuse.co.jp/artist/A8943/|
+Q105259180|Risa Yukihira|1994-06-17|risa_yukihira||model|https://talent.platinumproduction.jp/yukihirarisa|
+Q105433078|Jessica Minh Anh|1988-06-19|jessicaminhanh||model|https://www.scmp.com/magazines/post-magazine/fashion/article/2130505/world-trade-center-tower-bridge-how-jessica-minh-anh|https://en.wikipedia.org/wiki/Jessica_Minh_Anh
+Q105452561|Manasa Varanasi|1997-03-21|manasa5varanasi||model|https://www.omfmedia.com/actress/manasa-varanasi/|https://en.wikipedia.org/wiki/Manasa_Varanasi
+Q1054688|Rina Akiyama|1985-09-26|akiyama_rina||model||https://en.wikipedia.org/wiki/Rina_Akiyama
+Q1055604|Anne Watanabe|1986-04-14|annewatanabe_official||fashion model||https://en.wikipedia.org/wiki/Anne_Watanabe
+Q105620781|Yukti Thareja|2000-01-06|realyukti||model|https://www.rediff.com/getahead/report/the-7-times-yukti-hit-it-out-of-the-park/20241231.htm|https://en.wikipedia.org/wiki/Yukti_Thareja
+Q1056274|Mikie Hara|1987-07-03|mikie_hara.official||model||https://en.wikipedia.org/wiki/Mikie_Hara
+Q105627815|Rubi Rose|1997-10-02|rubirose|rubirose|model||https://en.wikipedia.org/wiki/Rubi_Rose
+Q105653798|Mandy Tam|2000-11-15|tmh_xd||model||https://en.wikipedia.org/wiki/Mandy_Tam_(actress)
+Q105672772|Aoi Yamada|2000-06-24|aoiyamada0624||model||https://en.wikipedia.org/wiki/Aoi_Yamada
+Q105682346|Kenza Boutrif|2001-08-01|6kenza||model|https://www.famousbirthdays.com/people/kenza-boutrif.html|
+Q105699107|Lulu Tenney|2001-06-27|lulutenney||model||https://en.wikipedia.org/wiki/Lulu_Tenney
+Q105703978|Karolina Shiino|1997-08-24|karolina0824||model|https://www.bolnews.com/viral/2024/01/who-is-carolina-shiino-all-about-miss-japan-2024/|https://en.wikipedia.org/wiki/Karolina_Shiino
+Q105705722|Seo Ye-hwa|1989-03-08|yewhaseo||model|https://www.themoviedb.org/person/2716546|https://en.wikipedia.org/wiki/Seo_Ye-hwa
+Q105705855|Shin Jae-eun|1991-01-01|love_zennyrt||model||https://en.wikipedia.org/wiki/Shin_Jae-eun
+Q105705873|Hyun Ji Shin|1996-03-15|iamhyunjishin||model||https://en.wikipedia.org/wiki/Hyun_Ji_Shin
+Q105705938|Yang Yoo-jin|1995-03-19|soocolor||model||https://en.wikipedia.org/wiki/Yang_Yoo-jin
+Q105711191|Umi Shinonome|1996-09-26|umi_portrait|shinonome_umi|model|https://www.oricon.co.jp/prof/757018/|
+Q105753392|Sofía Jirau|1996-03-26|sofiajirau||fashion model||https://en.wikipedia.org/wiki/Sofía_Jirau
+Q105759528|Sakshi Malik|1991-01-21|sakshimalikk|sakshimalikk211|model||https://en.wikipedia.org/wiki/Sakshi_Malik_(actress)
+Q105940115|Lauren Orlando|2004-11-06|laurenorlando|LaurenOrlando|model|https://www.famousbirthdays.com/people/lauren-orlando.html|
+Q1059711|Mei Kurokawa|1987-05-13|mei_kurokawa||fashion model||https://en.wikipedia.org/wiki/Mei_Kurokawa
+Q105975040|Bianca Matte|1990-10-13|biancamatte||model|http://g1.globo.com/rr/roraima/noticia/2013/09/conheca-bianca-matte-bela-que-representara-rr-no-miss-brasil-2013.html|https://en.wikipedia.org/wiki/Bianca_Matte
+Q106042492|Jessica Chan|1996-06-02|krisssica||model||https://en.wikipedia.org/wiki/Jessica_Chan
+Q106204840|Ui Mihara|2002-09-22|ui.mihara_official|0922.18|model|https://trustar.co.jp/talents/7332/|
+Q106238037|VVN|1993-11-05|vivianrepublic||model||https://en.wikipedia.org/wiki/Vivian_Cha
+Q106307045|Kedist Deltour|1997-07-29|kedist_deltour||model||https://en.wikipedia.org/wiki/Kedist_Deltour
+Q106315099|Sofía Suescun|1996-07-04|sofia_suescun|sofiasuescungaldeano|model||https://en.wikipedia.org/wiki/Sofía_Suescun
+Q106339949|Karina Istomina|1994-04-20|diamond_april|diamond_apri1|model||https://en.wikipedia.org/wiki/Karina_Istomina
+Q106406406|Jordan Alexander|1993-07-27|thejordanalexander||model|https://www.girlfriend.com.au/jordan-alexander|https://en.wikipedia.org/wiki/Jordan_Alexander
+Q106422158|Jessica Córes|1990-10-19|coresjessica||model||https://en.wikipedia.org/wiki/Jessica_Córes
+Q106435172|Lee Si-woo|1997-09-05|s2xwo||model||https://en.wikipedia.org/wiki/Lee_Si-woo_(actress)
+Q106436663|Jessica Goicoechea|1996-11-22|goicoechea|goicoechea|model||https://en.wikipedia.org/wiki/Jessica_Goicoechea
+Q106462182|Ginevra Francesconi|2003-04-22|ginevra.francesconi|ginevrafrancesconii|model|https://rbcasting.com/rb/web/ginevrafrancesconi|https://en.wikipedia.org/wiki/Ginevra_Francesconi
+Q106508453|Mutiara Baswedan|1997-06-03|mutiarabaswedan||model||https://en.wikipedia.org/wiki/Mutiara_Baswedan
+Q106514904|Chase Sui Wonders|1996-05-21|chasesuiwonders||model||https://en.wikipedia.org/wiki/Chase_Sui_Wonders
+Q106581867|Abby Champion|1997-02-28|abbychampion||model|https://www.famousbirthdays.com/people/abby-champion.html|https://en.wikipedia.org/wiki/Abby_Champion
+Q106651320|Danella Ilene|1997-02-20|danellailene||model||https://en.wikipedia.org/wiki/Danella_Ilene
+Q106687358|Mia Healey|1998-08-28|mia.healey||model||https://en.wikipedia.org/wiki/Mia_Healey
+Q106742892|Marina Mazepa|1997-05-06|marina_mazepa||model||https://en.wikipedia.org/wiki/Marina_Mazepa
+Q1068023|Mirei Kiritani|1989-12-16|mirei_kiritani_||fashion model||https://en.wikipedia.org/wiki/Mirei_Kiritani
+Q106831325|Chelsea Tayui|1995-01-01|iamchelseatayui||model||https://en.wikipedia.org/wiki/Chelsea_Tayui
+Q106832956|Kimberly Jiménez|1997-02-20|kimberlyjimenez.r||model||https://en.wikipedia.org/wiki/Kimberly_Jiménez
+Q106918546|Mako Yamaguchi|2001-04-04|mako_koma_y||model|https://niziu.com/s/n123/?ima=3951|https://en.wikipedia.org/wiki/Mako_Yamaguchi
+Q106918615|Alejandra Conde|1997-04-21|alejandraconde21||model||https://en.wikipedia.org/wiki/Alejandra_Conde
+Q107020292|Cuban Doll|1998-05-12|cubanndasavage|cubanndasavage|model|https://www.famousbirthdays.com/people/cuban-doll.html|https://en.wikipedia.org/wiki/Cuban_Doll
+Q107116489|Karen Vega|2001-08-24|karenespinosavega||model||https://en.wikipedia.org/wiki/Karen_Vega
+Q107182802|Clara Galle|2002-04-15|claaragalle||model|https://www.famousbirthdays.com/people/clara-galle.html|https://en.wikipedia.org/wiki/Clara_Galle
+Q1072649|Haruka Nakagawa|1992-02-10|haruuuu_chan|haruchan210|model||https://en.wikipedia.org/wiki/Haruka_Nakagawa
+Q1072674|Shizuka Ōya|1991-12-28|ooyachaaan1228||model||https://en.wikipedia.org/wiki/Shizuka_Ōya
+Q1072687|Ayaka Kikuchi|1993-06-30|ayaka_official06||fashion model||https://en.wikipedia.org/wiki/Ayaka_Kikuchi_(singer)
+Q107303277|Pola Petrenko|1997-09-28|polapetrenko||model||https://en.wikipedia.org/wiki/Pola_Petrenko
+Q107340991|Lungelo Mpangase|1995-09-26|lungelo_mpangase||model||https://en.wikipedia.org/wiki/Lungelo_Mpangase
+Q107355183|Dharma Mangia Woods|1994-09-15|dharmaemmewoods||model||https://en.wikipedia.org/wiki/Dharma_Mangia_Woods
+Q107387595|Lea Myren|2001-04-21|leamyren||model||https://en.wikipedia.org/wiki/Lea_Myren
+Q107406810|Luiseth Materán|1996-07-14|luisimateran||model||https://en.wikipedia.org/wiki/Luiseth_Materán
+Q107424200|Jasmine Sjöberg Sidibe|1991-07-19|jasminesidibe||model||https://en.wikipedia.org/wiki/Jasmine_Sjöberg_Sidibe
+Q1074319|Rosa Kato|1985-06-22|katorosa_official||fashion model||https://en.wikipedia.org/wiki/Rosa_Kato
+Q107433739|Piumi Hansamali|1992-11-22|queenpiumi||model||https://en.wikipedia.org/wiki/Piumi_Hansamali
+Q107463107|Cemre Baysel|1999-02-05|cemrebaysel||model|https://www.csfd.cz/tvurce/414418/|https://en.wikipedia.org/wiki/Cemre_Baysel
+Q107588277|Alice Rowland Musukwa|1987-12-26|bosslady_alice||model||https://en.wikipedia.org/wiki/Alice_Rowland_Musukwa
+Q107618627|Mariana Rodríguez Cantú|1995-08-10|marianardzcantu||model||https://en.wikipedia.org/wiki/Mariana_Rodríguez_Cantú
+Q107646071|Ava Capri|1995-11-10|avacapri||model||https://en.wikipedia.org/wiki/Ava_Capri
+Q107646287|Hannah Arnold|1996-01-21|arnoldhan_||model||https://en.wikipedia.org/wiki/Hannah_Arnold_(beauty_queen)
+Q107686134|Gea Dall'Orto|2002-10-22|geadallorto||model||https://en.wikipedia.org/wiki/Gea_Dall'Orto
+Q10769024|Hoàng Thùy|1992-03-15|hoangthuy_official||model||https://en.wikipedia.org/wiki/Hoàng_Thùy
+Q107713942|Nicole Cordoves|1992-04-15|binibiningnicolecordoves||model||https://en.wikipedia.org/wiki/Nicole_Cordoves
+Q10793709|Midu|1989-10-05|miduofficial||model||https://en.wikipedia.org/wiki/Midu_(actress)
+Q108003859|Naelah Alshorbaji|1997-01-01|nanayowbusiness||model||https://en.wikipedia.org/wiki/Naelah_Alshorbaji
+Q108004340|Isbel Parra|1994-04-28|isbelcristinasp||model||https://en.wikipedia.org/wiki/Isbel_Parra
+Q108032902|Diana Eneje|2002-08-19|diana_eneje||model||https://en.wikipedia.org/wiki/Diana_Eneje
+Q108077547|Aria Bedmar|1994-12-01|aria_bedmar|ariabedmar|model||https://en.wikipedia.org/wiki/Aria_Bedmar
+Q108114711|Dindi Pajares|1993-05-30|dindipajares||model||https://en.wikipedia.org/wiki/Dindi_Pajares
+Q108123523|Katrina Dimaranan|1993-06-03|katrina_dimaranan||model||https://en.wikipedia.org/wiki/Katrina_Dimaranan
+Q108186181|Annie Fuenmayor|1993-05-17|annie.fuenmayor||model||https://en.wikipedia.org/wiki/Annie_Fuenmayor
+Q108187332|Gabriela de la Cruz|1999-10-25|gabrieladelacruz1||model||https://en.wikipedia.org/wiki/Gabriela_de_la_Cruz

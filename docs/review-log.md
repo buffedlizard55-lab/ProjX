@@ -1444,3 +1444,97 @@ re-checked against the raw batch files; validator errors=0 on catalog.json (1187
 995 social + 192 reference) and the re-derived catalog-reference.json. Follower counts
 remain unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN everywhere, never
 estimated.
+
+---
+
+## Session 18 — fashion / fitness-model Wikidata P106 sweep (2026-09-07)
+
+**Owner request.** Continue the arena creator-research task: NCAA volleyball, beach volleyball, beachwear, bikini fashion, bikini/swimwear fashion, fitness, fitness model, modeling, swimwear, then European volleyball and any women's volleyball leagues. Aim to add **100 new unique profiles** and keep searching until honest saturation. Only Instagram or TikTok profiles go to the Catalog / Published records; everything else stays on the Reference subpage. No hallucinations.
+
+**Discovery.** Volleyball 2003–08 Instagram/TikTok is exhausted (Session 17 / vb03 SPARQL: 44/47 QIDs already catalogued). Session 18 therefore swept female Wikidata items whose occupation is model (Q4610556), fashion model (Q3357567), personal trainer (Q762121), bodybuilder (Q15982795) or fitness model (Q124408963), with a documented P569 date of birth in 1985–2008, an Instagram (P2003) or TikTok (P7085) handle, and either a P854 reference URL or an English Wikipedia sitelink. Pornographic-film actor (Q488111) and erotic-photography model (Q3286043) occupations were excluded at query time. Queries archived under `data/research/urls/s18_prom_off{0,50,100,150,200}.url`. Collapsed unique rows: `data/research/s18_master.tsv` (138). Builder: `scripts/session18_build.py` (dry-run default, `--apply` to write). Audit: `data/research/s18_selected.tsv`.
+
+**Outcome.** **+138 verified (W-2026-1189..1326)**, every one Instagram- or TikTok-bearing so they remain on the Published catalog after `session15_split.py` (1133 social / 192 reference = 1325). Categories from the occupation statement only: model / fashion model → Modeling, Fashion, Creator; fitness model / personal trainer → Fitness, Fitness Model, Creator. **8 queued (R-2026-146..153)** rather than guessed:
+
+| Queue | Name | Reason |
+| --- | --- | --- |
+| R-2026-146 | Havana Rose Liu | AGE_CONFLICTING_VALUES (1997-09-30 vs 1997-03-01) |
+| R-2026-147 | Sophia Abrahão | AGE_CONFLICTING_VALUES (1991-05-21 vs 1991-05-22) |
+| R-2026-148 | Leni Klum | AGE_CONFLICTING_VALUES (2004-05-04 vs 2004-05-01) |
+| R-2026-149 | Alina Akselrad | AGE_CONFLICTING_VALUES (1998-01-01 vs 1998-09-22) |
+| R-2026-150 | Doechii | AGE_CONFLICTING_VALUES (1998-01-01 vs 1998-08-14) |
+| R-2026-151 | Katiana Kay | AGE_CONFLICTING_VALUES (2002-02-02 vs 2003-02-23) |
+| R-2026-152 | Nanami Sakuraba | NAME_MISMATCH_IN_CITED_SOURCE (Wikipedia article is Hitomi Miyauchi) |
+| R-2026-153 | Dana Heath | AGE_SOURCE_IDENTITY_UNRESOLVED (English Wikipedia sitelink redirects to the Nickelodeon series *Danger Force*, not a biography) |
+
+**Spot-checks (4/4 exact on opened pages).**
+
+| Candidate | Page opened | Published | Catalog |
+| --- | --- | --- | --- |
+| Sita Abellán | en.wikipedia.org/wiki/Sita_Abellán | Born 27 March 1993; model | 1993-03-27 |
+| Jade Cargill | en.wikipedia.org/wiki/Jade_Cargill | Born June 3, 1992 | 1992-06-03 |
+| Amandine Petit | en.wikipedia.org/wiki/Amandine_Petit | Born 30 September 1997 | 1997-09-30 |
+| Kaycee Rice | famousbirthdays.com/people/kaycee-rice.html | Birthday October 21, 2002; Age 23 | 2002-10-21 |
+
+Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-series redirect rather than a person biography.
+
+**Exclusions (IRR-2026-09-07-023).** babesdirectory.online / listal.com / mypmates.club / reddit citations never used as age evidence; Swayam Bhatia (Q106546472, DOB 2007-10-08) is 17 as of 2026-09-07 and was not added; Charlbi Dean (Q101064944) and Nightbirde (Q107366114) are deceased and were not added as living creators; Anllela Sagra was already catalogued (handle guard). January-1 DOBs that were promoted (Karol Conká, Shin Jae-eun, Chelsea Tayui, Naelah Alshorbaji) carry `DOB_JAN1_POSSIBLE_YEAR_PRECISION`. Wikipedia-only rows carry `AGE_EVIDENCE_WIKIPEDIA_ONLY` (105 of 138).
+
+**Follower counts.** None publicly observed (Instagram/TikTok block automated retrieval). Every new account is `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` — never estimated, never summed.
+
+**Validator.** `python3 scripts/validate_catalog.py` → **1325 entries / 141 review / 23 irregularities / 0 errors** (99 pre-existing source-URL-reuse warnings on W-2026-037..843; none on this batch). `session15_split.py` re-derived 1133 social + 192 reference.
+
+**Category movement.** Modeling 73→210, Fashion 38→174, Fitness 93→95, Fitness Model 69→71. Volleyball 839 unchanged.
+
+**Honest saturation note.** This fashion/fitness-model Wikipedia-or-ref pool (LIMIT 50 OFFSET 0–200) is the efficient path past volleyball saturation. OFFSET 250+ remains unfetched; the +100 target is met (+138) without inventing rows. Further growth in these occupations is possible from later offsets, agency-only P854 rows, and the handle-lookup ground-truth map still uncatalogued in `s18_notes` — never by guessing a date or handle.
+
+---
+
+## Session 19 — fashion/fitness-model Wikidata continuation OFFSET 250–400 (2026-09-07)
+
+**Owner request.** Same focus (NCAA volleyball, beach volleyball, beachwear, bikini/swimwear fashion, fitness, fitness model, modeling, swimwear, then European volleyball). Aim +100 unique Instagram/TikTok profiles. No hallucinations.
+
+**Discovery.** Volleyball 2003–08 IG/TikTok remains exhausted. Continued the Session 18 P106 sweep at OFFSET 250, 300, 350 and 400 (queries `data/research/urls/s18_prom_off{250,300,350,400}.url`) and opened the influencer/Internet-celebrity P854 slice (`s18_inf_off0.url`). The fm_off120 Playboy-adjacent pool without English Wikipedia was not auto-promoted.
+
+**Outcome.** **+129 verified (W-2026-1327..1455)**, all Instagram or TikTok so they stay on the Published catalog (1262 social / 192 reference = 1454). Andrea Aguilera skipped as a duplicate name. **R-2026-154 Wioleta Psiuk** queued `AGE_CONFLICTING_VALUES` (1991-07-16 / 1992-07-16 / 1990-01-01). IRR-2026-09-07-024.
+
+**Spot-checks (3/3 exact).**
+| Candidate | Page | Published | Catalog |
+| --- | --- | --- | --- |
+| Harnaaz Sandhu | en.wikipedia.org/wiki/Harnaaz_Sandhu | Born 3 March 2000 | 2000-03-03 |
+| Doutzen Kroes | en.wikipedia.org/wiki/Doutzen_Kroes | Born 23 January 1985 | 1985-01-23 |
+| Nagi Inoue | en.wikipedia.org/wiki/Nagi_Inoue | Born February 17, 2005 | 2005-02-17 |
+
+**Exclusions.** Havan Flores (Q108348506, 2007-11-20) and Akari Toyofuku (Q111757543, 2008-12-14) under 18 as of 2026-09-07. babesdirectory / listal / mypmates / pornhub / Playboy-magazine citations never used as age evidence.
+
+**Validator.** 1454 entries / 142 review / 24 irregularities / **0 errors**. Follower counts unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN.
+
+**Saturation note.** OFFSET 450 URL is archived but unfetched. Volleyball IG/TikTok structured population remains exhausted. Fashion Wikipedia-or-ref pool is still producing new unique QIDs at OFFSET 400, so it is **not** fully saturated.
+
+---
+
+## Session 20 — Instagram/TikTok directory lockstep + OFFSET 450 (2026-09-06)
+
+**Owner request.** Subpage directory of all Instagram/TikTok Published records (`catalogType=social`), same columns/filters as Catalog; put the directory link at the top of the main site so its location is obvious; when adding to the master list, also add those IG/TikTok profiles to this directory (including any found on previous entries). Continue autonomous line-by-line research. No invented people or counts.
+
+**Site.** Directory CTA is now at the top of the main site: full-width banner, nav `Instagram / TikTok directory`, and hero primary. Same nav-cta on `reference.html`, `directory/index.html`, and generated `directory/W-2026-*.html` profile pages. `scripts/session15_split.py` calls `scripts/build_directory.py` unless `--no-directory`.
+
+**Prior-entry handles.** `scripts/backfill_ig_tt_accounts.py` copied already-stored Instagram/TikTok source URLs into `socialAccounts` for 19 early social rows (W-2026-008/009/015/016/018–029/032–034). Handles taken only from those URLs. Counts recorded as `FOLLOWER_COUNT_UNKNOWN`.
+
+**Wikipedia handle harvest (existing reference rows).** Opened pages; retrieved content had **no** instagram.com / tiktok.com profile URL. Handles were **not** invented; rows stay `catalogType=reference`: Paige Bueckers, Aryna Sabalenka, Liv Morgan, Hilary Knight, Shilese Jones.
+
+**Discovery.** Continued the Session 18/19 P106 sweep at OFFSET 450 (`data/research/urls/s18_prom_off450.url`). Master `data/research/s20_master.tsv` (39 unique QIDs). Builder `scripts/session20_build.py`. Audit `data/research/s20_selected.tsv`.
+
+**Outcome.** **+39 verified (W-2026-1456..1494)**, all Instagram or TikTok so they stay on the Published catalog (**1493 VERIFIED / 1301 social / 192 reference**). Queue unchanged (142). IRR-2026-09-07-025.
+
+**Spot-checks (3/3 exact).**
+| Candidate | Page | Published | Catalog |
+| --- | --- | --- | --- |
+| Deva Cassel | en.wikipedia.org/wiki/Deva_Cassel | Born 12 September 2004 | 2004-09-12 |
+| Tao Tsuchiya | en.wikipedia.org/wiki/Tao_Tsuchiya | Born February 3, 1995 | 1995-02-03 |
+| Becky Armstrong | en.wikipedia.org/wiki/Becky_Armstrong | Born 5 December 2002 | 2002-12-05 |
+
+**Flags / exclusions.** Gwendolyne Fourniol 2000-01-01 → `DOB_JAN1_POSSIBLE_YEAR_PRECISION`. NAME_ALIAS_IN_WIKIPEDIA: Rebecca Patricia Armstrong / Becky Armstrong; Rina Sawayama / Rina Sawayama (model) — not the singer; Kaede / Kaede (dancer); ELLI-ROSE / Elli Rose; Sofía Depassier / Sofia Depassier. Aubri Ibrag P854 `famousbirthdays.com/people/amina-ibrag.html` names a different given name — **not** used as age evidence; English Wikipedia used instead. babesdirectory / listal / pornhub / Playboy-magazine never used as age evidence. fm_off120 Playboy-adjacent pool not auto-promoted. Dana Heath not restored.
+
+**Validator.** 1493 entries / 142 review / 25 irregularities / **0 errors**. Follower counts unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN.
+
+**Saturation note.** Influencer OFFSET 40/80 and fm_off160/200 remain unfetched. Promo OFFSET 500+ is the next fashion/fitness slice. Volleyball IG/TikTok structured population remains exhausted.

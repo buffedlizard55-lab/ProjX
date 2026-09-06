@@ -1,15 +1,20 @@
 /* ProjX shared catalog renderer (Session 15).
  *
- * Two views from one code path, selected by <body data-view="...">:
+ * Three views from one code path, selected by <body data-view="...">:
  *   - data-view="catalog"   (default): primary "Catalog Published records" — only entries that
  *                           carry a documented Instagram or TikTok profile (catalogType="social").
+ *   - data-view="directory" : Instagram/TikTok profile directory — same social rows as catalog,
+ *                           with A–Z jump and name links to per-entry subpages.
  *   - data-view="reference" : secondary Reference profiles — entries documented via Wikipedia,
  *                           personal/agency websites, X, YouTube, Facebook, press, or with no
  *                           public social account (catalogType="reference").
  *
+ * Optional <body data-base="../"> prefixes JSON URLs for pages under /directory/.
+ *
  * Each page loads its own JSON feed:
- *   - catalog view   -> data/catalog.json           (full master, filtered here to catalogType=social)
- *   - reference view -> data/catalog-reference.json (derived subset, catalogType=reference)
+ *   - catalog view    -> data/catalog.json           (full master, filtered here to catalogType=social)
+ *   - directory view  -> data/catalog-social.json    (derived social subset)
+ *   - reference view  -> data/catalog-reference.json (derived subset, catalogType=reference)
  *
  * Every row still requires line-by-line verification (adult + woman + ownership), and follower
  * counts are point-in-time public observations — never estimated, never summed across platforms.
@@ -44,16 +49,22 @@ const RANGE_ORDER = {
   FOLLOWER_RANGE_UNKNOWN: 99,
 };
 
+const VIEW = document.body.dataset.view || 'catalog';
+const BASE = document.body.dataset.base || '';
+const CATALOG_URLS = {
+  catalog: 'data/catalog.json',
+  reference: 'data/catalog-reference.json',
+  directory: 'data/catalog-social.json',
+};
+
 const state = {
-  view: document.body.dataset.view || 'catalog',
-  catalogUrl:
-    (document.body.dataset.view || 'catalog') === 'catalog'
-      ? 'data/catalog.json'
-      : 'data/catalog-reference.json',
+  view: VIEW,
+  catalogUrl: BASE + (CATALOG_URLS[VIEW] || CATALOG_URLS.catalog),
   entries: [],
   filteredEntries: [],
   irregularities: [],
   reviewQueue: [],
+  letter: 'all',
 };
 
 /* ------------------------------------------------------------------ elements */
@@ -76,6 +87,7 @@ const elements = {
   platformFilter: getEl('platform-filter'),
   followerFilter: getEl('follower-filter'),
   sortFilter: getEl('sort-filter'),
+  letterNav: getEl('letter-nav'),
   catalogBody: getEl('catalog-body'),
   emptyState: getEl('empty-state'),
   irregularityList: getEl('irregularity-list'),
@@ -106,8 +118,8 @@ async function loadCatalog() {
     state.irregularities = Array.isArray(catalog.irregularities) ? catalog.irregularities : [];
     state.reviewQueue = Array.isArray(catalog.reviewQueue) ? catalog.reviewQueue : [];
 
-    if (state.view === 'catalog') {
-      // Primary published records = profiles with a documented Instagram or TikTok account.
+    if (state.view === 'catalog' || state.view === 'directory') {
+      // Primary published records / profile directory = Instagram or TikTok.
       state.entries = state.entries.filter((entry) => entry.catalogType === 'social');
     }
   } catch (error) {
@@ -126,6 +138,7 @@ async function loadCatalog() {
   populateCategories();
   populatePlatforms();
   populateFollowerRanges();
+  populateLetterNav();
   applyFilters();
   renderIrregularities();
   renderReviewQueue();
@@ -331,6 +344,58 @@ function populatePlatforms() {
   elements.platformFilter.value = [...platforms].includes(currentValue) ? currentValue : 'all';
 }
 
+function firstLetter(name) {
+  const ch = String(name || '')
+    .trim()
+    .charAt(0)
+    .toUpperCase();
+  return /[A-Z]/.test(ch) ? ch : '#';
+}
+
+function profilePageHref(entry) {
+  if (!entry?.id) return '';
+  if (state.view === 'directory') return `${entry.id}.html`;
+  if (state.view === 'catalog') return `directory/${entry.id}.html`;
+  return '';
+}
+
+function populateLetterNav() {
+  if (!elements.letterNav) return;
+  const present = new Set(state.entries.map((entry) => firstLetter(entry.displayName)));
+  const letters = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZ', '#'].filter((letter) => present.has(letter));
+  elements.letterNav.innerHTML = '';
+  const allBtn = document.createElement('button');
+  allBtn.type = 'button';
+  allBtn.className = 'letter-chip';
+  allBtn.dataset.letter = 'all';
+  allBtn.textContent = 'All';
+  elements.letterNav.append(allBtn);
+  letters.forEach((letter) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'letter-chip';
+    button.dataset.letter = letter;
+    button.textContent = letter;
+    elements.letterNav.append(button);
+  });
+  const active = state.letter || 'all';
+  elements.letterNav.querySelectorAll('.letter-chip').forEach((chip) => {
+    chip.classList.toggle('is-active', chip.dataset.letter === active);
+  });
+  if (!elements.letterNav.dataset.bound) {
+    elements.letterNav.dataset.bound = '1';
+    elements.letterNav.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-letter]');
+      if (!button) return;
+      state.letter = button.dataset.letter || 'all';
+      elements.letterNav.querySelectorAll('.letter-chip').forEach((chip) => {
+        chip.classList.toggle('is-active', chip === button);
+      });
+      applyFilters();
+    });
+  }
+}
+
 function populateFollowerRanges() {
   if (!elements.followerFilter) return;
   const currentValue = elements.followerFilter.value;
@@ -467,12 +532,15 @@ function applyFilters() {
       category === 'all' || normalizeArray(entry.categories).includes(category);
     const matchesPlatform = entryHasPlatform(entry, platform);
     const matchesFollowers = entryMatchesFollowerRange(entry, followerRange);
+    const matchesLetter =
+      state.letter === 'all' || firstLetter(entry.displayName) === state.letter;
     return (
       matchesSearch &&
       matchesStatus &&
       matchesCategory &&
       matchesPlatform &&
-      matchesFollowers
+      matchesFollowers &&
+      matchesLetter
     );
   });
 
@@ -533,10 +601,15 @@ function renderTable() {
 
   state.filteredEntries.forEach((entry) => {
     const row = document.createElement('tr');
+    const href = profilePageHref(entry);
+    const nameLabel = escapeHtml(entry.displayName || 'Unnamed record');
+    const nameCell = href
+      ? `<a class="profile-link" href="${escapeAttribute(href)}"><strong>${nameLabel}</strong></a><br><small>${escapeHtml(
+          entry.id || ''
+        )}</small>`
+      : `<strong>${nameLabel}</strong><br><small>${escapeHtml(entry.id || '')}</small>`;
     row.innerHTML = `
-      <td><strong>${escapeHtml(entry.displayName || 'Unnamed record')}</strong><br><small>${escapeHtml(
-        entry.id || ''
-      )}</small></td>
+      <td>${nameCell}</td>
       <td>${renderChips(normalizeArray(entry.categories))}</td>
       <td>${renderFollowers(entry)}</td>
       <td>${renderAgeEvidence(entry.legalAdultEvidence)}</td>

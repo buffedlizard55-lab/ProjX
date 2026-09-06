@@ -23,6 +23,7 @@ from datetime import date
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG = os.path.join(ROOT, "data", "catalog.json")
 REFERENCE = os.path.join(ROOT, "data", "catalog-reference.json")
+SOCIAL = os.path.join(ROOT, "data", "catalog-social.json")
 TODAY = date.today().isoformat()
 
 SOCIAL_PLATFORMS = {"Instagram", "TikTok"}
@@ -61,6 +62,24 @@ def main():
     if "catalogTypeSplitAt" not in catalog["metadata"]:
         catalog["metadata"]["catalogTypeSplitAt"] = TODAY
 
+    # Derived social file (read-only subset for the Instagram/TikTok directory)
+    social_catalog = {
+        "metadata": {
+            "title": "ProjX Instagram / TikTok Directory",
+            "generatedAt": TODAY,
+            "entryCount": len(social),
+            "summary": (
+                "Published catalog records with a documented Instagram or TikTok account — "
+                "verified adult women (18+). Derived from data/catalog.json (the single source "
+                "of truth) by catalogType=social. Powers directory/index.html."
+            ),
+            "sourceCatalog": "data/catalog.json",
+        },
+        "entries": social,
+        "reviewQueue": [],
+        "irregularities": [],
+    }
+
     # Derived reference file (read-only subset for the reference subpage)
     reference_catalog = {
         "metadata": {
@@ -87,13 +106,25 @@ def main():
     with open(CATALOG, "w", encoding="utf-8") as fh:
         json.dump(catalog, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
+    with open(SOCIAL, "w", encoding="utf-8") as fh:
+        json.dump(social_catalog, fh, indent=2, ensure_ascii=False)
+        fh.write("\n")
     with open(REFERENCE, "w", encoding="utf-8") as fh:
         json.dump(reference_catalog, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
 
     print(f"total={len(entries)} social={len(social)} reference={len(reference)}")
     print(f"wrote {CATALOG}")
+    print(f"wrote {SOCIAL}")
     print(f"wrote {REFERENCE}")
+
+    # Keep directory/{id}.html in lockstep with the master list.
+    if "--no-directory" not in sys.argv:
+        import subprocess
+
+        cmd = [sys.executable, os.path.join(ROOT, "scripts", "build_directory.py")]
+        subprocess.check_call(cmd)
+        print("rebuilt directory/ from catalogType=social")
 
 
 if __name__ == "__main__":
