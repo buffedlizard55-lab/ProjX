@@ -1394,3 +1394,53 @@ validator errors=0 on `data/catalog.json` and the re-derived `data/catalog-refer
 (992 social + 192 reference = 1184). Follower counts: none publicly observed for this batch — all
 recorded FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN, never estimated, never summed.
 Also fixed: pre-existing `validate_catalog.py` crash on `largestPublicFollowing: null` (null guard).
+
+**Session 17 (2026-09-07, P54 club-roster sweep — the population the occupation/sport
+sweeps could not see).** Query: female items with an Instagram or TikTok handle that are
+members (P54) of a team whose sport (P641) includes volleyball (Q1734) or beach
+volleyball (Q4543), without any volleyball occupation/sport statement of their own;
+deduped against every Q-ID, name and handle already cited → 227 new candidates
+(data/research/s17_pool_new.txt; raw batches s17_det00–05, s17_tm00–05, s17_tmL0/1,
+s17_tmS0/1, s17_cty, s17_ev6, s17_cls6 with archived .url files).
+
+Result: every detail row is sex/gender female (Q6581072; constraint held). Resolving all
+133 distinct team items showed heavy multi-sport-umbrella contamination — only 29 teams
+are volleyball-only (exactly one P641 sport). Statuses in data/research/s17_master.tsv:
+202 umbrella-only (NCAA athletics programs, omnisport clubs — Hegerberg, Lückenkemper,
+Sunisa Lee, swimmers/divers/gymnasts/bobsledders/field-hockey clusters, a US Congress
+member's row is the promoted one below), 8 sport-conflict (e.g. Elena Delle Donne
+basketball Q2113902, Neta Rivkin rhythmic gymnastics Q640908, Alicja Ślęzak handball
+Q107332975, Joo Seung-eun cheerleader-for-a-volleyball-team Q129755125), 13
+volleyball-no-label (mostly the Belarusian Zhemchuzhina Polessia / Pribuzhie / Atlant /
+Minchanka roster cohort — real volleyball-only-club members whose items have no English
+label; retained in the master for a future label pass, never guessed), 4 volleyball.
+
+Promoted (full line-by-line audit in data/research/s17_selected.tsv):
+- W-2026-1186 Whitney Dosty (Q16623203, 1988-02-25, @whitneydosty) — sitting-volleyball
+  occupation + Lokomotiv Baku; display name taken from the linked English Wikipedia
+  article title (flag NAME_FROM_WIKIPEDIA_TITLE).
+- W-2026-1187 Summer Altice (Q458984, 1979-12-23, @summeraltice + X @SummerAltice) —
+  San Diego State Aztecs women's volleyball; Wikidata occupations model/actor/Playboy
+  Playmate recorded in notes (Modeling category added from Q4610556).
+- W-2026-1188 Lori Trahan (Q56486676, 1973-10-27, @reploritrahan + X @RepLoriTrahan) —
+  Georgetown Hoyas women's volleyball; occupation politician (US Representative) noted.
+All three VERIFIED with adult-age evidence from the linked English Wikipedia articles
+(tier 2, flagged AGE_EVIDENCE_WIKIPEDIA_ONLY — the Wikidata DOB statements themselves
+carry no reference URL for these items).
+
+Review queue additions: R-2026-144 Alina Ilyuta (Q110269996, @linka_91) and R-2026-145
+Mayumi Saitō (Q11500637, @mayumi.8mas) — corroborated volleyball-only-club members whose
+recorded birth dates have no reference URL, source or Wikipedia article
+(AGE_SOURCE_NOT_RECORDED). Irregularity IRR-2026-09-07-022 records the umbrella-club
+finding, the Boubezari identity conflict (Q97721439: Algeria women's national volleyball
+team vs association-football occupation with Soccerdonna reference), Q140812366
+(DOB 2010-11-11, under 18 — excluded), Q138330798 (two conflicting DOB rows), and the
+process lessons (URLs always copied programmatically from archived .url files after one
+HTTP-400 hand-retyping incident; paren-balance assertion before every fetch).
+
+Hallucination audit: all raw SPARQL responses archived verbatim before parsing; the
+master/audit TSVs were regenerated from files; every promoted and queued row was
+re-checked against the raw batch files; validator errors=0 on catalog.json (1187 entries,
+995 social + 192 reference) and the re-derived catalog-reference.json. Follower counts
+remain unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN everywhere, never
+estimated.

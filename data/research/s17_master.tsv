@@ -1,0 +1,229 @@
+# s17 master: P54 club-roster pool, 14 cols as s16 + status in col 14
+# qid|name|dob|ig|x|tt|countries|srcs|urls|wiki|teams|occs|sports|status
+Q103846859|Florine Harder|2000-04-02|florine_harder|floharder||Germany||||DJK Hockenheim|||umbrella-only
+Q103846861|Emma Höfele|2001-08-08|emmahoefele|||Germany||||TG Neureut|||umbrella-only
+Q103846871|Nadja Schulze|1998-01-01|nadjaschlz|||Germany||||SV Halle|||umbrella-only
+Q103846884|Carina Kröll|2000-12-29|carinakroell|||Germany;Austria||||TSV Berkheim|||umbrella-only
+Q104010345|Carolina Coordes|2004-07-19|_lina_c|||Germany||||Berliner TSC|||umbrella-only
+Q104010346|Cora Luise Schiebold|2007-01-01|xx_cora_xxd|||Germany||||Dresdner SC|||umbrella-only
+Q104010357|Laura Koßin|2005-05-24|laura_kssn24|||Germany||||Berliner TSC|||umbrella-only
+Q104010358|Lena-Philine Schneider|2006-01-01|divinglena|||Germany||||SV Halle|||umbrella-only
+Q104010361|Muriel Colleen Pippert|2005-06-22|mxrxex.xy|||Germany||||Dresdner SC|||umbrella-only
+Q104010362|Nicole Piltz|2005-02-07|nicole._.ej|||Germany||||Dresdner SC|||umbrella-only
+Q104041802|Anne Büchner|2004-09-30|anne_wsp|||Germany||||SV Halle|||umbrella-only
+Q104041805|Cindy Tews|2004-01-10|wasserspringen2004|||Germany||||SV Halle|||umbrella-only
+Q104041817|Hanna Eckold|2005-12-08|diving_hanni05|||Germany||||SV Halle|||umbrella-only
+Q104041818|Hanna Held|2005-03-20|hanna_h10|||Germany||||SV Halle|||umbrella-only
+Q104041825|Lotti Hubert|2004-11-01|x.lotti.xx|||Germany||||Berliner TSC|||umbrella-only
+Q104041832|Maria Pohl|2005-01-01|maria.wsp|||Germany||||Berliner TSC|||umbrella-only
+Q104041837|Pauline Pfeif|2002-05-07|_pauline.five_|||Germany||||Berliner TSC|||umbrella-only
+Q105480027|Grace Stark|2001-05-06|grace_stark|||United States||||Florida Gators|||umbrella-only
+Q105583168|Buse Savaşkan|1999-02-24|busesavskn|||Northern Cyprus;Turkey||||Enkaspor|||umbrella-only
+Q105622374|Kirsten Walter|1996-02-21|kirstensophie_|||Germany||||Enkaspor|||umbrella-only
+Q105701599|Sophia Laukli|2000-06-08|sophialaukli|||Norway;United States||||Utah Utes|||umbrella-only
+Q106251|Elisabeth Seitz|1993-11-04|seitzeli|SeitzEli||Germany||||MTV Stuttgart|||umbrella-only
+Q106583900|Q106583900|2001-01-20|diamond_7_em|||Russia||||VC CSKA Moscow|Q26237722=rugby sevens player|Q270102=rugby sevens|sport-conflict,conflict:Q270102
+Q106889617|Sara Gailli|2001-12-23|sara_gailli||saragailli1|Italy||||Circolo Canottieri Aniene|||umbrella-only
+Q107332975|Alicja Ślęzak|1993-06-23|alicjaslezak|||Poland||||AZS AWF Poznań|Q12840545=handball player;Q57749966=beach handball player|Q8418=handball|sport-conflict,conflict:Q8418
+Q107417379|Olivia Apps|1998-12-01|livvapps||Livv.Apps|Canada||||Queen's Golden Gaels|||umbrella-only
+Q107522011|Anni-Linnea Alanen|2002-11-11|annillinnea|||Finland||||Vaasan Vasama|||umbrella-only
+Q109474315|Karla Ackmann|2008-01-01|karla_diver|||Germany||||SV Neptun Aachen 1910|||umbrella-only
+Q109474327|Lilli Berger|2007-01-01|lilli_berger42|||Germany||||SV Neptun Aachen 1910|||umbrella-only
+Q109474328|Julia Fink|2007-01-01|juliafink.07|||Germany||||SV Neptun Aachen 1910|||umbrella-only
+Q109474340|Jazzelle Eikermann|2006-01-01|jazzelle.eikermann|||Germany||||SV Neptun Aachen 1910|||umbrella-only
+Q109839528|Isabel Kattner|2000-10-17|isi_kattner|||Germany||||ASV Dachau|||umbrella-only
+Q11024644|Olga Domenech|1988-09-21|olga11wp|13Domenech||Spain||||Club Natació Terrassa|||umbrella-only
+Q110269996|Alina Ilyuta|1991-05-04|linka_91|||Belarus||||Hapoel Kfar Saba;Igtisadchi Baku;Hapoel Ironi Kiryat Ata;Pribuzhie|||volleyball,conflict:Hapoel Kfar Saba,Igtisadchi Baku,Hapoel Ironi Kiryat Ata,Pribuzhie
+Q111135770|Eleftheria Christogeorgou|1998-08-19|eleftheria_christogeorgou|||Greece||||St. John's Red Storm|||umbrella-only
+Q111519614|Yuliana Monroy|1998-09-20|yulimonroy|||||||Eastern Florida Titans|||umbrella-only
+Q111529231|Selma Ștefania Cadâr|2000-04-27|selmacadar|||Romania||||Maryland Terrapins|||umbrella-only
+Q111995782|Sarah Noutcha|1999-12-16|sarahnoutcha|||France||||Strasbourg Université Club|||umbrella-only
+Q112166664|Darja Varfolomeev|2006-11-04|varfolomeev2006||varfolomeev2006|Germany||||TSV Schmiden|||umbrella-only
+Q112191982|Sarah Vogel|2002-05-08|sarah.va_02|||Germany||||Eintracht Frankfurt|||umbrella-only
+Q113258856|Chaymaa Mourtaji|1995-12-08|chaymaa_mourtaji|||Morocco||||Difaa Hassani El Jadidi|||umbrella-only
+Q113859882|Jaelyn Eisenhart|2001-03-22|jae_eisenhart|||United States||||USC Trojans|||umbrella-only
+Q114367509|Nele Weßel|1999-11-06|nele_wsl|||Germany||||Eintracht Frankfurt|||umbrella-only
+Q11500637|Mayumi Saitō|1971-02-27|mayumi.8mas|||Japan||||Orange Attackers|Q2986228=sports commentator||volleyball,conflict:Orange Attackers
+Q115622118|Celeste Meccia|1986-05-26|celes_13|||Italy;Argentina||||Asociación Atlético Boxing Club|||umbrella-only
+Q116059818|Seda Ocak|1985-08-17|sedaocakofficial|||Turkey||||Enkaspor|||umbrella-only
+Q116131876|Gabriela Ricca|1987-02-26|gabrielaricca96|gabiiricca||Argentina||||General Paz Juniors|||umbrella-only
+Q116262059|Caroline Aar|1994-12-27|carolineaar|||Norway||||TIF Viking|||umbrella-only
+Q116441174|Elen Leroyer|1998-01-04|elenleroyer|Chukuleroyer||Argentina||||Club Atlético Colón|||umbrella-only
+Q116908496|Fernanda Scovenna|1988-10-19|feroveta|feroveta||Germany;Argentina||||Club Atlético Vélez Sarsfield;Enkaspor|||umbrella-only
+Q116923409|Charlotte Chavatipon|2002-04-13|cchavatipon|||United States||||Texas Longhorns|||umbrella-only
+Q116923526|Sabina Zeynalova|2004-02-17|_ssaby_|||||||Texas Longhorns|||umbrella-only
+Q118561609|Veronika Miroshnichenko|1997-11-19|ver0nika_nika_|||||||Loyola Marymount Lions|||umbrella-only
+Q119812320|Jennifer Hauke|1993-02-06|jenniehauke|||Germany;New Zealand||||SCC Berlin|||umbrella-only
+Q120520632|Lada Pusch|2008-03-19|lada.pusch||lada_pusch|Germany||||TSV Schmiden|||umbrella-only
+Q121367321|Maria Kononova|1997-03-04|kononova13|||Russia||||North Texas Mean Green|||umbrella-only
+Q123246859|Alexia Nascimento|2002-09-02|alexiavitoriah|||Brazil||||Esporte Clube Pinheiros|||umbrella-only
+Q123352071|Lucía Dalle|1998-12-04|ludallecrode|LuDalleCrode||Argentina||||Estudiantes de La Plata|||umbrella-only
+Q124130858|Hikaru Satō|1999-04-05|__pika05|||Japan||||Washington Huskies|||umbrella-only
+Q124382413|Nelli-Lotta Karppelin|2006-07-26|nellilottaa|||Finland||||Limingan Niittomiehet|||umbrella-only
+Q124418035|Mya Lesnar|2002-04-10|mya.lesnar|||||||Colorado State Rams|||umbrella-only
+Q124718838|Pernille Karlsen Antonsen|2002-12-13|pernille_antonsen|||Norway||||IL Koll|||umbrella-only
+Q125703375|Q125703375|1994-01-28|lozickaya94|||||||Zhemchuzhina Polessia;Atlant VC;Pribuzhie|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Atlant VC,Pribuzhie
+Q125823240|Q125823240|1992-09-24|tatiana11_t|||Belarus||||Zhemchuzhina Polessia;Maccabi Ashdod;Q28668865;TED Ankara Kolejliler Volleyball;Minchanka;Azerrail Baku|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Maccabi Ashdod,Q28668865,TED Ankara Kolejliler Volleyball,Minchanka,Azerrail Baku
+Q126150791|Jana Marie Lowka|2000-12-13|jana.lowka|||Germany||||Eintracht Frankfurt|||umbrella-only
+Q126152550|Tabea Wipper|2005-10-02|tabea_wipper|||Germany||||SC Markranstädt|||umbrella-only
+Q126389713|Amanda Camargo|2004-07-15|acamargo0||acamargo157|Brazil||||Botafogo F.R.|||umbrella-only
+Q126924347|Jayden Ulrich|2002-09-15|just1jayden|||United States||||Louisville Cardinals|||umbrella-only
+Q126942705|Elise Thorner|2001-03-16|elise_thorner|||||||Florida Gators|||umbrella-only
+Q127257015|Q127257015|1989-08-29|valadzko_darya|||Belarus||||Zhemchuzhina Polessia;Atlant VC;Kommunalnik-Mogilev;Q4409402;Minchanka|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Atlant VC,Kommunalnik-Mogilev,Q4409402,Minchanka
+Q127691034|Q127691034|2004-06-16|bakunovich.n|||||||Atlant VC;Pribuzhie|||volleyball-no-label,conflict:Atlant VC,Pribuzhie
+Q127698363|Q127698363|2002-07-13|dar_svch|||Belarus||||Q2065626;Pribuzhie|||volleyball-no-label,conflict:Q2065626,Pribuzhie
+Q127698532|Q127698532|2003-01-05|margarita_7_5_|||Belarus||||Pribuzhie;Q946404|||volleyball-no-label,conflict:Pribuzhie,Q946404
+Q127700248|Q127700248|2002-01-22|liza_aliseiko|||||||Zhemchuzhina Polessia;Minchanka-2;Kommunalnik-Mogilev;Pribuzhie|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Minchanka-2,Kommunalnik-Mogilev,Pribuzhie
+Q127807769|Q127807769|1991-01-07|zhanna_golodko|||Belarus||||Zhemchuzhina Polessia;Pribuzhie|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Pribuzhie
+Q127948172|Q127948172|2004-11-06|yo_os.hi|||Belarus||||Atlant VC;Pribuzhie|||volleyball-no-label,conflict:Atlant VC,Pribuzhie
+Q127951499|Q127951499|1994-09-12|vikusik_9412|||Belarus||||Minchanka;Pribuzhie|||volleyball-no-label,conflict:Minchanka,Pribuzhie
+Q128488228|Isabel Piralkova|2005-06-23|isapiralkovaa__|||Spain||||Club Natació Terrassa|||umbrella-only
+Q128534953|Paula Camus|2002-02-12|paulacamus_|||Spain||||Club Natació Terrassa|||umbrella-only
+Q128799562|Q128799562|1996-09-13|valya_s_2|||Belarus||||Zhemchuzhina Polessia;Igtisadchi Baku;Azerrail Baku;Pribuzhie|||volleyball-no-label,conflict:Zhemchuzhina Polessia,Igtisadchi Baku,Azerrail Baku,Pribuzhie
+Q129054129|Q129054129|2004-01-04|yermalkovicccch|||Belarus||||Minchanka-2;Kommunalnik-GrGU;Pribuzhie|||volleyball-no-label,conflict:Minchanka-2,Kommunalnik-GrGU,Pribuzhie
+Q129118|Ada Hegerberg|1995-07-10|ahegerberg|AdaStolsmo||Norway||||Kolbotn IL|||umbrella-only
+Q129755125|Joo Seung-eun|1995-03-11|seungeunjxx|||||https://namu.wiki/w/주승은||Cheonan Hyundai Capital Skywalkers|Q28971125=cheerleader||sport-conflict,conflict:Q28971125
+Q130253663|Emily Sartz-Lunde|2006-01-12|emily.lunde|||Norway||||Michigan Wolverines|||umbrella-only
+Q130325196|Giulia Teruzzi|1994-04-08|terry.plum|||Italy||||A.S.D. Polisportiva Olonia|||umbrella-only
+Q130600237|Henriette Eggen|2002-12-16|henrietteeggen|||Norway||||IL Gneist|||umbrella-only
+Q130617038|Mareva Cau-Lapique|2003-08-26|mareva040|||France||||Union sportive dacquoise omnisports|||umbrella-only
+Q131422466|Bénie Kubiena|1999-05-07|beniekubiena|||Democratic Republic of the Congo||||Difaa Hassani El Jadidi|||umbrella-only
+Q131905463|Paloma Goldsmith Weinreich|2004-07-14|paloma.tennis|||Chile||||Florida Gulf Coast Eagles|||umbrella-only
+Q132672085|Fanny Norin|2001-11-11|fannynorin|||Sweden||||Florida Gulf Coast Eagles|||umbrella-only
+Q132705927|Jennifer Jackson|2006-02-24|jennifer_jackson13_|||United States||||Texas A&M Aggies|||umbrella-only
+Q134437389|Viktoria Steinfeld|2008-07-09|viktoria.stnfld||viktoria.stnfld|||||TSV Schmiden|||umbrella-only
+Q134519755|Delfina Ojea|2003-04-30|delfiojea|DelfinaOjea||Italy;Argentina||||Q15799|||umbrella-only
+Q135181063|Isabella Rhoades||bella__rhoades||_bella_rhoades_|Q99281400||||Penn State Nittany Lions|||umbrella-only
+Q135362854|Stavria Koniali|1993-12-15|stavria_koniali|||Cyprus;Greece||||AEL Limassol|||umbrella-only
+Q135640985|Panorea Ntala|1996-07-30|panorea_ntala|panoreantala||Greece||||Q12885665|||umbrella-only
+Q136159543|Ayaka Omatsuzawa|1998-08-07|aranmare_ayaka|aranmare_ayaka||Japan||||Aranmare Yamagata|Q12840545=handball player|Q8418=handball|sport-conflict,conflict:Q8418
+Q136459999|Jelena Knežević|1998-01-25|siimii_6|||Serbia||||SPD Radnički|||umbrella-only
+Q137682577|Valu Learreta|2000-06-26|valulearreta|||Argentina||||SCD Muñiz|||umbrella-only
+Q137683248|Vale Brodsky|1999-10-09|valebrodsky|||Argentina||||Q15799|||umbrella-only
+Q138330798|Romane Longueville|2005-05-18|romane.longueville|||Belgium||||Loyola Marymount Lions|||umbrella-only
+Q138841716|Ashleigh Simes|2003-02-05|ash_simes|||Australia||||Lee Flames|||umbrella-only
+Q139498926|Sage Mortimer|2003-01-07|1blondiebeast_sage||sage_mort|United States||||King Tornado|||umbrella-only
+Q140374528|Ada Piestrzyńska|2004-04-02|adapiestrzynska|||Poland||||Loyola Marymount Lions|||umbrella-only
+Q140812366|Q140812366|2010-11-11|bantel_anni.10|||Germany||||TSV Berkheim|||umbrella-only
+Q14776563|Lovelyn Enebechi|1996-10-21|lovelyn_enebechi|||Germany||||SC Alstertal-Langenhorn|||umbrella-only
+Q1521529|Kim Bui|1989-01-20|_kim.bui_|||Germany||||MTV Stuttgart|||umbrella-only
+Q16184515|Marisol Carratú|1986-07-15|solcarratu|SoLcarratu||Argentina||||Ferro Carril Oeste|||umbrella-only
+Q16623203|Q16623203|1988-02-25|whitneydosty|||United States|||https://en.wikipedia.org/wiki/Whitney_Dosty|Lokomotiv Baku|Q134619078=sitting volleyball player|Q597628=sitting volleyball|volleyball-no-label,conflict:Lokomotiv Baku
+Q17103762|Anne-Tine Markset|1992-08-08|annetinem|||Norway||||IL Koll|||umbrella-only
+Q17353127|Gina Lückenkemper|1996-11-21|ginalueckenkemper|||Germany||||TuS Ampen;SCC Berlin|||umbrella-only
+Q18165112|Karen Tam Hoi Lam|1998-04-21|tamhoilam|||Hong Kong||||UBC Thunderbirds|||umbrella-only
+Q18425152|Haley Augello|1994-10-17|haleyaugello||haleyaugello|United States||||King Tornado|||umbrella-only
+Q18434125|Sarah Hildebrandt|1993-09-23|sarhilde|sarhilde||United States||||King Tornado|||umbrella-only
+Q1902948|Marte Olsbu Røiseland|1990-12-07|marteolsburoiseland|||Norway||||Froland IL|||umbrella-only
+Q19115649|Simona Quadarella|1998-12-18|simonaaquadarella|||Italy||||Circolo Canottieri Aniene|||umbrella-only
+Q19405930|Synne Jensen|1996-02-15|sysokije|||Norway||||Kolbotn IL|||umbrella-only
+Q1972845|Martha McCabe|1989-08-04|marthmcc|MarthMcC||Canada||||UBC Thunderbirds|||umbrella-only
+Q19956365|Simone Boye Sørensen|1992-03-03|sim0neboye|||Kingdom of Denmark||||UTSA Roadrunners|||umbrella-only
+Q20638354|Kendra Harrison|1992-09-18|ken_aye_|||United States||||Kentucky Wildcats|||umbrella-only
+Q20676057|Florencia Bonsegundo|1993-07-14|florbonse|||Argentina||||Club Atlético Huracán;Club Deportivo UAI Urquiza|||umbrella-only
+Q20973727|Paula Leitón|2000-04-27|paulaleiton|paulaleiton4||Spain||||Club Natació Terrassa|||umbrella-only
+Q20973752|Elena Wassen|2000-11-01|elena.wassen|||Germany||||Berliner TSC|||umbrella-only
+Q20994117|Camila Gómez Ares|1994-10-26|camugomezares|camugomezares||Argentina||||Club Deportivo UAI Urquiza|||umbrella-only
+Q21066034|Christina Wassen|1999-01-12|christina_wassen|||Germany||||Berliner TSC|||umbrella-only
+Q2113902|Elena Delle Donne|1989-09-05|de11edonne|De11eDonne||United States|FIBA database||https://en.wikipedia.org/wiki/Elena_Delle_Donne|Delaware Fightin' Blue Hens women's volleyball|Q3665646=basketball player|Q5372=basketball|sport-conflict,conflict:Q5372
+Q21810708|Pilar Campoy|1990-10-06|pilucampoy|||Argentina||||Club Náutico Hacoaj|||umbrella-only
+Q22003554|Rocio Campigli|1994-08-06|rocampigli|RoCampigli||Argentina||||Estudiantes de La Plata|||umbrella-only
+Q22007478|Flor Ponce de León|1992-02-26|florponcedeleon|florponce||Argentina||||Ferro Carril Oeste|||umbrella-only
+Q22279511|Beatriz Ortiz Muñoz|1995-06-21|bea8ortiz|bea_ortiz||Spain||||Club Natació Terrassa|||umbrella-only
+Q22807080|Annika Drazek|1995-04-11|force1104|||Germany||||Turnverein Gladbeck|||umbrella-only
+Q228616|Marta|1986-02-19|martavsilva10|||Brazil;Sweden||||CR Vasco da Gama|||umbrella-only
+Q22957516|Leah Grießer|1998-09-11|leahgriesser|||Germany||||TG Neureut|||umbrella-only
+Q230858|Rebecca Soni|1987-03-18|rebsoni|rebsoni||United States||||USC Trojans|||umbrella-only
+Q232671|Cătălina Ponor|1987-08-20|catalina_ponor|||Romania||||CS Dinamo București|||umbrella-only
+Q232700|Jessica Hardy|1987-03-12|swimhardy|swimhardy||United States||||California Golden Bears|||umbrella-only
+Q23642282|Samantha Stewart|1989-10-12|sam_stewart53|Sam_Stewart53|sam_stewart53|Canada||||UNB Reds|||umbrella-only
+Q23661803|Kristin Lysdahl|1996-06-29|kristinlysdahl|||Norway||||Asker SK|||umbrella-only
+Q24006613|Tabea Alt|2000-03-18|tabeaalt|||Germany||||MTV Stuttgart;MTV Ludwigsburg|||umbrella-only
+Q24090847|Kristin Pudenz|1993-02-09|kristin.pudenz|||Germany||||SC Potsdam|||umbrella-only
+Q24265525|Yasemin Can|1996-12-11|yasemin_run|||Kenya;Turkey||||Enkaspor|||umbrella-only
+Q25431483|Eli Anne Dvergsdal|1991-11-19|eliannedve|||Norway||||IL Gneist|||umbrella-only
+Q26131309|Eugenia Trinchinetti|1997-07-17|eugetrinchinetti|||Argentina||||Club San Fernando|||umbrella-only
+Q26131321|Julieta Jankunas|1999-01-20|julietajankunas|||Argentina||||Club Ciudad de Buenos Aires|||umbrella-only
+Q2652657|Andrine Hegerberg|1993-06-06|andrinestolsmo|AndrineStolsmo||Norway||||Kolbotn IL|||umbrella-only
+Q27049361|Agustina Barroso|1993-05-20|agusbarroso5|||Argentina||||Sociedade Esportiva Palmeiras|||umbrella-only
+Q27064022|Tonje Løseth|1991-01-01|tloseth|||Norway||||TIF Viking|||umbrella-only
+Q28374182|Lisa Buckwitz|1994-12-02|lisa_buckwitz||lisa_buckwitz|Germany||||SC Potsdam|||umbrella-only
+Q28381836|Leticia Santos|1994-12-02|2leticiasantos|||Brazil||||Sociedade Esportiva Palmeiras|||umbrella-only
+Q28812985|Micaela Casasola|1997-03-17|micacasasolaa|micacasasolaa||Argentina||||Club Atlético Vélez Sarsfield|||umbrella-only
+Q2917250|Annamay Pierse|1983-12-05|annamaypierse|AnnersPierse||Canada||||UBC Thunderbirds|||umbrella-only
+Q30085825|Evgenia Kotoula|1986-10-23|jenaki2314|||Greece||||A.P.S. Aias Evosmou|||umbrella-only
+Q30321059|Sara Balzer|1995-04-03|balzersara|||France||||Strasbourg Université Club|||umbrella-only
+Q33321617|McKenna de Bever|1996-06-05|mckennadebever|||United States;Peru||||Texas A&M Aggies|||umbrella-only
+Q33644300|Bethany Galat|1995-08-10|galatbethany|||United States||||Texas A&M Aggies|||umbrella-only
+Q3369983|Pili Peña|1986-04-04|piluka_8|8Piluka||Spain||||Club Natació Terrassa|||umbrella-only
+Q34519020|Cristina Ferral|1993-02-16|cristinaferral|cristinaferral||France;Mexico|FBref||https://en.wikipedia.org/wiki/Cristina_Ferral|Borregos Salvajes|Q937857=association football player|Q2736=association football|sport-conflict,conflict:Q2736
+Q39590177|Lotta Hamari|1985-09-20|lottahamari|||Finland||||Forssan Alku|||umbrella-only
+Q43549585|Agostina Alonso|1995-10-01|alonsoagos|||Argentina||||Club Banco Nación|||umbrella-only
+Q458984|Summer Altice|1979-12-23|summeraltice|SummerAltice||United States|||https://en.wikipedia.org/wiki/Summer_Altice|San Diego State Aztecs women's volleyball|Q10798782=television actor;Q10800557=film actor;Q33999=actor;Q4610556=model;Q488111=pornographic film actor;Q728711=Playboy Playmate||volleyball,conflict:San Diego State Aztecs women's volleyball
+Q46021745|Danielle Jóia|1990-05-22|danijoia05|||Brazil||||Esporte Clube Pinheiros|||umbrella-only
+Q460315|Line Jahr|1984-01-16|linejahr|LineJahr||Norway||||Vikersund IF|||umbrella-only
+Q46085921|Tamires Anselmo|1990-05-02|tataanselmo|||Brazil||||Esporte Clube Pinheiros|||umbrella-only
+Q460959|Ingvild Stensland|1981-08-03|ingvild_stensland_|istensland||Norway||||Kolbotn IL|||umbrella-only
+Q4750338|Ana Copado|1980-03-31|naniwp|Naniwp||Spain||||Club Natació Terrassa|||umbrella-only
+Q48715463|Ashtin Zamzow|1996-08-13|ashtin_zamzow|||United States||||Texas Longhorns|||umbrella-only
+Q49310450|Javianne Oliver|1994-12-26|_jaiioliver|||United States||||Kentucky Wildcats|||umbrella-only
+Q4945084|Maurine Dornelles Gonçalves|1986-01-14|maurine|MaurineDorneles||Brazil||||Clube de Regatas do Flamengo|||umbrella-only
+Q4978840|Bruna Amarante da Silva|1984-05-12|bruna_amarantedasilva|||Brazil||||CR Vasco da Gama;Sociedade Esportiva Palmeiras|||umbrella-only
+Q511282|Carolin Schäfer|1991-12-05|caro.schaefer|||Germany||||TV Friedrichstein;Eintracht Frankfurt|||umbrella-only
+Q515245|Ragnhild Mowinckel|1992-09-12|ragmow|RagMow||Norway||||SK Rival|||umbrella-only
+Q524792|Anna Felicitas Sarholz|1992-07-05|antistar24|||Germany||||SV Babelsberg 03|||umbrella-only
+Q5256441|Daniela Toth|1997-08-14|tothdaniela97||haralambiedaniela0|Romania||||CS Dinamo București|||umbrella-only
+Q528434|Daniele Hypólito|1984-09-08|danyhypolito|danyhypolito||Brazil||||Clube de Regatas do Flamengo|||umbrella-only
+Q529642|Tinja Riikka Korpela|1986-05-05|tinja_riikka_korpela|||Finland||||Kolbotn IL|||umbrella-only
+Q56062891|Lena Hentschel|2001-06-17|lena_17_01|||Germany||||Berliner TSC|||umbrella-only
+Q56153786|Jaël Bestué|2000-09-24|jaelsbestue|JaelBestue||Spain;Equatorial Guinea||||FC Barcelona|||umbrella-only
+Q56486676|Lori Trahan|1973-10-27|reploritrahan|RepLoriTrahan||United States|||https://en.wikipedia.org/wiki/Lori_Trahan|Georgetown Hoyas women's volleyball|Q82955=politician||volleyball,conflict:Georgetown Hoyas women's volleyball
+Q57986512|Rosario Soto|2000-01-07|rosoto0|roosoto_||Argentina||||Estudiantes de La Plata|||umbrella-only
+Q58042513|Selina Freitag|2001-05-19|freitagselina|||Germany||||SG Nickelhütte Aue|||umbrella-only
+Q58211742|Evgenia Kollatou|1998-03-05|eugeniakollatou|||Greece||||AON Argiroupolis|||umbrella-only
+Q58231354|Pinelopi Pavlopoulou|1996-03-03|pine_pavlo22|pine_pavlo|pine_pavlo|Greece||||AON Argiroupolis|||umbrella-only
+Q59160453|Milagros Menéndez|1997-03-23|milimenendez20|||Argentina||||Racing Club|||umbrella-only
+Q5925885|Rebecca Moros|1985-05-06|beccamoros|BeccaMoros||United States||||Duke Blue Devils|||umbrella-only
+Q59484397|Sunisa Lee|2003-03-09|sunisalee_|sunisalee_|sunisalee_|United States||||Auburn Tigers|||umbrella-only
+Q61746535|Deborah Levi|1997-08-28|deborah.levi|||Germany||||SC Potsdam|||umbrella-only
+Q62026535|Hedda Østberg Amundsen|1998-09-18|heddaamundsen|||Norway||||Asker SK|||umbrella-only
+Q62227242|Natalie Juncos|1990-12-28|nataliejuncos|||United States;Argentina||||Racing Club;Club Deportivo UAI Urquiza|||umbrella-only
+Q62635029|Olivia Gruver|1997-07-29|livgruvvv_|||United States||||Kentucky Wildcats|||umbrella-only
+Q6375229|Katarzyna Wilk|1992-03-22|wilkkasia|||Poland||||USC Trojans|||umbrella-only
+Q6399|Anita Włodarczyk|1985-08-08|anitawlodarczykk|||Poland||||Skra Warszawa|||umbrella-only
+Q640908|Neta Rivkin|1991-06-02|rivkineta4|||Israel|||https://en.wikipedia.org/wiki/Neta_Rivkin|Maccabi Tel Aviv|Q16947675=gymnast;Q24037210=rhythmic gymnast|Q43450=gymnastics;Q61465=rhythmic gymnastics|sport-conflict,conflict:Q43450,Q61465
+Q64437462|Estelle Duvin|1997-02-01|estelle_12_d|||France||||Montréal Carabins|||umbrella-only
+Q64514195|Q64514195|1997-09-20|tiina.ab|||Norway||||TIF Viking|||umbrella-only
+Q64910596|Buse Naz Çakıroğlu|1996-05-26|busenazcakirogluu|||Turkey||||Fenerbahçe SK|||umbrella-only
+Q65559249|Jana Lisa Rother|1998-04-06|jasarz|||||||Berliner TSC|||umbrella-only
+Q65658900|Sandra Domene|2000-04-04|sandradomeneperez|||Spain||||Club Natació Terrassa|||umbrella-only
+Q66103076|Ema Rajić|2000-02-24|raaajic|emarajic||||||California Golden Bears|||umbrella-only
+Q66132720|Jatta-Mari Jääskeläinen|1994-02-27|jaaskelainenjm|||Finland||||Turun Urheiluliitto|||umbrella-only
+Q66759013|Kaisu Eskelinen|2000-03-11|kaisueskelinen|||Finland||||Q21043879|||umbrella-only
+Q69437318|Antonia Duță|2004-10-08|antoniairina|dutaantonia1|dutaantonia08|Romania||||CS Dinamo București|||umbrella-only
+Q70608963|Byanca Brasil|1995-11-23|byancabrasil|||Brazil||||Clube de Regatas do Flamengo;Botafogo F.R.;CR Vasco da Gama|||umbrella-only
+Q7608227|Stephanie Au|1992-05-30|stephaniehsau|||Hong Kong||||California Golden Bears|||umbrella-only
+Q7701489|Tera van Beilen|1993-03-30|teravb|teravb||Canada||||UBC Thunderbirds|||umbrella-only
+Q78055707|Gabriela Bitolo|1999-04-01|gabrielacbitolo|gabrielacbitolo||Brazil||||Esporte Clube Pinheiros|||umbrella-only
+Q78115360|Vanessa Mark|1996-03-02|vanepok|||Germany||||Eintracht Frankfurt|||umbrella-only
+Q78126219|Ana Cláudia Bolzan|1996-07-15|acbolzan|||Brazil||||Esporte Clube Pinheiros|||umbrella-only
+Q78206228|Indira Liseth|1986-06-15|indimilena|||Norway||||TIF Viking|||umbrella-only
+Q8080164|İpek Soylu|1996-04-15|ipek_soylu|soyluofficial||Turkey||||Enkaspor|||umbrella-only
+Q81905974|Anna Ostlender|2002-04-25|anna_ostlxn|||Germany||||SSV Ulm 1846|||umbrella-only
+Q83873446|Anastasia Simakova|2004-09-09|sima09kova|||Russia;Germany||||TSV Schmiden|||umbrella-only
+Q84681834|Deborah Acquah|1996-05-23|deborah_acquah1|Deborahacquah4||Ghana||||Texas A&M Aggies|||umbrella-only
+Q86375806|Viktoria Dönicke|1999-03-07|viktoriadoenicke|||Germany||||SV Halle;SV Braunsbedra|||umbrella-only
+Q890608|Bogna Sobiech|1990-03-25|bogna_90|||Poland||||Zryw Chorzów|||umbrella-only
+Q90848137|Isabelle Stadden|2002-07-09|isabellestadden|||United States||||California Golden Bears|||umbrella-only
+Q91813921|Georgina Bahí|1989-06-01|geo1311|geobahi||Spain||||Club Deportivo Berazategui|||umbrella-only
+Q9182918|Béryl Gastaldello|1995-02-13|gastaswim|beryl_gasta||France||||Texas A&M Aggies|||umbrella-only
+Q97721439|Hanna Boubezari|1998-11-21|hannaboubezari|hannaaboubezari||Algeria|Soccerdonna||https://en.wikipedia.org/wiki/Hanna_Boubezari|Algeria women's national volleyball team|Q937857=association football player|Q2736=association football|sport-conflict,conflict:Q2736
+Q97750610|Jacqui Hand|1999-02-19|jacquihand|||New Zealand||||Kolbotn IL|||umbrella-only
+Q98075417|Gabriela Herrera|1990-09-17|gaby_herrera20|||Mexico||||Club de Gimnasia y Esgrima La Plata|||umbrella-only
+Q98353476|Silja Kosonen|2002-12-16|silja.kosonen|||Finland||||Turun Urheiluliitto|||umbrella-only
+Q99233107|Zeina Ibrahim|2003-06-20|zeina_ibrahim03|||Egypt||||Smouha SC|||umbrella-only
+Q99545813|Jennifer Li Orlowski|2003-01-01|_jennifer.li_|||Germany||||SV Halle|||umbrella-only
+Q99586162|Maja Schmidt|2000-01-01|maja_diving|||Germany||||SV Halle|||umbrella-only
+Q99587006|Marén Hähle|1999-07-14|maren_h99|||Germany||||Dresdner SC|||umbrella-only
+Q99621923|Sara Reuther|2001-01-01|sra_rth|||Germany||||SV Halle|||umbrella-only
+Q99622297|Saskia Oettinghaus|1998-04-03|saskia_oett|||Germany||||Dresdner SC|||umbrella-only
