@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 251,
+    "entryCount": 253,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17283,6 +17283,118 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "China's flagship outside hitter (195 cm) — four-time Chinese Volleyball League champion with Tianjin Bohai Bank (MVP each time 2019/2022/2023/2024); Best Outside Spiker at the U18 Worlds 2015 — objective athlete category; verified 26 years old. (Duplicate-block check caught that Magdalena Stysiak was already cataloged as W-2026-228 — only Li added in wave 19.) No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-252",
+      "displayName": "Hande Baladın",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 1, 1997 in Kütahya, Turkey — age 29 in 2026 — per Wikipedia/Wikiwand (born 1 September 1997, Kütahya), Alchetron (born September 1, 1997) and Haberler biography (Doğum Tarihi 01.09.1997).",
+        "sourceLabel": "Wikipedia — Hande Baladın (born 1 September 1997)",
+        "sourceUrl": "https://wikiwand.com/en/articles/Hande_Baladin",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career — 'Fenerbahçe ve Türkiye kadın millî voleybol takımında smaçör olarak oynayan'; Wikiwand: 'Turkish professional volleyball player... member of the Turkey women's national volleyball team'.",
+        "sourceLabel": "Wikipedia — Hande Baladın (Turkey women's NT)",
+        "sourceUrl": "https://wikiwand.com/en/articles/Hande_Baladin",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Hande Baladın (DOB 1997-09-01; Kütahya)",
+          "platform": "Website",
+          "url": "https://wikiwand.com/en/articles/Hande_Baladin",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Alchetron — Hande Baladın (born September 1, 1997)",
+          "platform": "Website",
+          "url": "https://alchetron.com/Hande-Balad%C4%B1n",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Haberler — Hande Baladın biography (Doğum Tarihi 01.09.1997)",
+          "platform": "Website",
+          "url": "https://www.haberler.com/hande-baladin/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Turkish outside hitter — Eczacıbaşı homegrown (Club World Championship titles 2016, 2023; six European club trophies), VNL 2023 and European Championship 2023 gold medalist; joined Fenerbahçe for 2025 — objective athlete category; verified 28-29 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-253",
+      "displayName": "Derya Cebecioğlu",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 24, 2000 in Tarsus/Mersin, Turkey — age 25 in 2026 — per Wikipedia (born 24 October 2000), Kiddle (born October 24, 2000 — 'Her birthday is on October 24, 2000') and everythingaboutturkey (born October 24, 2000, in Mersin). NOTE: simple.wikipedia prints '20 October 2000' (outlier vs en.Wikipedia main article); majority value recorded.",
+        "sourceLabel": "Wikipedia — Derya Cebecioğlu (born 24 October 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Derya_Cebecio%C4%9Flu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career ('member of the Turkey women's national volleyball team'; VNL 2023 gold medalist in Arlington).",
+        "sourceLabel": "Wikipedia — Derya Cebecioğlu (Turkey women's NT; VNL 2023 gold)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Derya_Cebecio%C4%9Flu",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Derya Cebecioğlu (DOB 2000-10-24; Tarsus)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Derya_Cebecio%C4%9Flu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Kiddle — Derya Cebecioğlu (birthday October 24, 2000)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Derya_Cebecio%C4%9Flu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Everything About Turkey — Derya Cebecioğlu (born October 24, 2000)",
+          "platform": "Website",
+          "url": "https://everythingabouturkey.com/who-is-derya-cebecioglu",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "MINOR_SOURCE_CONFLICT_NOTED"
+      ],
+      "notes": "Turkish outside hitter — VakıfBank academy product, 2023 Volleyball Nations League champion with Turkey, U20 Worlds top scorer 2019; moved to Japan (Kurobe) after VakıfBank — objective athlete category; verified 25 years old. simple.wikipedia 20-vs-24-Oct outlier noted and flagged. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
