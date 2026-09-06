@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Verified adult creator directory workflow with official source links, review flags, and line-by-line verification controls."
+    />
+    <title>ProjX Verified Directory</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#catalog-table">Skip to catalog table</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="./" aria-label="ProjX home">
+          <span class="brand-mark" aria-hidden="true">PX</span>
+          <span>
+            <strong>ProjX</strong>
+            <small>Verified Directory</small>
+          </span>
+        </a>
+        <div class="nav-links">
+          <a href="#catalog">Catalog</a>
+          <a href="#verification">Verification</a>
+          <a href="#irregularities">Irregularities</a>
+          <a href="docs/verification-protocol.md">Protocol</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Official sources • adult-only verification • manual review links</p>
+          <h1 id="page-title">Clean catalog UI for verified adult creator records.</h1>
+          <p>
+            This site organizes opt-in, professionally listed adult creator records only after every line has
+            verifiable 18+ evidence, official profile links, and review flags for anything ambiguous.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#catalog">View catalog</a>
+            <a class="button secondary" href="data/catalog.json">Open source data</a>
+          </div>
+        </div>
+        <aside class="policy-card" aria-labelledby="policy-title">
+          <h2 id="policy-title">Guardrails</h2>
+          <ul>
+            <li>No non-consensual profiling or appearance-only collection.</li>
+            <li>No AI, deepfake, impersonator, private, or leaked material.</li>
+            <li>No entry without official/trusted age verification.</li>
+            <li>Ambiguous evidence is flagged instead of published.</li>
+          </ul>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section class="stats-grid" aria-label="Catalog statistics">
+        <article class="stat-card">
+          <span class="stat-label">Total entries</span>
+          <strong id="stat-total">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Verified 18+</span>
+          <strong id="stat-verified">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Needs review</span>
+          <strong id="stat-review">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Irregularities</span>
+          <strong id="stat-irregularities">0</strong>
+        </article>
+      </section>
+
+      <section id="catalog" class="panel" aria-labelledby="catalog-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Catalog</p>
+            <h2 id="catalog-title">Verified records</h2>
+          </div>
+          <div class="toolbar" role="group" aria-label="Export actions">
+            <button id="download-json" class="button secondary" type="button">Download JSON</button>
+            <button id="download-csv" class="button secondary" type="button">Download CSV</button>
+          </div>
+        </div>
+
+        <form class="filters" aria-label="Catalog filters">
+          <label>
+            <span>Search</span>
+            <input id="search" type="search" placeholder="Name, category, platform, source..." autocomplete="off" />
+          </label>
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="all">All statuses</option>
+              <option value="verified">Verified</option>
+              <option value="needs-review">Needs review</option>
+              <option value="blocked">Blocked</option>
+            </select>
+          </label>
+          <label>
+            <span>Category</span>
+            <select id="category-filter">
+              <option value="all">All categories</option>
+            </select>
+          </label>
+        </form>
+
+        <div class="table-wrap">
+          <table id="catalog-table">
+            <caption>
+              Directory entries that passed consent, age, authenticity, and source verification.
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Category</th>
+                <th scope="col">Age evidence</th>
+                <th scope="col">Official links</th>
+                <th scope="col">Status</th>
+                <th scope="col">Last reviewed</th>
+                <th scope="col">Flags</th>
+              </tr>
+            </thead>
+            <tbody id="catalog-body"></tbody>
+          </table>
+          <div id="empty-state" class="empty-state" hidden>
+            <h3>No publishable records yet</h3>
+            <p>
+              The catalog is empty until entries meet the opt-in, official-source, real-person, and 18+
+              verification requirements. Use the schema and protocol documents to add compliant records.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="verification" class="panel split-panel" aria-labelledby="verification-title">
+        <div>
+          <p class="eyebrow">Verification</p>
+          <h2 id="verification-title">Line-by-line checks</h2>
+          <p>
+            Every future row should be independently reviewable from its source links. Records with missing,
+            contradictory, or inferred evidence stay out of the public table and move to the irregularities list.
+          </p>
+        </div>
+        <ol class="checklist">
+          <li>Confirm legal adult status with official or trusted public sources.</li>
+          <li>Confirm the profile is controlled by the named person or official representation.</li>
+          <li>Confirm the person is real and not AI-generated, synthetic, or an impersonation.</li>
+          <li>Record source URLs, review date, reviewer notes, and unresolved flags.</li>
+          <li>Publish only records with compliant consent/professional context.</li>
+        </ol>
+      </section>
+
+      <section id="irregularities" class="panel" aria-labelledby="irregularities-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Review queue</p>
+            <h2 id="irregularities-title">Irregularities</h2>
+          </div>
+          <a class="button secondary" href="docs/review-log.md">Open review log</a>
+        </div>
+        <div id="irregularity-list" class="irregularity-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Built for transparent source review. Data lives in
+        <a href="data/catalog.json">data/catalog.json</a> and the schema lives in
+        <a href="data/schema.json">data/schema.json</a>.
+      </p>
+    </footer>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

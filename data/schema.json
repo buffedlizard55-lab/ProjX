@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://buffedlizard55-lab.github.io/ProjX/data/schema.json",
+  "title": "ProjX catalog schema",
+  "type": "object",
+  "required": ["metadata", "entries", "irregularities"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["title", "generatedAt", "entryCount"],
+      "properties": {
+        "title": { "type": "string" },
+        "generatedAt": { "type": "string", "format": "date" },
+        "entryCount": { "type": "integer", "minimum": 0 },
+        "summary": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "displayName",
+          "categories",
+          "legalAdultEvidence",
+          "sources",
+          "verificationStatus",
+          "lastReviewed",
+          "flags"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Stable unique identifier for the record."
+          },
+          "displayName": {
+            "type": "string",
+            "description": "Public/professional display name."
+          },
+          "categories": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Professional categories such as model, athlete, artist, creator, or public figure."
+          },
+          "legalAdultEvidence": {
+            "type": "object",
+            "required": ["summary", "sourceLabel", "sourceUrl", "checkedAt"],
+            "properties": {
+              "summary": {
+                "type": "string",
+                "description": "Human-readable age/18+ verification summary."
+              },
+              "sourceLabel": { "type": "string" },
+              "sourceUrl": { "type": "string", "format": "uri" },
+              "checkedAt": { "type": "string", "format": "date" }
+            },
+            "additionalProperties": false
+          },
+          "sources": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["label", "platform", "url", "relationship"],
+              "properties": {
+                "label": { "type": "string" },
+                "platform": { "type": "string" },
+                "url": { "type": "string", "format": "uri" },
+                "relationship": {
+                  "type": "string",
+                  "enum": ["official", "verified-platform", "agency", "press", "age-evidence", "other-trusted"]
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "verificationStatus": {
+            "type": "string",
+            "enum": ["verified", "needs-review", "blocked"]
+          },
+          "lastReviewed": { "type": "string", "format": "date" },
+          "flags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Unresolved issues. Verified records should normally have an empty flags array."
+          },
+          "notes": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "irregularities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "severity", "summary", "reviewStatus"],
+        "properties": {
+          "id": { "type": "string" },
+          "severity": { "type": "string", "enum": ["needs-review", "blocked", "resolved"] },
+          "summary": { "type": "string" },
+          "detail": { "type": "string" },
+          "reviewStatus": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
