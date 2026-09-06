@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 210,
+    "entryCount": 212,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -14557,6 +14557,164 @@
       "flags": [],
       "notes": "2024 Paris Olympian (with Kristen Nuss) and former Creighton indoor/LSU beach star — objective athlete category; verified 29 years old. Married name Brasher used in current pro identity. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-211",
+      "displayName": "Megan Kraft",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 27, 2002 in San Diego, California — age 23 (turns 24 in Sept 2026) in 2026 — per the OFFICIAL AVP athlete page ('Birthday September 27, 2002'), bvbinfo.com player record (Birth Date September 27, 2002 (23 years old)), beach.volleybox structured record (birthDate 2002-09-27) and the USC official roster bio ('Megan Kraft was born on Sept[ember 27, 2002]').",
+        "sourceLabel": "AVP — official Megan Kraft athlete page (Birthday September 27, 2002)",
+        "sourceUrl": "https://avp.com/player/megan-kraft/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via beach.volleybox structured record ('gender: Female') and USC Trojans women's beach volleyball career — four-time NCAA national champion, 2024 AVCA Player of the Year (AVP official).",
+        "sourceLabel": "beach.volleybox — Megan Kraft (gender Female; birthDate 2002-09-27)",
+        "sourceUrl": "https://beach.volleybox.net/megan-kraft-p48409",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "AVP — official Megan Kraft athlete page (Birthday September 27, 2002; 4x NCAA champion)",
+          "platform": "Website",
+          "url": "https://avp.com/player/megan-kraft/",
+          "relationship": "official"
+        },
+        {
+          "label": "beach.volleybox — Megan Kraft (birthDate 2002-09-27; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://beach.volleybox.net/megan-kraft-p48409",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "bvbinfo — Megan Kraft career record (Birth Date September 27, 2002)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=18522",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "USC Athletics — official Megan Kraft 2024 beach roster bio",
+          "platform": "Website",
+          "url": "https://usctrojans.com/sports/womens-beach-volleyball/roster/megan-kraft/16451",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @megan__kraft (beach.volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/megan__kraft/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Four-time NCAA beach volleyball national champion at USC and 2024 AVCA Player of the Year (with Delaynie Maple); pro tour partner Terese Cannon — objective athlete category; verified 23 years old. IG handle via beach.volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@megan__kraft",
+          "profileUrl": "https://www.instagram.com/megan__kraft/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via beach.volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-212",
+      "displayName": "Terese Cannon",
+      "categories": [
+        "Athlete",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 1, 1995 in Pittsford, New York — age 30 (31 in Oct 2026) in 2026 — per the OFFICIAL volleyballworld governing-body player page (Birth date 01/10/1995 = 1 October 1995, DD/MM), women.volleybox structured record (birthDate 1995-10-01), bvbinfo.com (Birth Date October 1, 1995 (30 years old)) and USA Volleyball athlete page ('Born in 1995').",
+        "sourceLabel": "Volleyball World — official Terese Cannon player bio (Birth date 01/10/1995)",
+        "sourceUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/2022/players/162448",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and USA Volleyball Beach National Team membership / pro beach career (usavolleyball.org official; Georgetown indoor + USC beach collegiate career).",
+        "sourceLabel": "USA Volleyball — official Terese Cannon athlete page (Beach National Team)",
+        "sourceUrl": "https://usavolleyball.org/athlete/terese-cannon/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Terese Cannon bio (Birth date 01/10/1995, DD/MM = Oct 1)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/2022/players/162448",
+          "relationship": "official"
+        },
+        {
+          "label": "USA Volleyball — official Terese Cannon athlete page (Born in 1995)",
+          "platform": "Website",
+          "url": "https://usavolleyball.org/athlete/terese-cannon/",
+          "relationship": "official"
+        },
+        {
+          "label": "women.volleybox — Terese Cannon (birthDate 1995-10-01; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/terese-cannon-p34035",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "bvbinfo — Terese Cannon career record (Birth Date October 1, 1995)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=17069",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @teresecannon (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/teresecannon/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "USA Beach National Team pro — 2025 Beach World Championships (Adelaide) competitor with Megan Kraft; Georgetown/USC collegiate career — objective athlete category; verified 30 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@teresecannon",
+          "profileUrl": "https://www.instagram.com/teresecannon/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
