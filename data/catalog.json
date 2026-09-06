@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 246,
+    "entryCount": 248,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17008,6 +17008,116 @@
         "MINOR_SOURCE_CONFLICT_NOTED"
       ],
       "notes": "French outside hitter ('La Caze') — Ligue A champion+MVP 2021 with Mulhouse, CEV Champions League finalist with Milano 2025, signed by VakıfBank for 2025-26; Paris 2024 squad member — objective athlete category; verified 28 years old. Vakıfbank-page DOB outlier (November 7) noted below majority-official December 17 — flagged. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-247",
+      "displayName": "Britt Herbots",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 24, 1999 in Sint-Truiden, Belgium — age 26 (27 in Sept 2026) in 2026 — per Wikipedia (born 24 September 1999), simple.wikipedia/replication (born 24 September 1999), Kiddle (born on September 24, 1999) and Grokipedia (born on 24 September 1999 in Sint-Truiden).",
+        "sourceLabel": "Wikipedia — Britt Herbots (born 24 September 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Britt_Herbots",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Belgium women's national volleyball team career ('plays for the Belgium women's volleyball team... captain of the Yellow Tigers'; Wikipedia/Grokipedia).",
+        "sourceLabel": "Wikipedia — Britt Herbots (Belgium women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Britt_Herbots",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Britt Herbots (DOB 1999-09-24; Sint-Truiden)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Britt_Herbots",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Britt Herbots (born 24 September 1999; Yellow Tigers captain)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Britt_Herbots",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Kiddle — Britt Herbots (born September 24, 1999)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Britt_Herbots",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Belgium Yellow Tigers star outside hitter and 2021 Volleyball Nations League top scorer (with four 30+ point matches); club career through Mulhouse, Busto Arsizio, Firenze and Scandicci — objective athlete category; verified 26 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-248",
+      "displayName": "Airi Miyabe",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 29, 1998 in Amagasaki, Hyōgo Prefecture, Japan — age 28 in 2026 — per Wikipedia (born 29 July 1998), Grokipedia (born on July 29, 1998, in Amagasaki) and the Olympics Wiki record (Date of birth 29 July 1998).",
+        "sourceLabel": "Wikipedia — Airi Miyabe (born 29 July 1998)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Airi_Miyabe",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Japan women's national volleyball team career — 'a member of the Japan women's national volleyball team'; Paris 2024 Olympian (Wikipedia/Grokipedia/olympics.fandom).",
+        "sourceLabel": "Wikipedia — Airi Miyabe (Japan women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Airi_Miyabe",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Airi Miyabe (DOB 1998-07-29; Hyōgo)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Airi_Miyabe",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Airi Miyabe (born July 29, 1998; Paris 2024 Olympian)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Airi_Miyabe",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Olympics Wiki — Airi Miyabe (DOB 29 July 1998; Paris 2024)",
+          "platform": "Website",
+          "url": "https://olympics.fandom.com/wiki/Airi_Miyabe",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Japanese national team middle blocker (Nigerian-Japanese heritage) — Paris 2024 Olympian; unique path through Kinrankai HS, US junior college (NJCAA Player of the Year 2018) and the University of Minnesota, now with Denver Summit — objective athlete category; verified 28 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
