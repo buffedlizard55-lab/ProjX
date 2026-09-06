@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 250,
+    "entryCount": 251,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17228,6 +17228,61 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Dominican star opposite ('Big Beth') — NORCECA champion 2009, Pan-American Cup gold 2010, Eczacıbaşı's 2015 CEV Champions League title winner; played in Japan/Turkey/Russia/Italy/Puerto Rico and now Omaha Supernovas (PVF) — objective athlete category; verified 39 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-251",
+      "displayName": "Li Yingying",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 19, 2000 in Qiqihar, Heilongjiang, China — age 26 in 2026 — per Wikipedia (born February 19, 2000, in Qiqihar, Heilongjiang), Grokipedia (born on February 19, 2000) and Wikiwand (born 19 February 2000, age 26).",
+        "sourceLabel": "Wikipedia — Li Yingying (born February 19, 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Li_Yingying_(volleyball)",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via China women's national volleyball team career ('outside hitter of China women's national volleyball team'; Wikipedia/Wikiwand).",
+        "sourceLabel": "Wikipedia — Li Yingying (China women's NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Li_Yingying_(volleyball)",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Li Yingying (DOB 2000-02-19; Qiqihar)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Li_Yingying_(volleyball)",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Li Yingying (born February 19, 2000)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Li_Yingying_(volleyball)",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikiwand — Li Yingying (born 19 February 2000, Qiqihar)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/Li_Yingying_(volleyball)",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "China's flagship outside hitter (195 cm) — four-time Chinese Volleyball League champion with Tianjin Bohai Bank (MVP each time 2019/2022/2023/2024); Best Outside Spiker at the U18 Worlds 2015 — objective athlete category; verified 26 years old. (Duplicate-block check caught that Magdalena Stysiak was already cataloged as W-2026-228 — only Li added in wave 19.) No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
