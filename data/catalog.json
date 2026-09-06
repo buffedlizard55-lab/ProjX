@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 216,
+    "entryCount": 218,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15006,6 +15006,134 @@
       "flags": [],
       "notes": "Vakıfbank Istanbul captain (2024–25 season) and middle blocker for the Turkey women's national team — 3x FIVB Clubs World champion and 3x CEV Champions League winner — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-217",
+      "displayName": "Isabelle Haak",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 11, 1999 in Perstorp, Sweden — age 27 in 2026 — per the OFFICIAL volleyballworld governing-body player page for Lega Volley Femminile A1 (Birth date 11/07/1999 = 11 July 1999 DD/MM, Age 27), Wikipedia (born 11 July 1999) and Grokipedia (born on 11 July 1999).",
+        "sourceLabel": "Volleyball World — official Haak Isabelle player bio (Birth date 11/07/1999)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/legavolley-femminile-a1/players/153170",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Lega Volley Femminile A1 (women's Italian top league) official player page and Sweden women's national volleyball team career (volleyballworld/Wikipedia).",
+        "sourceLabel": "Volleyball World — official player bio (Lega Volley Femminile A1, Conegliano)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/legavolley-femminile-a1/players/153170",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Isabelle Haak bio (Birth date 11/07/1999; Conegliano)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/legavolley-femminile-a1/players/153170",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Isabelle Haak (DOB 1999-07-11; Sweden national team)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Isabelle_Haak",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Isabelle Haak (born 11 July 1999 in Perstorp)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Isabelle_Haak",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "World-class opposite for Imoco Volley Conegliano (Italy's Serie A1) and the Sweden women's national team — youngest-ever Swedish senior international at 14 (May 10, 2014, adult by 2026 regardless) — objective athlete category; verified 27 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-218",
+      "displayName": "Joanna Wołosz",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 7, 1990 in Elbląg, Poland — age 36 in 2026 — per the OFFICIAL Imoco Volley club player page (Birthday 07/04/1990), Grokipedia (born 7 April 1990 in Elbląg), volleybox player record (Birthdate 1990-04-07) and Baidu Baike (Date of Birth April 7, 1990).",
+        "sourceLabel": "Imoco Volley — official Joanna Wołosz player page (Birthday 07/04/1990)",
+        "sourceUrl": "https://imocovolley.it/en/player/joanna-wolosz/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Imoco Volley Conegliano women's team career and Poland women's national volleyball team career ('part of the Poland women's national volleyball team'; 2024 Paris Olympic roster per Baidu Baike).",
+        "sourceLabel": "Imoco Volley — official player page (women's team setter #14)",
+        "sourceUrl": "https://imocovolley.it/en/player/joanna-wolosz/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Imoco Volley — official Joanna Wołosz player page (Birthday 07/04/1990)",
+          "platform": "Website",
+          "url": "https://imocovolley.it/en/player/joanna-wolosz/",
+          "relationship": "official"
+        },
+        {
+          "label": "Grokipedia — Joanna Wołosz (born 7 April 1990; Elbląg)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Joanna_Wo%C5%82osz",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "volleybox — Joanna Wołosz record (Birthdate 1990-04-07; published IG handle)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/joanna-wolosz-amazing-volleyball-setter-unusual-sets-m23137",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @asiawolosz14 (published on volleybox profile video page)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/asiawolosz14",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Veteran setter for Imoco Volley Conegliano and long-time Poland women's national team leader — three-time FIVB Club World Championship Best Setter (2019, 2022, 2024) and 2024 Paris Olympian — objective athlete category; verified 36 years old. Nicknamed 'Asia'; IG handle published by volleybox; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@asiawolosz14",
+          "profileUrl": "https://www.instagram.com/asiawolosz14",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle published by volleybox ('Her instagram: instagram.com/asiawolosz14'); count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
