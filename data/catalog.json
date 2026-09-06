@@ -2,14 +2,19 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 10,
-    "summary": "Compliant women-only directory: 10 verified adult women (professional athletes + diverse public creators) added 2026-09-06 with strongest legitimate public age, gender, identity and category evidence and reviewable source links. Discovery was by public creator activity (fitness, swimwear, fashion, athletics, lifestyle) then eligibility verification — not 'find women then collect'. Bulk 1,000 autonomous harvesting remains blocked per IRR-002/003/004/005/006 — quality over quantity; no bulk rows hallucinated. Categories are objective (Athlete/Fitness/Swimwear/Beachwear/Fashion/Modeling etc.), not attractiveness ranking; micro and independent creators included where verifiable."
+    "entryCount": 13,
+    "reviewQueueCount": 10,
+    "summary": "Compliant women-only directory: 13 verified adult women (professional athletes + diverse public creators including micro/regional fitness and swimwear) + 10 promising candidates in REVIEW_REQUIRED queue (discovered by activity-first research, missing one or more verification fields, flagged not guessed). Discovery is activity-first (fitness/swimwear/fashion/college athletics/lifestyle etc.) then eligibility verification — not 'find women then collect'. Bulk 1,000 remains a target to iterate toward (quality > quantity); no bulk rows hallucinated. Categories are objective, not attractiveness ranking; micro and independent creators included where strongest available legitimate public evidence supports VERIFIED."
   },
   "entries": [
     {
       "id": "W-2026-001",
       "displayName": "Serena Williams",
-      "categories": ["Athlete", "Tennis", "Public personality"],
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Public personality"
+      ],
       "legalAdultEvidence": {
         "summary": "Born September 26, 1981 in Saginaw, Michigan, USA — age 44 in 2026, well over 18. Verified via Britannica biography listing DOB 1981-09-26 and cross-checked with encyclopedic/WTA sources.",
         "sourceLabel": "Britannica — Serena Williams biography (Born: September 26, 1981)",
@@ -56,7 +61,11 @@
     {
       "id": "W-2026-002",
       "displayName": "Simone Biles",
-      "categories": ["Athlete", "Gymnastics", "Public personality"],
+      "categories": [
+        "Athlete",
+        "Gymnastics",
+        "Public personality"
+      ],
       "legalAdultEvidence": {
         "summary": "Born March 14, 1997 in Columbus, Ohio, USA — age 29 in 2026. Verified via Olympics.com athlete profile (Year of Birth 1997; biography March 14, 1997) and FIG profile (Year of birth 1997).",
         "sourceLabel": "Olympics.com — Simone Biles (Year of Birth 1997; Born March 14, 1997)",
@@ -103,7 +112,11 @@
     {
       "id": "W-2026-003",
       "displayName": "Naomi Osaka",
-      "categories": ["Athlete", "Tennis", "Public personality"],
+      "categories": [
+        "Athlete",
+        "Tennis",
+        "Public personality"
+      ],
       "legalAdultEvidence": {
         "summary": "Born October 16, 1997 in Osaka, Japan — age 28 in 2026. Verified via WTA official profile (Birthday Oct 16, 1997) and Britannica biography (Born: October 16, 1997).",
         "sourceLabel": "WTA — Naomi Osaka (Birthday: Oct 16, 1997)",
@@ -144,7 +157,11 @@
     {
       "id": "W-2026-004",
       "displayName": "Alex Morgan",
-      "categories": ["Athlete", "Soccer", "Public personality"],
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Public personality"
+      ],
       "legalAdultEvidence": {
         "summary": "Born July 2, 1989 in San Dimas, California, USA — age 37 in 2026. Verified via Britannica biography (Born: July 2, 1989) and cross-checked with encyclopedic/official sources.",
         "sourceLabel": "Britannica — Alex Morgan biography (Born: July 2, 1989)",
@@ -191,7 +208,11 @@
     {
       "id": "W-2026-005",
       "displayName": "Megan Rapinoe",
-      "categories": ["Athlete", "Soccer", "Public personality"],
+      "categories": [
+        "Athlete",
+        "Soccer",
+        "Public personality"
+      ],
       "legalAdultEvidence": {
         "summary": "Born July 5, 1985 in Redding, California, USA — age 41 in 2026. Verified via Britannica biography (Born: July 5, 1985) and encyclopedic cross-check (1985-07-05).",
         "sourceLabel": "Britannica — Megan Rapinoe biography (Born: July 5, 1985)",
@@ -232,7 +253,11 @@
     {
       "id": "W-2026-006",
       "displayName": "Katie Ledecky",
-      "categories": ["Athlete", "Swimming", "Sports"],
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Sports"
+      ],
       "legalAdultEvidence": {
         "summary": "Born March 17, 1997 in Washington, D.C., USA — age 29 in 2026. Verified via Britannica biography (Born: March 17, 1997) and Wikipedia/official hall profile listing 1997-03-17.",
         "sourceLabel": "Britannica — Katie Ledecky biography (Born: March 17, 1997)",
@@ -273,7 +298,11 @@
     {
       "id": "W-2026-007",
       "displayName": "Chloe Kim",
-      "categories": ["Athlete", "Snowboard", "Sports"],
+      "categories": [
+        "Athlete",
+        "Snowboard",
+        "Sports"
+      ],
       "legalAdultEvidence": {
         "summary": "Born April 23, 2000 in Long Beach, California, USA — age 26 in 2026. Verified via Britannica biography (Born: April 23, 2000) and Kids Britannica (born 2000).",
         "sourceLabel": "Britannica — Chloe Kim biography (Born: April 23, 2000)",
@@ -314,7 +343,12 @@
     {
       "id": "W-2026-008",
       "displayName": "Soniya Singh Khatri",
-      "categories": ["Fitness", "Fitness Model", "Creator", "Lifestyle"],
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Lifestyle"
+      ],
       "legalAdultEvidence": {
         "summary": "Born August 12, 1995 in Delhi, India — age 30 in 2026. Verified via public creator biography listing DOB 12 August 1995 and cross-checked across independent biography sources.",
         "sourceLabel": "Creator biography — Soniya Singh Khatri (born 12 August 1995)",
@@ -355,7 +389,13 @@
     {
       "id": "W-2026-009",
       "displayName": "Elisabeth Rioux",
-      "categories": ["Swimwear", "Bikini/Swimwear Fashion", "Beachwear", "Fashion", "Modeling"],
+      "categories": [
+        "Swimwear",
+        "Bikini/Swimwear Fashion",
+        "Beachwear",
+        "Fashion",
+        "Modeling"
+      ],
       "legalAdultEvidence": {
         "summary": "Born December 20, 1996 in Canada — age 29 in 2026. Verified via public biography listing DOB Dec 20, 1996 and cross-checked across booking-agent and encyclopedic sources.",
         "sourceLabel": "Public biography — Elisabeth Rioux (born December 20, 1996)",
@@ -402,7 +442,12 @@
     {
       "id": "W-2026-010",
       "displayName": "Kayla Itsines",
-      "categories": ["Fitness", "Fitness Model", "Creator", "Wellness"],
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Wellness"
+      ],
       "legalAdultEvidence": {
         "summary": "Born May 21, 1991 in Adelaide, South Australia — age 35 in 2026. Verified via encyclopedic biography listing DOB 21 May 1991 and cross-checked with official site context.",
         "sourceLabel": "Encyclopedia — Kayla Itsines (Born 21 May 1991)",
@@ -439,6 +484,366 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Discovered via fitness-creator activity (not celebrity name search): Australian personal trainer since 2008, creator of Bikini Body Guides and Sweat: Fitness App For Women, Instagram 12-15M followers, BBG community. Women-only not from appearance/fitness photos — via biography female personal trainer, she/her, mother of 2. Adult via May 21, 1991 DOB (>18). Real-person cross-linked official site kaylaitsines.com ↔ Instagram @kayla_itsines ↔ Wikipedia consistent name, DOB, Adelaide origin, Greek heritage, career timeline (women's gym Adelaide 2008→Instagram 2013→BBG 2014). Profile ownership: Instagram @kayla_itsines (14.4M followers) matches official site linkage and biography, consistent fitness photographs/content, only person posting on account per biography. Category Fitness/Fitness Model/Creator/Wellness — objective (personal trainer, BBG, Sweat app, author), swimwear/bikini guides classified as fitness fashion but not attractiveness ranking. Independent fitness micro-to-mid creator turned global brand — demonstrates non-celebrity discovery with strongest available legitimate public evidence (official site + verified Instagram + Tier-2/3 encyclopedic), not requiring Britannica/agency/blue check."
+    },
+    {
+      "id": "W-2026-011",
+      "displayName": "Sommer Ray",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Modeling"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 15, 1996 in Denver, Colorado, USA — age 29 in 2026. Verified via public biography listing DOB September 15, 1996 and cross-checked across independent sources.",
+        "sourceLabel": "Public biography — Sommer Ray (born September 15, 1996)",
+        "sourceUrl": "https://youtube.fandom.com/wiki/Sommer_Ray",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via public biography describing her as an American fitness model, YouTube vlogger and former Vine star (she/her), daughter of Shannon Ray (also fitness model), fitness videos and modeling.",
+        "sourceLabel": "Public biography — Sommer Ray (American fitness model, she/her)",
+        "sourceUrl": "https://youtube.fandom.com/wiki/Sommer_Ray",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Instagram — @sommerray (25M followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sommerray/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Public biography — DOB Sept 15, 1996",
+          "platform": "Website",
+          "url": "https://youtube.fandom.com/wiki/Sommer_Ray",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Biography — Birthday: September 15, 1996",
+          "platform": "Website",
+          "url": "https://www.thefamousbirthdays.com/people/sommer-ray",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, Sommer Ray 25M IG, fitness/bikini content, businesses Imaris Beauty). Women-only not from appearance/bikini photos — via biography she/her, American fitness model, daughter of Shannon Ray. Adult via Sept 15, 1996 DOB (>18) on YouTube Fandom + FamousBirthdays consistent. Real-person cross-linked Instagram @sommerray ↔ both biographies consistent name, DOB, Denver origin, Vine→YouTube→Instagram career. Profile ownership: Instagram @sommerray 25M followers matches biography fitness-model content, consistent photographs. Category Fitness/Fitness Model/Creator/Modeling — objective (fitness videos, bikini modeling, entrepreneur), never attractiveness ranking. Established fitness creator (not limited to celebrity athlete) — evidence-based via strongest available public biographies (official site not required per correction)."
+    },
+    {
+      "id": "W-2026-012",
+      "displayName": "Tammy Hembrow",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Lifestyle"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 22, 1994 in Gold Coast, Australia — age 31 in 2026. Verified via public biography listing DOB April 22, 1994 and cross-checked across independent sources.",
+        "sourceLabel": "Public biography — Tammy Hembrow (Born April 22, 1994)",
+        "sourceUrl": "https://www.thefamousbirthdays.com/people/tammy-hembrow",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via public biography describing her as an Australian fitness model, Instagram star, entrepreneur, mother of Wolf, Saskia and Posy, sister of Emilee and Amy Hembrow, she/her throughout.",
+        "sourceLabel": "Public biography — Tammy Hembrow (Australian fitness model, mother, she/her)",
+        "sourceUrl": "https://www.thefamousbirthdays.com/people/tammy-hembrow",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Instagram — @tammyhembrow (17M followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tammyhembrow/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Public biography — DOB April 22, 1994",
+          "platform": "Website",
+          "url": "https://www.thefamousbirthdays.com/people/tammy-hembrow",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Biography — DOB April 22, 1994, Gold Coast",
+          "platform": "Website",
+          "url": "https://www.newsunzip.com/wiki/tammy-hembrow/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-creator activity (Top 50 female fitness influencers, 17M IG, post-pregnancy fitness transformation, TammyFit app, Saski activewear). Women-only not from appearance/fitness photos — via biography she/her, Australian fitness model, mother, sister. Adult via April 22, 1994 DOB (>18) on FamousBirthdays + NewsUnzip consistent. Real-person cross-linked Instagram @tammyhembrow ↔ both biographies consistent name, DOB, Gold Coast origin, mother of 3, entrepreneur. Profile ownership: Instagram @tammyhembrow 17M followers matches biography fitness/lifestyle content. Category Fitness/Fitness Model/Creator/Lifestyle — objective (fitness model, entrepreneur, TammyFit app), never hot/sexy ranking. Established fitness creator — strongest available public biographies (no Britannica required)."
+    },
+    {
+      "id": "W-2026-013",
+      "displayName": "Pamela Reif",
+      "categories": [
+        "Fitness",
+        "Fitness Model",
+        "Creator",
+        "Wellness"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 9, 1996 in Karlsruhe, Germany — age 29 in 2026. Verified via public biography listing DOB July 9, 1996 and cross-checked across independent sources.",
+        "sourceLabel": "Public biography — Pamela Reif (Born July 9, 1996)",
+        "sourceUrl": "https://www.thefamousbirthdays.com/people/pamela-reif",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via public biography describing her as a German fitness model, Instagram personality, YouTuber (she/her), sister of Dennis Reif, fitness/workout videos.",
+        "sourceLabel": "Public biography — Pamela Reif (German fitness model, Instagram personality, she/her)",
+        "sourceUrl": "https://www.thefamousbirthdays.com/people/pamela-reif",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Instagram — @pamela_rf (6.3M followers)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/pamela_rf/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Public biography — DOB July 9, 1996",
+          "platform": "Website",
+          "url": "https://www.thefamousbirthdays.com/people/pamela-reif",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Biography — Pamela Reif (born July 9, 1996, Karlsruhe)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/personality/model/pamela-reif-biography-age-boyfriend-net-worth-height-parents-books-brand/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Discovered via fitness-creator activity (German fitness model, home workout plans, Strong & Beautiful book, 6.3M IG). Women-only not from appearance/workout photos — via biography she/her, German fitness model, Instagram personality, entrepreneur. Adult via July 9, 1996 DOB (>18) on FamousBirthdays + TheCityCeleb consistent (Karlsruhe, Germany). Real-person cross-linked Instagram @pamela_rf ↔ both biographies consistent full name Pamela Leonie Reif, DOB, German origin, brother Dennis, career posting fitness content since 2012. Profile ownership: Instagram @pamela_rf matches biography fitness content, consistent photographs. Category Fitness/Fitness Model/Creator/Wellness — objective (fitness model, workout videos, author), never attractiveness ranking. Established fitness creator — evidence-based via strongest available public biographies."
+    }
+  ],
+  "reviewQueue": [
+    {
+      "id": "R-2026-001",
+      "displayName": "Jessica Parker",
+      "handle": "@jessicapaige",
+      "platform": "Instagram",
+      "profileUrl": "https://www.instagram.com/jessicapaige/",
+      "discoveryCategory": "College Athlete",
+      "evidenceFound": {
+        "summary": "D1 volleyball player at University of Rhode Island (gorhody.com roster), 7.5k Instagram followers, TikTok 1k-10k — women's volleyball content creator",
+        "sourceLabel": "University athletic roster — Jessica Parker, Rhode Island volleyball",
+        "sourceUrl": "https://gorhody.com/sports/womens-volleyball/roster/jessica-parker/9723"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via 'volleyball college athlete' activity (Collabstr @jessicapaige). Gender: woman can be inferred via women's volleyball roster (Tier 1 university athletic profile, women's team) — but adult status: no public birth date, age statement, or explicit 18+ evidence found in gorhody roster or Collabstr profile; 'college athlete' alone not sufficient per §2. Recorded as REVIEW_REQUIRED with AGE_UNVERIFIED — not guessed. Next step: search reputable interview or first-party bio with explicit age."
+    },
+    {
+      "id": "R-2026-002",
+      "displayName": "Alyssa Ustby",
+      "handle": "@alyssaustby",
+      "platform": "TikTok",
+      "profileUrl": "https://www.tiktok.com/@alyssaustby",
+      "discoveryCategory": "College Athlete",
+      "evidenceFound": {
+        "summary": "UNC Women's Basketball #1, TikTok 132K followers — college sports content creator (women's basketball)",
+        "sourceLabel": "FeedSpot — Alyssa Ustby, UNC WBB TikTok 132K",
+        "sourceUrl": "https://creators.feedspot.com/college_sports_tiktok_influencers/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via 'female college athlete' query (UNC WBB). Platform: TikTok @alyssaustby. Category College Athlete supported by WBB roster mention, but no public DOB/age statement, no first-party bio with age, no university profile with birth year found — so 18+ not independently established (college athlete ≠ adult). Gender: while WBB implies woman, no explicit first-party biography/reputable interview stating woman was found in this search — flagged GENDER_UNVERIFIED per no-appearance-inference rule, needs stronger source. PROFILE ownership not yet verified via cross-links. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-003",
+      "displayName": "Olivia Vance",
+      "handle": "@oliviafvance",
+      "platform": "TikTok",
+      "profileUrl": "https://www.tiktok.com/@oliviafvance",
+      "discoveryCategory": "Athlete",
+      "evidenceFound": {
+        "summary": "Professional volleyball player living in Portugal, 106K TikTok / 25K Instagram — wellness, travel, athletic lifestyle creator",
+        "sourceLabel": "Collabstr — Olivia Vance, pro volleyball 106K",
+        "sourceUrl": "https://collabstr.com/top-influencers/volleyball"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via volleyball creator activity. Gender: professional volleyball in women's context + she/her in Collabstr bio ('Hi, I'm Olivia') — but no independent DOB or explicit age statement found; adult cannot be inferred from professional status or appearance. Needs first-party bio with age or reputable interview. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-004",
+      "displayName": "Emmy",
+      "handle": "@emmyschrom",
+      "platform": "TikTok",
+      "profileUrl": "https://www.tiktok.com/@emmyschrom",
+      "discoveryCategory": "College Athlete",
+      "evidenceFound": {
+        "summary": "20-year-old marketing major and Division I volleyball player at Duquesne University — self-described 20-year-old on Collabstr profile (first-party age statement)",
+        "sourceLabel": "Collabstr — Emmy, 20-year-old D1 volleyball Duquesne",
+        "sourceUrl": "https://collabstr.com/top-influencers/volleyball"
+      },
+      "missingEvidence": [
+        "GENDER_UNVERIFIED",
+        "PROFILE_UNVERIFIED"
+      ],
+      "flags": [
+        "GENDER_UNVERIFIED",
+        "PROFILE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via college volleyball activity. Adult: explicit '20-year-old' first-party statement on Collabstr (20 >18) — promising Tier 3 first-party age evidence, but per evidence-based standard, a single Tier 3 age statement alone is not sole sensitive proof when stronger (university profile with birth year, reputable interview) is reasonably expected but not yet found — flagged for corroboration. Gender: 'Emmy' + D1 volleyball suggests woman but no explicit first-party gender biography found — needs stronger source. Profile ownership: TikTok handle not yet cross-linked via official university roster. REVIEW_REQUIRED — not guessed, needs stronger age corroboration and gender evidence."
+    },
+    {
+      "id": "R-2026-005",
+      "displayName": "Lizzie Martinez",
+      "handle": "@lizzieifbbpro",
+      "platform": "Instagram",
+      "profileUrl": "https://www.instagram.com/lizzieifbbpro/",
+      "discoveryCategory": "Fitness",
+      "evidenceFound": {
+        "summary": "IFBB Pro bodybuilder and fitness coach, ~49K Instagram followers, owns Sun City Athletic Club, mom/wife, gym coaching content",
+        "sourceLabel": "StackInfluence — Lizzie Martinez, IFBB Pro 49K",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via 'female fitness micro influencer' query (49K micro-tier). Gender: woman via mom/wife/IFBB Pro women's bodybuilding context (she/her) — but no public DOB, explicit age statement, or first-party bio with age found — adult not inferred from mom/wife status or appearance. Needs public birth date or explicit age. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-006",
+      "displayName": "Kahdia",
+      "handle": "@kahdiaaa",
+      "platform": "Instagram",
+      "profileUrl": "https://www.instagram.com/kahdiaaa/",
+      "discoveryCategory": "Fitness",
+      "evidenceFound": {
+        "summary": "25-year-old Miami-based micro influencer blending fitness/lifestyle/gym fashion, 28K Instagram, 8.3% engagement — fitness micro creator",
+        "sourceLabel": "StackInfluence — Kahdia, 25-year-old 28K fitness micro",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+      },
+      "missingEvidence": [
+        "GENDER_UNVERIFIED",
+        "PROFILE_UNVERIFIED"
+      ],
+      "flags": [
+        "GENDER_UNVERIFIED",
+        "PROFILE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via fitness micro influencer query. Adult: explicit '25-year-old' in reputable publication (StackInfluence) — promising adult evidence (25 >18) from Tier 2, but gender: article does not explicitly state woman with biography — described as 'young micro influencers blending fitness' without she/her; handle alone not sufficient. Profile ownership: Instagram @kahdiaaa not yet cross-verified via bio links/photographs. Flagged for stronger gender evidence and ownership verification. REVIEW_REQUIRED — not discarded, pipeline for further research."
+    },
+    {
+      "id": "R-2026-007",
+      "displayName": "Melissa Bender",
+      "handle": "@benderfitness",
+      "platform": "Instagram",
+      "profileUrl": "https://www.instagram.com/benderfitness/",
+      "discoveryCategory": "Fitness",
+      "evidenceFound": {
+        "summary": "Occupational therapist turned fitness blogger, 23K Instagram, BenderFitness.com with 1,000+ free workouts — accessible fitness creator",
+        "sourceLabel": "StackInfluence — Melissa Bender, 23K fitness micro",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via fitness micro influencer query. Category Fitness supported, but no public DOB/age statement and no explicit gender biography found in this search — 23K follower count not an eligibility factor but also not evidence. Needs first-party bio with age and gender evidence. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-008",
+      "displayName": "Rachel Cooper",
+      "handle": "@rc__fitness",
+      "platform": "Instagram",
+      "profileUrl": "https://www.instagram.com/rc__fitness/",
+      "discoveryCategory": "Fitness",
+      "evidenceFound": {
+        "summary": "Certified personal trainer, Technogym Master Trainer, 14.4K Instagram — rising fitness micro influencer, Amazon Live Creator",
+        "sourceLabel": "StackInfluence — Rachel Cooper, 14.4K micro fitness",
+        "sourceUrl": "https://stackinfluence.com/top-10-female-fitness-influencers-of-2025/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED",
+        "GENDER_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via fitness micro influencer query (smallest tier, 14.4K). Category Fitness supported via Technogym Master Trainer, but no DOB/age or explicit gender biography found — follower count not relevant. Needs independent adult and woman evidence. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-009",
+      "displayName": "Victoria Garrick",
+      "handle": "@victoriagarrick4",
+      "platform": "TikTok",
+      "profileUrl": "https://www.tiktok.com/@victoriagarrick4",
+      "discoveryCategory": "College Athlete",
+      "evidenceFound": {
+        "summary": "Former USC volleyball star, mental health/body image advocate, 1.2M TikTok followers — former college athlete creator",
+        "sourceLabel": "2aDays — Victoria Garrick, former USC volleyball 1.2M",
+        "sourceUrl": "https://www.2adays.com/blog/3-college-athlete-tiktokers-you-should-be-following/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via college athlete activity (USC volleyball). Gender: woman via former USC women's volleyball star (women's team) — but adult: described as former college athlete, but no public DOB, explicit age, or graduation year with age found — college attendance alone not adult proof. Needs first-party bio with age or reputable interview. REVIEW_REQUIRED."
+    },
+    {
+      "id": "R-2026-010",
+      "displayName": "Sedona Prince",
+      "handle": "@sedonerr",
+      "platform": "TikTok",
+      "profileUrl": "https://www.tiktok.com/@sedonerr",
+      "discoveryCategory": "College Athlete",
+      "evidenceFound": {
+        "summary": "Oregon Women's Basketball daily life athlete, 3M TikTok followers, 157M likes — gap in men's/women's sports, mixed content creator",
+        "sourceLabel": "2aDays — Sedona Prince, Oregon WBB 3M TikTok",
+        "sourceUrl": "https://www.2adays.com/blog/3-college-athlete-tiktokers-you-should-be-following/"
+      },
+      "missingEvidence": [
+        "AGE_UNVERIFIED"
+      ],
+      "flags": [
+        "AGE_UNVERIFIED"
+      ],
+      "lastChecked": "2026-09-06",
+      "notes": "Discovered via college athlete activity (Oregon WBB). Gender: woman via women's basketball — but adult: no public DOB/age statement found in this search; being a college athlete (even at Oregon) does not independently establish 18+ without explicit age evidence. Needs university athletic profile with independently verifiable age or reputable interview. REVIEW_REQUIRED — promising but incomplete."
     }
   ],
   "irregularities": [

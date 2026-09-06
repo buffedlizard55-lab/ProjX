@@ -119,6 +119,47 @@
         },
         "additionalProperties": false
       }
+    },
+    "reviewQueue": {
+      "type": "array",
+      "description": "Promising public creators discovered via activity-first research where one or more verification fields still need stronger evidence — not discarded, flagged for further research. Separate from VERIFIED entries.",
+      "items": {
+        "type": "object",
+        "required": ["id", "displayName", "platform", "profileUrl", "discoveryCategory", "missingEvidence", "flags", "lastChecked"],
+        "properties": {
+          "id": { "type": "string", "description": "Stable candidate ID, e.g., R-2026-001" },
+          "displayName": { "type": "string", "description": "Public display name or handle if real name not public" },
+          "handle": { "type": "string", "description": "Public username/handle, e.g., @fitgirl_08" },
+          "platform": { "type": "string", "description": "Primary discovery platform, e.g., Instagram, TikTok, YouTube" },
+          "profileUrl": { "type": "string", "format": "uri", "description": "Public profile URL" },
+          "discoveryCategory": {
+            "type": "string",
+            "description": "Objective activity category that caused discovery, e.g., Fitness, Swimwear, College Athlete"
+          },
+          "evidenceFound": {
+            "type": "object",
+            "description": "Strongest legitimate public evidence actually found so far",
+            "properties": {
+              "summary": { "type": "string" },
+              "sourceLabel": { "type": "string" },
+              "sourceUrl": { "type": "string", "format": "uri" }
+            },
+            "additionalProperties": false
+          },
+          "missingEvidence": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Exact missing verification fields, e.g., AGE_UNVERIFIED, GENDER_UNVERIFIED, PROFILE_UNVERIFIED, IDENTITY_UNCERTAIN"
+          },
+          "flags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "lastChecked": { "type": "string", "format": "date" },
+          "notes": { "type": "string", "description": "Reason for REVIEW_REQUIRED, what was checked, what remains" }
+        },
+        "additionalProperties": false
+      }
     }
   },
   "additionalProperties": false

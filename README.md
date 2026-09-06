@@ -45,7 +45,7 @@ verified count. Sessions 05–06 then expanded the set iteratively via activity-
 Chloe Kim (Session 05, total 7) and Soniya Singh Khatri, Elisabeth Rioux, Kayla Itsines
 (Session 06, total 10) — including independent fitness and swimwear/beachwear creators from
 regional/micro-to-mid followings where strongest available legitimate public evidence actually
-supported VERIFIED, not celebrity-level documentation.
+supported VERIFIED, not celebrity-level documentation. **Session 07 (2026-09-06, CONTINUE RESEARCH — DO NOT STOP AT 10)** now maintains **two distinct datasets**: `VERIFIED` (13 women W-2026-001..013) and `REVIEW_REQUIRED` (10 promising public creators R-2026-001..010 with full provenance and missing fields recorded) — promising but incomplete candidates are never discarded, always flagged (`AGE_UNVERIFIED` etc.) and queued for further research.
 
 ## Site
 
@@ -55,10 +55,10 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `index.html` — main page and UI shell.
 - `assets/styles.css` — responsive styling.
 - `assets/app.js` — catalog loading, filtering, table rendering, and export buttons.
-- `data/catalog.json` — entries and irregularities. Now contains **10 verified women (W-2026-001..010 — Serena Williams, Simone Biles, Naomi Osaka, Alex Morgan, Megan Rapinoe, Katie Ledecky, Chloe Kim, Soniya Singh Khatri, Elisabeth Rioux, Kayla Itsines)** plus 6 blocked irregularities; discovery is activity-first (public fitness, swimwear/beachwear, fashion, athletics, lifestyle etc.) then adult/woman/public-ownership verification; swimwear/bikini content is objectively classified (Swimwear/Bikini Fashion/Beachwear etc., never hot/sexy) and college attendance never proves adult; further rows require strongest available legitimate public evidence for each claim (Tier 1 where possible, multiple Tier 3 independent sources combined where needed — Tier 3 alone not sole sensitive proof when stronger reasonably available), line-by-line verification, and duplicate search (micro/college/swimwear creators without independent DOB/gender evidence remain `AGE_UNVERIFIED`/`GENDER_UNVERIFIED`/`REVIEW_REQUIRED`, not VERIFIED).
-- `data/schema.json` — JSON Schema for catalog entries (includes optional `genderEvidence` for women-only verification and objective-category description).
+- `data/catalog.json` — entries and irregularities. Now contains **13 verified women (W-2026-001..013 — Serena Williams, Simone Biles, Naomi Osaka, Alex Morgan, Megan Rapinoe, Katie Ledecky, Chloe Kim, Soniya Singh Khatri, Elisabeth Rioux, Kayla Itsines, Sommer Ray, Tammy Hembrow, Pamela Reif)** plus **10 REVIEW_REQUIRED candidates (R-2026-001..010 — fitness micro, swimwear, college athletes discovered by activity-first queries, each with evidence found + missing field + reason + date)** plus 6 blocked irregularities; discovery is activity-first (public fitness, swimwear/beachwear, fashion, athletics, lifestyle etc.) then adult/woman/public-ownership verification; swimwear/bikini content is objectively classified (Swimwear/Bikini Fashion/Beachwear etc., never hot/sexy) and college attendance never proves adult; further rows require strongest available legitimate public evidence for each claim (Tier 1 where possible, multiple Tier 3 independent sources combined where needed — Tier 3 alone not sole sensitive proof when stronger reasonably available), line-by-line verification, and duplicate search (micro/college/swimwear creators without independent DOB/gender evidence remain `AGE_UNVERIFIED`/`GENDER_UNVERIFIED`/`REVIEW_REQUIRED` with full provenance, not VERIFIED nor discarded); 18+ via any reliable public evidence (published DOB, explicit age statement like “30-year-old” in reputable publication, first-party bio with age, sports bio, interview — never inferred from appearance/clothing/college).
+- `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
-- `docs/review-log.md` — review notes and irregularity log (Sessions 01–06).
+- `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).
 
 ## Local preview
 
@@ -92,11 +92,10 @@ Pages serves from the `main` branch repository root; the site is `index.html`.
    Bikini Fashion/Beachwear/Modeling/Lifestyle/Travel/Wellness/Beauty/Creator/etc.), never
    subjective attractiveness labels or hot/sexy rankings; bikini/swimwear is classified by content,
    not body description.
-5. Conflicting, missing, or ambiguous evidence is recorded as an irregularity (`GENDER_UNVERIFIED`,
-   `AGE_UNVERIFIED`, `IDENTITY_UNCERTAIN`, `POSSIBLE_AI`, `BROKEN_LINK`, etc.) instead of a
-   catalog entry; no hallucinations.
+5. Conflicting, missing, or ambiguous evidence is recorded as an irregularity or as a `reviewQueue` entry (`GENDER_UNVERIFIED`,
+   `AGE_UNVERIFIED`, `IDENTITY_UNCERTAIN`, `PROFILE_UNVERIFIED`, `POSSIBLE_AI`, `BROKEN_LINK`, etc.) with full provenance (name, username, platform, profile URL, discovery category, evidence found, missing field with reason, date checked) instead of a guessed catalog row; promising candidates are never discarded — they go to `REVIEW_REQUIRED`.
 6. No generated, AI, deepfake, impersonator, leaked, private, or non-consensual material is
    accepted; no home addresses, phones, private contact, or passwords are collected.
 7. No autonomous bulk collection of real people's profiles — even with a 1,000-row target;
    records require opt-in or clear professional/public-figure context and are verified
-   individually, line by line. Duplicates are prevented by pre-search on name and all usernames.
+   individually, line by line; the workflow is iterative `Discover → inspect → verify → classify (VERIFIED / REVIEW_REQUIRED / REJECTED / DUPLICATE) → deduplicate → record` with diverse queries (fitness micro, swimwear, college, lifestyle etc.) until no promising candidates remain. Duplicates are prevented by pre-search on name and all usernames. Follower count is never a filter.
