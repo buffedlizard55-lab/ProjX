@@ -1,0 +1,182 @@
+# Session 13 pass 4 — evidence harvest for the 70 new candidates from pools D/E/F PLUS the 52 review-queue
+# backlog candidates that carry a Q-ID (union = 122 Q-IDs), so the backlog is re-tested against exactly the same
+# evidence standard rather than left to age.
+# Query: data/research/urls/evD_ord0.url and evD_ord150.url (4-branch UNION, ORDER BY ?row, LIMIT 150),
+# executed 2026-09-06. Page OFFSET 0 returned 150 rows, page OFFSET 150 returned 45 rows (< LIMIT) -> complete,
+# 195 rows total, transcribed verbatim. Markdown escapes removed (\_ -> _, %27 kept as returned in URLs).
+#   S = named source on the date-of-birth reference (pr:P248 label); "NONE" = a reference exists carrying neither a
+#       named source nor a URL -> NOT age evidence (docs/verification-protocol.md line 92)
+#   U = reference URL on the date-of-birth statement (pr:P854)
+#   W = English Wikipedia article linked to the item (schema:about + schema:isPartOf en.wikipedia.org)
+#   N = label of a member-of team (P54) whose country is the United States (wdt:P17 wd:Q30) and whose English label
+#       contains "volleyball" — used only to document college-team membership; national teams and professional
+#       leagues inside that set are distinguished by the generator, never assumed to be colleges
+# Transcription conventions (identical to pass 3, documented so nothing is silently altered):
+#   * rows of the form S|~<url> are omitted because the identical URL is already recorded on the U line;
+#   * exactly repeated rows (e.g. two identical S|~ rows for one item) are recorded once;
+#   * a named source with no URL is recorded with the trailing "~" stripped (e.g. "FIVB database").
+# IDENTITY / SPORT CONFLICTS observed in this harvest — recorded verbatim above and handled by the generator, never
+# "fixed" by assumption:
+#   Q20895315 Maya Jansen      — only DOB reference is collegetennisonline.com (Alabama women's TENNIS roster) and
+#                                the linked article is en.wikipedia.org/wiki/Maya_Jansen; no volleyball source.
+#   Q29017817 Risa Watanabe    — DOB reference sakurazaka46.com/s/s46/artist/21 (idol-group agency page); the named
+#                                source is "Česko-Slovenská filmová databáze" (a FILM database).
+#   Q54867512 Nao Kosaka       — DOB reference hinatazaka46.com/s/official/artist/14 (idol-group agency page).
+#   Q98480727 Hono Tamura      — DOB reference sakurazaka46.com/s/s46/artist/46 (idol-group agency page).
+#   Q61667862 Ezgi Kara        — DOB reference is an ilan.gov.tr court notice about correcting a population record;
+#                                not a volleyball source and identity is not established (pre-existing FLAG).
+#   Q19688926 Mabel Olemar     — linked article is en.wikipedia.org/wiki/Katherinne_Olemar (alias of the same person).
+# columns: qid<TAB>tag<TAB>value
+Q100454270	S	NONE
+Q104217167	U	http://www.worldofvolley.com/wov-community/players/96763.html
+Q104217167	W	https://en.wikipedia.org/wiki/%C4%B0lkin_Ayd%C4%B1n
+Q105706252	S	NONE
+Q105706337	S	NONE
+Q106727755	N	Clemson Tigers women's volleyball
+Q106727755	N	South Carolina Gamecocks women's volleyball
+Q106727755	S	FIVB database
+Q106727755	S	VBL database
+Q106727755	S	Volleybox
+Q106994609	S	NONE
+Q108109787	S	NONE
+Q108110401	S	NONE
+Q108110570	S	NONE
+Q108771081	U	http://www.worldofvolley.com/wov-community/players/130349.html
+Q109596239	S	NONE
+Q109596240	S	NONE
+Q110272655	U	https://volleybox.net/wd-p17164
+Q111696564	U	https://en.volleyballworld.com/en/volleyball/coqt/2020/cavb-women/teams/cmr-cameroon/players/moussol_mimosette_andrea?id=80297
+Q112898157	U	https://jornaldovolei.com.br/jogadores/keyla-alves/
+Q112898157	W	https://en.wikipedia.org/wiki/Key_Alves
+Q113566625	S	NONE
+Q11371795	S	NONE
+Q11562632	S	NONE
+Q11562701	S	NONE
+Q11564498	S	NONE
+Q11624744	S	NONE
+Q11624744	W	https://en.wikipedia.org/wiki/Natsumi_Fujita
+Q116965067	S	NONE
+Q120636764	S	NONE
+Q125226543	S	NONE
+Q134029261	U	https://rfevb-web.dataproject.com/PlayerDetails.aspx?TeamID=604&PlayerID=5446&ID=58
+Q134029261	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=778031145
+Q13429212	S	NONE
+Q13429212	W	https://en.wikipedia.org/wiki/Y%C5%ABka_Imamura
+Q135182077	U	https://wkusports.com/sports/womens-volleyball/roster/abby-schaefer/6079
+Q135182727	N	Kansas State Wildcats women's volleyball
+Q135182727	U	https://women.volleybox.net/izzi-szulczewski-p73781/clubs
+Q135191426	U	https://women.volleybox.net/andrea-koraca-p50189/clubs
+Q135192961	U	https://women.volleybox.net/ana-istuk-p16630/clubs
+Q15992031	S	NONE
+Q16735442	S	InterSportStats
+Q16735442	U	http://www.worldofvolley.com/wov-community/players/83317.html
+Q17303572	U	http://www.bvbinfo.com/player.asp?ID=16749
+Q17303572	U	http://www.worldofvolley.com/wov-community/players/3734.html
+Q19688926	S	InterSportStats
+Q19688926	U	https://women.volleybox.net/mabel-olemar-p5074/clubs
+Q19688926	W	https://en.wikipedia.org/wiki/Katherinne_Olemar
+Q20895315	U	http://www.collegetennisonline.com/UniversityofAlabama-W-Tennis/Player.aspx?plId=95473
+Q20895315	W	https://en.wikipedia.org/wiki/Maya_Jansen
+Q21066565	S	NONE
+Q21066565	W	https://en.wikipedia.org/wiki/Azra_Kanovi%C4%87
+Q21622971	S	FIVB database
+Q22956738	U	https://www.ladies-in-black.de/team/aziliz-divoux/
+Q22956738	W	https://en.wikipedia.org/wiki/Aziliz_Divoux
+Q2406238	S	NONE
+Q2406238	W	https://en.wikipedia.org/wiki/Tess_von_Piekartz
+Q275130	S	NONE
+Q275130	W	https://en.wikipedia.org/wiki/Risa_Shinnabe
+Q27917939	S	NONE
+Q27999256	S	NONE
+Q28071124	U	http://www.worldofvolley.com/wov-community/players/15204.html
+Q29017817	S	Česko-Slovenská filmová databáze
+Q29017817	U	https://sakurazaka46.com/s/s46/artist/21
+Q29017817	W	https://en.wikipedia.org/wiki/Risa_Watanabe
+Q2930192	S	NONE
+Q2930192	W	https://en.wikipedia.org/wiki/B%C3%BC%C5%9Fra_K%C4%B1l%C4%B1%C3%A7l%C4%B1
+Q2947193	U	http://www.worldofvolley.com/wov-community/players/6576.html
+Q2947193	W	https://en.wikipedia.org/wiki/Ceylan_Ar%C4%B1san
+Q30902725	S	NONE
+Q3201215	S	NONE
+Q3201215	W	https://en.wikipedia.org/wiki/K%C3%BCbra_Akman
+Q43425187	S	NONE
+Q43425235	S	NONE
+Q43425235	W	https://en.wikipedia.org/wiki/Ai_Kurogo
+Q43425243	S	NONE
+Q43431630	S	NONE
+Q439676	S	NONE
+Q439676	W	https://en.wikipedia.org/wiki/Lonneke_Sl%C3%B6etjes
+Q48761958	S	NONE
+Q48877733	S	NONE
+Q49090949	S	NONE
+Q49090949	W	https://en.wikipedia.org/wiki/Ilaria_Galbusera
+Q49676047	S	NONE
+Q50286750	S	NONE
+Q54867512	S	NONE
+Q54867512	U	https://www.hinatazaka46.com/s/official/artist/14
+Q54867512	W	https://en.wikipedia.org/wiki/Nao_Kosaka
+Q55433254	U	http://www.worldofvolley.com/wov-community/players/20717.html
+Q55433254	W	https://en.wikipedia.org/wiki/Aylin_Sar%C4%B1o%C4%9Flu
+Q55728360	S	NONE
+Q55734622	S	NONE
+Q56250371	S	NONE
+Q56250371	W	https://en.wikipedia.org/wiki/Bianca_Farriol
+Q56635650	S	NONE
+Q56635650	W	https://en.wikipedia.org/wiki/Sarah_Fahr
+Q57058850	S	NONE
+Q58885490	N	Florida Gators women's volleyball
+Q58885490	S	NONE
+Q58885490	W	https://en.wikipedia.org/wiki/Rhamat_Alhassan
+Q59705403	U	http://www.bvbinfo.com/player.asp?ID=17345
+Q61667862	U	https://www.ilan.gov.tr/detay-tebligat-ve-duyurular-adli-ilan-ve-tebligatlar-nufus-kaydinin-duzeltilmesine-iliskin-mahkeme-ilani-241530.html
+Q61745596	S	NONE
+Q64784043	S	NONE
+Q64784045	S	NONE
+Q64784046	S	NONE
+Q64784047	S	NONE
+Q64784049	S	NONE
+Q64784053	S	NONE
+Q64784054	S	NONE
+Q64784055	U	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=771899351
+Q64784056	S	NONE
+Q64784058	S	NONE
+Q71678848	S	NONE
+Q71717902	U	https://volleyball.ca/en/athletes/rachel-cockrell
+Q76283273	S	NONE
+Q76283279	S	NONE
+Q76875007	S	FIVB database
+Q76875007	S	VBL database
+Q76875007	S	Volleybox
+Q76875007	S	WorldofVolley
+Q76875007	U	https://www.cev.eu/team/12899-usc-munster/player/67442-kommling-elena
+Q87659169	S	FIVB database
+Q87659169	S	VBL database
+Q87659169	U	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/173585
+Q87659169	U	https://www.dresdnersportclub.de/news/verein/item/5911-kanadische-nationalspielerin-brie-o-reilly-verstaerkt-den-dsc
+Q87659169	W	https://en.wikipedia.org/wiki/Brie_O%27Reilly
+Q9065952	S	InterSportStats
+Q9065952	U	https://women.volleybox.net/raffaella-camet-p5073/clubs
+Q9065952	U	https://www.olympedia.org/athletes/1302187
+Q9065952	W	https://en.wikipedia.org/wiki/Raffaella_Camet
+Q9154518	S	InterSportStats
+Q9154518	U	https://women.volleybox.net/angelica-aquino-p6779/clubs
+Q9310417	S	NONE
+Q9310417	W	https://en.wikipedia.org/wiki/Riho_Otake
+Q9383422	S	NONE
+Q95560296	S	NONE
+Q963016	U	http://www.worldofvolley.com/wov-community/players/13001.html
+Q963016	W	https://en.wikipedia.org/wiki/Freya_Aelbrecht
+Q97539264	S	NONE
+Q97818975	S	NONE
+Q97901049	S	NONE
+Q97901079	S	Volleybox
+Q97901120	S	NONE
+Q98082759	S	NONE
+Q98082853	S	NONE
+Q98082862	S	NONE
+Q98082868	S	NONE
+Q98083032	S	NONE
+Q98101160	S	NONE
+Q98101190	S	NONE
+Q98480727	U	https://sakurazaka46.com/s/s46/artist/46
+Q98758221	S	NONE

@@ -1,0 +1,212 @@
+# Session 13 pass 4 — discovery pool D: female (Q6581072) volleyball players (P106=Q15117302) OR beach volleyball
+# players (P106=Q17361156), date of birth 2000-01-01 .. 2002-12-31 (so every candidate is 18+ as of 2026-09-06),
+# holding at least one public handle among Instagram (P2003) / X (P2002) / TikTok (P7085). No league, country or
+# team restriction: this is the INTERNATIONAL band (European, Asian, African and American leagues) that passes 1-3
+# did not enumerate pass-by-pass.
+# Transcription provenance (important): the first, unordered fetch of this query
+# (data/research/urls/poolD1.url) was returned by the page fetcher in two chunks that re-rendered overlapping row
+# sets, and comparison showed rows present in NEITHER chunk rendering (e.g. Q112898157 Key Alves, Q116003263 Logan
+# Eggleston, Q109353748 Amandha Sylves, Q113127654 Mhicaela Belen, Q115869636 Nathalie Scholz, Q116135233 Tereza
+# Hrušecká, Q116450683 Zoe Jarvis, Q117225162 Anamarija Galić, Q133300655 Lucia Herdová). That draft was discarded.
+# The file below is transcribed from the deterministic paged re-run, ORDER BY ?qid, LIMIT 100:
+#   data/research/urls/poolD_ord0.url   -> OFFSET 0,   100 rows, single complete chunk
+#   data/research/urls/poolD_ord100.url -> OFFSET 100,  90 rows, single complete chunk
+#   OFFSET 200 page returns HTTP 500 / no further rows, so the band is exhausted at 190 rows.
+# Rows appear below in fetched order, verbatim; the only edit is removal of markdown backslash escapes (\_ -> _).
+# Multi-row quirks are kept verbatim and are NOT silently merged:
+#   Q105704380 Aki Momii        - two citizenship rows (Japan / Peru)
+#   Q115869636 Nathalie Scholz  - two different Instagram handles (nathalie.s02 / volley.nat)
+#   Q130170463 Athina Dimitriadis - two citizenship rows (Greece / Germany)
+#   Q135219521 Marija Vrban     - two different Instagram handles (mvrban9 / marija_vrban_)
+# Suspect values flagged for review, recorded exactly as returned:
+#   Q97901120 Minami Nishimura  - P2002 (X) value "PH3H6ggKTnWGLYZ" has the shape of a YouTube channel ID
+#   Q109596239 Madoka Kashimura - P2002 (X) value "mnynMmE565SNojT" has the shape of a YouTube channel ID
+# columns: qid|name|dob|instagram|x|tiktok|country
+Q104217167|İlkin Aydın|2000-01-05|ilkinaydn|||Turkey
+Q104243249|Annick Meijers|2000-03-23|annickmeijers_|||Kingdom of the Netherlands
+Q104725135|Simona Dammer|2002-08-25|simona_dammer|||Germany
+Q104836815|Hanna-Marie Schieder|2001-03-21|marieschieder|||Germany
+Q105201948|Raïsa Schoon|2001-10-03|raisaschoon|||Kingdom of the Netherlands
+Q105395414|Juli Klause|2002-10-10|juli.klause|||Germany
+Q105395925|Noemi Laureen Oiwoh|2001-05-28|noemioiwoh|||Austria
+Q105404030|Lydia Stemmler|2001-07-20|lydia_stemmler|||Germany
+Q105704380|Aki Momii|2000-10-07|momii_aki|||Japan
+Q105704380|Aki Momii|2000-10-07|momii_aki|||Peru
+Q105705640|Park Hye-min|2000-11-08|p_hyemin_|||South Korea
+Q105706252|Lee Won-jeong|2000-01-12|lee_won_jeong|||South Korea
+Q105706337|Lee Hyun|2001-10-04|dl_gus_|||South Korea
+Q106366787|Hanna Davyskiba|2000-02-08|anna_davyskiba|||Belarus
+Q106625685|Lilli Albrecht|2002-01-09|albrecht.lilli|||Germany
+Q106625770|Aliza Baumgart|2002-04-22|_alschi_|||Germany
+Q106634972|Lilian Engemann|2000-03-12|lili_e3|||Germany
+Q106635413|Chiara Fach|2000-07-01|chiara_fach|||Germany
+Q106762426|Anna Schupritt|2001-02-15|anna_schupritt|||Germany
+Q106776104|Rebecca Piva|2001-05-01|rebepiva|||Italy
+Q107424120|Jeong Ji-yun|2001-01-01|ji__yun__|||South Korea
+Q108045390|Darya Vakulka|2002-06-07|vvv_dariya|||Belarus
+Q108109787|Kotomi Ōsaki|2000-08-23|k_osk23|||Japan
+Q108110401|Yoshino Nishikawa|2002-09-10|_910ny|||Japan
+Q108110570|Hinata Shigihara|2001-02-25|___h.i.n.a.t.a.___|||Japan
+Q108324192|Hanna Hellvig|2000-02-03|hannahellvig|||Sweden
+Q108749290|Amélie Rotar|2000-10-24|amelie_rotar|||France
+Q108771081|Juliette Gelin|2001-11-02|||juju_gelin|France
+Q108776654|Natsuki Suda|2002-08-21|hel_lo0821natsuki|||Japan
+Q108995826|Léïa Ratahiry|2002-09-27|leia_rthry|||France
+Q109232107|Valentina Gottardi|2002-11-19|valentinagottardi_|||Italy
+Q109353748|Amandha Sylves|2000-12-29|amandhasylves|||France
+Q109596239|Madoka Kashimura|2002-11-06|ksmr.mdk1106|mnynMmE565SNojT||Japan
+Q110272668|Vealeta Lavrushko|2000-07-31|veoletta_|||Belarus
+Q110457024|Mariana Brambilla|2000-03-19|mariibrambilla|mariibrambilla||Brazil
+Q111460851|Mikala Mogensen|2001-10-03|mikalamogensen|||Kingdom of Denmark
+Q111696564|Andréa Mimosette Moussol|2000-01-07|andreamimosette|||Cameroon
+Q111937212|Jaden Whitmarsh|2000-05-23|jadenwhitmarsh|jaden_whitmarsh||United States
+Q112112713|Mika Grbavica|2001-12-08|mikaaacccc|||Croatia
+Q112580517|Leonie Amann|2000-04-02|leonieamann|||Germany
+Q112898157|Key Alves|2000-01-08|key.alvees|key_alvees||Brazil
+Q113126592|Karine Schossler|2000-04-13|karine_schossler|||Brazil
+Q113127654|Mhicaela Belen|2002-01-01|mhicaelabelen|||
+Q113372093|Yoshino Sato|2001-11-12|yoshino__sato112|||Japan
+Q113555859|Alexa Hendricks|2001-02-09|achendricks|ahendricks7|achendricks|United States
+Q114457274|Pauline Martin|2002-09-04|paulinemartinx|||Belgium
+Q115410648|Laura Pascua|2002-12-21|laura.pascua4|||Colombia
+Q115869636|Nathalie Scholz|2002-10-13|nathalie.s02|||Germany
+Q115869636|Nathalie Scholz|2002-10-13|volley.nat|||Germany
+Q115934289|Kseniya Liabiodkina|2002-02-18|lbdkn.5|||Belarus
+Q115941084|Karolína Fričová|2000-04-29|karolina_fri|||Slovakia
+Q115942706|Anastasiya Shahun|2002-11-01|ana.stasiya_02|||Belarus
+Q116003263|Logan Eggleston|2000-11-13|loganeggleston_|||United States
+Q116135233|Tereza Hrušecká|2002-07-02|tereza_hrusecka|||Slovakia
+Q116450683|Zoe Jarvis|2000-09-29|zoejarvis|||United States
+Q117225162|Anamarija Galić|2001-01-07|anamarija_galiic|||Austria
+Q117747786|Ainė Raupelytė|2000-07-28|aineraupelyte|||Lithuania
+Q117795246|Runa Adachi|2000-11-03|runa11.3|||Japan
+Q119360226|Thea Gagate|2000-07-26|gagatethea|||
+Q119566411|Aslı Tecimer|2000-05-12|asliitecimer|||Turkey
+Q120041295|Marie Hänle|2002-09-08|marie.haenle|||Germany
+Q122874902|Kacey Jost|2000-02-15|kcjost|||Canada
+Q122983329|Géssica Araújo|2000-12-20|gessica_araujoo_|||Brazil
+Q123562065|Famke Boonstra|2001-09-23|famkeboonstra|||Kingdom of the Netherlands
+Q123686053|Clémence Vieira|2000-11-01|clemencevieira|ClemeVieira||France
+Q124387753|Miyu Kawazoe|2001-09-22|92.mii_|||Japan
+Q124450005|Giuliana Poletti|2000-09-30|giulipolettic|||
+Q125543118|Aixa Vigil|2001-09-23|aixavigil|||Peru
+Q125875368|Caitie Baird|2001-02-01|caitiebaird|caitiebaird_||United States
+Q125880425|Grace Frohling|2001-04-16|gracefrohling|||United States
+Q125882053|Pia Timmer|2001-05-30|piatimmer7777|||Germany
+Q126487356|Magdaléna Jehlářová|2000-01-16|m_jehlarova|||Czech Republic
+Q126871052|Dana Shawky|2000-10-04|dana_shawky||danashawky6|Egypt
+Q127691921|Anastasija Svetnik|2002-04-12|anastasija_svetnik|||Belarus
+Q127888910|Gaia Giovannini|2001-12-17|_gaiagiovannini_|||Italy
+Q130170463|Athina Dimitriadis|2000-06-23|athi_dimi||athidimi|Greece
+Q130170463|Athina Dimitriadis|2000-06-23|athi_dimi||athidimi|Germany
+Q130170480|Evá Zatkovič|2001-08-02|evazatkovic|||Slovenia
+Q130241559|Emma Clothier|2001-01-19|emmaclothier|ClothierEmma||United States
+Q130241718|Stamatia Kyparissi|2002-06-20|stamatia.kiparissi|||Greece
+Q130241801|Marta Levinska|2001-09-06|martalevinska|||Latvia
+Q130789151|Cara Lewis|2001-01-07|_cxrx_|||United States
+Q131551983|Anna DeBeer|2001-09-25|anna.debeer|anna_debeer|anna.debeer|United States
+Q131821875|Kamaile Hiapo|2000-10-05|maimaihiapo|maimaihiapo|maimaihiapo|United States
+Q133300655|Lucia Herdová|2000-02-20|lucaherdova|||Slovakia
+Q134005689|Blaire Fleming|2002-02-17|blaire.fleming|blairefleming||
+Q134029261|Jimena Fernández Gayoso|2001-09-07|||jimmygayoso2|Spain
+Q134497404|Melani Shaffmaster|2001-07-13|melani.s|melshaffmaster||United States
+Q135048995|Kacie Evans|2001-02-17|kacieevans_|kacieevans_||United States
+Q135049370|Chiamaka Nwokolo|2000-11-08|chiamakaaa__|chiamakaaa__||United States
+Q135117255|Emma Grome|2002-09-20|emmagrome|EmmaGrome||United States
+Q135117299|Amanda Siksna|2002-08-20|ak6na|||Canada
+Q135219521|Marija Vrban|2002-04-02|mvrban9|||Croatia
+Q135219521|Marija Vrban|2002-04-02|marija_vrban_|||Croatia
+Q135219922|Rita Bogati Pantelić|2002-06-12|_bogati_|||Croatia
+Q135234293|Amelia Van Der Werff|2002-03-11|a.vanderwerff|A_vanderwerff|amelia_vanderwerff|United States
+Q135236362|Laura Gnjatović|2002-02-23|lauragnjatovic|||Croatia
+Q135466601|Taylor Smith|2001-11-14|tayylorhsmith|tayylorhead||United States
+Q135466615|Bianca Bertolino|2002-07-04|biancabertolino_|BiancaBertolin0||Argentina
+Q135472110|Madolyn Isringhausen|2002-08-04|maddieisringhausen|||United States
+Q135472462|Anna Dixon|2000-08-21|annadixon|||United States
+Q136297535|Azhani Tealer|2001-01-06|azhanitealer|||United States
+Q136298369|Isabel Martin|2000-12-14|isabel_martin|||Germany
+Q136303859|Nina Čajić|2001-08-28|cajicc.n|||Serbia
+Q136304094|Caroline Crawford|2002-03-05|caroline.crawford|||United States
+Q136324550|Lydia Martyn|2002-08-19|lydia.martyn|||United States
+Q136325284|Isabella Ashburn|2000-11-11|izzyashburn|||United States
+Q137576841|Viktoria Dörschug|2002-10-29|vikidrh|||Germany
+Q137719782|Josefin Bluhm|2000-03-10|fine.bluhm|||Germany
+Q137901503|Iane Henke|2002-07-11|ianehenke||ianehenke18|Germany
+Q137999593|Laura Jansen|2001-01-18|laura.jansennn|||
+Q138455482|Lenka Kvasnová|2001-07-19|lenka.kvasnova|||Slovakia
+Q138527114|Ema Škrlecová|2001-09-17|_emaskrlecova|||Slovakia
+Q138863268|Eylül Karadaş|2001-09-03|eylulkaradaas|||Turkey
+Q138865675|Ellie Holzman|2000-12-01|ellieholzman|ellieholzman|ellie_and_lucas|United States
+Q138985294|Simona Jelínková|2001-11-20|im_jelinkova|||Slovakia
+Q138989347|Michalina Rola|2000-02-28|michalina.rola|||Poland
+Q139029169|Ella Erteltová|2001-08-21|ella_erteltova|||Slovakia
+Q139072338|Paulína Košíková|2002-12-04|__kosikova|||Slovakia
+Q139268654|Rebecca Kolen Földesiová|2002-01-27|rebecca_fold|||Slovakia
+Q139269305|Alena Piatukhova|2000-10-25|alen.pet.40|||Belarus
+Q139473573|Matthildur Einarsdóttir|2001-07-06|matthildureinars|||Iceland
+Q139482752|Lydia Montague|2001-01-31|lyd_montague|||United States
+Q139619655|Lourdès Myers|2002-01-29|lourdesmyerss|||United States
+Q139679776|Phoebe Awoleye|2002-06-16|phoebe.awoleye|||United States
+Q139694062|Anita Anwusi|2001-06-11|ninianwusi|||United States
+Q139710520|Camryn Hannah|2002-02-24|camrynhannah|||United States
+Q139710703|Taylor Landfair|2001-11-12|taylor_landfair49||taylor.landfair|United States
+Q139732064|Karson Bacon|2000-04-10|karson_kanani|||United States
+Q139732120|Kaitlyn Hord|2000-06-14|kait_hord|||United States
+Q140372412|Caroline Meuth|2001-01-23|caroline_meuth.16|sweet_carol016||United States
+Q140372945|Kaylee Cox|2002-11-19|kaylee.cox|kayleecox88||United States
+Q140374054|Malaya Jones|2002-12-03|malayacarolynn|||United States
+Q140374300|Celia Cullen|2002-03-04|celia.cullen|||United States
+Q42884990|Lina Alsmeier|2000-06-29|lina_alsmeier|||Germany
+Q44077435|Natalie Wilczek|2000-03-09|wlcnatalie|||Germany
+Q47003377|Romy Jatzko|2000-01-26|romyjtko|||Germany
+Q47003671|Emma Cyris|2001-04-09|emmacyris|||Germany
+Q48851371|Julia Szczurowska|2001-07-29|szczurek4|||Poland
+Q55384174|Ebrar Karakurt|2000-01-17|ebrarkarakurt18|karakurtebrar18||Turkey
+Q55632292|Camilla Weitzel|2000-06-11|camilla_weitzel|||Germany
+Q56218339|Linda Bock|2000-05-27|lnda_bck|||Germany
+Q56250371|Bianca Farriol|2001-12-18|||biancafarriol11|Argentina
+Q56434069|Candela Salinas|2000-05-23|candesalinas7|||Argentina
+Q56635650|Sarah Fahr|2001-09-12|sarahluisafahr|||Italy
+Q56635679|Marina Lubian|2000-04-11|marina_lubian|||Italy
+Q57058850|Demi Korevaar|2000-08-09|demikorevaar|||Kingdom of the Netherlands
+Q57058966|Sarah van Aalen|2000-01-21|sarahvanaalen|||Kingdom of the Netherlands
+Q57087669|Ruth Manuela Marie Bibinbe|2002-04-23|manu_bibinbe_|||Cameroon
+Q59705403|Delfina Villar|2000-05-12||delfinavillar1||Argentina
+Q60566198|Flavia Montes|2000-11-22|flaviamontes7|flavia_montes7||Peru
+Q60832151|Magdalena Stysiak|2000-12-03|magdalenastysiak9|||Poland
+Q61659735|Thaisa Mc Leod|2002-01-01|thaisa_mcleod|thaisa_mcleod||Peru
+Q61667862|Ezgi Kara|2000-12-27|ezgikara99|||Turkey
+Q65161736|Daniela Álvarez Mendoza|2001-11-27|danielaxalvarez|||Spain
+Q65162200|Svenja Müller|2001-02-13|svenjamueller01||svenjamueller01|Germany
+Q65562249|Emilie Olimstad|2000-12-12|olimstademilie|||Norway
+Q65949766|Elif Şahin|2001-01-19|elifsahiin2|||Turkey
+Q67179805|Nada Essaiadi|2000-03-03|nadaessaiadi|nadaessaiadi||Morocco
+Q67389965|Lea Ambrosius|2000-05-22|lea_ambrosius|||Germany
+Q68018604|Oda Løvø Steinsvåg|2000-11-28|odalost|||Norway
+Q68110876|Hester Jasper|2001-05-07|hesterjasper|||Kingdom of the Netherlands
+Q68303950|Mia Anna Stauß|2002-08-01|miastauss|||Germany
+Q68309020|Lara Berger|2001-11-02|lara_brg_|||Germany
+Q68422499|Mayu Ishikawa|2000-05-14|mayu_00514|||Japan
+Q76283273|Aya Hosonuma|2000-05-25|_numa.goro__|aya_jas_73||Japan
+Q76283279|Yūri Umezu|2000-08-23|umeko.823|umekodayooooon||Japan
+Q76875007|Elena Kömmling|2000-01-01|elenakoemmling||elenakoemmling|Germany
+Q80585221|Tania Moreno|2002-01-29|t_matveeva2|t_matveeva2||Spain
+Q80587490|Allanis Navas|2002-01-04|allanis.navas|allanisnavas4||United States
+Q80587492|María González|2002-05-26|mariagonzalezz._|||United States
+Q80699175|Nicole Alessandra Nogales|2001-03-08|nicole.nogales|||Bolivia
+Q83475884|Paula Hötschl|2000-09-07|paulahoetschl|||Germany
+Q93751032|Live Sørbø|2000-02-02|livesorbo|||Norway
+Q93874125|Patricia Nestler|2001-05-17|patricia_nestler|||Germany
+Q96089940|Meghan Barthel|2000-03-23|meghanbarthel||meghanbarthel|Germany
+Q96097580|Monique Strubbe|2001-07-05|moniquestrubbe|||Germany
+Q96097900|Sarah Straube|2002-04-26|sarah_straube|||Germany
+Q96474219|Lina-Marie Lieb|2001-07-30|_l1nalieb_|||Germany
+Q96737806|Júlia Bergmann|2001-02-21|juliabergmann6|||Brazil
+Q96776156|Tainara Santos|2000-03-09|tainaras10|||Brazil
+Q96886055|Rugile Lavickyte|2001-07-10|rugile.lavickyte|||Norway
+Q96902355|Derya Cebecioğlu|2000-10-24|deryacebeciogluu|||Turkey
+Q97901120|Minami Nishimura|2000-03-23||PH3H6ggKTnWGLYZ||Japan
+Q98271305|Claudia Scampoli|2000-04-05|claudiascampoli|||Italy
+Q99485290|Elena Tzaferi|2000-06-17|elenatzaferh|||Greece
+Q99510689|Frida Berntsen|2001-10-16|frida_berntsen|||Norway
+Q99534664|Devon Newberry|2000-01-01|devnewberry|||United States

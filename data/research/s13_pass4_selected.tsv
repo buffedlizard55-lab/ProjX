@@ -1,0 +1,148 @@
+# Session 13 pass 4 (international bands 2000-2002, sport-only gap population, X/TikTok-only cohort, review-queue re-test) selection audit — every decision with its evidence links (generated 2026-09-07).
+# new pools: s13_pass4_new.tsv (pools D/E/F deduped) | backlog pool: s13_poolG.tsv | evidence: s13_evidenceD.tsv
+
+## PROMOTED (new candidates)
+# entryId	qid	group	name	dob	age	handles	dobSources	referenceUrls	wikipedia	usTeams
+W-2026-700	Q104217167	intl	İlkin Aydın	2000-01-05	26	Instagram:ilkinaydn	-	http://www.worldofvolley.com/wov-community/players/96763.html	https://en.wikipedia.org/wiki/%C4%B0lkin_Ayd%C4%B1n	-
+W-2026-701	Q108771081	intl	Juliette Gelin	2001-11-02	24	TikTok:juju_gelin	-	http://www.worldofvolley.com/wov-community/players/130349.html	-	-
+W-2026-702	Q111696564	intl	Andréa Mimosette Moussol	2000-01-07	26	Instagram:andreamimosette	-	https://en.volleyballworld.com/en/volleyball/coqt/2020/cavb-women/teams/cmr-cameroon/players/moussol_mimosette_andrea?id=80297	-	-
+W-2026-703	Q112898157	intl	Key Alves	2000-01-08	26	Instagram:key.alvees;X:key_alvees	-	https://jornaldovolei.com.br/jogadores/keyla-alves/	https://en.wikipedia.org/wiki/Key_Alves	-
+W-2026-704	Q134029261	intl	Jimena Fernández Gayoso	2001-09-07	25	TikTok:jimmygayoso2	-	https://rfevb-web.dataproject.com/PlayerDetails.aspx?TeamID=604&PlayerID=5446&ID=58;https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=778031145	-	-
+W-2026-705	Q56250371	intl	Bianca Farriol	2001-12-18	24	TikTok:biancafarriol11	-	-	https://en.wikipedia.org/wiki/Bianca_Farriol	-
+W-2026-706	Q59705403	beach	Delfina Villar	2000-05-12	26	X:delfinavillar1	-	http://www.bvbinfo.com/player.asp?ID=17345	-	-
+W-2026-707	Q76875007	intl	Elena Kömmling	2000-01-01	26	Instagram:elenakoemmling;TikTok:elenakoemmling	FIVB database;VBL database;Volleybox;WorldofVolley	https://www.cev.eu/team/12899-usc-munster/player/67442-kommling-elena	-	-
+W-2026-708	Q135182077	intl	Abby Schaefer	2004-01-15	22	Instagram:schaef.abby;X:abbyeschaefer	-	https://wkusports.com/sports/womens-volleyball/roster/abby-schaefer/6079	-	-
+W-2026-709	Q135182727	ncaa	Izzi Szulczewski	2002-05-29	24	Instagram:izzi.szulczewski;X:izziski	-	https://women.volleybox.net/izzi-szulczewski-p73781/clubs	-	Kansas State Wildcats women's volleyball
+W-2026-710	Q135191426	intl	Andrea Koraca	2002-10-12	23	Instagram:andrea_koraca	-	https://women.volleybox.net/andrea-koraca-p50189/clubs	-	-
+W-2026-711	Q135192961	intl	Ana Ištuk	2002-07-11	24	Instagram:istukicaa10;TikTok:istukicaa	-	https://women.volleybox.net/ana-istuk-p16630/clubs	-	-
+W-2026-712	Q43425235	intl	Ai Kurogo	1998-06-14	28	Instagram:kurogoo;X:kuro06141998	-	-	https://en.wikipedia.org/wiki/Ai_Kurogo	-
+W-2026-713	Q110272655	intl	Lizaveta Bahayeva	2003-09-03	23	X:izi7dsluwmz9len	-	https://volleybox.net/wd-p17164	-	-
+W-2026-714	Q11624744	intl	Natsumi Fujita	1991-08-05	35	X:na85z6	-	-	https://en.wikipedia.org/wiki/Natsumi_Fujita	-
+W-2026-715	Q13429212	intl	Yūka Imamura	1993-09-02	33	X:yuuucaDX	-	-	https://en.wikipedia.org/wiki/Y%C5%ABka_Imamura	-
+W-2026-716	Q16735442	intl	Keith Meneses	1991-09-09	34	X:KeithMeneses	InterSportStats	http://www.worldofvolley.com/wov-community/players/83317.html	-	-
+W-2026-717	Q17303572	intl	Carly Wopat	1992-10-13	33	X:CarlyWopat	-	http://www.bvbinfo.com/player.asp?ID=16749;http://www.worldofvolley.com/wov-community/players/3734.html	-	-
+W-2026-718	Q19688926	intl	Mabel Olemar	1993-05-10	33	X:katemabelolemar	InterSportStats	https://women.volleybox.net/mabel-olemar-p5074/clubs	https://en.wikipedia.org/wiki/Katherinne_Olemar	-
+W-2026-719	Q21066565	intl	Azra Kanović	1993-09-09	32	X:edinakanovic	-	-	https://en.wikipedia.org/wiki/Azra_Kanovi%C4%87	-
+W-2026-720	Q22956738	intl	Aziliz Divoux	1995-01-03	31	X:divoux_aziliz	-	https://www.ladies-in-black.de/team/aziliz-divoux/	https://en.wikipedia.org/wiki/Aziliz_Divoux	-
+W-2026-721	Q2406238	intl	Tess von Piekartz	1992-07-24	34	X:Tessvp	-	-	https://en.wikipedia.org/wiki/Tess_von_Piekartz	-
+W-2026-722	Q275130	intl	Risa Shinnabe	1990-07-11	36	X:snnbrs	-	-	https://en.wikipedia.org/wiki/Risa_Shinnabe	-
+W-2026-723	Q28071124	intl	Kadie Rolfzen	1994-08-25	32	X:twintowerkd	-	http://www.worldofvolley.com/wov-community/players/15204.html	-	-
+W-2026-724	Q2930192	intl	Büşra Kılıçlı	1990-07-16	36	X:busracansu_fc	-	-	https://en.wikipedia.org/wiki/B%C3%BC%C5%9Fra_K%C4%B1l%C4%B1%C3%A7l%C4%B1	-
+W-2026-725	Q2947193	intl	Ceylan Arısan	1994-01-01	32	X:CeylanArisan	-	http://www.worldofvolley.com/wov-community/players/6576.html	https://en.wikipedia.org/wiki/Ceylan_Ar%C4%B1san	-
+W-2026-726	Q3201215	intl	Kübra Akman	1994-10-13	31	X:kubrakman	-	-	https://en.wikipedia.org/wiki/K%C3%BCbra_Akman	-
+W-2026-727	Q439676	intl	Lonneke Slöetjes	1990-11-15	35	X:lonsloet	-	-	https://en.wikipedia.org/wiki/Lonneke_Sl%C3%B6etjes	-
+W-2026-728	Q49090949	intl	Ilaria Galbusera	1991-02-03	35	X:ilariagalbusera	-	-	https://en.wikipedia.org/wiki/Ilaria_Galbusera	-
+W-2026-729	Q55433254	intl	Aylin Sarıoğlu	1995-07-21	31	X:aylinsarioglu	-	http://www.worldofvolley.com/wov-community/players/20717.html	https://en.wikipedia.org/wiki/Aylin_Sar%C4%B1o%C4%9Flu	-
+WITHDRAWN	Q64784055	intl	Yurika Yokoishi	1991-09-16	34	X:byurika	-	https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=771899351	-	-
+W-2026-730	Q71717902	intl	Rachel Cockrell	1992-04-17	34	X:rachelcockrell	-	https://volleyball.ca/en/athletes/rachel-cockrell	-	-
+W-2026-731	Q87659169	intl	Brie O’Reilly	1998-01-24	28	X:briejoyking	FIVB database;VBL database	https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/173585;https://www.dresdnersportclub.de/news/verein/item/5911-kanadische-nationalspielerin-brie-o-reilly-verstaerkt-den-dsc	https://en.wikipedia.org/wiki/Brie_O%27Reilly	-
+W-2026-732	Q9065952	intl	Raffaella Camet	1992-09-14	33	X:rafacamet	InterSportStats	https://women.volleybox.net/raffaella-camet-p5073/clubs;https://www.olympedia.org/athletes/1302187	https://en.wikipedia.org/wiki/Raffaella_Camet	-
+W-2026-733	Q9154518	intl	Angélica Aquino	1990-08-10	36	X:Angelica_Aqui_S	InterSportStats	https://women.volleybox.net/angelica-aquino-p6779/clubs	-	-
+W-2026-734	Q9310417	intl	Riho Ōtake	1993-12-23	32	X:Ripoltupingu	-	-	https://en.wikipedia.org/wiki/Riho_Otake	-
+W-2026-735	Q963016	intl	Freya Aelbrecht	1990-02-10	36	X:FreyaAelbrecht	-	http://www.worldofvolley.com/wov-community/players/13001.html	https://en.wikipedia.org/wiki/Freya_Aelbrecht	-
+W-2026-736	Q97901079	intl	Nao Tsuga	1993-07-11	33	X:t_naaao711	Volleybox	-	-	-
+
+## PROMOTED OUT OF THE REVIEW QUEUE (backlog re-test)
+# retiredQueueId	entryId	qid	name	dob	age	dobSources	referenceUrls	wikipedia
+R-2026-013	W-2026-737	Q106727755	Lina Merz	2005-10-10	20	FIVB database;VBL database;Volleybox	-	-
+R-2026-033	W-2026-738	Q21622971	Dominika Strumilo	1996-12-26	29	FIVB database	-	-
+
+## QUEUED (new candidates not promoted)
+# qid	name	reason	dob	evidence
+Q105706252	Lee Won-jeong	AGE_SOURCE_NOT_RECORDED	2000-01-12	-
+Q108110570	Hinata Shigihara	AGE_SOURCE_NOT_RECORDED	2001-02-25	-
+Q97901120	Minami Nishimura	AGE_SOURCE_NOT_RECORDED	2000-03-23	-
+Q27917939	Miku Nakashima	AGE_SOURCE_NOT_RECORDED	1998-03-07	-
+Q29017817	Risa Watanabe	SPORT_NOT_CORROBORATED	1998-07-27	https://sakurazaka46.com/s/s46/artist/21;https://en.wikipedia.org/wiki/Risa_Watanabe;Česko-Slovenská filmová databáze
+Q43425187	Shiori Aratani	AGE_SOURCE_NOT_RECORDED	1998-09-22	-
+Q43425243	Erina Ogawa	AGE_SOURCE_NOT_RECORDED	1998-06-03	-
+Q50286750	Yuki Hyōdō	AGE_SOURCE_NOT_RECORDED	1998-10-19	-
+Q54867512	Nao Kosaka	SPORT_NOT_CORROBORATED	2002-09-07	https://www.hinatazaka46.com/s/official/artist/14;https://en.wikipedia.org/wiki/Nao_Kosaka
+Q95560296	Victoria Blair Rhemrev	AGE_SOURCE_NOT_RECORDED	2003-01-02	-
+Q98480727	Hono Tamura	SPORT_NOT_CORROBORATED	1998-10-21	https://sakurazaka46.com/s/s46/artist/46
+Q11371795	Azusa Futami	AGE_SOURCE_NOT_RECORDED	1992-05-15	-
+Q11562632	Akari Watanabe	AGE_SOURCE_NOT_RECORDED	1992-09-18	-
+Q11562701	Aya Watanabe	AGE_SOURCE_NOT_RECORDED	1991-04-23	-
+Q11564498	Sayaka Mizoe	AGE_SOURCE_NOT_RECORDED	1990-07-16	-
+Q20895315	Maya Jansen	SPORT_NOT_CORROBORATED	1994-05-27	http://www.collegetennisonline.com/UniversityofAlabama-W-Tennis/Player.aspx?plId=95473;https://en.wikipedia.org/wiki/Maya_Jansen
+Q43431630	Rei Kudō	AGE_SOURCE_NOT_RECORDED	1997-12-05	-
+Q55531991	Maria Segura Pallerés	AGE_SOURCE_NOT_RECORDED	1992-06-10	-
+Q64784043	Nanami Wasai	AGE_SOURCE_NOT_RECORDED	1991-01-01	-
+Q64784045	Rina Hiratani	AGE_SOURCE_NOT_RECORDED	1992-01-01	-
+Q64784046	Natsumi Watabiki	AGE_SOURCE_NOT_RECORDED	1995-01-01	-
+Q64784053	Mayuka Shirasaki	AGE_SOURCE_NOT_RECORDED	1994-01-01	-
+Q64784054	Mizuki Minami	AGE_SOURCE_NOT_RECORDED	1993-01-01	-
+Q64784056	Kozue Yukimaru	AGE_SOURCE_NOT_RECORDED	1994-01-01	-
+Q71678848	Mei Konishi	AGE_SOURCE_NOT_RECORDED	1995-05-27	-
+Q9383422	Yeniffer Ramírez	AGE_SOURCE_NOT_RECORDED	1993-03-17	-
+Q97818975	Hazuki Nakamoto	AGE_SOURCE_NOT_RECORDED	1995-08-26	-
+Q97901057	Naoko Shimahata	AGE_SOURCE_NOT_RECORDED	1993-04-10	-
+Q98082759	Shuna Ohmoto	AGE_SOURCE_NOT_RECORDED	1995-05-02	-
+Q98082853	Mioko Yabuta	AGE_SOURCE_NOT_RECORDED	1995-12-01	-
+Q98082868	Mayu Takada	AGE_SOURCE_NOT_RECORDED	1995-03-22	-
+
+## BACKLOG RE-TESTED AND LEFT IN THE QUEUE
+# queueId	qid	name	decision	reason
+R-2026-059	Q100454270	Yuka Onodera	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-020	Q105706337	Lee Hyun	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-021	Q106776104	Rebecca Piva	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-060	Q106994609	Miku Shimada	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-027	Q108109787	Kotomi Ōsaki	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-017	Q108110401	Yoshino Nishikawa	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-016	Q109596239	Madoka Kashimura	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-061	Q109596240	Moeka Kinoe	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-022	Q113555859	Alexa Hendricks	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-015	Q113566625	Tsugumi Fukazawa	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-062	Q114111654	Agostina Pelozo	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-063	Q116965067	Chloé Mayer	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-064	Q120636764	Milica Tasić	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-014	Q125226543	Kyriaki Terzoglou	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-025	Q126871052	Dana Shawky	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-023	Q130789151	Cara Lewis	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-019	Q135236362	Laura Gnjatović	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-032	Q15992031	Wiebke Silge	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-034	Q27999256	Hanna Klimets	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-035	Q30902725	Natalia Murek	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-036	Q48761958	Mai Irisawa	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-037	Q48877733	Léa Soldner	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-038	Q49676047	Marlies Janssens	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-039	Q55727053	Kang So-hwi	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-040	Q55728360	Kim Ju-hyang	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-041	Q55734622	Ji Min-kyung	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-028	Q57058850	Demi Korevaar	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-018	Q57087669	Ruth Manuela Marie Bibinbe	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-042	Q58885490	Rhamat Alhassan	queue	AGE_CONFLICTING_VALUES
+R-2026-024	Q61667862	Ezgi Kara	queue	AGE_SOURCE_IDENTITY_UNRESOLVED
+R-2026-043	Q61745596	Margaux Bouzinac	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-044	Q64784047	Ranna Shiraiwa	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-045	Q64784049	Hikaru Hoshika	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-046	Q64784058	Sayo Masuda	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-047	Q65165823	Mercedesz Kantor	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-048	Q67175191	Sarah Abisourour	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-031	Q67179805	Nada Essaiadi	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-030	Q76283273	Aya Hosonuma	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-026	Q76283279	Yūri Umezu	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-049	Q78885481	Anna Kalantatze	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-050	Q97539264	Mayu Oikawa	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-051	Q97901049	Haruka Yamashita	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-052	Q98082862	Arisa Nagano	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-053	Q98083032	Saki Tanaka	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-054	Q98101160	Nao Horigome	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-055	Q98101190	Mirei Wakita	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-056	Q98520060	Ioanna Kasdovasili	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-057	Q98704582	Emily Konstantellou	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-058	Q98758221	Ayaka Sugi	queue	AGE_SOURCE_NOT_RECORDED
+R-2026-029	Q99485290	Elena Tzaferi	queue	AGE_SOURCE_NOT_RECORDED
+
+## SKIPPED (already catalogued / already queued elsewhere)
+# qid	name	reason
+Q56635650	Sarah Fahr	duplicate-name-alias
+
+## POST-GENERATION CORRECTIONS APPLIED AFTER THE SPOT-CHECK AUDIT (2026-09-07)
+# The generator's output above was corrected by hand before commit; every correction is evidence-based and
+# documented in data/catalog.json irregularity IRR-2026-09-07-020 and docs/review-log.md (pass 4).
+WITHDRAWN	Q64784055	Yurika Yokoishi	generated as W-2026-730, withdrawn to reviewQueue R-2026-096	spot-check opened the cited primary source https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=771899351 and the page is titled "Bamba, Yurika" (Date of birth Sep 16, 1991; Nationality Japan; Libero) — same birth date and nationality, different family name, so the identity is not established; both names kept, nothing merged or invented	NAME_MISMATCH_IN_CITED_SOURCE
+RENUMBERED	-	W-2026-731..739 -> W-2026-730..738	entry IDs kept contiguous after the withdrawal, same convention as the pass-3 duplicate merge	-
+CORRECTED	Q135182077	W-2026-708	Abby Schaefer	added category "College Athlete"	the cited primary page https://wkusports.com/sports/womens-volleyball/roster/abby-schaefer/6079 is the WKU Athletics 2025 Women's Volleyball Roster (jersey 15, Defensive Specialist, Senior, "Born January 15, 2004") and links both recorded handles; the generator only derives College Athlete from P54 team membership, which this item lacks, so the category was added from the verified roster page	-
+CONFIRMED	Q134029261	W-2026-704	Jimena Fernández Gayoso	age 25, not 24	born 2001-09-07, i.e. her birthday falls on the pass-4 harvest date 2026-09-07; pass 4 stamps its own records 2026-09-07 instead of inheriting the 2026-09-06 stamp of passes 1-3, and ages are computed as of the stamp actually recorded	-
+SPOT-CHECK	-	4 primary pages opened across 4 evidence types	3 exact (bvbinfo.com ID=17345 Delfina Villar; wkusports.com Abby Schaefer; volleyball-bundesliga.de teamMemberId=778031145 Jimena Fernandez Gayoso) and 1 mismatch (volleyball-bundesliga.de teamMemberId=771899351), which was caught and routed to review rather than published	-

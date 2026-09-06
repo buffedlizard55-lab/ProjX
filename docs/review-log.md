@@ -937,3 +937,281 @@ promotion. `scripts/validate_catalog.py` → **699 entries, 57 review-queue item
 public handle but no US college team (the international bands — European, Asian and American leagues; the largest
 remaining pool); players with a documented DOB and **no** public handle (out of scope for a directory that requires
 a public account); and primary-source resolution of the 57 review-queue rows.
+
+## Session 13 pass 4 — international bands, the X/TikTok-only cohort and a backlog re-test (2026-09-07)
+
+Owner directive still in force: college sport first (NCAA volleyball + beach volleyball), then European volleyball
+and any other women's leagues; add ~100 new unique profiles per pass and keep searching until the search is
+honestly complete; verify no hallucinations.
+
+Pass 4 attacked the three populations passes 1-3 had *not* enumerated, and then — for the first time — re-tested
+the review-queue backlog against the same evidence standard instead of letting it age.
+
+### Discovery method (all public structured data, every query archived)
+
+| Pool | Population | Query | Rows | Unique Q-IDs |
+| --- | --- | --- | --- | --- |
+| D | female volleyball **or** beach-volleyball players (P106), DOB **2000-01-01..2002-12-31**, any of Instagram/X/TikTok, **no country or league restriction** | `urls/poolD_ord0.url`, `urls/poolD_ord100.url` | 100 + 88 | 184 |
+| E | the **gap population**: sport (P641) = volleyball or beach volleyball with `FILTER NOT EXISTS` on *both* occupation statements, DOB 1998-2005, any handle | `urls/poolE_ord0.url` | 14 | 13 |
+| F | the **X-only / TikTok-only cohort**: P106 volleyball/beach, DOB 1990-2005, `FILTER NOT EXISTS` Instagram — exactly what the Instagram-centric passes 1-2 could not return | `urls/poolF_ord0.url` | 69 | 69 |
+| G | the **52 reviewQueue items that carry a Q-ID**, re-harvested (5 of the 57 carry none and cannot be re-tested this way) | `urls/poolG_ord0.url` | 53 | 52 |
+| evidence | 4-branch harvest (S named source / U reference URL / W English Wikipedia / N US volleyball team label) for the **union of new candidates and backlog = 122 Q-IDs** | `urls/evD_ord0.url`, `urls/evD_ord150.url` | 150 + 45 | 105 with evidence |
+
+Every pool query is `SELECT DISTINCT` with `ORDER BY ?qid` + `LIMIT/OFFSET` paging, so a page can be *proved*
+complete: pool E returned 14 rows and pool F 69 rows against `LIMIT 100`, and pool D's second page returned 88
+against `LIMIT 100`. The `OFFSET 200` page of pool D returns HTTP 500 (past the end of the set), consistent with
+188 rows total.
+
+**Transcription incident (self-caught, draft discarded).** The first pool-D fetch (`urls/poolD1.url`, unordered)
+came back in two chunks that re-rendered *overlapping* row sets, and comparison showed rows present in **neither**
+chunk rendering — Key Alves, Logan Eggleston, Amandha Sylves, Mhicaela Belen, Nathalie Scholz, Tereza Hrušecká,
+Zoe Jarvis, Anamarija Galić, Lucia Herdová. A draft `s13_poolD.tsv` had already been written, partly from the
+previous turn's summary rather than from freshly fetched text — precisely the failure mode of IRR-2026-09-06-017.
+The draft was **discarded**, the query re-run with deterministic paging, and the committed file transcribed only
+from those paged results. Completeness was then proved arithmetically: 184 unique Q-IDs + the 4 known multi-value
+rows (Q105704380 two citizenships, Q115869636 two Instagram handles, Q130170463 two citizenships, Q135219521 two
+Instagram handles) = **188 data rows**. Rule adopted: never transcribe from memory or from a prior turn's summary;
+re-fetch and page deterministically so the row count can be proved.
+
+### Selection outcome
+
+| | Count | Notes |
+| --- | --- | --- |
+| Unique Q-IDs scanned (pools D+E+F) | 261 | |
+| Already catalogued by Q-ID | 154 | pool D's band was 78% already catalogued |
+| Already catalogued by name / alias | 37 | incl. Q56635650 “Sarah Fahr” = catalogued **Sarah Luisa Fahr** (same Instagram handle `sarahluisafahr`) |
+| Repeat rows inside the pools | 10 | multi-handle / multi-citizenship items |
+| **New candidates** | **70** | |
+| **Promoted from the new candidates** | **38** | W-2026-700..737 |
+| **Promoted out of the review queue** | **2** | R-2026-013 Lina Merz (FIVB/VBL/Volleybox named sources + Clemson Tigers and South Carolina Gamecocks women's volleyball) and R-2026-033 Dominika Strumilo (FIVB database) |
+| Withdrawn by the spot-check | 1 | Yurika Yokoishi → **R-2026-096** (see below) |
+| **Net new entries** | **39** | **W-2026-700..738** |
+| New candidates queued | 31 | 27 `AGE_SOURCE_NOT_RECORDED`, 4 `SPORT_NOT_CORROBORATED` |
+| Backlog re-tested and left queued | 50 | 48 `AGE_SOURCE_NOT_RECORDED`, 1 `AGE_CONFLICTING_VALUES` (Q58885490 Rhamat Alhassan — pool G re-confirmed two DOBs, 1996-09-07 **and** 1996-07-09), 1 `AGE_SOURCE_IDENTITY_UNRESOLVED` |
+| Review queue | 57 → **87** | 2 retired by promotion, 31 new, 1 withdrawn entry |
+
+Of the 39, by what actually carries the birth-date claim in the published records: **24** cite an external
+record other than Wikipedia or Wikidata — `worldofvolley.com` (7), `women.volleybox.net` (6), `bvbinfo.com` (2),
+`en.volleyballworld.com` (2), `cev.eu`, `rfevb-web.dataproject.com`, `jornaldovolei.com.br`, `wkusports.com`,
+`volleyball.ca`, `ladies-in-black.de`, `volleybox.net`; **12** cite an English Wikipedia article as their age
+evidence (Tier 2 per protocol §60-72, the only tier accepted on its own without a primary URL); and **3** carry
+`AGE_EVIDENCE_SECONDARY_SOURCES` (a named database with no URL attached, promoted exactly as protocol §92-94
+allows, with the human click-through still owed). Separately, 21 of the 39 list an English Wikipedia article among
+their sources, 3 record US collegiate team membership, 1 is evidenced in **both** disciplines (W-2026-717 Carly
+Wopat: `bvbinfo.com` **and** `worldofvolley.com`), 1 carries `SUSPECT_HANDLE_SHAPE` (W-2026-713 Lizaveta
+Bahayeva) and 1 carries `NAME_ALIAS_IN_WIKIPEDIA` (W-2026-718 Mabel Olemar, whose sitelink is “Katherinne
+Olemar”).
+
+### Four candidates excluded because the citation is not a volleyball source
+
+Pool E selects on a *sport statement alone*, and that proved to be a weak signal. Where **every** reference URL
+attached to the birth date belongs to a domain that is demonstrably not a volleyball source, the sport claim is not
+corroborated by any volleyball document, so the candidate is queued `SPORT_NOT_CORROBORATED` rather than catalogued
+as a volleyball athlete — and not deleted: the queue rows keep the URLs so a human can settle each case.
+
+| Q-ID | Name | Only citation(s) | What it actually is |
+| --- | --- | --- | --- |
+| Q29017817 | Risa Watanabe | `sakurazaka46.com/s/s46/artist/21` | Japanese idol-group artist page; the named source on the statement is “Česko-Slovenská filmová databáze”, a **film** database |
+| Q54867512 | Nao Kosaka | `hinatazaka46.com/s/official/artist/14` | Japanese idol-group artist page |
+| Q98480727 | Hono Tamura | `sakurazaka46.com/s/s46/artist/46` | Japanese idol-group artist page |
+| Q20895315 | Maya Jansen | `collegetennisonline.com/…Alabama-W-Tennis…` | University of Alabama women's **tennis** roster |
+
+### One promotion from an earlier pass refused: the legal-gazette citation
+
+The backlog re-test initially promoted R-2026-024 (Ezgi Kara, Q61667862) because her birth-date statement *does*
+carry a reference URL — `ilan.gov.tr`, the Turkish official gazette, page titled “…nüfus kaydının düzeltilmesine
+ilişkin mahkeme ilanı” (a court notice on correcting a population record). That is a legitimate public page which
+establishes nothing about **this** athlete: such notices are published for any citizen and may concern a namesake.
+It was already an unresolved FLAG from an earlier pass. The generator now classifies a citation whose only
+reference is such a general notice as `AGE_SOURCE_IDENTITY_UNRESOLVED` (`NON_IDENTITY_HOSTS` in
+`scripts/session13_pass4.py`), and the re-test outcome was written into R-2026-024's notes. Her stored reason was
+also corrected from `AGE_SOURCE_NOT_RECORDED` to `AGE_SOURCE_IDENTITY_UNRESOLVED`, because a reference **is**
+attached to her birth date — the earlier reason was simply inaccurate. Reviewer action recorded in the row: find a
+volleyball-specific public record (a Turkish Volleyball Federation licence, a club roster or a CEV/FIVB
+registration) stating her birth date, and only then promote.
+
+### The spot-check caught an identity mismatch in this pass's own output
+
+Opening `volleyball-bundesliga.de/…teamMemberId=771899351` — the **only** primary source cited for the birth date
+of the entry generated as W-2026-730 (Yurika Yokoishi, Q64784055, DOB 1991-09-16, X `@byurika`) — showed the page
+is titled **“Bamba, Yurika”**: Date of birth Sep 16, 1991; Nationality Japan; Libero; VfB Suhl LOTTO Thüringen
+2022/23-2023/24, SC Potsdam 2024/25, Allianz MTV Stuttgart 2025/26. Birth date and nationality match exactly; the
+family name does not. Since the catalog invariant is that every entry is `verified`, and this identity is not
+established, the entry was **withdrawn**: the tail of the batch was renumbered (W-2026-731..739 → W-2026-730..738,
+same convention as the pass-3 merge) — so the ID `W-2026-730` in the published catalog now belongs to a
+**different** person and must not be read as referring to this candidate — and the record was published as
+**R-2026-096** with *both* names preserved —
+neither discarded, merged nor replaced, and no third form invented. The two are plausibly the same person
+(identical birth date and nationality; a family-name change on marriage is common), but nothing held here proves
+it. Reviewer action is written into the queue row: find a source linking “Yokoishi” and “Bamba” to one player and
+promote with both names as aliases, or split the record and verify each separately.
+
+**Spot-check audit (4 primary pages, 4 evidence types).**
+
+| Candidate | Primary page opened | Published on the page | Result |
+| --- | --- | --- | --- |
+| W-2026-706 Delfina Villar | `bvbinfo.com/player.asp?ID=17345` | “Delfina Villar”, Argentina; **Birth Date May 12, 2000 (26 years old)**; home town Cordoba; FIVB Age Group WC events 2017-2018 with partner Brenda Churin | exact on name, country, birth date, computed age and discipline |
+| W-2026-708 Abby Schaefer | `wkusports.com/sports/womens-volleyball/roster/abby-schaefer/6079` | WKU Athletics **2025 Women's Volleyball Roster**, jersey 15, Defensive Specialist, class Senior, Walton Ky., St. Henry District HS, Nursing; bio “**Born January 15, 2004**”; page links `instagram.com/schaef.abby` and `twitter.com/abbyeschaefer` | exact, and it supplied the documented basis for adding `College Athlete` |
+| W-2026-704 Jimena Fernández Gayoso | `volleyball-bundesliga.de/…teamMemberId=778031145` | “Fernandez Gayoso, Jimena”, VC Wiesbaden; **Date of birth: Sep 7, 2001**; Nationality Spain; Opposite; 184 cm; 1. Bundesliga **Frauen ♀** | exact on name, birth date, nationality and women's league |
+| withdrawn → R-2026-096 | `volleyball-bundesliga.de/…teamMemberId=771899351` | “**Bamba, Yurika**”, Date of birth Sep 16, 1991, Nationality Japan | **MISMATCH** — caught before publication |
+
+Session 13 running total: **11 of 12 spot-checks exact, 1 mismatch caught and routed to review**.
+
+**Regression guard.** The withdrawal is encoded in the generator, not just in the catalog: `MANUAL_WITHDRAWALS` in
+`scripts/session13_pass4.py` maps Q64784055 → `NAME_MISMATCH_IN_CITED_SOURCE` with the page URL and what it said,
+and the decision function consults it before any promotion path. A dry run against the post-correction catalog
+confirms it: that candidate now returns `queue / NAME_MISMATCH_IN_CITED_SOURCE`, the 38 published entries return
+`skip / duplicate-qid`, and the backlog returns 50 queued with 1 `AGE_SOURCE_IDENTITY_UNRESOLVED`. Re-running the
+pass cannot silently undo the finding.
+
+### Corrections applied to this pass's own output
+
+* **`College Athlete` added to W-2026-708 Abby Schaefer** on the verified WKU women's volleyball roster above.
+  The generator derives that category only from P54 membership of a US collegiate team, which her item lacks. The
+  note records that a 2025-season page should be re-checked before treating the category as present-tense. Known
+  limitation, not yet generalised: a player whose collegiate membership is evidenced only by a roster URL will
+  still be generated without the category.
+* **Date stamp.** Passes 1-3 are stamped 2026-09-06; pass 4 was harvested on **2026-09-07** and stamps its own
+  records accordingly rather than inheriting yesterday's date. This is not cosmetic: three candidates in this pass
+  have 7 September birthdays, so the recorded age differs by a year — W-2026-704 Jimena Fernández Gayoso (born
+  2001-09-07) is correctly **25**, not 24. Ages are computed as of the stamp actually recorded on the entry.
+* **Suspect handles recorded verbatim, never rewritten.** Three X values look machine-generated: Q97901120 Minami
+  Nishimura `PH3H6ggKTnWGLYZ`, Q109596239 Madoka Kashimura `mnynMmE565SNojT`, Q110272655 Lizaveta Bahayeva
+  `izi7dsluwmz9len`. All are 15 characters — within the X handle limit — so the shape is suggestive, not
+  conclusive. Only Bahayeva was promoted (W-2026-713, on a `volleybox.net/wd-p17164` reference); her entry carries
+  `SUSPECT_HANDLE_SHAPE` and a note asking a reviewer to confirm the profile before treating the link as live. The
+  other two are queued anyway for `AGE_SOURCE_NOT_RECORDED`.
+
+### A committed defect found and fixed
+
+`scripts/session13_volleyball.py` line 288 contained a **literal backslash-n inside the source**, a `SyntaxError`
+introduced by the pass-3 wording patch and committed in `12b8290`. It went unnoticed because that patch was applied
+*after* the pass-3 run, so nothing re-imported the module until pass 4. Fixed; all six scripts now pass
+`python3 -m py_compile`. No catalog data was affected — the wording correction itself had been applied directly to
+`data/catalog.json` (37 entries carry it), and a scan found zero literal backslash-n artifacts in the data.
+
+Also observed while re-testing the backlog and deliberately **not** altered: two reviewQueue items share the
+identifier R-2026-014 (one has no `displayName` and appears to have shifted fields — handle “Kami Miner”, platform
+“Website”), so queue identifiers are not contiguous. Renumbering someone else's queue rows on assumption would be
+a guess; flagged for a human decision in IRR-2026-09-07-020.
+
+### Follower counts
+
+Nothing invented. Instagram, X and TikTok refuse automated retrieval here and no public analytics snapshot was
+consulted for these accounts in this pass, so all 39 entries and every new queue row carry
+`FOLLOWER_COUNT_UNKNOWN` / `countType: unknown` / `FOLLOWER_RANGE_UNKNOWN` with `checkedAt` 2026-09-07 and a
+`sourceNote` explaining why. The four queue items that do carry observed counts (R-2026-001, 005, 008, 012) are
+non-volleyball rows from earlier sessions and were left untouched.
+
+### Honest completeness statement
+
+**The structured-data population is close to exhausted.** Pools E and F — the two populations passes 1-3 had never
+queried — returned only 13 and 69 Q-IDs in total, and pool D's international band was 78% already catalogued. Of
+261 unique Q-IDs scanned, 191 were duplicates of existing rows. Growth from here cannot come from more Wikidata
+queries of the same shape: **75 candidates are queued `AGE_SOURCE_NOT_RECORDED`** because their birth date exists
+in the structured record with no reference attached, and protocol rule 1 forbids promoting an unreferenced date.
+Each of those needs an individual public verification (a federation, league, club or university page stating the
+birth date), which is one fetch per candidate and cannot be batched — that is the remaining work, not more pooling.
+
+Still unsearched (no completeness claim): female volleyball/beach players born **2003-2008** outside the US college
+system whose items link a handle (the next band up); players whose only public handle is on **YouTube (P2397) or
+Facebook (P2013)** — platforms the pool queries do not select on, and which would need the generator extended
+beyond its Instagram/X/TikTok columns; players with a documented DOB and **no** public handle (out of scope for a
+directory that requires a public account); and primary-source resolution of the 87 review-queue rows.
+
+**Reproducibility.** `scripts/session13_pass4.py` (`--new/--backlog/--evidence/--audit/--label`, dry run by
+default) reuses the pass-3 loaders and classifier and adds the two new rules above; `data/research/s13_pass4_selected.tsv`
+lists every promotion, every backlog retirement, every queued candidate with its reason, every re-tested backlog
+row and every skip — plus a “post-generation corrections” block recording the withdrawal, the renumbering and the
+`College Athlete` addition. `data/research/s13_pass4_new_origin.tsv` records which pool each new candidate came
+from. `scripts/validate_catalog.py` → **738 entries, 87 review-queue items, 20 irregularities, 0 errors**.
+
+## Session 13 pass 4b — targeted Tier-1 verification of queued candidates (2026-09-07)
+
+Pass 4's honest completeness statement was that growth can no longer come from more pooling: **75 candidates were
+queued `AGE_SOURCE_NOT_RECORDED`** because their date of birth exists in the structured record with no reference
+attached, and protocol rule 1 forbids promoting an untraceable value. Pass 4b starts paying that debt the only way
+it can be paid — one candidate at a time, by finding and **opening** a public document that states the birth date.
+
+### Method (per candidate, not batched)
+
+1. targeted public search for the player's **official federation / competition-registry** profile;
+2. **open** the primary page and transcribe what it publishes (values quoted verbatim in
+   `data/research/s13_pass4b_selected.tsv`);
+3. require the opened page to **agree** with the date recorded in the structured item. Agreement is the whole test:
+   the structured value was untraceable, so it is confirmed or refuted by the document, never promoted on its own.
+   Disagreement would be recorded as a conflict, not smoothed over;
+4. tie the profile to the recorded social handle using an **independent registry that lists the handle itself**
+   (Women Volleybox structured data `sameAs`), so the record cannot be attached to a namesake — the exact failure
+   mode caught in pass 4 (Yurika Yokoishi / “Bamba, Yurika”).
+
+Evidence tiers: **Volleyball World** (`en.volleyballworld.com`) is the FIVB's official competition platform and
+**CEV** (`cev.eu` / `eurovolley.cev.eu`) the European confederation's official registry — Tier 1 for both the birth
+date and women's-competition membership. **Women Volleybox** is community-maintained: Tier 3, used only as
+corroboration and for the handle link, never as the sole basis. Pages located by search but **not opened** are
+listed in the audit file with that caveat, are labelled as such inside the entry's own `sources` array, and are
+never the basis for a claim.
+
+### Promotions (3) — review queue 87 → 84, `AGE_SOURCE_NOT_RECORDED` 75 → 72
+
+| Entry | Retired row | Q-ID | Official page opened (Tier 1) | Published on the page | Structured record | Result |
+| --- | --- | --- | --- | --- | --- | --- |
+| **W-2026-739 Demi Korevaar** | R-2026-028 | Q57058850 | Volleyball World, VNL 2022 player 167777 | Team Netherlands (#8, `.../teams/women/5129/`); Position Middle blocker; Nationality Netherlands; **Age 26**; **Birth date 09/08/2000**; Height 187cm | DOB 2000-08-09, **no reference** | identical day-level date |
+| **W-2026-740 Kyriaki Terzoglou** | R-2026-014 | Q125226543 | Volleyball World, Women's World Championship 2025 player 185731 | Team Greece (#14); Position Middle blocker; Nationality Greece; **Age 22**; **Birth date 22/11/2003**; Height 187cm | DOB 2003-11-22, **no reference** | identical day-level date |
+| **W-2026-741 Rebecca Piva** | R-2026-021 | Q106776104 | Volleyball World, VNL 2021 player 181258 | Team Italy (#25, `.../teams/women/4680/`); Position Outside hitter; Nationality Italy; **Age 25**; **Birth date 01/05/2001**; Height 183cm | DOB 2001-05-01, **no reference** | identical day-level date |
+
+Second pages **opened by hand**: Women Volleybox `demi-korevaar-p11550` (“Birthdate August 9, 2000 (26 years old)”,
+Netherlands, Middle-blocker, and a club history from TT Papendal/Arnhem 2016/17 through Sliedrecht Sport, USC
+Münster, Schwarz-Weiß Erfurt, Asterix AVO Beveren to Levallois Paris Saint-Cloud 2026/27; `sameAs`
+`instagram.com/demikorevaar`) and `kiriaki-terzoglou-p72450` (“Birthdate November 22, 2003 (22 years old)”, place of
+birth Thessaloniki, Middle-blocker, PAOK 2021/22-2024/25 → Olympiacos Piraeus 2025/26-, national team Greece at the
+2025 FIVB World Championship, 2023 European Championship and 2022 Mediterranean Games; `sameAs`
+`instagram.com/kiki_terzoglou`).
+
+**Date-format check.** The FIVB pages publish day/month/year (`09/08/2000`, `22/11/2003`, `01/05/2001`). The
+day-first reading is confirmed three ways for each candidate: the platform's own stated age (26 / 22 / 25) against
+a 2026 check date, the spelled-out month on the corroborating registries (“August 9, 2000”, “November 22, 2003”,
+“born 1st May 2001”), and the structured item's ISO value. No ambiguity was resolved by assumption.
+
+**Honest gap, flagged on the record.** For W-2026-741 Rebecca Piva only **one** page was opened by hand — the FIVB
+competition-registry profile. The CEV profile (`eurovolley.cev.eu` player 87902-piva-rebecca, “Birth date 2001”,
+ITA, Outside spiker) and the Women Volleybox profile (“born 1st May 2001”, place of birth Bologna, club Vero Volley
+Milano, `sameAs` `instagram.com/rebepiva`) were located by search with their published values captured in the audit
+file, but the pages were not opened. All three agree on 1 May 2001 and on Italy, and the Volleybox record
+independently lists the same Instagram handle the structured item records — which is what ties the profile to this
+person rather than a namesake. The entry carries the flag **`SINGLE_PAGE_OPENED_BY_HAND`** and its notes name the
+CEV profile as the second source a reviewer should open. Registry heights differ for her (183 cm FIVB/CEV, 187 cm
+Volleybox); no physical attribute is used as evidence of anything in this catalog, so the variance is recorded
+rather than resolved.
+
+**Name forms recorded, not normalised away.** W-2026-740 appears as “Kyriaki Terzoglou” in the structured item and
+this catalog, as “Kyriakí Terzóglou” (and Greek Κυριακή Τερζόγλου) on Women Volleybox, and as “Kiriaki TERZOGLOU”
+on CEV — diacritic and transliteration variants of one name, not different people. Per the pass-4 rule a
+diacritic-only difference is **not** flagged as a name alias, and all three spellings are recorded in the entry so a
+reviewer can find the same player under any of them. Contrast with the pass-4 withdrawal: there the *family* name
+differed on the cited page and nothing linked the two forms, so it went to review instead of being published.
+
+**Wording correction applied to this pass's own output.** The generated `genderEvidence` sentence for W-2026-741
+originally said the women's-volleyball database “carries a profile for her at …”, which reads as though that page
+had been checked when it was only located by search. Both the entry and `scripts/session13_pass4b.py` were
+corrected so the sentence names the FIVB registry page — the one actually opened — as the evidence, and labels the
+Volleybox page as search-located corroboration. The same distinction was already carried in the `sources` labels;
+this closes the last place where an unopened page could be mistaken for a checked one.
+
+**Follower counts.** Nothing invented. Instagram blocks automated retrieval of profile pages and no public
+analytics snapshot was consulted for these three accounts in this pass, so all three carry
+`FOLLOWER_COUNT_UNKNOWN` / `countType: unknown` / `FOLLOWER_RANGE_UNKNOWN` with `checkedAt` 2026-09-07 and a
+`sourceNote` saying exactly why. Retrieving observed counts for them (and for the 39 pass-4 entries) is outstanding
+work, not a gap being papered over.
+
+**Reproducibility and idempotence.** `scripts/session13_pass4b.py` holds the transcribed evidence as data, asserts
+before writing that each Q-ID / name / handle / primary URL is **not** already catalogued and that exactly one
+queue row matches (both the row ID *and* the display name — necessary because two rows share the identifier
+R-2026-014), and is dry-run by default. Re-running it after `--apply` now fails loudly with “Q-ID already
+catalogued” rather than duplicating anyone. `scripts/validate_catalog.py` → **741 entries, 84 review-queue items,
+20 irregularities, 0 errors**.
+
+**Remaining work of this shape.** 72 candidates are still queued `AGE_SOURCE_NOT_RECORDED`, plus 4
+`SPORT_NOT_CORROBORATED`, 1 `AGE_CONFLICTING_VALUES`, 1 `AGE_SOURCE_IDENTITY_UNRESOLVED`, 1
+`NAME_MISMATCH_IN_CITED_SOURCE` and 5 older `AGE_UNVERIFIED` rows. At roughly three candidates per hour of
+search-and-open work, that backlog is the binding constraint on further growth — not the discovery queries.

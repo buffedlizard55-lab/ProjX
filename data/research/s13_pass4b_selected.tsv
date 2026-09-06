@@ -1,0 +1,56 @@
+# Session 13 pass 4b — targeted Tier-1 verification of review-queue candidates, executed 2026-09-07.
+# Every candidate below was queued AGE_SOURCE_NOT_RECORDED: a date of birth existed in the structured
+# record with no reference attached, so it could not be promoted. Resolution = find and OPEN an official
+# registry page, then require it to agree with the recorded value. Pages marked SEARCH-ONLY were located by
+# targeted search and were NOT opened; their quoted values are as rendered in the search result and they are
+# never the basis for a claim.
+
+entryId	retiredQueueRow	qid	name	dob	ageOn2026-09-07	handle	country	position	primaryPageOpened	secondPageOpened	corroboratingSearchOnly
+W-2026-739	R-2026-028	Q57058850	Demi Korevaar	2000-08-09	26	Instagram:@demikorevaar	Netherlands	Middle blocker	OPENED https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/players/167777	OPENED https://women.volleybox.net/demi-korevaar-p11550	SEARCH-ONLY http://japan2018.fivb.com/en/competition/teams/ned-netherlands/players/demi-korevaar?id=67329; https://eurovolley.cev.eu/team/12611-the-netherlands/player/67715-korevaar-demi; https://profiles.worldofvolley.com/wov-community/players/128601/demi-korevaar.html
+W-2026-740	R-2026-014	Q125226543	Kyriaki Terzoglou	2003-11-22	22	Instagram:@kiki_terzoglou	Greece	Middle blocker	OPENED https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/185731	OPENED https://women.volleybox.net/kiriaki-terzoglou-p72450	SEARCH-ONLY https://www.cev.eu/team/13258-ac-paok-thessaloniki/player/89443-terzoglou-kiriaki; https://www.playmakerstats.com/player/kiriaki-terzoglou/1013915
+W-2026-741	R-2026-021	Q106776104	Rebecca Piva	2001-05-01	25	Instagram:@rebepiva	Italy	Outside hitter	OPENED https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/players/181258	no second page opened	SEARCH-ONLY https://eurovolley.cev.eu/team/12639-italy/player/87902-piva-rebecca; https://women.volleybox.net/rebecca-piva-p30330
+
+## W-2026-739 — Demi Korevaar (Q57058850), retired R-2026-028
+PRIMARY (opened 2026-09-07) https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2022/players/167777
+  label : Volleyball World (FIVB official competition platform) — VNL 2022 player profile 167777, Demi Korevaar
+  quoted: Team: Netherlands (jersey 8, linked as .../teams/women/5129/). Position: Middle blocker (MB). Nationality: Netherlands (NL). Age: 26. Birth date: 09/08/2000. Height: 187cm.
+OPENED (Tier 3) https://women.volleybox.net/demi-korevaar-p11550
+  label : Women Volleybox — player profile p11550, Demi Korevaar
+  quoted: Nationality: Netherlands. Position: Middle-blocker. Birthdate: August 9, 2000 (26 years old). Height: 187 cm. Weight: 71 kg. Dominant hand: Right. Clubs: 2026/27-present Levallois Paris Saint-Cloud (France); 2024/25-2025/26 Asterix AVO Beveren (Belgium); 2023/24 USC Münster (Germany); 2022/23 Schwarz-Weiß Erfurt (Germany); 2021/22 Team 22 (Netherlands); 2019/20-2020/21 USC Münster; 2018/19 Sliedrecht Sport (Netherlands); 2016/17-2017/18 TT Papendal/Arnhem. The page's structured data also lists sameAs https://www.instagram.com/demikorevaar/ and https://www.facebook.com/demi.korevaar.
+SEARCH-ONLY (not opened) http://japan2018.fivb.com/en/competition/teams/ned-netherlands/players/demi-korevaar?id=67329
+  rendered: FIVB 2018 Women's World Championship (Japan) player profile: "Birth Date: 09/08/2000", "Birth Place: Breda", Club Sliedrecht Sport, Middle blocker, Nationality Netherlands
+SEARCH-ONLY (not opened) https://eurovolley.cev.eu/team/12611-the-netherlands/player/67715-korevaar-demi
+  rendered: CEV EuroVolley player profile: "Demi KOREVAAR", Birth date 2000, Nationality NED, 187 cm, Middle blocker
+SEARCH-ONLY (not opened) https://profiles.worldofvolley.com/wov-community/players/128601/demi-korevaar.html
+  rendered: World of Volley community profile: "Date of birth : 09.08.2000", Country Netherlands, Gender: Female, Middle Blocker
+STRUCTURED ITEM Q57058850: date of birth 2000-08-09 recorded WITHOUT a reference; sex/gender female; country Netherlands; teams recorded: Netherlands women's national volleyball team, USC Münster and Sliedrecht Sport; handle Instagram demikorevaar
+AGREEMENT: official registry vs structured record = identical day-level date (2000-08-09); age 26 on 2026-09-07; adult 18+.
+NOTE: Four independent records agree on the same day-level birth date — the FIVB competition platform (09/08/2000, day-first), the FIVB 2018 World Championship registry (09/08/2000), CEV (2000) and Women Volleybox (August 9, 2000) — and the day-first reading is confirmed by the platform's own "Age 26" against a 2026 check date. The date format on the FIVB pages is day/month/year, which is how 09/08/2000 is read here; the corroborating registries spell the month out, so no ambiguity remains.
+
+## W-2026-740 — Kyriaki Terzoglou (Q125226543), retired R-2026-014
+PRIMARY (opened 2026-09-07) https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/185731
+  label : Volleyball World (FIVB official competition platform) — Women's World Championship 2025 player profile 185731, Kyriaki Terzoglou
+  quoted: Competition: Women's World Championship (2025). Team: Greece (jersey 14, linked as .../teams/7313/). Position: Middle blocker (MB). Nationality: Greece (GR). Age: 22. Birth date: 22/11/2003. Height: 187cm.
+OPENED (Tier 3) https://women.volleybox.net/kiriaki-terzoglou-p72450
+  label : Women Volleybox — player profile p72450, Kyriakí Terzóglou
+  quoted: Page title "Kyriakí Terzóglou"; Greek-alphabet form Κυριακή Τερζόγλου. Nationality: Greece. Position: Middle-blocker. Birthdate: November 22, 2003 (22 years old). Place of birth: Thessaloniki. Height: 188 cm. Weight: 70 kg. Dominant hand: Right. Agency: YnK-EuroVolley, Athens, Greece. Clubs: 2025/26-2026/27 Olympiacos Piraeus; 2021/22-2024/25 PAOK; 2019/20-2021/22 PAOK U20; 2018/19-2019/20 As Elpis Ampelokipon U20. National team Greece: 2025 (21 FIVB World Championship 2025, Friendly International Women 2025, 7 European Golden League 2025, European Championship Qualification 2025) and 2022-2023 (19 European Championship 2023, European Championship Qualification 2023, 5 Mediterranean Games 2022). The page's structured data also lists sameAs https://www.instagram.com/kiki_terzoglou/.
+SEARCH-ONLY (not opened) https://www.cev.eu/team/13258-ac-paok-thessaloniki/player/89443-terzoglou-kiriaki
+  rendered: CEV club-competition player profile (AC PAOK Thessaloniki): "Kiriaki TERZOGLOU", Birth date 2003, Nationality GRE, 187 cm, Middle blocker
+SEARCH-ONLY (not opened) https://www.playmakerstats.com/player/kiriaki-terzoglou/1013915
+  rendered: playmakerstats profile: "Date of Birth 2003-11-22 (22 -yrs-old)", Position Central, Nationality Greece, current club Olympiacos, 18 caps / 61 points
+STRUCTURED ITEM Q125226543: date of birth 2003-11-22 recorded WITHOUT a reference; sex/gender female; country Greece; teams recorded: not recorded in the structured item; handle Instagram kiki_terzoglou
+AGREEMENT: official registry vs structured record = identical day-level date (2003-11-22); age 22 on 2026-09-07; adult 18+.
+NOTE: Name forms: the structured item and this catalog use "Kyriaki Terzoglou"; Women Volleybox titles the same profile "Kyriakí Terzóglou" (and CEV "Kiriaki TERZOGLOU"), i.e. diacritic and transliteration variants of one Greek name (Κυριακή Τερζόγλου), not different people. Per the pass-4 rule a diacritic-only difference is NOT flagged as a name alias; all three spellings are recorded here so a reviewer can find the same player under any of them. Her club history moves from PAOK (2021/22-2024/25) to Olympiacos Piraeus (2025/26 onward), so club membership recorded anywhere should be read as of its season.
+
+## W-2026-741 — Rebecca Piva (Q106776104), retired R-2026-021
+PRIMARY (opened 2026-09-07) https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/2021/players/181258
+  label : Volleyball World (FIVB official competition platform) — VNL 2021 player profile 181258, Rebecca Piva
+  quoted: Team: Italy (jersey 25, linked as .../teams/women/4680/). Position: Outside hitter (OH). Nationality: Italy (IT). Age: 25. Birth date: 01/05/2001. Height: 183cm.
+SEARCH-ONLY (not opened) https://eurovolley.cev.eu/team/12639-italy/player/87902-piva-rebecca
+  rendered: CEV EuroVolley player profile (Italy): "Rebecca PIVA", Birth date 2001, Nationality ITA, 183 cm, Outside spiker
+SEARCH-ONLY (not opened) https://women.volleybox.net/rebecca-piva-p30330
+  rendered: Women Volleybox profile: "born 1st May 2001", Birthdate 2001-05-01 (25 years old), Place of birth Bologna, Position Outside Hitter, Nationality Italy, club Vero Volley Milano; structured data lists sameAs https://www.instagram.com/rebepiva/
+STRUCTURED ITEM Q106776104: date of birth 2001-05-01 recorded WITHOUT a reference; sex/gender female; country Italy; teams recorded: Trentino Rosa; handle Instagram rebepiva
+AGREEMENT: official registry vs structured record = identical day-level date (2001-05-01); age 25 on 2026-09-07; adult 18+.
+NOTE: Unlike the other two candidates in this pass, no second page was opened by hand for Rebecca Piva: the FIVB competition platform is the sole Tier-1 page fetched, and the CEV and Women Volleybox records were located by targeted search with their published values captured in the audit file but the pages themselves not opened. All three agree on 1 May 2001 and on Italy, and the Volleybox record independently lists the same Instagram handle that the structured item records, which is what ties the profile to this person. A reviewer wanting a second hand-opened source should open the CEV profile above. Registry heights differ (183 cm on the FIVB and CEV pages, 187 cm on Volleybox); no physical attribute is used as evidence of anything in this catalog, so the variance is recorded rather than resolved.
+

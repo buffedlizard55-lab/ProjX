@@ -1,0 +1,82 @@
+# Session 13 pass 4 — the NEW candidate set for pools D + E + F, after deduplication against data/catalog.json
+# (entries AND reviewQueue) by Q-ID, by exact name, by name-token alias both ways, by shared profile URL and by
+# shared handle. Produced by the dedupe step recorded in docs/review-log.md (pass 4); rows are copied verbatim from
+# data/research/s13_poolD.tsv / s13_poolE.tsv / s13_poolF.tsv, which are themselves verbatim transcriptions of the
+# archived queries data/research/urls/poolD_ord0.url, poolD_ord100.url, poolE_ord0.url and poolF_ord0.url.
+# Dedupe result: 261 unique Q-IDs scanned -> 154 already catalogued by Q-ID, 36 already catalogued by name,
+# 1 alias match, 10 repeat rows inside the pools, 70 NEW. Of the 16 pool-D candidates that are neither new nor
+# catalogued, every one is already sitting in the reviewQueue; they are re-tested through s13_poolG.tsv instead of
+# being duplicated here.
+# Origin of each row (pool D = DOB 2000-2002 both occupations any handle; E = sport-only gap population;
+# F = X/TikTok-only cohort) is recorded in data/research/s13_pass4_new_origin.tsv.
+# columns: qid|name|dob|instagram|x|tiktok|country
+Q104217167|İlkin Aydın|2000-01-05|ilkinaydn|||Turkey
+Q105706252|Lee Won-jeong|2000-01-12|lee_won_jeong|||South Korea
+Q108110570|Hinata Shigihara|2001-02-25|___h.i.n.a.t.a.___|||Japan
+Q108771081|Juliette Gelin|2001-11-02|||juju_gelin|France
+Q111696564|Andréa Mimosette Moussol|2000-01-07|andreamimosette|||Cameroon
+Q112898157|Key Alves|2000-01-08|key.alvees|key_alvees||Brazil
+Q134029261|Jimena Fernández Gayoso|2001-09-07|||jimmygayoso2|Spain
+Q56250371|Bianca Farriol|2001-12-18|||biancafarriol11|Argentina
+Q56635650|Sarah Fahr|2001-09-12|sarahluisafahr|||Italy
+Q59705403|Delfina Villar|2000-05-12||delfinavillar1||Argentina
+Q76875007|Elena Kömmling|2000-01-01|elenakoemmling||elenakoemmling|Germany
+Q97901120|Minami Nishimura|2000-03-23||PH3H6ggKTnWGLYZ||Japan
+Q135182077|Abby Schaefer|2004-01-15|schaef.abby|abbyeschaefer||United States of America
+Q135182727|Izzi Szulczewski|2002-05-29|izzi.szulczewski|izziski||United States
+Q135191426|Andrea Koraca|2002-10-12|andrea_koraca|||Croatia
+Q135192961|Ana Ištuk|2002-07-11|istukicaa10||istukicaa|Croatia
+Q27917939|Miku Nakashima|1998-03-07|miku_nakashima06|||Japan
+Q29017817|Risa Watanabe|1998-07-27|_risawatanabe_|risa_and_staff||Japan
+Q43425187|Shiori Aratani|1998-09-22||smile4040a||Japan
+Q43425235|Ai Kurogo|1998-06-14|kurogoo|kuro06141998||Japan
+Q43425243|Erina Ogawa|1998-06-03||eri_ran0603||Japan
+Q50286750|Yuki Hyōdō|1998-10-19||yukipo1019||Japan
+Q54867512|Nao Kosaka|2002-09-07|kosakanatops|kosakanatops||Japan
+Q95560296|Victoria Blair Rhemrev|2003-01-02|victoria.blair.rhemrev|||United States
+Q98480727|Hono Tamura|1998-10-21|tamura.hono.official|honosu1st||Japan
+Q110272655|Lizaveta Bahayeva|2003-09-03||izi7dsluwmz9len||Belarus
+Q11371795|Azusa Futami|1992-05-15||FutamiAzusa||Japan
+Q11562632|Akari Watanabe|1992-09-18||akaringu0918||Japan
+Q11562701|Aya Watanabe|1991-04-23||aya042311||Japan
+Q11564498|Sayaka Mizoe|1990-07-16||sayakaj||Japan
+Q11624744|Natsumi Fujita|1991-08-05||na85z6||Japan
+Q13429212|Yūka Imamura|1993-09-02||yuuucaDX||Japan
+Q16735442|Keith Meneses|1991-09-09||KeithMeneses||Peru
+Q17303572|Carly Wopat|1992-10-13||CarlyWopat||United States
+Q19688926|Mabel Olemar|1993-05-10||katemabelolemar||Peru
+Q20895315|Maya Jansen|1994-05-27||_mayajansen||United States
+Q21066565|Azra Kanović|1993-09-09||edinakanovic||Bosnia and Herzegovina
+Q22956738|Aziliz Divoux|1995-01-03||divoux_aziliz||Belgium
+Q2406238|Tess von Piekartz|1992-07-24||Tessvp||Kingdom of the Netherlands
+Q275130|Risa Shinnabe|1990-07-11||snnbrs||Japan
+Q28071124|Kadie Rolfzen|1994-08-25||twintowerkd||United States
+Q2930192|Büşra Kılıçlı|1990-07-16||busracansu_fc||Turkey
+Q2947193|Ceylan Arısan|1994-01-01||CeylanArisan||Turkey
+Q3201215|Kübra Akman|1994-10-13||kubrakman||Turkey
+Q43431630|Rei Kudō|1997-12-05||poro1205||Japan
+Q439676|Lonneke Slöetjes|1990-11-15||lonsloet||Kingdom of the Netherlands
+Q49090949|Ilaria Galbusera|1991-02-03||ilariagalbusera||Italy
+Q55433254|Aylin Sarıoğlu|1995-07-21||aylinsarioglu||Turkey
+Q55531991|Maria Segura Pallerés|1992-06-10||mariasegura16||Spain
+Q64784043|Nanami Wasai|1991-01-01||nanachan773w||Japan
+Q64784045|Rina Hiratani|1992-01-01||riinay11||Japan
+Q64784046|Natsumi Watabiki|1995-01-01||n_watabiki||Japan
+Q64784053|Mayuka Shirasaki|1994-01-01||mayuka_sr||Japan
+Q64784054|Mizuki Minami|1993-01-01||miizukiim||Japan
+Q64784055|Yurika Yokoishi|1991-09-16||byurika||Japan
+Q64784056|Kozue Yukimaru|1994-01-01||Maru13Ryu07||Japan
+Q71678848|Mei Konishi|1995-05-27||konimei_15||Japan
+Q71717902|Rachel Cockrell|1992-04-17||rachelcockrell||Canada
+Q87659169|Brie O’Reilly|1998-01-24||briejoyking||Canada
+Q9065952|Raffaella Camet|1992-09-14||rafacamet||Peru
+Q9154518|Angélica Aquino|1990-08-10||Angelica_Aqui_S||Peru
+Q9310417|Riho Ōtake|1993-12-23||Ripoltupingu||Japan
+Q9383422|Yeniffer Ramírez|1993-03-17||yenifferkunkel||Dominican Republic
+Q963016|Freya Aelbrecht|1990-02-10||FreyaAelbrecht||Belgium
+Q97818975|Hazuki Nakamoto|1995-08-26||makochi_8||Japan
+Q97901057|Naoko Shimahata|1993-04-10||nao4k10||Japan
+Q97901079|Nao Tsuga|1993-07-11||t_naaao711||Japan
+Q98082759|Shuna Ohmoto|1995-05-02||o_shunalri||Japan
+Q98082853|Mioko Yabuta|1995-12-01||mi_koroon||Japan
+Q98082868|Mayu Takada|1995-03-22||MMaaay32||Japan
