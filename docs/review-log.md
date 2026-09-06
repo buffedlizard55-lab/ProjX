@@ -1486,3 +1486,26 @@ Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-se
 **Category movement.** Modeling 73→210, Fashion 38→174, Fitness 93→95, Fitness Model 69→71. Volleyball 839 unchanged.
 
 **Honest saturation note.** This fashion/fitness-model Wikipedia-or-ref pool (LIMIT 50 OFFSET 0–200) is the efficient path past volleyball saturation. OFFSET 250+ remains unfetched; the +100 target is met (+138) without inventing rows. Further growth in these occupations is possible from later offsets, agency-only P854 rows, and the handle-lookup ground-truth map still uncatalogued in `s18_notes` — never by guessing a date or handle.
+
+---
+
+## Session 19 — fashion/fitness-model Wikidata continuation OFFSET 250–400 (2026-09-07)
+
+**Owner request.** Same focus (NCAA volleyball, beach volleyball, beachwear, bikini/swimwear fashion, fitness, fitness model, modeling, swimwear, then European volleyball). Aim +100 unique Instagram/TikTok profiles. No hallucinations.
+
+**Discovery.** Volleyball 2003–08 IG/TikTok remains exhausted. Continued the Session 18 P106 sweep at OFFSET 250, 300, 350 and 400 (queries `data/research/urls/s18_prom_off{250,300,350,400}.url`) and opened the influencer/Internet-celebrity P854 slice (`s18_inf_off0.url`). The fm_off120 Playboy-adjacent pool without English Wikipedia was not auto-promoted.
+
+**Outcome.** **+129 verified (W-2026-1327..1455)**, all Instagram or TikTok so they stay on the Published catalog (1262 social / 192 reference = 1454). Andrea Aguilera skipped as a duplicate name. **R-2026-154 Wioleta Psiuk** queued `AGE_CONFLICTING_VALUES` (1991-07-16 / 1992-07-16 / 1990-01-01). IRR-2026-09-07-024.
+
+**Spot-checks (3/3 exact).**
+| Candidate | Page | Published | Catalog |
+| --- | --- | --- | --- |
+| Harnaaz Sandhu | en.wikipedia.org/wiki/Harnaaz_Sandhu | Born 3 March 2000 | 2000-03-03 |
+| Doutzen Kroes | en.wikipedia.org/wiki/Doutzen_Kroes | Born 23 January 1985 | 1985-01-23 |
+| Nagi Inoue | en.wikipedia.org/wiki/Nagi_Inoue | Born February 17, 2005 | 2005-02-17 |
+
+**Exclusions.** Havan Flores (Q108348506, 2007-11-20) and Akari Toyofuku (Q111757543, 2008-12-14) under 18 as of 2026-09-07. babesdirectory / listal / mypmates / pornhub / Playboy-magazine citations never used as age evidence.
+
+**Validator.** 1454 entries / 142 review / 24 irregularities / **0 errors**. Follower counts unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN.
+
+**Saturation note.** OFFSET 450 URL is archived but unfetched. Volleyball IG/TikTok structured population remains exhausted. Fashion Wikipedia-or-ref pool is still producing new unique QIDs at OFFSET 400, so it is **not** fully saturated.
