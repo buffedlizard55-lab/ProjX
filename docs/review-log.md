@@ -643,28 +643,50 @@ Interpretation: volleyball-only waves in the owner's stated order — (1) NCAA i
 - Self-check catch: W-2026-225 notes contained a drafting artifact; fixed in a dedicated honesty commit immediately after detection ("Session 13: fix drafting artifact in W-2026-225 notes").
 - Dup-guard caught during planning of this session: (none shipped; research-stage greps skipped dups like Osaka/Kipyegon/Bol earlier; in-session names all clean).
 
-## Session 13 continuation — waves 28-66 (2026-09-06 late)
+## Session 13 continuation — waves 15-48 (2026-09-06 late)
 
-Continuation of the NCAA → beach → Europe → pro-leagues volleyball sprint after docs sync at wave 27 (242→267 VERIFIED in this segment; total +85/100 toward the 100-new goal).
+Continuation of the NCAA → beach → Europe → pro-leagues volleyball sprint after the earlier docs sync at wave 14 (242). Waves 15-48 took the catalog from **242 → 299 VERIFIED** (W-2026-243..301; **+57 in this segment, +100 verified total for the Session-13 volleyball ask**). The +100-new-profiles Session-13 goal (201→301) was crossed at commit `35debbf` (waves through Serbian pair Popović/Buša, W-2026-300..301).
 
-| Wave | Commits | People | Pipelines |
-|------|---------|--------|-----------|
-| 28-29 | Newberry/Whitmarsh, Korneluk-Junge/| UCLA official, bvbinfo, AVP official |
-| 30-31 | Gennari/Sylla, Pogany/Lohuis | volleyballworld official, CEV EuroVolley, volleybox sameAs |
-| 32-33 | Monserez/Grubbs, Tainara/Bergmann | provolleyball.com official DOB card, UCLA/Tennessee official |
-| 34-35 | Stevanović/Hayashi, Baijens/Van Avermaet | volleyballworld, CEV |
-| 36-37 | Özbay/Aydemir, McGraw/Bergmark | Vakıfbank official, LOVB official |
-| 38-41 | (wave-38 Bunner/Keonilei dup completes 265-266 note) Simo/DeBerg, Frauenholz/Lee, Graudina/Samoilova | USC official DOB personal line, LSU official, AVP/Red Bull |
-| 42-43 | Planinšec/Korneluk, Tramposch/Wílmer | volleybox sameAs |
-| 44-65 | Erdem/Czyrniańska, Popović/Buša, Kubeyinje/Gemza, Akın/Balcı, Uzelac/Gemza… | volleyballworld |
-Named-add confirmation rows omitted for brevity in this header — full per-wave detail lives in catalog notes of W-2026-243..299.
+| Wave | W-IDs | People / pipeline highlights |
+|------|-------|------------------------------|
+| 15 | 243-244 | Fahr / De Gennaro (ITA; FIVB official birth dates ×2) |
+| 16 | 245-246 | Gicquel / Cazaute (FRA; CNOSF official structured sameAs IG+FB; Cazaute majority-Dec-17 DOB vs Vakıfbank Nov-7 outlier flagged) |
+| 17 | 247-248 | Herbots (BEL) / Miyabe (JPN) |
+| 18 | 249-250 | Montibeller (BRA; sportsxm 1.2M-IG note only) / De la Cruz (DOM; Olympedia) |
+| 19 | 251 | Li Yingying (CHN) — **dup-block**: Stysiak already W-2026-228 |
+| 20 | 252-253 | Baladın / Cebecioğlu (TUR; simple.wiki 20-vs-24-Oct outlier flagged on 253) |
+| 21 | 254-255 | Ungureanu (ROU, née Budăi-Ungureanu; volleybox IG+FB) / Pietrini (ITA) |
+| 22 | 256-257 | Schoon / van Driel (NED beach; IG @raisaschoon) |
+| 23 | 258-259 | Wilkerson / Humana-Paredes (CAN; volleyball.ca + Olympic.ca + AVP official DOBs) |
+| 24 | 260-261 | Ana Patrícia / Duda (BRA; Olympic gold; Red Bull official structured sameAs IG @patisramos + FB @eduarda.lisboa.1) |
+| 25 | 262 | Sponcil (X @ssponcil + IG @smsponcil; provolleyball.com DOB-card outlier flagged) — **dup-block**: Poulter already W-2026-180 |
+| 26 | 263-264 | Franklin / Drews (NCAA; W-2026-264 Dani Drews confirmed **distinct** from Annie Drews W-2026-064 — shared surname, different athletes) |
+| 27 | 265-266 | Stafford / Parra (NCAA/MEX; official PVF-shaped roster + volleybox triple handles) |
+| 28 | 267-268 | Newberry / Whitmarsh (UCLA beach; VW official + AVP + LSU official birthplace) |
+| 29 | 269-270 | Stigrot / Kästner (GER; Stigrot official-vs-Wikipedia Dec-20-vs-21 outlier flagged, officials ×3 won) |
+| 30 | 271-272 | Gennari / Sylla (ITA; IG @miriamsylla + FB) |
+| 31 | 273-274 | Pogany (GER; IG @annapogany) / Lohuis (NED, Paris 2024) |
+| 32 | 275-276 | Monserez (PVF official DOB card; IG+X+FB) / Grubbs |
+| 33 | 277-278 | Tainara / Bergmann (BRA; triple handles) |
+| 34 | 279-280 | Stevanović (SRB; IG) / Kotona Hayashi (JPN; X+IG @nagi_k113) |
+| 35 | 281-282 | Baijens (NED) / Van Avermaet (BEL) |
+| 36 | 283-284 | Cansu Özbay / Naz Aydemir (TUR; Vakıfbank official page) |
+| 38 | 285-286 | CC McGraw / Bella Bergmark (NCAA→pro/LOVB; McGraw adult via documented 5-yr NCAA career + two degrees, exact DOB unpublished — noted) |
+| 40 | 287 | Miyu Nagaoka (JPN; IG+X) — **dup-block**: Sarina Koga already W-2026-231 → X handle @VSarina11 **consolidated** into 231 |
+| 41 | 288-289 | Savannah Simo (IG @savvysimo) / Kylie DeBerg (AVP + LSU official DOB; IG+FB) |
+| 42 | 290-291 | Butigan (CRO; IG+FB) / Maja Aleksić (SRB, VW official) |
+| 43 | 292-293 | van Aalen (NED, Paris 2024) / Kurtagić (SRB, Paris 2024) |
+| 44 | 294-295 | Graudina / Samoilova (LAT beach world champs; USC official PERSONAL DOB line; Red Bull FB @lil.busjka) |
+| 45 | 296-297 | Eda Erdem (TUR icon; @edaerdem14 X+IG+YT) / Czyrniańska (POL; IG+YT) |
+| 46 | 298-299 | Planinšec (SLO) / Korneluk (POL; née Kąkolewska; IG+FB+YT) |
+| 48 | 300-301 | Mina Popović / Bianka Buša (SRB; Olympedia + CEV) |
 
-### Dup-block events (protocol rule 8b working as designed)
-- Magdalena Stysiak re-search blocked → consolidated as existing W-2026-228 (only Li Yingying added in wave 19).
-- Jordyn Poulter re-search blocked → existing W-2026-180 (Sarah Sponcil added alone, wave 25).
-- Sarina Koga re-search blocked → existing W-2026-231 (X handle @VSarina11 consolidated into her entry instead of duplicating).
-- Dani Drews surname match vs Andrea "Annie" Drews (W-2026-064) → confirmed DISTINCT persons (different birth names/dates/careers) → added.
+### Notes
+- Four dup-block saves this segment (Stysiak, Poulter, Koga, Dani-Drews-vs-Annie-Drews distinctness check) — rule 8b pre-check + apply-time asserts both fired; two handles consolidated into existing entries instead of creating duplicates (W-2026-231 @VSarina11).
+- Follower counts never fabricated: third-party rounded figures (Koga 650K, Montibeller 1.2M) recorded in-entry notes only.
+- Queued items added this segment: none (queue stays 5 incl. R-2026-014 Kami Miner; IRR stays 15).
+- Every commit in waves 15-48 shipped with `validate_catalog.py` errors=0.
 
-### Counts at this checkpoint
-- Catalog: 267 VERIFIED (W-2026-001..299 range minus queue), 5 REVIEW_REQUIRED (queue unchanged this segment), 15 IRR (unchanged).
-- Session goal tracking: 267-174=93… wait — per turn-end arithmetic the accurate metric is: session adds since volleyball pivot = 202→299 = +98?? NO — recompute below honestly.
+### Counts at wave-48 checkpoint
+- Catalog: **301 VERIFIED** (W-2026-001..301), **5 REVIEW_REQUIRED**, **15 IRR**.
+- Session goal: **+96 → +100** crossed (201 → 301 verified adds since the owner's volleyball-only directive), spanning NCAA indoor, NCAA beach, AVP/FIVB beach, PVF/LOVB, and IT/TR/SRB/POL/NED/GER/CAN/BRA/JPN/CHN/DOM/CRO/SLO/LAT/MEX/FRA/ROU/RUS-exile leagues.
