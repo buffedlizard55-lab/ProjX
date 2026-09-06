@@ -1444,3 +1444,45 @@ re-checked against the raw batch files; validator errors=0 on catalog.json (1187
 995 social + 192 reference) and the re-derived catalog-reference.json. Follower counts
 remain unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN everywhere, never
 estimated.
+
+---
+
+## Session 18 — fashion / fitness-model Wikidata P106 sweep (2026-09-07)
+
+**Owner request.** Continue the arena creator-research task: NCAA volleyball, beach volleyball, beachwear, bikini fashion, bikini/swimwear fashion, fitness, fitness model, modeling, swimwear, then European volleyball and any women's volleyball leagues. Aim to add **100 new unique profiles** and keep searching until honest saturation. Only Instagram or TikTok profiles go to the Catalog / Published records; everything else stays on the Reference subpage. No hallucinations.
+
+**Discovery.** Volleyball 2003–08 Instagram/TikTok is exhausted (Session 17 / vb03 SPARQL: 44/47 QIDs already catalogued). Session 18 therefore swept female Wikidata items whose occupation is model (Q4610556), fashion model (Q3357567), personal trainer (Q762121), bodybuilder (Q15982795) or fitness model (Q124408963), with a documented P569 date of birth in 1985–2008, an Instagram (P2003) or TikTok (P7085) handle, and either a P854 reference URL or an English Wikipedia sitelink. Pornographic-film actor (Q488111) and erotic-photography model (Q3286043) occupations were excluded at query time. Queries archived under `data/research/urls/s18_prom_off{0,50,100,150,200}.url`. Collapsed unique rows: `data/research/s18_master.tsv` (138). Builder: `scripts/session18_build.py` (dry-run default, `--apply` to write). Audit: `data/research/s18_selected.tsv`.
+
+**Outcome.** **+138 verified (W-2026-1189..1326)**, every one Instagram- or TikTok-bearing so they remain on the Published catalog after `session15_split.py` (1133 social / 192 reference = 1325). Categories from the occupation statement only: model / fashion model → Modeling, Fashion, Creator; fitness model / personal trainer → Fitness, Fitness Model, Creator. **8 queued (R-2026-146..153)** rather than guessed:
+
+| Queue | Name | Reason |
+| --- | --- | --- |
+| R-2026-146 | Havana Rose Liu | AGE_CONFLICTING_VALUES (1997-09-30 vs 1997-03-01) |
+| R-2026-147 | Sophia Abrahão | AGE_CONFLICTING_VALUES (1991-05-21 vs 1991-05-22) |
+| R-2026-148 | Leni Klum | AGE_CONFLICTING_VALUES (2004-05-04 vs 2004-05-01) |
+| R-2026-149 | Alina Akselrad | AGE_CONFLICTING_VALUES (1998-01-01 vs 1998-09-22) |
+| R-2026-150 | Doechii | AGE_CONFLICTING_VALUES (1998-01-01 vs 1998-08-14) |
+| R-2026-151 | Katiana Kay | AGE_CONFLICTING_VALUES (2002-02-02 vs 2003-02-23) |
+| R-2026-152 | Nanami Sakuraba | NAME_MISMATCH_IN_CITED_SOURCE (Wikipedia article is Hitomi Miyauchi) |
+| R-2026-153 | Dana Heath | AGE_SOURCE_IDENTITY_UNRESOLVED (English Wikipedia sitelink redirects to the Nickelodeon series *Danger Force*, not a biography) |
+
+**Spot-checks (4/4 exact on opened pages).**
+
+| Candidate | Page opened | Published | Catalog |
+| --- | --- | --- | --- |
+| Sita Abellán | en.wikipedia.org/wiki/Sita_Abellán | Born 27 March 1993; model | 1993-03-27 |
+| Jade Cargill | en.wikipedia.org/wiki/Jade_Cargill | Born June 3, 1992 | 1992-06-03 |
+| Amandine Petit | en.wikipedia.org/wiki/Amandine_Petit | Born 30 September 1997 | 1997-09-30 |
+| Kaycee Rice | famousbirthdays.com/people/kaycee-rice.html | Birthday October 21, 2002; Age 23 | 2002-10-21 |
+
+Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-series redirect rather than a person biography.
+
+**Exclusions (IRR-2026-09-07-023).** babesdirectory.online / listal.com / mypmates.club / reddit citations never used as age evidence; Swayam Bhatia (Q106546472, DOB 2007-10-08) is 17 as of 2026-09-07 and was not added; Charlbi Dean (Q101064944) and Nightbirde (Q107366114) are deceased and were not added as living creators; Anllela Sagra was already catalogued (handle guard). January-1 DOBs that were promoted (Karol Conká, Shin Jae-eun, Chelsea Tayui, Naelah Alshorbaji) carry `DOB_JAN1_POSSIBLE_YEAR_PRECISION`. Wikipedia-only rows carry `AGE_EVIDENCE_WIKIPEDIA_ONLY` (105 of 138).
+
+**Follower counts.** None publicly observed (Instagram/TikTok block automated retrieval). Every new account is `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` — never estimated, never summed.
+
+**Validator.** `python3 scripts/validate_catalog.py` → **1325 entries / 141 review / 23 irregularities / 0 errors** (99 pre-existing source-URL-reuse warnings on W-2026-037..843; none on this batch). `session15_split.py` re-derived 1133 social + 192 reference.
+
+**Category movement.** Modeling 73→210, Fashion 38→174, Fitness 93→95, Fitness Model 69→71. Volleyball 839 unchanged.
+
+**Honest saturation note.** This fashion/fitness-model Wikipedia-or-ref pool (LIMIT 50 OFFSET 0–200) is the efficient path past volleyball saturation. OFFSET 250+ remains unfetched; the +100 target is met (+138) without inventing rows. Further growth in these occupations is possible from later offsets, agency-only P854 rows, and the handle-lookup ground-truth map still uncatalogued in `s18_notes` — never by guessing a date or handle.
