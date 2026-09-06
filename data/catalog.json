@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 295,
+    "entryCount": 297,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -20265,6 +20265,185 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle via Red Bull official athlete page structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-296",
+      "displayName": "Eda Erdem Dündar",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 22, 1987 in Istanbul, Turkey (née Eda Erdem) — age 38-39 in 2026 — per Wikipedia (born 22 June 1987, Istanbul) and the volleybox structured profile (birthDate 1987-06-22, maiden name Erdem). Her 2004 professional debut and Fenerbahçe tenure since 2008 corroborate.",
+        "sourceLabel": "Wikipedia — Eda Erdem (born 22 June 1987)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eda_Erdem",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career — captain of both Fenerbahçe SK and the Turkey women's national team (Wikipedia); volleybox structured 'gender: Female'; statue in her honor documented on Wikipedia ('Statue of Eda Erdem').",
+        "sourceLabel": "Wikipedia — Eda Erdem (captain; Statue of Eda Erdem)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Eda_Erdem",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Eda Erdem (DOB 1987-06-22; Fenerbahçe + NT captain)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Eda_Erdem",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Eda Erdem Dündar structured profile (birthDate 1987-06-22; sameAs X/IG/YT/site)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/eda-erdem-dundar-p2613/movies?orderValue=views&orderDirection=desc",
+          "relationship": "reference"
+        },
+        {
+          "label": "X/Twitter — @edaerdem14 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/edaerdem14",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @edaerdem14 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/edaerdem14/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Turkish volleyball icon — captain of Fenerbahçe and the national team; Club World champion 2010 with a statue erected in her honor; of Bosniak descent, billed 185+ Turkey caps — objective athlete category; verified 38 years old. X/IG handles @edaerdem14 + YouTube/website via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@edaerdem14",
+          "profileUrl": "https://twitter.com/edaerdem14",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@edaerdem14",
+          "profileUrl": "https://www.instagram.com/edaerdem14/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@UCbL1aK4PR1HW0hfBeKO-NGA",
+          "profileUrl": "https://youtube.com/channel/UCbL1aK4PR1HW0hfBeKO-NGA",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Channel via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-297",
+      "displayName": "Martyna Czyrniańska",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 13, 2003 in Krynica-Zdrój, Poland — age 22 in 2026 — per Wikipedia (born 13 October 2003, Krynica-Zdrój) and the volleybox structured profile (birthDate 2003-10-13; Krynica-Zdrój).",
+        "sourceLabel": "Wikipedia — Martyna Czyrniańska (born 13 October 2003)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Martyna_Czyrnia%C5%84ska",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Poland women's national volleyball team career ('She is a member of the Poland women's national volleyball team'; Wikipedia) and volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Martyna Czyrniańska (Poland women NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Martyna_Czyrnia%C5%84ska",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Martyna Czyrniańska (DOB 2003-10-13; Krynica-Zdrój)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Martyna_Czyrnia%C5%84ska",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Martyna Czyrniańska structured profile (birthDate 2003-10-13; sameAs IG/YT)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/martyna-czyrnianska-p35435",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @martynaczyrnianskaa (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/martynaczyrnianskaa/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "YouTube — @Czyrnianska (volleybox structured sameAs)",
+          "platform": "YouTube",
+          "url": "https://www.youtube.com/@Czyrnianska",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Polish national-team outside hitter (1.94 m) — PZPS School of Sports Mastery product (Kalisz), Polish junior + cadet champion 2020; pro through Enea PTPS Piła and Bahçelievler, now Kuzeyboru (Türkiye) — objective athlete category; verified 22 years old. IG/YouTube handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@martynaczyrnianskaa",
+          "profileUrl": "https://www.instagram.com/martynaczyrnianskaa/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "YouTube",
+          "username": "@Czyrnianska",
+          "profileUrl": "https://www.youtube.com/@Czyrnianska",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
       "largestPublicFollowing": {
