@@ -55,6 +55,8 @@ const elements = {
   irregularityList: document.querySelector('#irregularity-list'),
   reviewQueueList: document.querySelector('#review-queue-list'),
   followerDist: document.querySelector('#follower-distribution'),
+  followerByCategory: document.querySelector('#follower-by-category'),
+  followerByPlatform: document.querySelector('#follower-by-platform'),
   downloadJson: document.querySelector('#download-json'),
   downloadCsv: document.querySelector('#download-csv'),
 };
@@ -95,7 +97,87 @@ async function loadCatalog() {
   renderIrregularities();
   renderReviewQueue();
   renderFollowerDistribution();
+  renderFollowerBreakdowns();
   updateStats();
+}
+
+const BAND_ORDER = ['under10k', '10k49k', '50k249k', '250k999k', '1mplus', 'unknown'];
+const BAND_LABELS = {
+  under10k: 'Under 10K',
+  '10k49k': '10K–49.9K',
+  '50k249k': '50K–249.9K',
+  '250k999k': '250K–999.9K',
+  '1mplus': '1M+',
+  unknown: 'Unknown',
+};
+
+function bandBucketForNumeric(n) {
+  if (typeof n !== 'number') return 'unknown';
+  if (n < 10000) return 'under10k';
+  if (n < 50000) return '10k49k';
+  if (n < 250000) return '50k249k';
+  if (n < 1000000) return '250k999k';
+  return '1mplus';
+}
+
+function renderBreakdownRow(container, label, bandCounts) {
+  const total = BAND_ORDER.reduce((sum, band) => sum + (bandCounts[band] || 0), 0);
+  const row = document.createElement('div');
+  row.className = 'dist-row breakdown-row';
+  const chips = BAND_ORDER.filter((band) => bandCounts[band])
+    .map((band) => `<span class="chip">${escapeHtml(BAND_LABELS[band])} ${bandCounts[band]}</span>`)
+    .join(' ');
+  row.innerHTML = `
+    <span class="dist-label">${escapeHtml(label)}</span>
+    <span class="breakdown-bands">${chips || '<span class="chip">No records</span>'}</span>
+    <span class="dist-count">${total}</span>
+  `;
+  container.append(row);
+}
+
+function renderFollowerBreakdowns() {
+  if (elements.followerByCategory) {
+    const byCategory = new Map();
+    state.entries.forEach((entry) => {
+      const band = bandBucket(entry);
+      normalizeArray(entry.categories).forEach((category) => {
+        if (!byCategory.has(category)) byCategory.set(category, {});
+        const counts = byCategory.get(category);
+        counts[band] = (counts[band] || 0) + 1;
+      });
+    });
+    elements.followerByCategory.innerHTML = '';
+    [...byCategory.entries()]
+      .sort((a, b) => a[0].localeCompare(b[0]))
+      .forEach(([category, counts]) =>
+        renderBreakdownRow(elements.followerByCategory, category, counts)
+      );
+  }
+
+  if (elements.followerByPlatform) {
+    const byPlatform = new Map();
+    state.entries.forEach((entry) => {
+      normalizeArray(entry.socialAccounts).forEach((account) => {
+        if (!account.platform) return;
+        if (!byPlatform.has(account.platform)) byPlatform.set(account.platform, {});
+        const band = bandBucketForNumeric(
+          typeof account.followerCountNumeric === 'number' ? account.followerCountNumeric : null
+        );
+        const counts = byPlatform.get(account.platform);
+        counts[band] = (counts[band] || 0) + 1;
+      });
+    });
+    elements.followerByPlatform.innerHTML = '';
+    if (!byPlatform.size) {
+      elements.followerByPlatform.innerHTML =
+        '<p>No per-platform follower observations recorded yet.</p>';
+    }
+    [...byPlatform.entries()]
+      .sort((a, b) => a[0].localeCompare(b[0]))
+      .forEach(([platform, counts]) =>
+        renderBreakdownRow(elements.followerByPlatform, platform, counts)
+      );
+  }
 }
 
 function renderReviewQueue() {
