@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 204,
+    "entryCount": 208,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -14130,6 +14130,297 @@
           "platform": "X",
           "username": "@BergenReilly",
           "profileUrl": "https://twitter.com/BergenReilly",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-205",
+      "displayName": "Eva Hudson",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 18, 2004 in Fort Wayne, Indiana — age 22 in 2026 — per volleybox structured record (birthDate 2004-05-18), Wikidata (date of birth 18 May 2004, referenced to the FIVB database AND volleybox) and Wikipedia (born May 18, 2004).",
+        "sourceLabel": "Wikidata — Eva Hudson (DOB 18 May 2004; refs: FIVB database, Volleybox)",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q137607535",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and NCAA/LOVB women's volleyball career — Purdue star, Kentucky's 2025 national-championship-season leader, now LOVB Atlanta (Wikipedia/lovb.com).",
+        "sourceLabel": "volleybox — Eva Hudson (gender Female; LOVB Atlanta)",
+        "sourceUrl": "https://women.volleybox.net/eva-hudson-p94657",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "volleybox — Eva Hudson (birthDate 2004-05-18; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/eva-hudson-p94657",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikidata — Eva Hudson (DOB 18 May 2004; FIVB+volleybox refs)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q137607535",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Eva Hudson (born May 18, 2004; LOVB Atlanta)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Eva_Hudson",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LOVB — official Eva Hudson athlete page (LOVB Atlanta)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-atlanta-volleyball/athletes/eva-hudson",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "NCAA star outside hitter (Purdue → Kentucky's 2025 national championship run) now with LOVB Atlanta — objective athlete category; verified 22 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-206",
+      "displayName": "Jess Mruzik",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 15, 2002 in Livonia, Michigan — age 24 in 2026 — per the OFFICIAL Michigan Athletics roster bio ('Born June 15, 2002'), Wikipedia (born June 15, 2002), essentiallysports ('Born on June 15, 2002') and her own X profile ('Born June 15').",
+        "sourceLabel": "Michigan Athletics — official Jess Mruzik 2022 roster bio (Born June 15, 2002)",
+        "sourceUrl": "https://mgoblue.com/sports/womens-volleyball/roster/jess-mruzik/23183",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Michigan/Penn State women's volleyball career ('2022 Volleyball Roster' women's team page) — 2024 NCAA national champion and finals Most Outstanding Player, 2025 LOVB Houston pro.",
+        "sourceLabel": "Michigan Athletics — official roster (women's volleyball)",
+        "sourceUrl": "https://mgoblue.com/sports/womens-volleyball/roster/jess-mruzik/23183",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Michigan Athletics — official roster bio (Born June 15, 2002)",
+          "platform": "Website",
+          "url": "https://mgoblue.com/sports/womens-volleyball/roster/jess-mruzik/23183",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Jess Mruzik (DOB 2002-06-15; 2024 NCAA champion/MOP)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jess_Mruzik",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LOVB — official Jess Mruzik athlete page (LOVB Houston)",
+          "platform": "Website",
+          "url": "https://www.lovb.com/teams/lovb-houston-volleyball/athletes/jess-mruzik",
+          "relationship": "official"
+        },
+        {
+          "label": "X — @voll_jess (own profile: 'Born June 15'; 1,334 followers)",
+          "platform": "X",
+          "url": "https://x.com/voll_jess",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 NCAA national champion and finals Most Outstanding Player (Penn State), 2019 FIVB U18 world champion MVP — objective athlete category; verified 24 years old. X count from live profile display (1,334 on 2026-09-06); countType approximate.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@voll_jess",
+          "profileUrl": "https://x.com/voll_jess",
+          "followerCountDisplay": "1,334",
+          "followerCountNumeric": 1334,
+          "countType": "approximate",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "1K–4.9K",
+          "sourceNote": "Own X profile displays 'Born June 15' and 1,334 followers (live display 2026-09-06); bio 'LOVB HTX | Penn State Volley #9 | USAV' matches identity."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": "X",
+        "username": "@voll_jess",
+        "display": "1,334",
+        "numeric": 1334,
+        "sizeRange": "1K–4.9K",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "1K–4.9K"
+    },
+    {
+      "id": "W-2026-207",
+      "displayName": "Elia Rubin",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 13, 2004 — age 22 in 2026 — per volleybox structured record (birthDate 2004-03-13, gender Female, sameAs IG). Adult status doubly supported by the official USA Volleyball athlete record: member of the Women's U21 National Team (2023 page) — U21 eligibility requires birth on/after 2002-01-01; with the volleybox full DOB this pins 2004-03-13; 22 in 2026.",
+        "sourceLabel": "volleybox — Elia Rubin (birthDate 2004-03-13; gender Female)",
+        "sourceUrl": "https://women.volleybox.net/elia-rubin-p95004",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female'), the official USA Volleyball athlete page ('Women's U21 National Team') and Stanford women's volleyball career (theACC.com).",
+        "sourceLabel": "USA Volleyball — official Elia Rubin athlete page (Women's U21 National Team)",
+        "sourceUrl": "https://usavolleyball.org/athlete/elia-rubin/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "volleybox — Elia Rubin (birthDate 2004-03-13; gender Female; sameAs IG eliarubin_)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/elia-rubin-p95004",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "USA Volleyball — official Elia Rubin athlete page (Women's U21 NT)",
+          "platform": "Website",
+          "url": "https://usavolleyball.org/athlete/elia-rubin/",
+          "relationship": "official"
+        },
+        {
+          "label": "theACC.com — Stanford Elia Rubin 2025 ACC Volleyball Scholar-Athlete of the Year",
+          "platform": "Website",
+          "url": "https://theacc.com/news/2026/1/27/womens-volleyball-stanfords-elia-rubin-headlines-2025-volleyball-all-acc-academic-team.aspx",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @eliarubin_ (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/eliarubin_/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Stanford All-American outside hitter and 2025 ACC Volleyball Scholar-Athlete of the Year; drafted by the San Diego Mojo (MLV) — objective athlete category; verified 22 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@eliarubin_",
+          "profileUrl": "https://www.instagram.com/eliarubin_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-208",
+      "displayName": "Anna DeBeer",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 25, 2001 in Louisville, Kentucky — age 24 in 2026 — per the OFFICIAL Louisville Athletics roster bio ('Born Sept. 25, 2001'), volleybox structured record (birthDate 2001-09-25) and opendorse NIL profile ('24').",
+        "sourceLabel": "Louisville Athletics — official Anna DeBeer 2024 roster bio (Born Sept. 25, 2001)",
+        "sourceUrl": "https://gocards.com/sports/womens-volleyball/roster/anna-debeer/15178",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female') and Louisville Cardinals women's volleyball career — ACC Player of the Year 2023, three-time AVCA All-American, now pro (Indy Ignite/Columbus Fury).",
+        "sourceLabel": "volleybox — Anna DeBeer (gender Female; Indy Ignite)",
+        "sourceUrl": "https://women.volleybox.net/anna-debeer-p66049",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Louisville Athletics — official roster bio (Born Sept. 25, 2001)",
+          "platform": "Website",
+          "url": "https://gocards.com/sports/womens-volleyball/roster/anna-debeer/15178",
+          "relationship": "official"
+        },
+        {
+          "label": "volleybox — Anna DeBeer (birthDate 2001-09-25; gender Female; sameAs IG/X)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/anna-debeer-p66049",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @anna.debeer (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/anna.debeer",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @anna_debeer (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://x.com/anna_debeer",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2023 ACC Player of the Year and three-time AVCA All-American for Louisville, second overall pick in the 2024 PVF draft — objective athlete category; verified 24 years old. Handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@anna.debeer",
+          "profileUrl": "https://www.instagram.com/anna.debeer",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@anna_debeer",
+          "profileUrl": "https://x.com/anna_debeer",
           "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
           "followerCountNumeric": null,
           "countType": "unknown",
