@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 197,
+    "entryCount": 199,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13635,6 +13635,134 @@
           "sourceNote": "Handle via official USC roster structured sameAs (twitter.com/jujubballin); count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-198",
+      "displayName": "Eileen Gu (Gu Ailing)",
+      "categories": [
+        "Athlete",
+        "Skiing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 3, 2003 in San Francisco, California — age 23 in 2026 — per Britannica ('Born: September 3, 2003... (age 23)'), Red Bull athlete page structured record (birthDate 2003-09-03), olympics.com official profile ('Born on 3 September, 2003') and Wikipedia (born September 3, 2003).",
+        "sourceLabel": "Britannica — Eileen Gu (born September 3, 2003)",
+        "sourceUrl": "https://www.britannica.com/biography/Eileen-Gu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Red Bull structured record ('gender: female') and women's freestyle skiing career — six Olympic medals (3 gold) in women's halfpipe/slopestyle/big air, the most decorated freestyle skier in Olympic history (Wikipedia/Britannica/olympics.com).",
+        "sourceLabel": "Red Bull — Eileen Gu athlete page (JSON-LD gender female + birthDate + sameAs)",
+        "sourceUrl": "https://www.redbull.com/us-en/athlete/eileen-gu",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Britannica — Eileen Gu (born September 3, 2003; Olympic medals)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Eileen-Gu",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Red Bull — Eileen Gu athlete page (birthDate 2003-09-03; gender female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/us-en/athlete/eileen-gu",
+          "relationship": "official"
+        },
+        {
+          "label": "Olympics.com — Eileen Gu official athlete profile (Born 3 September 2003)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/gu-ailing-eileen",
+          "relationship": "official"
+        },
+        {
+          "label": "Instagram — @eileen_gu_ (Red Bull structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/eileen_gu_",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Six-time Olympic medalist (3 gold) in women's freeski halfpipe/slopestyle/big air — most decorated freestyle skier in Olympic history — and Stanford graduate/model — objective athlete category; verified 23 years old. IG handle via Red Bull structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@eileen_gu_",
+          "profileUrl": "https://www.instagram.com/eileen_gu_",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via Red Bull athlete page structured sameAs (instagram.com/eileen_gu_); count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-199",
+      "displayName": "Smriti Mandhana",
+      "categories": [
+        "Athlete",
+        "Cricket",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 18, 1996 in Mumbai (Bombay), Maharashtra, India — age 30 in 2026 — per ESPNcricinfo official player profile (Born July 18, 1996), cricket.com.au structured record (birthDate 1996-07-18, Age 30), simple.wikipedia (18 July 1996) and sportsdunia structured record (birthDate 1996-07-18).",
+        "sourceLabel": "ESPNcricinfo — Smriti Mandhana official profile (Born July 18, 1996)",
+        "sourceUrl": "https://www.espncricinfo.com/cricketers/smriti-mandhana-597806",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via sportsdunia structured record ('gender: Female') and India women's national cricket team career — first India women's player to score hundreds in all three international formats; RCB Women WPL (ESPNcricinfo/simple.wikipedia).",
+        "sourceLabel": "SportsDunia — Smriti Mandhana biography (structured gender Female + birthDate)",
+        "sourceUrl": "https://www.sportsdunia.com/cricket-players/smriti-mandhana-biography",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ESPNcricinfo — Smriti Mandhana profile (Born July 18, 1996; India women)",
+          "platform": "Website",
+          "url": "https://www.espncricinfo.com/cricketers/smriti-mandhana-597806",
+          "relationship": "official"
+        },
+        {
+          "label": "cricket.com.au — Smriti Mandhana (birthDate 1996-07-18 structured)",
+          "platform": "Website",
+          "url": "https://www.cricket.com.au/players/CA:418/smriti-mandhana",
+          "relationship": "official"
+        },
+        {
+          "label": "SportsDunia — Smriti Mandhana biography (birthDate + gender Female structured)",
+          "platform": "Website",
+          "url": "https://www.sportsdunia.com/cricket-players/smriti-mandhana-biography",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "India women's vice-captain/ace opening batter — first India woman with centuries in all three international formats; ICC Women's Cricketer of the Year 2021 — objective athlete category; verified 30 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
