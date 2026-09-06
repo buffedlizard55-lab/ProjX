@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 218,
+    "entryCount": 220,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15134,6 +15134,134 @@
           "sourceNote": "Handle published by volleybox ('Her instagram: instagram.com/asiawolosz14'); count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-219",
+      "displayName": "Ekaterina Antropova",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 19, 2003 in Akureyri, Iceland — age 23 in 2026 — per volleybox structured record (birthDate 2003-03-19), the OFFICIAL CEV EuroVolley player registry (Birth date 2003, Akureyri, Iceland, height 202 cm), Baidu Baike (Date of Birth 19 March 2003) and Grokipedia (born on 19 March 2003 in Akureyri).",
+        "sourceLabel": "CEV — official EuroVolley player registry (Ekaterina Antropova, born 2003)",
+        "sourceUrl": "https://eurovolley.cev.eu/team/12639-italy/player/70724-antropova-ekaterina",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via volleybox structured record ('gender: Female'), Baidu Baike record ('Gender: Female') and Italy women's national volleyball team career — 2024 Paris Olympic gold medalist (Grokipedia/Baike).",
+        "sourceLabel": "volleybox — Ekaterina Antropova (gender Female; birthDate 2003-03-19)",
+        "sourceUrl": "https://women.volleybox.net/ekaterina-antropova-p50630",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "CEV — official EuroVolley registry (birth year 2003; ITA)",
+          "platform": "Website",
+          "url": "https://eurovolley.cev.eu/team/12639-italy/player/70724-antropova-ekaterina",
+          "relationship": "official"
+        },
+        {
+          "label": "volleybox — Ekaterina Antropova (birthDate 2003-03-19; gender Female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/ekaterina-antropova-p50630",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Ekaterina Antropova (born 19 March 2003; 2024 Olympic gold)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/ekaterina_antropova",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @e.antropova17 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/e.antropova17/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2024 Paris Olympic gold medalist (Italy, as Paola Egonu's alternate) and the 2025 FIVB Club World Championship MVP/Best Opposite with Savino Del Bene Scandicci — objective athlete category; verified 23 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@e.antropova17",
+          "profileUrl": "https://www.instagram.com/e.antropova17/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-220",
+      "displayName": "Caterina Bosetti",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 2, 1994 in Tradate, Varese, Italy — age 32 in 2026 — per Olympedia athlete record (Born: 2 February 1994 in Tradate, Varese; full name Caterina Chiara Bosetti), Wikiwand/Wikipedia (born 2 February 1994) and Grokipedia (born on 2 February 1994 in Tradate).",
+        "sourceLabel": "Olympedia — Caterina Bosetti athlete record (born 2 February 1994)",
+        "sourceUrl": "https://www.olympedia.org/athletes/123334",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Olympedia athlete record ('Sex: Female') and Italy women's national volleyball team career — Olympic champion; kiddle notes family volleyball lineage (Wikiwand/Olympedia).",
+        "sourceLabel": "Olympedia — Caterina Bosetti record (Sex: Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/123334",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Caterina Bosetti (Born 2 February 1994; Sex Female)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/123334",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikiwand/Wikipedia — Caterina Bosetti (born 2 February 1994; Tradate)",
+          "platform": "Website",
+          "url": "https://www.wikiwand.com/en/articles/Caterina_Bosetti",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Caterina Bosetti (born 2 February 1994; Collare d’Oro 2024)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/caterina_bosetti",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Olympic gold medalist outside hitter for Italy — volleyball dynasty (father Giuseppe Bosetti, ex-Italy women's coach; mother Franca Bardelli, 93 caps; sister Lucia, pro) — objective athlete category; verified 32 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
