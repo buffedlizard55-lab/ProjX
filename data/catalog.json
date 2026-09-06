@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 152,
+    "entryCount": 158,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -10687,6 +10687,413 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "2022 Mac Hermann Trophy winner and Kansas City Current/USWNT forward — objective athlete category; verified 23 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-153",
+      "displayName": "Napheesa Collier",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 23, 1996 in Jefferson City, Missouri — age 29 in 2026 — per basketball-reference structured record (birthDate 1996-09-23), Wikipedia (born September 23, 1996), proballers (born September 23, 1996) and wnba.miraheze wiki.",
+        "sourceLabel": "Basketball-Reference — Napheesa Collier (born September 23, 1996)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/c/collina01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career (Minnesota Lynx star forward; Unrivaled league co-founder) and be-basketball structured data ('gender: https://schema.org/Female').",
+        "sourceLabel": "Be-basketball — Napheesa Collier (gender schema.org/Female structured)",
+        "sourceUrl": "https://www.be-basketball.com/player/napheesa-collier",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Napheesa Collier (DOB 1996-09-23; Instagram: napheesa24)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/c/collina01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Napheesa Collier (DOB 1996-09-23; UConn/Unrivaled founder)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Napheesa_Collier",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Proballers — Napheesa Collier (DOB Sep 23, 1996)",
+          "platform": "Website",
+          "url": "https://www.proballers.com/basketball/player/184783/collier-napheesa",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @napheesa24 (basketball-reference displayed handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/napheesa24/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2019 WNBA Rookie of the Year and Unrivaled league co-founder — objective athlete category. IG handle via basketball-reference; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@napheesa24",
+          "profileUrl": "https://www.instagram.com/napheesa24/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference player page; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-154",
+      "displayName": "Breanna Stewart",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 27, 1994 in North Syracuse, New York — age 32 in 2026 — per basketball-reference structured record (birthDate 1994-08-27), Wikipedia (born August 27, 1994), wnba.com official player page (Birthdate Aug 27, 1994) and usbasket (born Aug.27, 1994).",
+        "sourceLabel": "Basketball-Reference — Breanna Stewart (born August 27, 1994)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/s/stewabr01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career — New York Liberty forward, multiple WNBA MVP awards, Unrivaled co-founder (Wikipedia/wnba.com).",
+        "sourceLabel": "WNBA.com — Breanna Stewart official player page",
+        "sourceUrl": "https://www.wnba.com/player/1627668/breanna-stewart",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Breanna Stewart (DOB 1994-08-27; Instagram: breannastewart30)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/s/stewabr01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WNBA.com — Breanna Stewart official player page (Birthdate Aug 27, 1994)",
+          "platform": "Website",
+          "url": "https://www.wnba.com/player/1627668/breanna-stewart",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Breanna Stewart (DOB 1994-08-27)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Breanna_Stewart",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @breannastewart30 (basketball-reference displayed handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/breannastewart30/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2x WNBA MVP, 4x NCAA champion (UConn) and Unrivaled league co-founder — objective athlete category. IG handle via basketball-reference; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@breannastewart30",
+          "profileUrl": "https://www.instagram.com/breannastewart30/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference player page; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-155",
+      "displayName": "Kelsey Plum",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 24, 1994 in Poway, California — age 32 in 2026 — per basketball-reference structured record (birthDate 1994-08-24) and briefly.co.za profile (Date of birth: 24th August 1994).",
+        "sourceLabel": "Basketball-Reference — Kelsey Plum (born August 24, 1994)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/p/plumke01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career — 2x WNBA champion, 2022 All-Star MVP, five-time All-Star with Las Vegas Aces (basketball-reference honors list).",
+        "sourceLabel": "Basketball-Reference — Kelsey Plum (2x WNBA Champ, 5x All Star)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/p/plumke01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Kelsey Plum (DOB 1994-08-24; Instagram: kelseyplum10)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/p/plumke01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Briefly — Kelsey Plum bio (DOB 24 August 1994; IG/Twitter @kelseyplum10)",
+          "platform": "Website",
+          "url": "https://briefly.co.za/facts-lifehacks/celebrities-biographies/118202-kelsey-plum-bio-age-husband-ethnicity-stats-salary-wnba-team-net-worth/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kelseyplum10 (basketball-reference + briefly displayed handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kelseyplum10/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @Kelseyplum10 (briefly.co.za displayed handle)",
+          "platform": "X",
+          "url": "https://x.com/Kelseyplum10",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2x WNBA champion and 2022 All-Star MVP (Washington Huskies all-time scorer) — objective athlete category. Handles via basketball-reference + briefly; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kelseyplum10",
+          "profileUrl": "https://www.instagram.com/kelseyplum10/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference + briefly.co.za bio; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@Kelseyplum10",
+          "profileUrl": "https://x.com/Kelseyplum10",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via briefly.co.za bio; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-156",
+      "displayName": "Jackie Young",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 16, 1997 in Princeton, Indiana — age 28 in 2026 — per proballers (born September 16, 1997), wnba.miraheze wiki (born September 16, 1997) and grokipedia (born September 16, 1997).",
+        "sourceLabel": "Proballers — Jackie Young (born September 16, 1997)",
+        "sourceUrl": "https://www.proballers.com/basketball/player/184773/young-jackie",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career — 2019 first overall pick, 2022 Most Improved Player, 3x WNBA champion with Las Vegas Aces, 2x Olympic gold (proballers/wnba.miraheze).",
+        "sourceLabel": "WNBA Wiki (Miraheze) — Jackie Young (2019 1st overall; Olympic golds)",
+        "sourceUrl": "https://wnba.miraheze.org/wiki/Jackie_Young",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Proballers — Jackie Young (DOB Sep 16, 1997)",
+          "platform": "Website",
+          "url": "https://www.proballers.com/basketball/player/184773/young-jackie",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "WNBA Wiki (Miraheze) — Jackie Young (DOB 1997-09-16; career honors)",
+          "platform": "Website",
+          "url": "https://wnba.miraheze.org/wiki/Jackie_Young",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Jackie Young (DOB 1997-09-16; Notre Dame career)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/jackie_young",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2019 WNBA first overall pick and 2022 Most Improved Player; 2020 Tokyo 3x3 + 2024 Paris 5x5 Olympic golds — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-157",
+      "displayName": "Sabrina Ionescu",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 6, 1997 in Walnut Creek, California — age 28 in 2026 — per basketball-reference structured record (birthDate 1997-12-06) and usbasket (born Dec.6, 1997 in Walnut Creek, CA).",
+        "sourceLabel": "Basketball-Reference — Sabrina Ionescu (born December 6, 1997)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/i/ionessa01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career — New York Liberty guard, 2024 WNBA champion, four-time All-Star (basketball-reference honors list; Oregon Ducks women's record).",
+        "sourceLabel": "Basketball-Reference — Sabrina Ionescu (2024 WNBA Champ, 4x All Star)",
+        "sourceUrl": "https://www.basketball-reference.com/wnba/players/i/ionessa01w.html",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Basketball-Reference — Sabrina Ionescu (DOB 1997-12-06; Instagram: sabrina_i)",
+          "platform": "Website",
+          "url": "https://www.basketball-reference.com/wnba/players/i/ionessa01w.html",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "USbasket — Sabrina Ionescu profile (born Dec.6, 1997)",
+          "platform": "Website",
+          "url": "https://basketball.usbasket.com/player/Sabrina-Ionescu/297966",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @sabrina_i (basketball-reference displayed handle)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sabrina_i/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2020 first overall pick, 2024 WNBA champion and NCAA all-time triple-double leader (Oregon) — objective athlete category. IG handle via basketball-reference; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sabrina_i",
+          "profileUrl": "https://www.instagram.com/sabrina_i/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via basketball-reference player page; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-158",
+      "displayName": "Jewell Loyd",
+      "categories": [
+        "Athlete",
+        "Basketball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 5, 1993 in Lincolnwood, Illinois — age 32 in 2026 — per eurobasket player profile (born October 5 1993), usbasket (Born: Oct.5, 1993), Wikiwand/Wikipedia (born October 5, 1993).",
+        "sourceLabel": "Eurobasket — Jewell Loyd player profile (born October 5, 1993)",
+        "sourceUrl": "https://basketball.eurobasket.com/player/Jewell-Loyd/WNBA/Seattle-Storm/203237",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via WNBA women's basketball career — 2015 Rookie of the Year, 2x WNBA champion, 2x Olympic gold medalist (thendalliance.org ambassador bio; Wikipedia).",
+        "sourceLabel": "ND Alliance — Jewell Loyd ambassador bio (WNBA/Olympic honors)",
+        "sourceUrl": "https://thendalliance.org/celebrity-ambassador/jewell-loyd/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Eurobasket — Jewell Loyd (DOB Oct 5, 1993)",
+          "platform": "Website",
+          "url": "https://basketball.eurobasket.com/player/Jewell-Loyd/WNBA/Seattle-Storm/203237",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Jewell Loyd (DOB 1993-10-05; career medal record)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jewell_Loyd",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "ND Alliance — Jewell Loyd ambassador bio (2x Olympic gold; 2x WNBA champion)",
+          "platform": "Website",
+          "url": "https://thendalliance.org/celebrity-ambassador/jewell-loyd/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2015 WNBA first overall pick and Rookie of the Year; 2x Olympic gold medalist ('Gold Mamba') — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
