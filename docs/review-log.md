@@ -526,3 +526,58 @@ Standing instructions now govern all work **in addition** to the Session 06 meth
 
 
 
+
+---
+
+## Session 12 — Continuation (batches E–P)
+
+Date: 2026-09-05 → 2026-09-06
+Owner request (verbatim): "see if there is a way to speed up the search and verification process, so that tasks can finish faster. work line by line verify everything. no hallucinations." + "keep searching, aim to add 100 new unique profiles, and keep searching." (×5). Interpretation (documented in batches A–D section): raise verified-only throughput via protocol-compliant speedups; aim up to ~400 new unique verified profiles across continuing waves; quality bar unchanged.
+
+### Speedups in effect (all within existing protocol)
+1. `scripts/validate_catalog.py` reusable validator run before every catalog commit.
+2. UNKNOWN follower counts accepted instead of count-chasing rounds (counts never fabricated).
+3. Structured/Tier-1 pages preferred (two independent corroborations per single fetch): volleybox/volleyballworld JSON-LD, members.usagym.org official athlete profiles, players.fcbarcelona.com official club bios, olympics.com/nbcolympics/olympics.com.au structured bios, basketball-reference/WNBA, worldathletics/european-athletics, ussoccer/nwslsoccer, WTA/ITF, lpga/pgofamerica, WWE/UFC official, ESPN/fbref structured records.
+4. Batch-apply scripts with dup-guard (id + displayName + source-URL triple assert) — each script in `scripts/session12_*.py`.
+
+### Batches E–P summary (all VERIFIED adds; each entry carries ≥2 independent evidence URL rows; women 18+ only)
+
+| Batch | IDs | Wave | Adds |
+|---|---|---|---|
+| E | W-2026-139..146 | NWSL/USWNT roster run | 8 |
+| F | W-2026-147..152 | NWSL midfielders/defenders/goalkeepers | 6 |
+| G | W-2026-153..158 | WNBA roster run (basketball-reference pipeline) | 6 |
+| H | W-2026-159..164 | Track & field (World Athletics/European Athletics official profiles) | 6 |
+| I | W-2026-165..168 | LPGA women's golf (lpga.com official + Olympics) | 4 |
+| J | W-2026-169..172 | USWNT legacy tier (ussoccer.com official) | 4 |
+| K | W-2026-173..176 | WWE champions wave 2 (wwe.com official) — Bayley dup-caught pre-commit | 4 |
+| L | W-2026-177..180 | US volleyball (volleybox/volleyballworld structured) — Kelsey Robinson Cook dup-caught pre-commit | 4 |
+| M | W-2026-181..184 | WTA tennis (ESPN/WTA/club pages; Pegula IG @jpegula UNKNOWN) | 4 |
+| N | W-2026-185..186 | Women's swimming (olympics.com.au + nbcolympics official; Titmus IG @ariarnetitmus_ UNKNOWN) — Kate Douglass + Gretchen Walsh dup-caught (pre-existing batch C) | 2 |
+| O | W-2026-187..188 | US gymnastics (members.usagym.org official bio w/ self-registered socials; Konnor McClain X @_KonnorMcClain 1,786 exact live count; Shilese Jones IG count kept in notes only — famousbirthdays shows count but no handle) — Suni Lee dup-caught via URL guard (already W-2026-085) | 2 |
+| P | W-2026-189..190 | Women's football (players.fcbarcelona.com OFFICIAL club bios; Bonmatí 3x Ballon d'Or, Graham Hansen 4x UWCL) | 2 |
+
+**Total this continuation: +52 (139 → 190 VERIFIED).** Session 12 cumulative: +94 vs pre-session baseline 96. Overall goal ~400 new; current pace recorded honestly — no quota pressure per standing rule #9.
+
+### Dup-guard catches during E–P (excluded before commit — zero duplicates shipped)
+
+1. Kelsey Robinson Cook (batch L script) — already catalog batch A.
+2. Kate Douglass, Gretchen Walsh (batch N) — pre-existing Session 11 batch 2.
+3. Sunisa "Suni" Lee (batch O) — existing W-2026-085 found by URL guard (displayName escaped-quote form had defeated plain grep — alias-form probing rule in protocol proven again).
+4. (Session total: 9 across A–P; see batch B entry for first 5.)
+
+### Incidents & corrections during E–P
+- None in final shipped state. Preview-risk event: none.
+- Wal-Mart none. Walsh DOB minor conflict recorded: fan site says Jan 16 2003 vs Jan 29 majority (NBC official + Wikipedia + famousbirthdays) — recorded with CONFLICTING_INFORMATION flag in W-2026-... wait — Walsh was dup-dropped (pre-existing), so the flag rides on the pre-existing entry from Session 11 (unchanged). McIntosh: year-of-birth-tier official + day-tier secondary sources agree on 2006-08-18.
+
+### Follower counts added (E–P; only where captured from reliable display)
+- Konnor McClain X @_KonnorMcClain — 1,786 exact (live profile display, 2026-09-06); USAG bio variant handle @Konnormcclain_ noted.
+- All other E–P accounts: FOLLOWER_COUNT_UNKNOWN (per accepted speedup #2).
+- Shilese Jones: famousbirthdays "over 110,000 on Instagram" — handle not displayed → captured in notes only, range stays UNKNOWN (Manuel precedent).
+
+### Cumulative state as of 2026-09-06
+- VERIFIED entries: **190** (metadata.entryCount=database rows=audit rows, consistent).
+- reviewQueue: 4 (unchanged during E–P).
+- IRR: 15 (unchanged during E–P) — last id IRR-2026-09-06-015; next free IRR-2026-09-06-016.
+- Validator: run before each of the 12 commits E–P; zero failures shipped.
+- Git: each batch committed + pushed to `arena/01a07456-projx` individually; docs synced in this commit.
