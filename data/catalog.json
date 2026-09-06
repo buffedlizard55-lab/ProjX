@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 276,
+    "entryCount": 278,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18997,6 +18997,162 @@
       "flags": [],
       "notes": "All-American opposite from Tennessee's 2016-19 class — one of seven former Lady Vols in pro leagues; playing in the first-ever League One Volleyball match for LOVB Atlanta — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-277",
+      "displayName": "Tainara Santos",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 9, 2000 in Jandira, São Paulo, Brazil — age 26 in 2026 — per Wikipedia (Tainara Lemes Santos Figueiredo, born 9 March 2000), pt.wikipedia (9 de março de 2000 em Jandira), Kiddle (born March 9, 2000) and the worldofvolley profile (Date of birth 09.03.2000).",
+        "sourceLabel": "Wikipedia — Tainara Santos (born 9 March 2000)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tainara_Santos",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Brazil women's national volleyball team career — Paris 2024 Olympic BRONZE medalist (Wikipedia: 'represented Brazil at the 2024 Summer Olympics and won a bronze medal in the women's tournament'); 'voleibolista indoor brasileira' (pt.wiki).",
+        "sourceLabel": "Wikipedia — Tainara Santos (Paris 2024 Olympic bronze)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tainara_Santos",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Tainara Santos (DOB 2000-03-09; Paris 2024 bronze)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Tainara_Santos",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Portuguese Wikipedia — Tainara Lemes Santos (9 de março de 2000, Jandira)",
+          "platform": "Website",
+          "url": "https://pt.wikipedia.org/wiki/Tainara_Lemes_Santos",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "World of Volley — Tainara Lemes Santos profile (DOB 09.03.2000)",
+          "platform": "Website",
+          "url": "https://profiles.worldofvolley.com/wov-community/players/140191/tainara-lemes-santos.html?tab=statistics",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Brazilian opposite for Sesc/Flamengo — Paris 2024 Olympic bronze medalist; turned pro at 17 with Barueri and earned VNL silver on her 2019 senior debut — objective athlete category; verified 26 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-278",
+      "displayName": "Júlia Bergmann",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 21, 2001 in Munich, Germany — age 25 in 2026 — per Wikipedia (Júlia Isabelle Bergmann, born February 21, 2001, Munich), Kiddle (born on February 21, 2001) and the volleybox structured profile (birthDate 2001-02-21, München).",
+        "sourceLabel": "Wikipedia — Júlia Bergmann (born February 21, 2001)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J%C3%BAlia_Bergmann",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Brazil women's national volleyball team career — Paris 2024 Olympic BRONZE medalist and 2025 World squad (Wikipedia honours); volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Júlia Bergmann (Brazil women NT; 2024 bronze)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/J%C3%BAlia_Bergmann",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Júlia Bergmann (DOB 2001-02-21; Munich-born)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/J%C3%BAlia_Bergmann",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Júlia Bergmann structured profile (birthDate 2001-02-21; sameAs IG/X/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/julia-bergmann-p5568",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @juliabergmann6 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/juliabergmann6/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X/Twitter — @julibergmann6 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/julibergmann6",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @julia.bergmann.790 (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/julia.bergmann.790",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "German-born Brazilian outside hitter (Brazilian mother/German father; fluent in German, Portuguese and English) — Paris 2024 Olympic bronze; Georgia Tech physics student turned pro through Türk Hava Yolları, now Savino Del Bene Scandicci — objective athlete category; verified 25 years old. IG/X/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@juliabergmann6",
+          "profileUrl": "https://www.instagram.com/juliabergmann6/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@julibergmann6",
+          "profileUrl": "https://twitter.com/julibergmann6",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@julia.bergmann.790",
+          "profileUrl": "https://www.facebook.com/julia.bergmann.790",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
