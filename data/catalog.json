@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 222,
+    "entryCount": 224,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -15376,6 +15376,134 @@
           "platform": "Instagram",
           "username": "@marina_lubian",
           "profileUrl": "https://www.instagram.com/marina_lubian",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-223",
+      "displayName": "Gabriela \"Gabi\" Guimarães",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 19, 1994 in Belo Horizonte, Minas Gerais, Brazil — age 32 in 2026 — per Wikipedia (born 19 May 1994), Grokipedia (born on May 19, 1994 in Belo Horizonte), Kiddle replication (born on May 19, 1994) and volleybox profile (born in Belo Horizonte, May 19, 1994).",
+        "sourceLabel": "Wikipedia — Gabriela Guimarães (born 19 May 1994)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabriela_Guimar%C3%A3es",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Brazil women's national volleyball team career — captain ('captains the Brazil women's national team' per Grokipedia), Olympic silver (Tokyo 2020) and bronze (Paris 2024) medalist (Wikipedia).",
+        "sourceLabel": "Wikipedia — Gabriela Guimarães (Brazil women's NT captain; Olympic medals)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Gabriela_Guimar%C3%A3es",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Gabriela Guimarães (DOB 1994-05-19; Olympic silver+bronze)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Gabriela_Guimar%C3%A3es",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Gabriela Guimarães (born May 19, 1994; Imoco Conegliano)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Gabriela_Guimar%C3%A3es",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Kiddle — Gabriela Guimarães (born May 19, 1994; Belo Horizonte)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Gabriela_Guimar%C3%A3es",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Captain of the Brazil women's national team — Olympic silver (Tokyo 2020) and bronze (Paris 2024) medalist; club star for Imoco Volley Conegliano, ex-VakıfBank (2x CEV Champions League) — objective athlete category; verified 32 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-224",
+      "displayName": "Ana Cristina Souza",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 7, 2004 in Rio de Janeiro, Brazil — age 22 in 2026 — per the Olympedia athlete record (Born: 7 April 2004 in Rio de Janeiro; full name Ana Cristina Menezes Oliveira de Souza), volleybox structured record (birthDate 2004-04-07), jornaldovolei.com.br (Nascimento: 07/04/04) and globalsportsarchive (Age 22).",
+        "sourceLabel": "Olympedia — Ana Cristina Souza record (Born 7 April 2004; Sex Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/141183",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Olympedia athlete record ('Sex: Female') and volleybox structured record ('gender: Female') — Brazil women's national team outside hitter, Tokyo 2020 Olympic silver medalist (Olympedia).",
+        "sourceLabel": "Olympedia — Ana Cristina Souza record (Olympic silver, Tokyo 2020)",
+        "sourceUrl": "https://www.olympedia.org/athletes/141183",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Ana Cristina Souza (Born 7 April 2004; Sex Female; OG silver)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/141183",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "volleybox — Ana Cristina Souza (birthDate 2004-04-07; gender Female; Fenerbahçe; sameAs IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/ana-cristina-souza-p12430",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Jornal do Volei — Ana Cristina Souza player profile (Nascimento 07/04/04)",
+          "platform": "Website",
+          "url": "https://jornaldovolei.com.br/jogadores/ana-cristina-souza/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @ana.cristina.desouza (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/ana.cristina.desouza/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Tokyo 2020 Olympic silver medalist with Brazil at 17 and rising star at Fenerbahçe Istanbul (Turkey) — objective athlete category; verified 22 years old. Nickname 'Aninha'. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@ana.cristina.desouza",
+          "profileUrl": "https://www.instagram.com/ana.cristina.desouza/",
           "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
           "followerCountNumeric": null,
           "countType": "unknown",
