@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 280,
+    "entryCount": 282,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19310,6 +19310,116 @@
           "sourceNote": "Handle via volleybox structured sameAs; count not captured."
         }
       ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-281",
+      "displayName": "Indy Baijens",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 4, 2001 in Zaandam, Netherlands — age 24-25 in 2026 — per the OFFICIAL volleyballworld/FIVB World Championship 2025 registry (Birth date 04/02/2001 = 4 February 2001 DD/MM, Age 24), CEV EuroVolley official page (Born 2001, Zaandam) and worldofvolley profile (Date of birth 04.02.2001).",
+        "sourceLabel": "Volleyball World — official Baijens registry (Birth date 04/02/2001, WCH 2025)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/168148",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Netherlands women's national volleyball team career — 2025 FIVB World Championship squad middle blocker per the official FIVB women's registry and CEV EuroVolley official roster.",
+        "sourceLabel": "CEV EuroVolley — official Netherlands roster (Baijens, middle blocker)",
+        "sourceUrl": "https://eurovolley.cev.eu/team/11847-the-netherlands/player/67713-baijens-indy",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Baijens registry (Birth date 04/02/2001)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/women-world-championship/players/168148",
+          "relationship": "official"
+        },
+        {
+          "label": "CEV EuroVolley — official Netherlands roster (born 2001, Zaandam)",
+          "platform": "Website",
+          "url": "https://eurovolley.cev.eu/team/11847-the-netherlands/player/67713-baijens-indy",
+          "relationship": "official"
+        },
+        {
+          "label": "World of Volley — Indy Baijens profile (DOB 04.02.2001; gender Female)",
+          "platform": "Website",
+          "url": "https://profiles.worldofvolley.com/wov-community/players/128597.html",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dutch national-team middle blocker (1.93 m) — 2025 FIVB World Championship squad member; developed at Zaandam before pro stints in France (Mulhouse) and Italy (Parma/Chieri) — objective athlete category; verified 24 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-282",
+      "displayName": "Silke Van Avermaet",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 2, 1999 in Dendermonde, Belgium — age 26-27 in 2026 — per Wikipedia (born 2 June 1999, Dendermonde), Grokipedia (born on June 2, 1999, in Dendermonde) and LinkFang (born 2 June 1999).",
+        "sourceLabel": "Wikipedia — Silke Van Avermaet (born 2 June 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silke_Van_Avermaet",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Belgium women's national volleyball team career ('part of the Belgium women's national volleyball team'; 2018 FIVB Volleyball Women's Nations League; Wikipedia/Grokipedia).",
+        "sourceLabel": "Wikipedia — Silke Van Avermaet (Belgium women NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Silke_Van_Avermaet",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Silke Van Avermaet (DOB 1999-06-02; Dendermonde)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Silke_Van_Avermaet",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Silke Van Avermaet (born June 2, 1999, Dendermonde)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/silke_van_avermaet",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "LinkFang — Silke Van Avermaet (born 2 June 1999)",
+          "platform": "Website",
+          "url": "https://en.linkfang.org/wiki/Silke_Van_Avermaet",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Belgian middle blocker (1.92 m) from the Topsportschool Vilvoorde pathway — Asterix AVO Beveren and ASPTT Mulhouse before signing with Igor Gorgonzola Novara; Belgium NT member since 2018 — objective athlete category; verified 26 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
