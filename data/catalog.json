@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 164,
+    "entryCount": 168,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -11462,6 +11462,238 @@
       "flags": [],
       "notes": "Eight-time Olympic medalist and most decorated 100m sprinter in history ('Pocket Rocket') — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-165",
+      "displayName": "Lexi Thompson",
+      "categories": [
+        "Athlete",
+        "Golf",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 10, 1995 in Coral Springs, Florida — age 31 in 2026 — per Wikipedia (born February 10, 1995) with Golf Digest corroboration ('the 31-year-old LPGA Tour star', August 2026).",
+        "sourceLabel": "Wikipedia — Lexi Thompson (born February 10, 1995)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lexi_Thompson",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LPGA women's golf career — 11 LPGA wins, 2014 Kraft Nabisco major, seven Solheim Cups for the US women's team (Wikipedia).",
+        "sourceLabel": "Wikipedia — Lexi Thompson (LPGA women's career)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lexi_Thompson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Lexi Thompson (DOB 1995-02-10; LPGA career)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lexi_Thompson",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Golf Digest — Lexi Thompson pregnancy announcement ('the 31-year-old LPGA Tour star', Aug 2026)",
+          "platform": "Website",
+          "url": "https://www.golfdigest.com/story/lexi-thompson-announces-pregnancy-lpga-star",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2014 major champion and seven-time US Solheim Cup player — objective athlete category. Announcement coverage corroborates age. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-166",
+      "displayName": "Lydia Ko",
+      "categories": [
+        "Athlete",
+        "Golf",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 24, 1997 in Seoul, South Korea — age 29 in 2026 — per her official website (Birthdate: April 24, 1997), Wikipedia (born 24 April 1997) and Kiddle replication.",
+        "sourceLabel": "lydiako.co.nz — official personal website (Birthdate: April 24, 1997)",
+        "sourceUrl": "https://www.lydiako.co.nz/profile/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LPGA women's golf career — LPGA Hall of Fame member, Paris 2024 Olympic women's golf champion, 'world's number one female golfer' (official site/Wikipedia).",
+        "sourceLabel": "lydiako.co.nz — official website (women's golf titles record)",
+        "sourceUrl": "https://www.lydiako.co.nz/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "lydiako.co.nz — official profile (Birthdate April 24, 1997)",
+          "platform": "Website",
+          "url": "https://www.lydiako.co.nz/profile/",
+          "relationship": "official"
+        },
+        {
+          "label": "lydiako.co.nz — official bio page ('READY TO TAKE ON THE WORLD'; birthdate)",
+          "platform": "Website",
+          "url": "https://www.lydiako.co.nz/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Lydia Ko (DOB 1997-04-24; LPGA Hall of Fame)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lydia_Ko",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "LPGA Hall of Fame member, three Olympic medals (gold 2024) and youngest-ever World No.1 (male or female) — objective athlete category. Age evidence from her own official website. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-167",
+      "displayName": "Jeeno Thitikul",
+      "categories": [
+        "Athlete",
+        "Golf",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 20, 2003 in Ban Pong, Ratchaburi, Thailand — age 23 in 2026 — per AIG Women's Open official player page (structured birthDate 2003-02-20), golfnewsnation structured record, Wikipedia (born 20 February 2003) and madknows (February 20, 2003).",
+        "sourceLabel": "AIG Women's Open — Jeeno Thitikul official player page (birthDate 2003-02-20)",
+        "sourceUrl": "https://www.aigwomensopen.com/players/jeeno-thitikul",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LPGA women's golf career — Women's World Golf Rankings No. 1, LPGA money-list leader 2025 (Wikipedia/AIG Women's Open player page).",
+        "sourceLabel": "Wikipedia — Jeeno Thitikul (women's world No. 1 record)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jeeno_Thitikul",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "AIG Women's Open — Jeeno Thitikul player page (birthDate 2003-02-20)",
+          "platform": "Website",
+          "url": "https://www.aigwomensopen.com/players/jeeno-thitikul",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Jeeno Thitikul (DOB 2003-02-20; world No. 1 record)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Jeeno_Thitikul",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Golf News Nation — Jeeno Thitikul (DOB February 20, 2003)",
+          "platform": "Website",
+          "url": "https://golfnewsnation.com/players/jeeno-thitikul-185",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Women's World No. 1, 2022 LPGA Rookie of the Year and youngest-ever professional tournament winner (14) — objective athlete category; verified 23 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-168",
+      "displayName": "Lilia Vu",
+      "categories": [
+        "Athlete",
+        "Golf",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 14, 1997 in Fountain Valley, California — age 28 in 2026 — per AIG Women's Open official player page (structured birthDate 1997-10-14), Wikipedia (born October 14, 1997), sportskeeda (October 14, 1997) and surprisesports biography table.",
+        "sourceLabel": "AIG Women's Open — Lilia Vu official player page (birthDate 1997-10-14)",
+        "sourceUrl": "https://www.aigwomensopen.com/players/lilia-vu",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via LPGA women's golf career — two-time major champion (2023 Chevron, 2023 Women's British Open), 2023 LPGA Player of the Year (Wikipedia/AIG Women's Open).",
+        "sourceLabel": "Wikipedia — Lilia Vu (2x major champion; LPGA Player of the Year 2023)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lilia_Vu",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "AIG Women's Open — Lilia Vu official player page (birthDate 1997-10-14)",
+          "platform": "Website",
+          "url": "https://www.aigwomensopen.com/players/lilia-vu",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Lilia Vu (DOB 1997-10-14; 2x major champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Lilia_Vu",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Surprise Sports — Lilia Vu biography (DOB October 14, 1997; Instagram @liliavu)",
+          "platform": "Website",
+          "url": "https://surprisesports.com/athletes-biography/lilia-vu-golfer-net-worth/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @liliavu (surprisesports biography table)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/liliavu/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time major champion and 2023 LPGA Rolex Player of the Year (UCLA record 8 wins) — objective athlete category. IG handle via surprisesports bio; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@liliavu",
+          "profileUrl": "https://www.instagram.com/liliavu/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via surprisesports.com biography table; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
