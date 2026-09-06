@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 274,
+    "entryCount": 276,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -18834,6 +18834,168 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Dutch national-team middle blocker and Paris 2024 Olympian — developed through Papendal and Coolen Alterno, then USC Münster and Casalmaggiore — objective athlete category; verified 29 years old. (Full name Juliet Geke Heleen Lohuis.) No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-275",
+      "displayName": "Marlie Monserez",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 23, 1999 in Windermere, Florida — age 26 in 2026 — per the OFFICIAL Pro Volleyball Federation / provolleyball.com player card ('Date of Birth: November 23, 1999'), the volleybox structured profile (birthDate 1999-11-23) and UCLA Athletics official roster (full name Marlie Patricia Monserez).",
+        "sourceLabel": "Pro Volleyball Federation — official Marlie Monserez card (DOB November 23, 1999)",
+        "sourceUrl": "https://provolleyball.com/teams/san-diego-mojo/roster/2026-san-diego-mojo-roster/players/marlie-monserez",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + pro women's volleyball career — two-time AVCA All-American setter at the University of Florida + UCLA Bruins beach program (official uclabruins.com + PVF pages); volleybox structured 'gender: Female'.",
+        "sourceLabel": "UCLA Athletics — official 2023 beach roster (Marlie Monserez)",
+        "sourceUrl": "https://uclabruins.com/sports/womens-beach-volleyball/roster/marlie-monserez/11590",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "PVF — official Marlie Monserez player card (DOB November 23, 1999)",
+          "platform": "Website",
+          "url": "https://provolleyball.com/teams/san-diego-mojo/roster/2026-san-diego-mojo-roster/players/marlie-monserez",
+          "relationship": "official"
+        },
+        {
+          "label": "UCLA Athletics — official roster (beach volleyball women)",
+          "platform": "Website",
+          "url": "https://uclabruins.com/sports/womens-beach-volleyball/roster/marlie-monserez/11590",
+          "relationship": "official"
+        },
+        {
+          "label": "Volleybox — Marlie Monserez structured profile (birthDate 1999-11-23; sameAs IG/X/FB)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/marlie-monserez-p29672",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @marliemonz (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/marliemonz",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X/Twitter — @marliemonz (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/marliemonz?lang=en",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @marlie.monserez (volleybox structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/marlie.monserez",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "All-League PVF setter — back-to-back All-League seasons with Atlanta Vibe, now San Diego Mojo (2026); two-time AVCA All-American (Florida) + UCLA Beach program alum fluent in Spanish — objective athlete category; verified 26 years old. IG/X/FB handles via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@marliemonz",
+          "profileUrl": "https://www.instagram.com/marliemonz",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@marliemonz",
+          "profileUrl": "https://twitter.com/marliemonz?lang=en",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@marlie.monserez",
+          "profileUrl": "https://www.facebook.com/marlie.monserez",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-276",
+      "displayName": "Tessa Grubbs",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 10, 1998 in Tega Cay, South Carolina — age 27-28 in 2026 — per the volleybox structured profile (birthDate 1998-08-10) and provbstats career record ('Born: August 10, 1998 (Age: 27)'), consistent with her 2016-19 Tennessee career per the official utsports.com pro-update.",
+        "sourceLabel": "Volleybox — Tessa Grubbs structured profile (birthDate 1998-08-10; gender Female)",
+        "sourceUrl": "https://women.volleybox.net/tessa-grubbs-p37309",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via NCAA + pro women's volleyball career — four-year outside hitter/opposite for Tennessee women's volleyball and inaugural-season LOVB Atlanta pro (official utsports.com 'Former All-American Tessa Grubbs... first-ever LOVB match').",
+        "sourceLabel": "University of Tennessee Athletics — official pro update (LOVB women; Grubbs)",
+        "sourceUrl": "https://utsports.com/news/2025/1/8/volleyball-vb-pro-update-lvfl-grubbs-to-play-in-first-ever-lovb-match",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleybox — Tessa Grubbs structured profile (birthDate 1998-08-10; gender Female)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/tessa-grubbs-p37309",
+          "relationship": "reference"
+        },
+        {
+          "label": "ProVBStats — Tessa Grubbs career record (Born August 10, 1998)",
+          "platform": "Website",
+          "url": "https://provbstats.com/players/tessa-grubbs",
+          "relationship": "reference"
+        },
+        {
+          "label": "University of Tennessee Athletics — official LOVB pro update (women)",
+          "platform": "Website",
+          "url": "https://utsports.com/news/2025/1/8/volleyball-vb-pro-update-lvfl-grubbs-to-play-in-first-ever-lovb-match",
+          "relationship": "official"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "All-American opposite from Tennessee's 2016-19 class — one of seven former Lady Vols in pro leagues; playing in the first-ever League One Volleyball match for LOVB Atlanta — objective athlete category; verified 27 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
