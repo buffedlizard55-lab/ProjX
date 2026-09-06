@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 190,
+    "entryCount": 192,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13173,6 +13173,122 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Seven-time Spanish league champion and 4x UEFA Women's Champions League winner with Barcelona — objective athlete category; verified 31 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-191",
+      "displayName": "Sarah Fillier",
+      "categories": [
+        "Athlete",
+        "Ice Hockey",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 9, 2000 in Georgetown, Ontario, Canada — age 26 in 2026 — per the OFFICIAL PWHL athlete page (Birthdate: 2000-06-09), Wikipedia (born June 9, 2000), Elite Prospects structured record (birthDate 2000-06-09) and hockeydb (Born Jun 9 2000).",
+        "sourceLabel": "PWHL — official Sarah Fillier athlete page (Birthdate: 2000-06-09)",
+        "sourceUrl": "https://www.thepwhl.com/en/olympics/athlete/sarah-fillier",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Canada women's national ice hockey team and PWHL career — 2024 PWHL first-overall draft pick (New York Sirens), Olympic gold medalist (Beijing 2022) with Canada women's hockey per Wikipedia and the official PWHL page.",
+        "sourceLabel": "PWHL — official Sarah Fillier athlete page (Team Canada forward)",
+        "sourceUrl": "https://www.thepwhl.com/en/olympics/athlete/sarah-fillier",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "PWHL — official Sarah Fillier athlete page (Birthdate 2000-06-09; New York Sirens)",
+          "platform": "Website",
+          "url": "https://www.thepwhl.com/en/olympics/athlete/sarah-fillier",
+          "relationship": "official"
+        },
+        {
+          "label": "Elite Prospects — Sarah Fillier (structured birthDate 2000-06-09)",
+          "platform": "Website",
+          "url": "https://www.eliteprospects.com/player/431721/sarah-fillier",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "hockeydb — Sarah Fillier (Born Jun 9 2000)",
+          "platform": "Website",
+          "url": "https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=276083",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Sarah Fillier (born June 9, 2000)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Sarah_Fillier",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Olympic gold medalist (Beijing 2022) and 2024 PWHL first-overall draft pick — objective athlete category; verified 26 years old. Note: a fan blog roster page (pwhl.blog) lists DOB 2000-08-31 — outlier vs official PWHL + Wikipedia + Elite Prospects + hockeydb (all 2000-06-09); official value recorded. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-192",
+      "displayName": "Molly Picklum",
+      "categories": [
+        "Athlete",
+        "Surfing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 26, 2002 in Gosford, New South Wales, Australia — age 23 in 2026 — per Red Bull athlete page structured record (birthDate 2002-11-26), the OFFICIAL World Surf League athlete bio (Age 23, Nov 26, 2002) and Wikipedia (born 26 November 2002).",
+        "sourceLabel": "World Surf League — official Molly Picklum athlete bio (Age 23, Nov 26, 2002)",
+        "sourceUrl": "https://www.worldsurfleague.com/athletes/10979/molly-picklum",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Red Bull structured record ('gender: female') and WSL Women's Championship Tour career — 2025 WSL World Champion ('first Australian woman to claim the world title since 2022') per Red Bull and Wikipedia.",
+        "sourceLabel": "Red Bull — Molly Picklum athlete page (JSON-LD gender female; 2025 world title)",
+        "sourceUrl": "https://www.redbull.com/au-en/athlete/molly-picklum",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "World Surf League — official Molly Picklum athlete bio (Age 23, Nov 26, 2002)",
+          "platform": "Website",
+          "url": "https://www.worldsurfleague.com/athletes/10979/molly-picklum",
+          "relationship": "official"
+        },
+        {
+          "label": "Red Bull — Molly Picklum athlete page (birthDate 2002-11-26; gender female structured)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/au-en/athlete/molly-picklum",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Molly Picklum (born 26 November 2002; 2025 WSL World Champion)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Molly_Picklum",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2025 WSL Women's World Champion — the first Australian woman to win the world title since Stephanie Gilmore in 2022 — objective athlete category; verified 23 years old. No social handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
