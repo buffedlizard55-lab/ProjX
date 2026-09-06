@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 257,
+    "entryCount": 259,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17664,6 +17664,124 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Dutch Beach Pro Tour defender from Breda — 2025 FIVB Beach World Championships entrant (with Wies Bekhuis) and multiple Elite16 events — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-258",
+      "displayName": "Brandie Wilkerson",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 1, 1992 in Lausanne, Switzerland (raised Toronto) — age 33 (34 in July 2026) in 2026 — per the OFFICIAL Volleyball Canada athlete page (Birth date July 01, 1992, age 34), the OFFICIAL AVP pro profile (Birthday July 1, 1992) and Wikipedia (born July 1, 1992).",
+        "sourceLabel": "Volleyball Canada — official Brandie Wilkerson page (Birth date July 01, 1992)",
+        "sourceUrl": "https://volleyball.ca/en/athletes/brandie-wilkerson",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Canadian women's beach volleyball career — Paris 2024 Olympic SILVER medalist (first Canadian team to win Olympic beach medal); represented Canada at Tokyo 2020 (Wikipedia/Kiddle/Grokipedia).",
+        "sourceLabel": "Wikipedia — Brandie Wilkerson (Paris 2024 Olympic silver)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Brandie_Wilkerson",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball Canada — official Brandie Wilkerson page (DOB July 01, 1992)",
+          "platform": "Website",
+          "url": "https://volleyball.ca/en/athletes/brandie-wilkerson",
+          "relationship": "official"
+        },
+        {
+          "label": "AVP — official Brandie Wilkerson pro profile (Birthday July 1, 1992)",
+          "platform": "Website",
+          "url": "https://avp.com/player/brandie-wilkerson/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Brandie Wilkerson (DOB 1992-07-01; Olympic silver 2024)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Brandie_Wilkerson",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympic silver medalist (with Melissa Humaña-Paredes, Canada's best beach result ever) and 2018 World No. 1 + FIVB Best Blocker; York University indoor star turned right-side blocker, first Black Canadian woman in Olympic beach volleyball — objective athlete category; verified 33 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-259",
+      "displayName": "Melissa Humana-Paredes",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 10, 1992 in Toronto, Ontario, Canada — age 33 (34 in Oct 2026) in 2026 — per the OFFICIAL Volleyball Canada athlete page (Birth date October 10, 1992, age 33), the official Team Canada/Olympic.ca page (Born October 10, 1992), the OFFICIAL AVP pro profile (Birthday October 10, 1992) and Wikipedia (born October 10, 1992).",
+        "sourceLabel": "Volleyball Canada — official Melissa Humana-Paredes page (Birth date October 10, 1992)",
+        "sourceUrl": "https://volleyball.ca/en/athletes/melissa-humana-paredes",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Canadian women's beach volleyball career — Paris 2024 Olympic silver medalist; beach WORLD CHAMPION 2019 (with Sarah Pavan) per Olympic.ca/AVP official pages.",
+        "sourceLabel": "Team Canada/Olympic.ca — official Melissa Humana-Paredes page (Beach Volleyball, Paris 2024)",
+        "sourceUrl": "https://olympic.ca/team-canada/melissa-humana-paredes/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball Canada — official Melissa Humana-Paredes page (DOB October 10, 1992)",
+          "platform": "Website",
+          "url": "https://volleyball.ca/en/athletes/melissa-humana-paredes",
+          "relationship": "official"
+        },
+        {
+          "label": "Team Canada/Olympic.ca — official athlete page (Born October 10, 1992)",
+          "platform": "Website",
+          "url": "https://olympic.ca/team-canada/melissa-humana-paredes/",
+          "relationship": "official"
+        },
+        {
+          "label": "AVP — official Melissa Humana-Paredes pro profile (Birthday October 10, 1992)",
+          "platform": "Website",
+          "url": "https://avp.com/player/melissa-humana-paredes/",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Melissa Humaña-Paredes (DOB 1992-10-10; Paris 2024 silver)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Melissa_Humana-Paredes",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2019 FIVB beach volleyball WORLD CHAMPION (with Sarah Pavan) and Paris 2024 Olympic silver medalist (with Brandie Wilkerson) — elite defender, daughter of 1996 Olympic-bronze coach Hernán Humaña; also vlogs on YouTube — objective athlete category; verified 33 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
