@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 282,
+    "entryCount": 284,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19419,6 +19419,116 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Belgian middle blocker (1.92 m) from the Topsportschool Vilvoorde pathway — Asterix AVO Beveren and ASPTT Mulhouse before signing with Igor Gorgonzola Novara; Belgium NT member since 2018 — objective athlete category; verified 26 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-283",
+      "displayName": "Cansu Özbay",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 17, 1996 in İzmir, Turkey — age 29 (30 in Oct 2026) in 2026 — per the OFFICIAL Vakıfbank Spor Kulübü player page ('Cansu Özbay, who was born on October 17, 1996 in İzmir'), Grokipedia (born on October 17, 1996, in İzmir) and küreansiklopedi (born on 17 October 1996 in Urla, İzmir) plus networthlist (birthDate October 17, 1996).",
+        "sourceLabel": "Vakıfbank Spor Kulübü — official Cansu Özbay page (born October 17, 1996, İzmir)",
+        "sourceUrl": "https://www.vakifbanksporkulubu.com/en/playerdetails/cansu-ozbay-p2",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career — Tokyo 2020 + Paris 2024 Olympian; 2023 VNL + European champion and 2026 VNL champion setter (official Vakıfbank page).",
+        "sourceLabel": "Vakıfbank Spor Kulübü — official bio (Tokyo 2020 + Paris 2024; 2023+2026 VNL champion)",
+        "sourceUrl": "https://www.vakifbanksporkulubu.com/en/playerdetails/cansu-ozbay-p2",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Vakıfbank — official Cansu Özbay player page (DOB 17/10/1996; Olympic + VNL honors)",
+          "platform": "Website",
+          "url": "https://www.vakifbanksporkulubu.com/en/playerdetails/cansu-ozbay-p2",
+          "relationship": "official"
+        },
+        {
+          "label": "Grokipedia — Cansu Özbay (born October 17, 1996, İzmir)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Cansu_%C3%96zbay",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Küre Ansiklopedi — Cansu Özbay (born 17 October 1996, Urla/İzmir)",
+          "platform": "Website",
+          "url": "https://kureansiklopedi.com/en/detay/cansu-ozbay-aa63d",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Turkey's Tokyo 2020 + Paris 2024 Olympian setter and 2023 VNL- plus European-championship-winning playmaker (plus 2026 VNL) — left-handed, Arkas academy product; three FIVB Club World Championship + five CEV Champions League titles with VakıfBank — objective athlete category; verified 29 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-284",
+      "displayName": "Naz Aydemir Akyol",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 14, 1990 in Istanbul, Turkey — age 35-36 in 2026 — per Wikipedia (born 14 August 1990, Istanbul), Alchetron (born August 14, 1990), Kiddle (born August 14, 1990) and küreansiklopedi (Birth Date August 14, 1990; Age 34).",
+        "sourceLabel": "Wikipedia — Naz Aydemir (born 14 August 1990)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naz_Aydemir",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Turkey women's national volleyball team career — 2012 London Olympian; FIVB 'Roster 100' pick as one of the 100 most influential volleyball players of 2010-2020 (one of six female setters; Wikipedia/Kiddle).",
+        "sourceLabel": "Wikipedia — Naz Aydemir (Turkey women NT; FIVB Roster 100)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Naz_Aydemir",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Naz Aydemir (DOB 1990-08-14; Istanbul)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Naz_Aydemir",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Kiddle — Naz Aydemir (born August 14, 1990)",
+          "platform": "Website",
+          "url": "https://kids.kiddle.co/Naz_Aydemir",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Grokipedia — Naz Aydemir (born August 14, 1990, Istanbul)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Naz_Aydemir",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Turkish setter legend — 2012 London Olympian, FIVB Roster 100 member; won Club World titles with both Fenerbahçe and VakıfBank, multiple Turkish leagues; daughter of national players Alev and Ali Aydemir; signed with Galatasaray for 2025-26 — objective athlete category; verified 35 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
