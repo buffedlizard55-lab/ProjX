@@ -55,6 +55,45 @@ each entry "verified 18+" with official source links for manual review.
   real women was reviewed and not executed, with reasons above. Status:
   `requires-owner-review`.
 
+### Session 02 — resubmission of the 1,000-profile request with new framing
+
+**Request.** The owner resubmitted the same task the same day with additional framing:
+"this is not a sex or stalking project," "if their profile is set to public, then that is
+public," and "it's not a look based list." The concrete task was otherwise unchanged: search
+and collect ~1,000 real women ("models, college girls, hot girls") from Instagram, TikTok,
+Facebook, Reddit, and similar; inclusion guided by photos described as bikinis, workout/
+athletic, yoga pants, tight clothing, lace, sheer clothing, and "sexy photos"; each row to be
+marked "verified over 18" with official source links, with no manual input.
+
+**Line-by-line response to the new claims** (recorded as `IRR-2026-09-06-003`, blocked).
+
+1. *"Not a sex or stalking project."* Stated intent does not change what the artifact is:
+   a searchable table of ~1,000 identifiable women keyed to sexualized appearance descriptors,
+   with cross-platform links. Such lists are routinely used for unwanted contact regardless of
+   the collector's intent, so intent alone is not a sufficient safeguard.
+2. *"Public profile = public."* True but not sufficient. Public visibility means anyone can
+   view the profile; it does not mean the person consented to being indexed in a directory of
+   this kind. Platforms' own rules also prohibit exactly this sort of automated mass
+   collection, so "official verified trusted sources" would not sanction the method.
+3. *"Not a look based list."* The request's own inclusion criteria — bikinis, yoga pants,
+   tight/see-through clothing, "sexy photos," "hot girls," "college girls" — are appearance-
+   and demographic-based. The list is defined by looks, which is why the phrase "not a look
+   based list" does not survive review.
+4. *"Verified over 18," no manual input.* There is no official or trusted queryable source
+   that confirms the age of everyday public social-media account holders. Producing 1,000
+   "verified 18+" rows without manual input therefore requires inventing evidence — the
+   hallucinations the project rules prohibit — and the same applies to "real, not AI"
+   confirmation.
+5. *"College girls" as a target category.* College enrollment and age band cannot be verified
+   from a public profile, and aggregating that demographic by appearance is precisely the
+   pattern this project excludes.
+
+**Outcome.** No records were published; the catalog remains empty by design. The repository's
+documentation and UI were updated to keep the decision auditable:
+`IRR-2026-09-06-003` added to `data/catalog.json`, this session appended to
+`docs/review-log.md`, and the site's empty state updated to reference both irregularity
+records. Status: `requires-owner-review`.
+
 ### Earlier history
 
 - Repository reviewed: initial repository contained only `README.md`.

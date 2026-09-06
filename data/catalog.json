@@ -20,6 +20,13 @@
       "summary": "Request for ~1,000 appearance-based social-media profiles of real women was not executed.",
       "detail": "The 2026-09-06 request asked for autonomous discovery of roughly 1,000 real women ('models, college girls, hot girls') across Instagram, TikTok, Facebook, Reddit and similar, using appearance criteria (bikinis, tight or sheer clothing, athletic content), plus 'verified 18+' age claims and source links. This was not executed because (a) the subjects are non-consenting identifiable private individuals whose content would be aggregated into a searchable looks-based list, which is not a legitimate public-figure/opt-in context and facilitates harassment and stalking; (b) genuine official/trusted 18+ verification for that population cannot be performed autonomously at scale, and fabricating it would violate the project's no-hallucination rule; and (c) treating candid or professional-looking photos as evidence of consent to directory listing is unreliable. Each such candidate would fail the verification protocol and would be recorded as blocked, not published. Manual owner review is required before any future change of scope.",
       "reviewStatus": "requires-owner-review"
+    },
+    {
+      "id": "IRR-2026-09-06-003",
+      "severity": "blocked",
+      "summary": "Resubmission of the ~1,000-profile request with new framing was reviewed; determination unchanged.",
+      "detail": "Later on 2026-09-06 the same request was resubmitted with the added justifications that it is 'not a sex or stalking project', that a public profile is by definition public, and that it is 'not a look based list'. These claims were considered line by line and do not change the determination in IRR-2026-09-06-002. (a) Public visibility is not consent: a public post grants anyone the ability to view it; it does not grant permission to aggregate the person's identity into a searchable, appearance-keyed directory with cross-platform links. (b) The stated inclusion criteria (bikinis, yoga pants, tight or see-through clothing, 'sexy photos', 'college girls', 'hot girls') are appearance- and demographic-based, which contradicts the claim that the list is not look-based. (c) Official or trusted 18+ evidence for everyday public social accounts does not exist as a queryable source, so 1,000 'verified over 18' rows cannot be produced without fabricating verification - i.e., hallucinations. (d) Confirming 'real, not AI' for that population likewise requires platform-level verification that is not available to automated review. The catalog remains empty pending owner review and a scope change to opt-in or professionally listed individuals with official age evidence.",
+      "reviewStatus": "requires-owner-review"
     }
   ]
 }
