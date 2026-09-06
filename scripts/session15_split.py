@@ -118,6 +118,14 @@ def main():
     print(f"wrote {SOCIAL}")
     print(f"wrote {REFERENCE}")
 
+    # Keep directory/{id}.html in lockstep with the master list.
+    if "--no-directory" not in sys.argv:
+        import subprocess
+
+        cmd = [sys.executable, os.path.join(ROOT, "scripts", "build_directory.py")]
+        subprocess.check_call(cmd)
+        print("rebuilt directory/ from catalogType=social")
+
 
 if __name__ == "__main__":
     main()

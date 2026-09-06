@@ -58,6 +58,59 @@ a {
   transform: translateY(0);
 }
 
+.site-banner {
+  background: linear-gradient(90deg, var(--primary), #0e7490);
+  color: #fff;
+  box-shadow: 0 10px 30px rgba(79, 70, 229, 0.22);
+}
+
+.site-banner-inner {
+  width: min(1180px, calc(100% - 2rem));
+  margin-inline: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.25rem;
+  padding: 0.85rem 0;
+}
+
+.site-banner p {
+  margin: 0;
+  max-width: 720px;
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 650;
+}
+
+.site-banner strong {
+  display: block;
+  font-size: 1.02rem;
+  letter-spacing: -0.02em;
+}
+
+.site-banner .button.banner-cta {
+  background: #fff;
+  color: var(--primary-dark);
+  box-shadow: none;
+  white-space: nowrap;
+}
+
+.site-banner .button.banner-cta:hover,
+.site-banner .button.banner-cta:focus {
+  background: #eef2ff;
+}
+
+.nav-links a.nav-cta {
+  background: var(--primary);
+  color: #fff;
+}
+
+.nav-links a.nav-cta:hover,
+.nav-links a.nav-cta:focus {
+  background: var(--primary-dark);
+  color: #fff;
+}
+
 .site-header,
 main,
 .site-footer {

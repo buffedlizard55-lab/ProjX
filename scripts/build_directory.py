@@ -244,7 +244,7 @@ def render_profile(entry: dict, prev_entry: dict | None, next_entry: dict | None
         </a>
         <div class="nav-links">
           <a href="../index.html">Catalog</a>
-          <a href="./">Profile directory</a>
+          <a class="nav-cta" href="./">Instagram / TikTok directory</a>
           <a href="../reference.html">Reference profiles</a>
         </div>
       </nav>

@@ -1509,3 +1509,32 @@ Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-se
 **Validator.** 1454 entries / 142 review / 24 irregularities / **0 errors**. Follower counts unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN.
 
 **Saturation note.** OFFSET 450 URL is archived but unfetched. Volleyball IG/TikTok structured population remains exhausted. Fashion Wikipedia-or-ref pool is still producing new unique QIDs at OFFSET 400, so it is **not** fully saturated.
+
+---
+
+## Session 20 — Instagram/TikTok directory lockstep + OFFSET 450 (2026-09-06)
+
+**Owner request.** Subpage directory of all Instagram/TikTok Published records (`catalogType=social`), same columns/filters as Catalog; put the directory link at the top of the main site so its location is obvious; when adding to the master list, also add those IG/TikTok profiles to this directory (including any found on previous entries). Continue autonomous line-by-line research. No invented people or counts.
+
+**Site.** Directory CTA is now at the top of the main site: full-width banner, nav `Instagram / TikTok directory`, and hero primary. Same nav-cta on `reference.html`, `directory/index.html`, and generated `directory/W-2026-*.html` profile pages. `scripts/session15_split.py` calls `scripts/build_directory.py` unless `--no-directory`.
+
+**Prior-entry handles.** `scripts/backfill_ig_tt_accounts.py` copied already-stored Instagram/TikTok source URLs into `socialAccounts` for 19 early social rows (W-2026-008/009/015/016/018–029/032–034). Handles taken only from those URLs. Counts recorded as `FOLLOWER_COUNT_UNKNOWN`.
+
+**Wikipedia handle harvest (existing reference rows).** Opened pages; retrieved content had **no** instagram.com / tiktok.com profile URL. Handles were **not** invented; rows stay `catalogType=reference`: Paige Bueckers, Aryna Sabalenka, Liv Morgan, Hilary Knight, Shilese Jones.
+
+**Discovery.** Continued the Session 18/19 P106 sweep at OFFSET 450 (`data/research/urls/s18_prom_off450.url`). Master `data/research/s20_master.tsv` (39 unique QIDs). Builder `scripts/session20_build.py`. Audit `data/research/s20_selected.tsv`.
+
+**Outcome.** **+39 verified (W-2026-1456..1494)**, all Instagram or TikTok so they stay on the Published catalog (**1493 VERIFIED / 1301 social / 192 reference**). Queue unchanged (142). IRR-2026-09-07-025.
+
+**Spot-checks (3/3 exact).**
+| Candidate | Page | Published | Catalog |
+| --- | --- | --- | --- |
+| Deva Cassel | en.wikipedia.org/wiki/Deva_Cassel | Born 12 September 2004 | 2004-09-12 |
+| Tao Tsuchiya | en.wikipedia.org/wiki/Tao_Tsuchiya | Born February 3, 1995 | 1995-02-03 |
+| Becky Armstrong | en.wikipedia.org/wiki/Becky_Armstrong | Born 5 December 2002 | 2002-12-05 |
+
+**Flags / exclusions.** Gwendolyne Fourniol 2000-01-01 → `DOB_JAN1_POSSIBLE_YEAR_PRECISION`. NAME_ALIAS_IN_WIKIPEDIA: Rebecca Patricia Armstrong / Becky Armstrong; Rina Sawayama / Rina Sawayama (model) — not the singer; Kaede / Kaede (dancer); ELLI-ROSE / Elli Rose; Sofía Depassier / Sofia Depassier. Aubri Ibrag P854 `famousbirthdays.com/people/amina-ibrag.html` names a different given name — **not** used as age evidence; English Wikipedia used instead. babesdirectory / listal / pornhub / Playboy-magazine never used as age evidence. fm_off120 Playboy-adjacent pool not auto-promoted. Dana Heath not restored.
+
+**Validator.** 1493 entries / 142 review / 25 irregularities / **0 errors**. Follower counts unobserved — FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN.
+
+**Saturation note.** Influencer OFFSET 40/80 and fm_off160/200 remain unfetched. Promo OFFSET 500+ is the next fashion/fitness slice. Volleyball IG/TikTok structured population remains exhausted.
