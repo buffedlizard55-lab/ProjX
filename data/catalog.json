@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 244,
+    "entryCount": 246,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -16861,6 +16861,153 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Four-time Olympian libero and 2024 Paris Olympic gold medalist + Best Libero — widely regarded as the greatest libero in the sport's history; retired from the Italy national team in 2025, continuing with Imoco Volley Conegliano — objective athlete category; verified 39 years old. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-245",
+      "displayName": "Lucille Gicquel",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 13, 1997 in Rennes, Ille-et-Vilaine, France — age 28 in 2026 — per the OFFICIAL volleyballworld/FIVB registry for Paris 2024 (Birth date 13/11/1997 = 13 November 1997 DD/MM, Age 28), French Wikipedia (née le 13 novembre 1997 à Rennes) and the official equipe-france/CEV profile (structured birthDate 1997-11-13).",
+        "sourceLabel": "Volleyball World — official Gicquel registry (Birth date 13/11/1997, Paris 2024)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/162900",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the official French Olympic-team profile (structured 'gender: Female') and France women's national volleyball team career — Paris 2024 Olympian ('Gicquel Lucille... Olympic Games Paris 2024 - Players').",
+        "sourceLabel": "équipe de France/CEV — official Lucille Gicquel profile (gender Female; birthDate)",
+        "sourceUrl": "https://www.equipe-france.fr/volley-ball/lucille-gicquel",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Gicquel registry (Birth date 13/11/1997)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/players/162900",
+          "relationship": "official"
+        },
+        {
+          "label": "équipe de France/CEV — official profile (birthDate 1997-11-13; gender Female; sameAs IG/FB)",
+          "platform": "Website",
+          "url": "https://www.equipe-france.fr/volley-ball/lucille-gicquel",
+          "relationship": "official"
+        },
+        {
+          "label": "French Wikipedia — Lucille Gicquel (née le 13 novembre 1997, Rennes)",
+          "platform": "Website",
+          "url": "https://fr.wikipedia.org/wiki/Lucille_Gicquel",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @lucillegicquel (official CNOSF profile structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/lucillegicquel/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Facebook — @lucillegicquelofficiel (official CNOSF profile structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/lucillegicquelofficiel/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympian opposite for France — CEV Champions League champion with Imoco Volley Conegliano (2021), currently with Toray Arrows Shiga (Japan) — objective athlete category; verified 28 years old. IG/FB handles via official CNOSF structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@lucillegicquel",
+          "profileUrl": "https://www.instagram.com/lucillegicquel/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via official equipe-france/CEV profile structured sameAs; count not captured."
+        },
+        {
+          "platform": "Facebook",
+          "username": "@lucillegicquelofficiel",
+          "profileUrl": "https://www.facebook.com/lucillegicquelofficiel/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via official equipe-france/CEV profile structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-246",
+      "displayName": "Héléna Cazaute",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 17, 1997 in Narbonne, France — age 28 in 2026 — per the official French Olympic-team profile (Née le 17 décembre 1997 (28 ans), Narbonne), the CEV official transfer article ('Born in France on December 17, 1997'), RMC Sport/CNOSF ('Date de naissance : 17 December 1997') and worldofvolley profile (Date of birth 17.12.1997). NOTE: the official Vakıfbank page states 'Born on November 7, 1997' — outlier vs CNOSF + CEV + RMC; majority official value recorded.",
+        "sourceLabel": "équipe de France — official Héléna Cazaute profile (Née le 17 décembre 1997)",
+        "sourceUrl": "https://www.equipedefrance.com/athlete/helena-cazaute",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via France women's national volleyball team career — official French Olympic-team page ('Volleyball tournoi féminin'); CEV transfer article ('French spiker Helena Cazaute').",
+        "sourceLabel": "CEV — official transfer article (Héléna Cazaute → VakıfBank)",
+        "sourceUrl": "https://www.cev.eu/articles/club-volleyball/helena-cazaute-trades-milano-for-istanbul-with-move-to-vakifbank-orvosova-joins-from-roma/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "équipe de France — official Héléna Cazaute profile (DOB 17/12/1997)",
+          "platform": "Website",
+          "url": "https://www.equipedefrance.com/athlete/helena-cazaute",
+          "relationship": "official"
+        },
+        {
+          "label": "CEV — official transfer article (Born December 17, 1997)",
+          "platform": "Website",
+          "url": "https://www.cev.eu/articles/club-volleyball/helena-cazaute-trades-milano-for-istanbul-with-move-to-vakifbank-orvosova-joins-from-roma/",
+          "relationship": "official"
+        },
+        {
+          "label": "RMC Sport/CNOSF — Héléna Cazaute athlete card (Date de naissance 17 December 1997)",
+          "platform": "Website",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/guide-equipe-de-france/athletes/helena-cazaute",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "MINOR_SOURCE_CONFLICT_NOTED"
+      ],
+      "notes": "French outside hitter ('La Caze') — Ligue A champion+MVP 2021 with Mulhouse, CEV Champions League finalist with Milano 2025, signed by VakıfBank for 2025-26; Paris 2024 squad member — objective athlete category; verified 28 years old. Vakıfbank-page DOB outlier (November 7) noted below majority-official December 17 — flagged. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
