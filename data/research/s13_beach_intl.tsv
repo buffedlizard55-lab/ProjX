@@ -1,0 +1,58 @@
+# Session 13 discovery pool: INTERNATIONAL BEACH VOLLEYBALL players with public social handles.
+# Source: Wikidata SPARQL (female, occupation beach volleyball player Q17361156, DOB >= 1996-01-01 and < 2008-06-01,
+# at least one of P2003 Instagram / P2002 X / P7085 TikTok). Query executed 2026-09-06.
+# Fields: qid|name|dob|instagram|x|tiktok|country
+Q124666645|Yeva Serdiuk|2003-01-01|_evvsa_|-|-|-
+Q139072338|Paulína Košíková|2002-12-04|__kosikova|-|-|Slovakia
+Q109232107|Valentina Gottardi|2002-11-19|valentinagottardi_|-|-|Italy
+Q137576841|Viktoria Dörschug|2002-10-29|vikidrh|-|-|Germany
+Q80587492|María González|2002-05-26|mariagonzalezz._|-|-|United States
+Q106625770|Aliza Baumgart|2002-04-22|_alschi_|-|-|Germany
+Q80585221|Tania Moreno|2002-01-29|t_matveeva2|t_matveeva2|-|Spain
+Q80587490|Allanis Navas|2002-01-04|allanis.navas|allanisnavas4|-|United States
+Q65161736|Daniela Álvarez Mendoza|2001-11-27|danielaxalvarez|-|-|Spain
+Q99510689|Frida Berntsen|2001-10-16|frida_berntsen|-|-|Norway
+Q111460851|Mikala Mogensen|2001-10-03|mikalamogensen|-|-|Denmark
+Q96886055|Rugile Lavickyte|2001-07-10|rugile.lavickyte|-|-|Norway
+Q104836815|Hanna-Marie Schieder|2001-03-21|marieschieder|-|-|Germany
+Q80699175|Nicole Alessandra Nogales|2001-03-08|nicole.nogales|-|-|Bolivia
+Q65162200|Svenja Müller|2001-02-13|svenjamueller01|-|svenjamueller01|Germany
+Q65562249|Emilie Olimstad|2000-12-12|olimstademilie|-|-|Norway
+Q123686053|Clémence Vieira|2000-11-01|clemencevieira|ClemeVieira|-|France
+Q124450005|Giuliana Poletti|2000-09-30|giulipolettic|-|-|-
+Q117747786|Ainė Raupelytė|2000-07-28|aineraupelyte|-|-|Lithuania
+Q56218339|Linda Bock|2000-05-27|lnda_bck|-|-|Germany
+Q98271305|Claudia Scampoli|2000-04-05|claudiascampoli|-|-|Italy
+Q112580517|Leonie Amann|2000-04-02|leonieamann|-|-|Germany
+Q137719782|Josefin Bluhm|2000-03-10|fine.bluhm|-|-|Germany
+Q85871654|Esmée Böbner|1999-11-03|esmeeboebner|-|-|Switzerland
+Q65162179|Sarah Schulz|1999-08-19|sarahh_schulz|-|-|Germany
+Q138455853|Ema Palkovičová|1999-08-16|_emapalko|-|-|Slovakia
+Q67801076|Renate Bjerland|1999-06-11|renatebjerland|-|-|Norway
+Q112970230|Marie-Sára Štochlová|1999-03-11|hvezdazarici|-|-|Czech Republic
+Q113335589|Reka Orsi Toth|1999-02-12|rekaorsitoth|-|-|Italy
+Q105201345|Katja Stam|1998-10-03|katjastam|-|-|Netherlands
+Q139473637|Elísabet Einarsdóttir|1998-09-19|elisabeteinars98|-|-|Iceland
+Q13617306|Michelle Valiente|1998-05-07|miuvaliente|-|-|-
+Q26207577|Nada Meawad|1998-04-12|nadameawad4|-|-|Egypt
+Q85879035|Zoé Vergé-Dépré|1998-02-23|zoe.vergedepre|-|-|Switzerland
+Q47542138|Kertu Laak|1998-02-21|ketshhh|-|-|Estonia
+Q110420339|Lézana Placette|1997-12-11|lezanana|-|-|France
+Q136418733|Sophie Nestler|1997-12-03|sophie.nstlr|-|-|Germany
+Q107113677|Jacqueline Quade|1997-12-01|jacqueline_quade|-|-|United States
+Q26131650|Megan McNamara|1997-08-01|meganmcnamara|-|-|Canada
+Q26131765|Nicole McNamara|1997-08-01|nicolemcnamara|-|-|Canada
+Q35564990|Niina Ahtiainen|1997-04-11|niiinajohanna|-|-|Finland
+Q105296741|Amanda Harnett|1997-03-13|amandaharnett|-|-|Canada
+Q17413110|Sabina Altynbekova|1996-11-05|altynbekova_20|-|-|Kazakhstan
+Q34336795|Erika Mongelos|1996-10-18|erikamongelos|-|-|Paraguay
+Q18697706|Lee Da-yeong|1996-10-15|leeeee_ou|-|-|South Korea
+Q65034789|Selin Yurtsever|1996-08-27|-|selinyurtsever|-|Turkey
+Q110420637|Alexia Richard|1996-04-03|alexia_rchd|-|-|France
+Q110411248|Aline Chamereau|1996-03-06|aline__cham|-|alinechamereau|France
+Q110271542|Nadzeya Stoliar|1996-01-11|nadzeya_stoliar|-|-|Belarus
+# --- already in catalog (DUPLICATE - do not re-add): Raïsa Schoon Q105201948, Tīna Graudiņa Q37816890,
+# --- Anastasija Samoilova Q37818086, Kristen Nuss/Cruz Q113494478, Taryn Kloth Brasher Q113494405,
+# --- Dani Drews Q112718040, Kathryn Plummer Q83546604, Devon Newberry Q99534664, Isabelle Haak Q22338719,
+# --- Héléna Cazaute Q52834371, Michalina Rola Q138989347, Hanna Hellvig Q108324192, Iane Henke Q137901503,
+# --- Michaela Páneková Q139036727, Carly Skjodt Q136303767 (all handled in the NCAA/US-college pool file)

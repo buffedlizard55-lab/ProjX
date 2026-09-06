@@ -1,0 +1,24 @@
+# Session 13 pass 4 — discovery pool E: the "sport recorded, occupation NOT recorded" gap population.
+# Female (Q6581072), date of birth 1998-01-01 .. 2005-12-31 (all 18+ as of 2026-09-06), sport (P641) =
+# volleyball (Q1734) or beach volleyball (Q4543), holding at least one public handle among Instagram (P2003) /
+# X (P2002) / TikTok (P7085), and explicitly FILTER NOT EXISTS on occupation volleyball player (Q15117302) and
+# beach volleyball player (Q17361156) — i.e. exactly the items pools A-D could never return.
+# Query: data/research/urls/poolE_ord0.url (SELECT DISTINCT ... ORDER BY ?qid LIMIT 100 OFFSET 0), executed
+# 2026-09-06; the single returned page held 14 rows (fewer than LIMIT), so the population is exhausted.
+# Transcribed verbatim; only markdown backslash escapes removed (\_ -> _). Multi-value row kept verbatim:
+#   Q29017817 Risa Watanabe - two different Instagram handles (_risawatanabe_ / watanaberisa1st)
+# columns: qid|name|dob|instagram|x|tiktok|country
+Q135182077|Abby Schaefer|2004-01-15|schaef.abby|abbyeschaefer||United States of America
+Q135182727|Izzi Szulczewski|2002-05-29|izzi.szulczewski|izziski||United States
+Q135191426|Andrea Koraca|2002-10-12|andrea_koraca|||Croatia
+Q135192961|Ana Ištuk|2002-07-11|istukicaa10||istukicaa|Croatia
+Q27917939|Miku Nakashima|1998-03-07|miku_nakashima06|||Japan
+Q29017817|Risa Watanabe|1998-07-27|_risawatanabe_|risa_and_staff||Japan
+Q29017817|Risa Watanabe|1998-07-27|watanaberisa1st|risa_and_staff||Japan
+Q43425187|Shiori Aratani|1998-09-22||smile4040a||Japan
+Q43425235|Ai Kurogo|1998-06-14|kurogoo|kuro06141998||Japan
+Q43425243|Erina Ogawa|1998-06-03||eri_ran0603||Japan
+Q50286750|Yuki Hyōdō|1998-10-19||yukipo1019||Japan
+Q54867512|Nao Kosaka|2002-09-07|kosakanatops|kosakanatops||Japan
+Q95560296|Victoria Blair Rhemrev|2003-01-02|victoria.blair.rhemrev|||United States
+Q98480727|Hono Tamura|1998-10-21|tamura.hono.official|honosu1st||Japan

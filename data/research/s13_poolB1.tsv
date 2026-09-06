@@ -1,0 +1,195 @@
+# Session 13 pass 2 — discovery pool B1: female volleyball players (occupation Q15117302), sex female (Q6581072),
+# birth year 1996-1999, with at least one public handle among Instagram (P2003) / X (P2002) / TikTok (P7085).
+# Query archived at data/research/urls/poolB1.url; executed 2026-09-06. Rows transcribed verbatim (markdown
+# backslash escapes removed). Duplicate Q-IDs appear where the item lists two citizenships; the Q58885490 pair
+# carries two DIFFERENT dates of birth (1996-07-09 vs 1996-09-07) and is treated as a conflict, not merged.
+# columns: qid|name|dob|instagram|x|tiktok|country
+Q2944591|Shiamara Almeida|1996-02-19||shiamaraalmeida||Peru
+Q5761041|Hilary Palma|1997-01-05||HilaryP05||Peru
+Q9179115|Brayelin Martínez|1996-09-11|_bem20|||Dominican Republic
+Q13430870|Sarina Koga|1996-05-21|sarina.koga|VSarina11||Japan
+Q15992031|Wiebke Silge|1996-07-16|wiebkesilge|||Germany
+Q16146392|Hande Baladın|1997-09-01|handebaladin|handebaladin||Turkey
+Q16240175|Sasha Meneghel|1998-07-28|sashameneghel||sashameneghel|Brazil
+Q16535532|Cansu Özbay|1996-10-17|ozbaycansu|||Turkey
+Q16548614|Gaila González|1997-06-25|gailaglez_|||Dominican Republic
+Q16563235|Jineiry Martínez|1997-12-03|jineirym21|||Dominican Republic
+Q16576515|Michaela Mlejnková|1996-07-26|misamlejnkova|||Czech Republic
+Q16678123|Su Niziplioğlu|1996-03-25|suzentt|||Turkey
+Q17413110|Sabina Altynbekova|1996-11-05|altynbekova_20|||Kazakhstan
+Q17497098|Anthí Vasilantonáki|1996-04-09|anthivsl|||Greece
+Q18163117|Tijana Bošković|1997-03-08|coti_18|||Serbia
+Q18416033|Alice Degradi|1996-04-10|alice.degradi|||Italy
+Q18605676|Lee Jae-yeong|1996-10-15|leejaeyeong17|||South Korea
+Q18612953|Sophie Dreblow|1998-07-09|sophie_dreblow|||Germany
+Q18697706|Lee Da-yeong|1996-10-15|leeeee_ou|||South Korea
+Q19663637|Julie Rogers|1998-11-02|julieerogerss|JulieeRogerss||United Kingdom
+Q20644904|Britt Bongaerts|1996-11-03|brittbongaerts|||Kingdom of the Netherlands
+Q20853404|Melissa Vargas|1999-10-16|abreusmelisavargas|||Cuba
+Q20961844|Karolina Goliat|1996-10-25|karolinagoliat|||Belgium
+Q20987638|Nicole Oude Luttikhuis|1997-12-26|nicole.oudeluttikhuis|||Kingdom of the Netherlands
+Q21103803|Anna Lazareva|1997-01-31|lazareva97|||Russia
+Q21622971|Dominika Strumilo|1996-12-26|dominikastrumilo|||Belgium
+Q22049086|Paola Egonu|1998-12-18|paolaegonu|||Italy
+Q22069374|Anna Danesi|1996-04-20|annadanesi|||Italy
+Q22069507|Alessia Orro|1998-07-18|alessiaorro8|||Italy
+Q22125184|Airi Miyabe|1998-07-29|airi_miyabe|||Japan
+Q22338719|Isabelle Haak|1999-07-11|isabellehaakofficial|||Sweden
+Q22956861|Vedrana Jakšetić|1996-09-17|vedranajaksetic|||Croatia
+Q22957124|Marie Schölzel|1997-08-01|marie_schoelzel|||Germany
+Q22957207|Celine Van Gestel|1997-11-07|celinevangestel|||Belgium
+Q25826523|Martyna Łukasik|1999-11-26|martynalukasik|||Poland
+Q26207577|Nada Meawad|1998-04-12|nadameawad4|||Egypt
+Q26210988|Nika Daalderop|1998-11-29|nikadaalderop|||Kingdom of the Netherlands
+Q26444255|Gong Xiangyu|1997-04-21|gongxiangyu1997|||People's Republic of China
+Q27000660|Elisa Lohmann|1998-07-22|elisa_lohmann|||Germany
+Q27267670|Carlotta Cambi|1996-05-28|charliecambi|||Italy
+Q27688847|Annegret Hölzig|1997-05-29|annehoelzig|||Germany
+Q27999256|Hanna Klimets|1998-03-04|anna.klimets_11|||Belarus
+Q28062149|Sabrina Krause|1998-12-18|sabrikrause|||Germany
+Q30902725|Natalia Murek|1999-09-08|nmurek|||Poland
+Q31119130|Chara Papadopoulou|1996-12-09|hara__pap|||
+Q35497577|Juliët Lohuis|1996-09-10|julietlohuis|||Kingdom of the Netherlands
+Q37816890|Tīna Graudiņa|1998-03-09|graudinatina|||Latvia
+Q37818086|Anastasija Samoilova|1997-01-19|anastasija.kravcenoka|||Latvia
+Q42147770|Pia Kästner|1998-06-29|pia_kaestner|||Germany
+Q42186690|Marrit Jasper|1996-02-28|marritjasper|||Kingdom of the Netherlands
+Q42190985|Michelle Schwerdtner|1997-02-04|michi.schwerdtner|||Germany
+Q42218334|Rica Maase|1999-11-22|ricamaase|||Germany
+Q44193471|Vanessa Agbortabi|1998-12-04|vanessa.agbortabi|||Germany
+Q46998467|Paula Reinisch|1998-10-07|paula_reinisch|||Germany
+Q47542138|Kertu Laak|1998-02-21|ketshhh|||Estonia
+Q48761958|Mai Irisawa|1999-06-02||mai_121162||Japan
+Q48851405|Maria Stenzel|1998-11-25|_mstenzel|||Poland
+Q48877733|Léa Soldner|1996-02-10|leasoldner|||France
+Q48977782|Zehra Güneş|1999-07-07|zehragunes|guneszehraa||Turkey
+Q49676047|Marlies Janssens|1997-06-04|marliesjanssens|||Belgium
+Q49693626|Jodie Guilliams|1997-04-26|jodieguilliams|||Belgium
+Q52083743|Kotona Hayashi|1999-11-13|nagi_k113|||Japan
+Q52777148|Maja Storck|1998-10-08|mjaaxx|||Switzerland
+Q52834371|Héléna Cazaute|1997-12-17|helenacazaute1|||France
+Q55220989|Taylor Agost|1996-05-31|taylor_agost|||United States
+Q55344692|Lucille Gicquel|1997-11-13|lucillegicquel|||France
+Q55389774|Klaudia Alagierska|1996-01-02|alagierska.klaudia|||Poland
+Q55392938|Olga Strantzali|1996-01-12|olgastrantzali|olgastrantzali||Greece
+Q55727053|Kang So-hwi|1997-07-18|hwihwi_o.o|||South Korea
+Q55728360|Kim Ju-hyang|1999-03-27|wswnfid|||South Korea
+Q55734622|Ji Min-kyung|1998-03-16|zl_minkyeong1|||South Korea
+Q56062470|Nina Stojiljković|1996-09-01|nina.stoj|nina_stoj||France
+Q56062530|Elsa Descamps|1996-09-06|zazou6|elsadescamps||France
+Q58885490|Rhamat Alhassan|1996-07-09|ra_montie|ra_montie||United States
+Q58885490|Rhamat Alhassan|1996-09-07|ra_montie|ra_montie||United States
+Q59100198|Simone Lee|1996-09-07|simone.a.lee|||United States
+Q60841138|Jenna Rosenthal|1996-05-14|jenna.rosenthal|||United States
+Q61719580|Lorenne Geraldo Teixeira|1996-01-08|lorenneteixeira|||Brazil
+Q61745596|Margaux Bouzinac|1996-09-04||margauxbouzinac||France
+Q62039745|Iliana Giannakopoulou|1996-08-31|iliana__giannakopoulou|||Greece
+Q63034806|Jordyn Poulter|1997-07-31|jordyn_poulter|Jordyn_Poulter||United States
+Q64173798|Laura de Zwart|1999-03-19|lauradezwartt|||Kingdom of the Netherlands
+Q64331585|Jeon Sae-yan|1996-11-27|yaaaaaan_|||South Korea
+Q64493581|Jordan Thompson|1997-05-05|jtomm19|jtomm19||United States
+Q64740289|Cindy Marina|1998-07-18|cindymarinaa|||United States
+Q64784047|Ranna Shiraiwa|1996-01-01|raaaaaan.0921|ST6_raaan||Japan
+Q64784049|Hikaru Hoshika|1996-01-01||16hskhkrhikaruu||Japan
+Q64784058|Sayo Masuda|1997-01-01||sayo19971007||Japan
+Q65030881|Natália Araujo|1997-04-10|natharaujo_|||Brazil
+Q65034789|Selin Yurtsever|1996-08-27||selinyurtsever||Turkey
+Q65163214|Juliette Fidon-Lebleu|1996-10-28|juliettefidonlebleu|||France
+Q65165823|Mercedesz Kantor|1998-09-08|mercikantor11|||Italy
+Q65781968|Janset Cemre Erkul|1997-01-12||janseterkul||Turkey
+Q66741693|Emily Maglio|1996-11-13|emilymaglio18|||Canada
+Q66816269|Julie Lengweiler|1998-11-06|julielengweiler|||Switzerland
+Q67080353|Michaela Španková|1999-08-01|michaellapall|||Slovakia
+Q67089016|Skarleta Jančová|1997-01-16|kaja.jancova|||Slovakia
+Q67175191|Sarah Abisourour|1999-05-09|sabisourour|SarahAbisourour||Morocco
+Q67801076|Renate Bjerland|1999-06-11|renatebjerland|||Norway
+Q68021152|Lisanne Meis|1996-12-31|lisanne_me_|||Germany
+Q69550894|Nanami Seki|1999-06-12|nanami_0612|||Japan
+Q78885481|Anna Kalantatze|1997-08-13|annoula_kldz|||Georgia
+Q83546604|Kathryn Plummer|1998-10-16|kathrynplummer|||United States
+Q93753726|Eline Timmerman|1998-12-30|elinetimmerman|||Kingdom of the Netherlands
+Q96079201|Sara Kovac|1997-09-06|sara_kovac|||Canada
+Q96079670|Morgan Hentz|1998-07-27|morganhentz|||United States
+Q96209152|Madeleine Gates|1998-10-30|madeleine.gates|||United States
+Q96337387|Kelsey Veltman|1996-04-02|kelsey_veltman|||Canada
+Q97105403|Claudia Provaroni|1998-05-14|claudiaprovaroni2.0|||Italy
+Q97189709|Yasemin Güveli|1999-01-05|yaseminguvelii|||Turkey
+Q97539264|Mayu Oikawa|1996-06-26|omi.oma0626|Mayu_mrlm||Japan
+Q97901049|Haruka Yamashita|1996-10-14||25ymsthrk||Japan
+Q98082862|Arisa Nagano|1996-09-13||aarin_03k||Japan
+Q98083032|Saki Tanaka|1996-09-21||sm_912310||Japan
+Q98098539|Blake Mohler|1996-12-30|blakemohler|BlakeElizabeth1|blakemohler1|United States
+Q98101160|Nao Horigome|1996-06-26|naostagram0626|nao_horry||Japan
+Q98101190|Mirei Wakita|1996-12-10||reei_30||Japan
+Q98503302|Polina Neykova|1998-10-07|polina__neykova|||Bulgaria
+Q98520060|Ioanna Kasdovasili|1997-05-13|iwannakas|||Greece
+Q98704582|Emily Konstantellou|1997-05-27|emily.kon|||Greece
+Q98758221|Ayaka Sugi|1996-02-14|sugi_ayaka|||Japan
+Q98923948|Marijeta Runjić|1996-04-11|marijetarunjic|||Croatia
+Q100454270|Yuka Onodera|1997-03-22|derayu_322|||Japan
+Q101702270|Kara Bajema|1998-03-24|karabajema|karabajema||United States
+Q104161884|Shelly Fanning|1997-01-08|shellyfanning|s_fanning|shellyfanningg|United States
+Q104386780|Erçe Su Kasapoğlu|1996-06-06|ercesu|ercesu||Turkey
+Q105388956|Darja Eržen|1997-06-20|darjaerzen16|||Slovenia
+Q105395892|Kjersti Norveel|1996-03-15|kjerstinorveel|||Norway
+Q105945293|Leah Edmond|1998-02-13|leahedmond13|leahedmond13||United States
+Q106650672|Lisa Guillermard|1997-04-06|lisschen.g|||Germany
+Q106698088|Maike Henning|1999-06-19|__maikee_|||Germany
+Q106698218|Lena Hoffmann|1997-06-30|lenaahoff|||Germany
+Q106994609|Miku Shimada|1998-10-11|mikurin1|||Japan
+Q107113677|Jacqueline Quade|1997-12-01|jacqueline_quade|||United States
+Q107364434|Layne Van Buskirk|1998-02-19|laynevanbuskirk|laynevb||Canada
+Q109595794|Rimi Kaneda|1998-10-06||kiiin_rimiii||Japan
+Q109596240|Moeka Kinoe|1997-12-24|c.moeka.1224|moeka_1224_2||Japan
+Q110271542|Nadzeya Stoliar|1996-01-11|nadzeya_stoliar|||Belarus
+Q110272575|Anastasiya Shupianiova|1999-01-28|shupe_nyova|||Belarus
+Q110377543|Diana Duarte|1999-02-22|diana_duarte2|||Brazil
+Q111436853|Lisa Jeanpierre|1999-07-28||lisou_jp||France
+Q111584329|Tiffany Clark|1998-02-18|tclarky7|||United States
+Q111648151|Taija Tikka|1998-07-27|titta_18|||Finland
+Q112482208|Roxanne Wiblin|1998-12-18|rooooxie|||United States
+Q112716930|Avery Skinner|1999-04-25|averyskinnerr|||United States
+Q112718040|Dani Drews|1999-01-01|banidrews|||United States
+Q113335589|Reka Orsi Toth|1999-02-12|rekaorsitoth|||Italy
+Q113974075|Monika Chrtianska|1996-01-01|monichristl|||Slovakia
+Q114018805|Alli Linnehan|1999-09-16|allistumler|astumler||United States
+Q114111654|Agostina Pelozo|1999-11-19|agospelozo|agospelozo||Argentina
+Q114606171|Megawati Hangestri Pertiwi|1999-09-20|megawatihangestrip|||Indonesia
+Q114729954|Leketor Member-Meneh|1999-06-01|leketorofficial|||United States
+Q115269749|Hilary Howe|1998-06-16|hilaryjjohnson|||Canada
+Q116965067|Chloé Mayer|1997-07-28|chlomayer|||France
+Q118316200|Mediol Yoku|1999-01-09|mediolstiovanny|||Indonesia
+Q120002714|Josephine Suhr|1997-03-20|_jsuhr|||Germany
+Q120015400|Lena Kindermann|1999-07-27|lena.kindermann|||Germany
+Q120636764|Milica Tasić|1999-12-24|milicatasic12|||
+Q124393465|Ema Magdinová|1999-01-04|emamagdinova|||Slovakia
+Q124556352|Yossiana Coughlin|1999-04-15|yossiana22_|||United States
+Q124695240|Katarína Körmendyová|1999-04-25|k_kormendy|||Slovakia
+Q124735910|Zuzana Šepeľová|1999-11-24|zuzkasepi|||Slovakia
+Q125171642|Giovanna Milana|1998-06-13|gia__day|||United States
+Q125542504|Esmeralda Sánchez|1998-09-01|esmeraldasm21|||Peru
+Q125662671|Marianna Mpelia|1998-10-24|marianna_mpelia|||Greece
+Q126083787|Taylor Mims|1997-08-15|taylormims|||United States
+Q126291879|Shannon Scully|1999-03-03|shaannonscully|||United States
+Q126454821|Esther Spöler|1998-07-12|esther_spoeler|||Germany
+Q126599974|Büşra Güneş|1997-08-08|busrasahin.13|||Turkey
+Q127331487|Ysabella Sánchez|1999-07-02|ysasanchez_|||Peru
+Q130736834|Yina Liu|1997-07-31|yinaliiu|||Germany
+Q131824632|Marlie Monserez|1999-11-23|marliemonz|marliemonz||United States
+Q133273228|Lucia Sedláčková|1999-06-07|cu_ca_12|||Slovakia
+Q135050561|Regan Pittman|1998-03-18|reganpittman|||United States
+Q135917916|Jenny Mosser|1998-10-10|jenny_mosser|||United States
+Q136303767|Carly Skjodt|1997-06-21|carlyskjodt|||United States
+Q136418733|Sophie Nestler|1997-12-03|sophie.nstlr|||Germany
+Q136652722|Meegan Hart|1999-04-13|meegan.hart|||United States
+Q137535060|Zoe Liedtke|1999-05-14|zoe_liee_|||Germany
+Q138411774|Miriama Balberčáková|1997-10-23|miriama_bl|||Slovakia
+Q138426734|Erika Rešutíková|1996-02-06|erareso|||Slovakia
+Q138455853|Ema Palkovičová|1999-08-16|_emapalko|||Slovakia
+Q138527589|Kelsey O'Neill|1996-03-26|kels_oneill|||United States
+Q138982573|Frederika Pažická|1998-03-21|fedullla|||Slovakia
+Q138983508|Haley Templeton|1996-01-02||templetonhaley||United States
+Q139029393|Emma Erteltová|1999-05-31|emmaerteltova|||Slovakia
+Q139177966|Abby Spratt|1998-10-21|abbyspratt_|||Canada
+Q139410612|Lia Mosher|1999-11-19|lia_the_lobster|||United States
+Q139473637|Elísabet Einarsdóttir|1998-09-19|elisabeteinars98|||Iceland

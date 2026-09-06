@@ -1,0 +1,65 @@
+# Session 13 pass 4 — pool G: the review-queue BACKLOG, re-harvested so it can be re-tested against exactly the
+# same evidence standard as the new candidates instead of ageing unexamined.
+# These are the 52 reviewQueue items that carry a Wikidata Q-ID (5 of the 57 queue items carry none — they were
+# found on non-structured sources and cannot be re-tested this way, so they are left untouched).
+# Query: data/research/urls/poolG_ord0.url (SELECT DISTINCT ... ORDER BY ?qid LIMIT 100 OFFSET 0), executed
+# 2026-09-06; the single returned page held 53 rows (fewer than LIMIT) -> complete.
+# Transcribed verbatim; only markdown backslash escapes removed (\_ -> _).
+# Multi-value row kept verbatim and NOT merged:
+#   Q58885490 Rhamat Alhassan - the item records TWO different dates of birth (1996-09-07 and 1996-07-09). This
+#     confirms the existing queue reason AGE_CONFLICTING_VALUES (R-2026-042): neither value is promoted and nothing
+#     is guessed, so this candidate stays queued.
+# columns: qid|name|dob|instagram|x|tiktok|country
+Q100454270|Yuka Onodera|1997-03-22|derayu_322|||Japan
+Q105706337|Lee Hyun|2001-10-04|dl_gus_|||South Korea
+Q106727755|Lina Merz|2005-10-10|linaa.merz|||Germany
+Q106776104|Rebecca Piva|2001-05-01|rebepiva|||Italy
+Q106994609|Miku Shimada|1998-10-11|mikurin1|||Japan
+Q108109787|Kotomi Ōsaki|2000-08-23|k_osk23|||Japan
+Q108110401|Yoshino Nishikawa|2002-09-10|_910ny|||Japan
+Q109596239|Madoka Kashimura|2002-11-06|ksmr.mdk1106|mnynMmE565SNojT||Japan
+Q109596240|Moeka Kinoe|1997-12-24|c.moeka.1224|moeka_1224_2||Japan
+Q113555859|Alexa Hendricks|2001-02-09|achendricks|ahendricks7|achendricks|United States
+Q113566625|Tsugumi Fukazawa|2003-04-17|tsugumi_0417|||Japan
+Q114111654|Agostina Pelozo|1999-11-19|agospelozo|agospelozo||Argentina
+Q116965067|Chloé Mayer|1997-07-28|chlomayer|||France
+Q120636764|Milica Tasić|1999-12-24|milicatasic12|||
+Q125226543|Kyriaki Terzoglou|2003-11-22|kiki_terzoglou|||Greece
+Q126871052|Dana Shawky|2000-10-04|dana_shawky||danashawky6|Egypt
+Q130789151|Cara Lewis|2001-01-07|_cxrx_|||United States
+Q135236362|Laura Gnjatović|2002-02-23|lauragnjatovic|||Croatia
+Q15992031|Wiebke Silge|1996-07-16|wiebkesilge|||Germany
+Q21622971|Dominika Strumilo|1996-12-26|dominikastrumilo|||Belgium
+Q27999256|Hanna Klimets|1998-03-04|anna.klimets_11|||Belarus
+Q30902725|Natalia Murek|1999-09-08|nmurek|||Poland
+Q48761958|Mai Irisawa|1999-06-02||mai_121162||Japan
+Q48877733|Léa Soldner|1996-02-10|leasoldner|||France
+Q49676047|Marlies Janssens|1997-06-04|marliesjanssens|||Belgium
+Q55727053|Kang So-hwi|1997-07-18|hwihwi_o.o|||South Korea
+Q55728360|Kim Ju-hyang|1999-03-27|wswnfid|||South Korea
+Q55734622|Ji Min-kyung|1998-03-16|zl_minkyeong1|||South Korea
+Q57058850|Demi Korevaar|2000-08-09|demikorevaar|||Kingdom of the Netherlands
+Q57087669|Ruth Manuela Marie Bibinbe|2002-04-23|manu_bibinbe_|||Cameroon
+Q58885490|Rhamat Alhassan|1996-09-07|ra_montie|ra_montie||United States
+Q58885490|Rhamat Alhassan|1996-07-09|ra_montie|ra_montie||United States
+Q61667862|Ezgi Kara|2000-12-27|ezgikara99|||Turkey
+Q61745596|Margaux Bouzinac|1996-09-04||margauxbouzinac||France
+Q64784047|Ranna Shiraiwa|1996-01-01|raaaaaan.0921|ST6_raaan||Japan
+Q64784049|Hikaru Hoshika|1996-01-01||16hskhkrhikaruu||Japan
+Q64784058|Sayo Masuda|1997-01-01||sayo19971007||Japan
+Q65165823|Mercedesz Kantor|1998-09-08|mercikantor11|||Italy
+Q67175191|Sarah Abisourour|1999-05-09|sabisourour|SarahAbisourour||Morocco
+Q67179805|Nada Essaiadi|2000-03-03|nadaessaiadi|nadaessaiadi||Morocco
+Q76283273|Aya Hosonuma|2000-05-25|_numa.goro__|aya_jas_73||Japan
+Q76283279|Yūri Umezu|2000-08-23|umeko.823|umekodayooooon||Japan
+Q78885481|Anna Kalantatze|1997-08-13|annoula_kldz|||Georgia
+Q97539264|Mayu Oikawa|1996-06-26|omi.oma0626|Mayu_mrlm||Japan
+Q97901049|Haruka Yamashita|1996-10-14||25ymsthrk||Japan
+Q98082862|Arisa Nagano|1996-09-13||aarin_03k||Japan
+Q98083032|Saki Tanaka|1996-09-21||sm_912310||Japan
+Q98101160|Nao Horigome|1996-06-26|naostagram0626|nao_horry||Japan
+Q98101190|Mirei Wakita|1996-12-10||reei_30||Japan
+Q98520060|Ioanna Kasdovasili|1997-05-13|iwannakas|||Greece
+Q98704582|Emily Konstantellou|1997-05-27|emily.kon|||Greece
+Q98758221|Ayaka Sugi|1996-02-14|sugi_ayaka|||Japan
+Q99485290|Elena Tzaferi|2000-06-17|elenatzaferh|||Greece

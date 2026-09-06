@@ -1,0 +1,133 @@
+# Session 13 pass 3 — discovery pool C: female (Q6581072) volleyball players (P106=Q15117302) OR beach volleyball
+# players (P106=Q17361156), DOB 1990-01-01 .. 2008-09-06 (every candidate 18+ as of 2026-09-06), who are a member of
+# a sports team (P54) whose English label contains "volleyball" where EITHER the team's country is the United States
+# (Q30) OR the player's citizenship is the United States — i.e. the NCAA / US-college population, both disciplines —
+# AND who have at least one public handle among Instagram (P2003), X (P2002), TikTok (P7085).
+# Query (SELECT DISTINCT so each player appears once): data/research/urls/poolC1d.url, executed 2026-09-06.
+# Rows transcribed verbatim from the TSV result (markdown backslash escapes removed); 125 rows returned.
+# Two known quirk pairs are kept verbatim and handled by the generator, not silently merged:
+#   Q58885490 Rhamat Alhassan — the item carries TWO different dates of birth (1996-07-09 / 1996-09-07).
+#   Q115869636 Nathalie Scholz — the item carries TWO different Instagram handles (volley.nat / nathalie.s02).
+# columns: qid|name|dob|instagram|x|tiktok
+Q129156808|Abby Hornacek|1994-04-25|abbyhornacek|abbyhornacek|abbyhornacek_
+Q19577569|Taylor Pischke|1993-04-18|taylor_pischke|taylorpischke|
+Q136303767|Carly Skjodt|1997-06-21|carlyskjodt||
+Q108324192|Hanna Hellvig|2000-02-03|hannahellvig||
+Q3416056|Rachael Adams|1990-06-03|rachaeladams|RADAMSS|
+Q139036727|Michaela Páneková|2003-10-25|_panekova.michaela_||michaela.panekova
+Q17265995|Kelsey Robinson|1992-06-25|krobin32||
+Q137901503|Iane Henke|2002-07-11|ianehenke||ianehenke18
+Q16729605|Jennifer Hamson|1992-01-23||JenHamson|
+Q11796105|Odina Aliyeva|1990-05-22|odina_5_aliyeva||
+Q17280076|TeTori Dixon|1992-08-04||ToriDixon06|
+Q11817026|Pilar Marie Victoria|1995-10-11|pilarvictoria21||
+Q83546604|Kathryn Plummer|1998-10-16|kathrynplummer||
+Q17285056|Molly Kreklow|1992-02-17|mkreklowtaylor||
+Q9200989|Daly Santana|1995-02-19||dsantana_01|
+Q23872232|Andrea Drews|1993-12-25|adrews04||
+Q60841138|Jenna Rosenthal|1996-05-14|jenna.rosenthal||
+Q26262233|Lindsay Dowd|1991-05-14|nodowdaboutit4||
+Q19984711|Haley Eckerman|1992-11-10|haymama10||
+Q18812039|Micha Hancock|1992-11-10|michahancock||
+Q61944285|Brittany Abercrombie|1995-12-28|brittanyabercrombie||
+Q63034806|Jordyn Poulter|1997-07-31|jordyn_poulter|Jordyn_Poulter|
+Q114729954|Leketor Member-Meneh|1999-06-01|leketorofficial||
+Q46998410|Emily Thater|1995-02-01|emilythater|emilythater|
+Q24956528|Megan Courtney|1993-10-27|megcourt17||
+Q64493581|Jordan Thompson|1997-05-05|jtomm19|jtomm19|
+Q66741693|Emily Maglio|1996-11-13|emilymaglio18||
+Q64740289|Cindy Marina|1998-07-18|cindymarinaa||
+Q139410612|Lia Mosher|1999-11-19|lia_the_lobster||
+Q139482752|Lydia Montague|2001-01-31|lyd_montague||
+Q139502705|Virginia Van Der Werff|2005-11-11|v.vanderwerff||
+Q135466601|Taylor Smith|2001-11-14|tayylorhsmith|tayylorhead|
+Q135466615|Bianca Bertolino|2002-07-04|biancabertolino_|BiancaBertolin0|
+Q124637231|Sophia Fallah|2004-11-23|sophiafallah_||
+Q139619655|Lourdès Myers|2002-01-29|lourdesmyerss||
+Q139665331|Averi Carlson|2003-06-14|averi.carlson|carlson_averi|
+Q131543193|Elena Scott|2003-07-01|elenaascott||elenaascott
+Q131551983|Anna DeBeer|2001-09-25|anna.debeer|anna_debeer|anna.debeer
+Q131821875|Kamaile Hiapo|2000-10-05|maimaihiapo|maimaihiapo|maimaihiapo
+Q113532625|Anastasija Ivković|2005-02-03|ivkoviccanastasija||ivkoviccanastasija
+Q139694062|Anita Anwusi|2001-06-11|ninianwusi||
+Q114018805|Alli Linnehan|1999-09-16|allistumler|astumler|
+Q137607535|Eva Hudson|2004-05-18|evahud12||
+Q124556352|Yossiana Coughlin|1999-04-15|yossiana22_||
+Q139666173|Ava Martin|2004-08-25|avajomartin_|avajomartin|
+Q139666200|Raven Colvin|2003-06-24|rae.colvin||
+Q139679776|Phoebe Awoleye|2002-06-16|phoebe.awoleye||
+Q139710478|Emoni Bush|2003-07-04|emonibushh||
+Q136324550|Lydia Martyn|2002-08-19|lydia.martyn||
+Q136303859|Nina Čajić|2001-08-28|cajicc.n||
+Q136304094|Caroline Crawford|2002-03-05|caroline.crawford||
+Q136325284|Isabella Ashburn|2000-11-11|izzyashburn||
+Q55217322|Chiaka Ogbogu|1995-04-15|chiaka11|ChiakaOgbogu|
+Q139710520|Camryn Hannah|2002-02-24|camrynhannah||
+Q139710703|Taylor Landfair|2001-11-12|taylor_landfair49||taylor.landfair
+Q139732064|Karson Bacon|2000-04-10|karson_kanani||
+Q139732120|Kaitlyn Hord|2000-06-14|kait_hord||
+Q135472462|Anna Dixon|2000-08-21|annadixon||
+Q136297535|Azhani Tealer|2001-01-06|azhanitealer||
+Q136298369|Isabel Martin|2000-12-14|isabel_martin||
+Q135472110|Madolyn Isringhausen|2002-08-04|maddieisringhausen||
+Q131824632|Marlie Monserez|1999-11-23|marliemonz|marliemonz|
+Q135234293|Amelia Van Der Werff|2002-03-11|a.vanderwerff|A_vanderwerff|amelia_vanderwerff
+Q106714928|Mira Ledermüller|2004-02-14|miraledermueller||
+Q55220989|Taylor Agost|1996-05-31|taylor_agost||
+Q119570579|Maggie Mendelson|2005-04-22|maggie44mendelson||
+Q88927741|Dana Rettke|1999-01-20|dana_rettke|dana_rettke|
+Q89920715|Jenna Gray|1998-02-28|jmoneyyy222||
+Q118118553|Kateryna Tkachenko|2003-05-03|_tkachenko_kateryna_||
+Q138018834|Romana Redondo Krišková|1993-05-02|romanakriskova||
+Q138527589|Kelsey O'Neill|1996-03-26|kels_oneill||
+Q138865675|Ellie Holzman|2000-12-01|ellieholzman|ellieholzman|ellie_and_lucas
+Q137995531|Harper Murray|2005-02-24|harpermurrayy||
+Q68193497|Karis Watson|1992-12-30|karisw8||
+Q138806691|Bel Zimmerman|2004-06-01|bel.zimmerman||
+Q56044679|Krystal Rivers|1994-05-23|krysdenise||
+Q139085744|Klára Bobáňová|2005-09-06|klarabobanova||
+Q127691921|Anastasija Svetnik|2002-04-12|anastasija_svetnik||
+Q138983508|Haley Templeton|1996-01-02||templetonhaley|
+Q96079670|Morgan Hentz|1998-07-27|morganhentz||
+Q106727755|Lina Merz|2005-10-10|linaa.merz||
+Q135048995|Kacie Evans|2001-02-17|kacieevans_|kacieevans_|
+Q96209152|Madeleine Gates|1998-10-30|madeleine.gates||
+Q124425023|Nina Boledovičová|2004-05-16|nina.boledovic||
+Q98098539|Blake Mohler|1996-12-30|blakemohler|BlakeElizabeth1|blakemohler1
+Q125875368|Caitie Baird|2001-02-01|caitiebaird|caitiebaird_|
+Q125880425|Grace Frohling|2001-04-16|gracefrohling||
+Q130241801|Marta Levinska|2001-09-06|martalevinska||
+Q130241559|Emma Clothier|2001-01-19|emmaclothier|ClothierEmma|
+Q135049370|Chiamaka Nwokolo|2000-11-08|chiamakaaa__|chiamakaaa__|
+Q135050561|Regan Pittman|1998-03-18|reganpittman||
+Q135117255|Emma Grome|2002-09-20|emmagrome|EmmaGrome|
+Q58011215|Naya Crittenden|1995-06-15|nayacrittenden||
+Q84564888|Ainise Havili|1996-04-24|ahavili|ainisehavili|
+Q125420926|Laney Choboy|2005-01-06|laneychoboy||
+Q115788745|Sydney Hilley|1998-07-24|sydneyhilley||sydneyhilley
+Q107364434|Layne Van Buskirk|1998-02-19|laynevanbuskirk|laynevb|
+Q135189451|Aurora Papac|2005-04-27|aurorapapac||
+Q139392885|Zdenka Hvozdová|2004-02-24|zdenkahvozdova_||
+Q105945293|Leah Edmond|1998-02-13|leahedmond13|leahedmond13|
+Q59209361|Haleigh Washington|1995-09-22|hales__storm|Hales__Yeah|
+Q39523235|Justine Wong-Orantes|1995-10-06|jwongorantes||
+Q107510659|Candelaria Herrera|1999-01-28|candeherrera2|candelariah17|candelariaherrer3
+Q140374146|Claire Ammeraal|2004-04-27|claireammeraal||
+Q140374300|Celia Cullen|2002-03-04|celia.cullen||
+Q58885490|Rhamat Alhassan|1996-07-09|ra_montie|ra_montie|
+Q58885490|Rhamat Alhassan|1996-09-07|ra_montie|ra_montie|
+Q104161884|Shelly Fanning|1997-01-08|shellyfanning|s_fanning|shellyfanningg
+Q140372412|Caroline Meuth|2001-01-23|caroline_meuth.16|sweet_carol016|
+Q140372945|Kaylee Cox|2002-11-19|kaylee.cox|kayleecox88|
+Q140374054|Malaya Jones|2002-12-03|malayacarolynn||
+Q101702270|Kara Bajema|1998-03-24|karabajema|karabajema|
+Q115869636|Nathalie Scholz|2002-10-13|volley.nat||
+Q115869636|Nathalie Scholz|2002-10-13|nathalie.s02||
+Q130170463|Athina Dimitriadis|2000-06-23|athi_dimi||athidimi
+Q39523178|Lauren Carlini|1995-02-28|laurencarlini||
+Q65163214|Juliette Fidon-Lebleu|1996-10-28|juliettefidonlebleu||
+Q59215854|Danielle Cuttino|1996-06-22|daniellecuttino||
+Q125882053|Pia Timmer|2001-05-30|piatimmer7777||
+Q135917916|Jenny Mosser|1998-10-10|jenny_mosser||
+Q126487356|Magdaléna Jehlářová|2000-01-16|m_jehlarova||
+Q134742426|Merritt Beason|2003-04-16|merbson|merbson|merbson

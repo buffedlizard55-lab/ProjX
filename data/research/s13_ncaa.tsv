@@ -1,0 +1,78 @@
+# Session 13 discovery pool: NCAA / US college volleyball players with public Instagram handles.
+# Source: Wikidata SPARQL (female, occupation volleyball player, member of sports team in USA with "volleyball" label,
+# DOB >= 1999-01-01 and < 2008-06-01 so every candidate is 18+ as of 2026-09-06, P2003 Instagram handle present).
+# Query executed 2026-09-06. Fields: qid|name|dob|instagram|teams(|-separated)
+Q135189451|Aurora Papac|2005-04-27|aurorapapac|Arizona State Sun Devils women's volleyball|Kansas Jayhawks women's volleyball
+Q130241801|Marta Levinska|2001-09-06|martalevinska|Arizona State Sun Devils women's volleyball
+Q131821875|Kamaile Hiapo|2000-10-05|maimaihiapo|Arizona Wildcats women's volleyball|BYU Cougars women's volleyball
+Q135466601|Taylor Smith|2001-11-14|tayylorhsmith|Arkansas Razorbacks women's volleyball|Florida State Seminoles women's volleyball
+Q138806691|Bel Zimmerman|2004-06-01|bel.zimmerman|Auburn Tigers women's volleyball
+Q139665331|Averi Carlson|2003-06-14|averi.carlson|Baylor Bears women's volleyball|SMU Mustangs women's volleyball|Texas Longhorns women's volleyball
+Q124556352|Yossiana Coughlin|1999-04-15|yossiana22_|Baylor Bears women's volleyball
+Q137901503|Iane Henke|2002-07-11|ianehenke|Cal State Los Angeles Golden Eagles women's beach volleyball|Cal State Los Angeles Golden Eagles women's volleyball|Florida State Seminoles women's beach volleyball|Florida State Seminoles women's volleyball|Grand Rapids Rise
+Q140374146|Claire Ammeraal|2004-04-27|claireammeraal|Central Michigan Chippewas women's volleyball|Iowa Hawkeyes women's volleyball
+Q139710520|Camryn Hannah|2002-02-24|camrynhannah|Clemson Tigers women's volleyball|Penn State Nittany Lions women's volleyball
+Q118118553|Kateryna Tkachenko|2003-05-03|_tkachenko_kateryna_|Clemson Tigers women's volleyball|Oregon State Beavers women's volleyball
+Q106727755|Lina Merz|2005-10-10|linaa.merz|Clemson Tigers women's volleyball|South Carolina Gamecocks women's volleyball
+Q140374054|Malaya Jones|2002-12-03|malayacarolynn|Colorado State Rams women's volleyball|SMU Mustangs women's volleyball|USC Trojans women's volleyball
+Q139666173|Ava Martin|2004-08-25|avajomartin_|Creighton Bluejays women's volleyball
+Q139392885|Zdenka Hvozdová|2004-02-24|zdenkahvozdova_|Dodge City Conquistadors women's volleyball
+Q130170463|Athina Dimitriadis|2000-06-23|athi_dimi|FIU Panthers women's beach volleyball|FIU Panthers women's volleyball|Hofstra Pride women's volleyball|New Mexico Lobos women's volleyball
+Q135472462|Anna Dixon|2000-08-21|annadixon|Florida Gators women's volleyball|Kansas State Wildcats women's volleyball|Missouri Tigers women's volleyball
+Q136298369|Isabel Martin|2000-12-14|isabel_martin|Florida Gators women's volleyball|Hillsborough Lady Hawks volleyball|UNLV Rebels women's volleyball
+Q124425023|Nina Boledovičová|2004-05-16|nina.boledovic|Florida SouthWestern Buccaneers women's volleyball|VCU Rams women's volleyball
+Q130241559|Emma Clothier|2001-01-19|emmaclothier|Florida State Seminoles women's volleyball|SMU Mustangs women's volleyball
+Q135048995|Kacie Evans|2001-02-17|kacieevans_|Georgia Bulldogs women's volleyball
+Q139679776|Phoebe Awoleye|2002-06-16|phoebe.awoleye|Georgia Bulldogs women's volleyball|Loyola Marymount Lions women's volleyball|Minnesota Golden Gophers women's volleyball
+Q135466615|Bianca Bertolino|2002-07-04|biancabertolino_|Georgia Tech Yellow Jackets women's volleyball
+Q108324192|Hanna Hellvig|2000-02-03|hannahellvig|Hawaii Rainbow Wahine volleyball
+Q138865675|Ellie Holzman|2000-12-01|ellieholzman|Illinois Fighting Illini women's volleyball
+Q107510659|Candelaria Herrera|1999-01-28|candeherrera2|Iowa State Cyclones women's volleyball
+Q136304094|Caroline Crawford|2002-03-05|caroline.crawford|Kansas Jayhawks women's volleyball|Wisconsin Badgers women's volleyball
+Q114018805|Alli Linnehan|1999-09-16|allistumler|Kentucky Wildcats women's volleyball
+Q136297535|Azhani Tealer|2001-01-06|azhanitealer|Kentucky Wildcats women's volleyball
+Q135117255|Emma Grome|2002-09-20|emmagrome|Kentucky Wildcats women's volleyball
+Q139694062|Anita Anwusi|2001-06-11|ninianwusi|LSU Tigers women's volleyball
+Q136324550|Lydia Martyn|2002-08-19|lydia.martyn|Liberty Lady Flames volleyball|Oklahoma Sooners women's volleyball
+Q131543193|Elena Scott|2003-07-01|elenaascott|Louisville Cardinals women's volleyball
+Q127691921|Anastasija Svetnik|2002-04-12|anastasija_svetnik|Marquette Golden Eagles women's volleyball|Oregon State Beavers women's volleyball
+Q139482752|Lydia Montague|2001-01-31|lyd_montague|Marshall Thundering Herd women's volleyball|Snow Badgers women's volleyball
+Q140374300|Celia Cullen|2002-03-04|celia.cullen|Michigan State Spartans women's volleyball|SMU Mustangs women's volleyball
+Q135234293|Amelia Van Der Werff|2002-03-11|a.vanderwerff|Middle Tennessee Blue Raiders women's volleyball|Utah Utes women's volleyball
+Q139619655|Lourdès Myers|2002-01-29|lourdesmyerss|Minnesota Golden Gophers women's volleyball|Purdue Boilermakers women's volleyball
+Q139710703|Taylor Landfair|2001-11-12|taylor_landfair49|Minnesota Golden Gophers women's volleyball|Nebraska Cornhuskers women's volleyball
+Q140372945|Kaylee Cox|2002-11-19|kaylee.cox|Missouri Tigers women's volleyball|Western Kentucky Lady Toppers volleyball
+Q114729954|Leketor Member-Meneh|1999-06-01|leketorofficial|Missouri Tigers women's volleyball|Pittsburgh Panthers women's volleyball
+Q139036727|Michaela Páneková|2003-10-25|_panekova.michaela_|Morgan State Lady Bears volleyball|Sam Houston Bearkats women's beach volleyball|Sam Houston Bearkats women's volleyball
+Q125420926|Laney Choboy|2005-01-06|laneychoboy|Nebraska Cornhuskers women's volleyball
+Q119570579|Maggie Mendelson|2005-04-22|maggie44mendelson|Nebraska Cornhuskers women's volleyball|Penn State Nittany Lions women's volleyball
+Q139410612|Lia Mosher|1999-11-19|lia_the_lobster|New Mexico State Aggies women's volleyball
+Q140372412|Caroline Meuth|2001-01-23|caroline_meuth.16|Notre Dame Fighting Irish women's volleyball|Texas A&M Aggies women's volleyball
+Q139710478|Emoni Bush|2003-07-04|emonibushh|Oklahoma Sooners women's volleyball|Washington Huskies women's volleyball
+Q139732064|Karson Bacon|2000-04-10|karson_kanani|Oregon Ducks women's volleyball
+Q115869636|Nathalie Scholz|2002-10-13|volley.nat; nathalie.s02|Oregon State Beavers women's volleyball|Saint Leo Lions women's volleyball
+Q139732120|Kaitlyn Hord|2000-06-14|kait_hord|Penn State Nittany Lions women's volleyball
+Q135049370|Chiamaka Nwokolo|2000-11-08|chiamakaaa__|Pittsburgh Panthers women's volleyball
+Q139666200|Raven Colvin|2003-06-24|rae.colvin|Purdue Boilermakers women's volleyball
+Q125880425|Grace Frohling|2001-04-16|gracefrohling|San Diego Toreros women's volleyball
+Q125875368|Caitie Baird|2001-02-01|caitiebaird|Stanford Cardinal women's volleyball
+Q106714928|Mira Ledermüller|2004-02-14|miraledermueller|Syracuse Orange women's volleyball|UT Arlington Mavericks women's volleyball
+Q136303859|Nina Čajić|2001-08-28|cajicc.n|Tennessee Lady Volunteers volleyball|Towson Tigers women's volleyball
+Q135472110|Madolyn Isringhausen|2002-08-04|maddieisringhausen|Tennessee Tech Golden Eagles women's volleyball
+Q139502705|Virginia Van Der Werff|2005-11-11|v.vanderwerff|Texas A&M-Corpus Christi Islanders women's volleyball
+Q113532625|Anastasija Ivkovic|2005-02-03|ivkoviccanastasija|UCLA Bruins women's volleyball
+Q126487356|Magdaléna Jehlářová|2000-01-16|m_jehlarova|Washington State Cougars women's volleyball
+Q125882053|Pia Timmer|2001-05-30|piatimmer7777|Washington State Cougars women's volleyball
+Q139085744|Klára Bobáňová|2005-09-06|klarabobanova|West Alabama Tigers women's volleyball
+Q124637231|Sophia Fallah|2004-11-23|sophiafallah_|West Virginia Mountaineers women's volleyball
+Q136325284|Isabella Ashburn|2000-11-11|izzyashburn|Wisconsin Badgers women's volleyball
+# --- additional US college / US pro-league rows from the beach-volleyball-team query (NQ4) ---
+Q136303767|Carly Skjodt|1997-06-21|carlyskjodt|Michigan Wolverines women's volleyball|Indy Ignite|Orlando Valkyries
+Q138989347|Michalina Rola|2000-02-28|michalina.rola|California Baptist Lancers|Miami Hurricanes|San Francisco Dons
+Q42168695|Annie Cesar|1997-04-26|-|LOVB Nebraska
+Q112177110|Elin Larsson|2003-03-02|-|Portland Pilots women's volleyball
+Q139062819|Nikola Ozaniaková|2002-05-14|-|Miami Dade Sharks women's volleyball
+# --- already in catalog (DUPLICATE - do not re-add) ---
+# Q131824632 Marlie Monserez (W-2026-275) | Q134742426 Merritt Beason | Q137607535 Eva Hudson (W-2026-205)
+# Q131551983 Anna DeBeer (W-2026-208) | Q137995531 Harper Murray (W-2026-202) | Q88927741 Dana Rettke
+# Q83546604 Kathryn Plummer | Q107406911 Ana Cristina de Souza | Q108147302 Martyna Czyrnianska | Q112988491 Ekaterina Antropova
