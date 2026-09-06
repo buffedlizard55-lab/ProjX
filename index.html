@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="Verified adult creator directory workflow with official source links, review flags, and line-by-line verification controls."
+      content="ProjX: a source-backed directory framework for real, adult (18+) public figures and professionals, with official links, line-by-line verification, and review flags."
     />
-    <title>ProjX Verified Directory</title>
+    <title>ProjX — Verified Directory</title>
     <link rel="stylesheet" href="assets/styles.css" />
   </head>
   <body>
@@ -24,32 +24,42 @@
         </a>
         <div class="nav-links">
           <a href="#catalog">Catalog</a>
+          <a href="#eligibility">Eligibility</a>
           <a href="#verification">Verification</a>
+          <a href="#docs">Docs &amp; data</a>
           <a href="#irregularities">Irregularities</a>
-          <a href="docs/verification-protocol.md">Protocol</a>
         </div>
       </nav>
 
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-copy">
-          <p class="eyebrow">Official sources • adult-only verification • manual review links</p>
-          <h1 id="page-title">Clean catalog UI for verified adult creator records.</h1>
+          <p class="eyebrow">Women only • 18+ with official evidence • reviewable source links</p>
+          <h1 id="page-title">Every published record is a real adult woman backed by official links.</h1>
           <p>
-            This site organizes opt-in, professionally listed adult creator records only after every line has
-            verifiable 18+ evidence, official profile links, and review flags for anything ambiguous.
+            ProjX is a static, source-backed directory framework for real, adult (18+)
+            <em>women</em> who are public figures and professionals — working models, athletes,
+            creators, and similar public pages — who appear only with professional/public context
+            and official age-and-identity evidence. Each row is reviewed line by line against its
+            stored source links before it is published. No men, couples, group/org accounts, or
+            gender-ambiguous profiles without reliable evidence are accepted, nothing is
+            inferred from appearance alone, and categories are objective (Model, Fitness,
+            Athlete, Fashion, Lifestyle, Creator…), never attractiveness rankings.
           </p>
           <div class="hero-actions">
             <a class="button primary" href="#catalog">View catalog</a>
-            <a class="button secondary" href="data/catalog.json">Open source data</a>
+            <a class="button secondary" href="docs/review-log.md">Open review log</a>
           </div>
         </div>
         <aside class="policy-card" aria-labelledby="policy-title">
-          <h2 id="policy-title">Guardrails</h2>
+          <h2 id="policy-title">Never published</h2>
           <ul>
-            <li>No non-consensual profiling or appearance-only collection.</li>
-            <li>No AI, deepfake, impersonator, private, or leaked material.</li>
-            <li>No entry without official/trusted age verification.</li>
-            <li>Ambiguous evidence is flagged instead of published.</li>
+            <li>Men, couples, group/org accounts, or gender-ambiguous profiles without reliable public gender evidence.</li>
+            <li>Appearance-only collection of private individuals (e.g., profile sweeps based on looks or clothing).</li>
+            <li>Any record without official or trusted 18+ evidence — age never inferred from “college girl” or looks.</li>
+            <li>AI, synthetic, deepfake, virtual-influencer, impersonator, or repost accounts.</li>
+            <li>Private profiles, leaked or private content, non-consensual reposts, or private contact data.</li>
+            <li>Guessed fields — missing or ambiguous evidence becomes a flagged irregularity (GENDER_UNVERIFIED / AGE_UNVERIFIED / etc.), never a catalog row.</li>
+            <li>Subjective “hot/sexy” ranking — categories are objective (Model, Fitness, Athlete…).</li>
           </ul>
         </aside>
       </section>
@@ -79,7 +89,7 @@
         <div class="panel-heading">
           <div>
             <p class="eyebrow">Catalog</p>
-            <h2 id="catalog-title">Verified records</h2>
+            <h2 id="catalog-title">Published records</h2>
           </div>
           <div class="toolbar" role="group" aria-label="Export actions">
             <button id="download-json" class="button secondary" type="button">Download JSON</button>
@@ -112,7 +122,8 @@
         <div class="table-wrap">
           <table id="catalog-table">
             <caption>
-              Directory entries that passed consent, age, authenticity, and source verification.
+              Directory rows that passed consent or professional-context, age, authenticity, and
+              source verification. Each row lists reviewable official links.
             </caption>
             <thead>
               <tr>
@@ -127,32 +138,157 @@
             </thead>
             <tbody id="catalog-body"></tbody>
           </table>
-          <div id="empty-state" class="empty-state" hidden>
+          <div id="empty-state" class="empty-state">
             <h3>No publishable records yet</h3>
             <p>
-              The catalog is empty until entries meet the opt-in, official-source, real-person, and 18+
-              verification requirements. Use the schema and protocol documents to add compliant records.
+              The table intentionally holds zero rows. Three bulk requests for roughly 1,000
+              women-focused social profiles (Instagram, TikTok, Facebook, Reddit and similar)
+              were made on 2026-09-06 and are logged as blocked irregularities
+              <strong>IRR-2026-09-06-002</strong>, <strong>IRR-2026-09-06-003</strong> and
+              <strong>IRR-2026-09-06-004</strong> (the latest a detailed women-only spec
+              with objective categories and line-by-line checks): at that scale the required
+              18+ verification, gender/identity confirmation from official sources, consent
+              or professional public-figure context, and the no-hallucination rule cannot be
+              truthfully satisfied autonomously, so every such candidate is blocked rather
+              than published. Per the spec’s own “quality over quantity” rule, zero verified
+              rows is the correct result when zero candidates can pass every check.
+            </p>
+            <p>
+              The framework is ready for the compliant path: a small, opt-in or
+              professionally listed directory of <em>adult women only</em> — working models,
+              athletes, creators, public personalities — where each woman is added
+              individually with official, openable evidence for gender, age (18+), identity,
+              and category, per the verification protocol and reviewable source links.
             </p>
           </div>
         </div>
       </section>
 
+      <section id="eligibility" class="panel" aria-labelledby="eligibility-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Eligibility</p>
+            <h2 id="eligibility-title">What a record must prove</h2>
+          </div>
+        </div>
+        <p>
+          These seven conditions apply to every record regardless of platform or category.
+          Meeting all of them is the only way a row enters the table; anything less goes to
+          the irregularities queue. The database is <strong>women-only</strong> and categories
+          are objective.
+        </p>
+        <ol class="checklist">
+          <li>
+            <strong>Woman, with evidence.</strong> The subject is a woman, confirmed from a
+            reliable public source (first-party bio, official site, agency, sports-org bio,
+            reputable interview) — never from appearance, clothing, name, AI analysis, or
+            username alone. Men, couples, group/org accounts, and gender-ambiguous profiles
+            without reliable evidence are excluded.
+          </li>
+          <li>
+            <strong>Real person.</strong> The subject is a real, living individual — not AI,
+            synthetic, a virtual influencer, deepfake, impersonator, or repost account; identity
+            is consistent across official sources.
+          </li>
+          <li>
+            <strong>Adult, with evidence.</strong> 18+ is confirmed from an official or trusted
+            public source with a reviewable URL. Age is never inferred from appearance,
+            “college girl” status, school year, content, or follower counts.
+          </li>
+          <li>
+            <strong>Public or professional context.</strong> The woman operates a clear public
+            figure/professional page (for example working model, athlete, fitness/fashion/
+            lifestyle creator, public personality) in an objective category, or has opted in.
+            Private individuals are never inferred into the table.
+          </li>
+          <li>
+            <strong>Official links &amp; objective category.</strong> Every record stores at least one
+            source URL marked <em>official</em>, <em>verified-platform</em>,
+            <em>agency</em>, <em>press</em>, or <em>age-evidence</em> (Tier-1 prioritized),
+            so a human reviewer can open it directly; category is Model/Fitness/Athlete/
+            Fashion/Lifestyle/Creator/Entertainment/College athlete/Public personality/Other,
+            never “hot/sexy” ranking.
+          </li>
+          <li>
+            <strong>Line-by-line review.</strong> A reviewer, a review date, and notes are
+            recorded, and each factual field (gender, age, identity, profile, category,
+            sources) is supported by the stored sources; duplicate search precedes any add.
+          </li>
+          <li>
+            <strong>No unresolved flags.</strong> Missing, conflicting, or ambiguous evidence
+            produces a flagged irregularity (GENDER_UNVERIFIED, AGE_UNVERIFIED,
+            IDENTITY_UNCERTAIN, POSSIBLE_AI, etc.) — never a guessed value in the table.
+          </li>
+        </ol>
+      </section>
+
       <section id="verification" class="panel split-panel" aria-labelledby="verification-title">
         <div>
-          <p class="eyebrow">Verification</p>
-          <h2 id="verification-title">Line-by-line checks</h2>
+          <p class="eyebrow">Manual review</p>
+          <h2 id="verification-title">How a row is checked</h2>
           <p>
-            Every future row should be independently reviewable from its source links. Records with missing,
-            contradictory, or inferred evidence stay out of the public table and move to the irregularities list.
+            Every candidate row is reviewed against its source links before publication. The
+            current table is empty because no candidate set has satisfied every check — bulk
+            harvesting cannot satisfy checks 2, 3, and 6 above, and fabricating "verification"
+            would violate the project's no-hallucination rule.
+          </p>
+          <p>
+            The full procedure is defined in the
+            <a href="docs/verification-protocol.md">verification protocol</a>; decisions and
+            review notes are tracked in the
+            <a href="docs/review-log.md">review log</a>.
           </p>
         </div>
         <ol class="checklist">
-          <li>Confirm legal adult status with official or trusted public sources.</li>
-          <li>Confirm the profile is controlled by the named person or official representation.</li>
-          <li>Confirm the person is real and not AI-generated, synthetic, or an impersonation.</li>
-          <li>Record source URLs, review date, reviewer notes, and unresolved flags.</li>
-          <li>Publish only records with compliant consent/professional context.</li>
+          <li>Open every stored source URL and confirm it resolves and names the woman.</li>
+          <li>Confirm the account is operated by the named woman or official representation.</li>
+          <li>Confirm gender from the reliable public evidence only (not appearance/clothing/name/AI).</li>
+          <li>Confirm adult status from the official/trusted evidence only (not looks or “college girl”).</li>
+          <li>Confirm authenticity — no AI, synthetic, virtual-influencer, or impersonation signals.</li>
+          <li>Confirm professional/public context or opt-in consent and objective category.</li>
+          <li>De-duplicate by name and all usernames/websites; publish as verified, or record needs-review / blocked with flags.</li>
         </ol>
+      </section>
+
+      <section id="docs" class="panel" aria-labelledby="docs-title">
+        <div class="panel-heading">
+          <div>
+            <p class="eyebrow">Documentation</p>
+            <h2 id="docs-title">Docs &amp; machine-readable data</h2>
+          </div>
+        </div>
+        <div class="doc-grid">
+          <article class="doc-card">
+            <h3>Verification protocol</h3>
+            <p>Required checks, accepted evidence, and review-status guidance for every row.</p>
+            <a class="button secondary" href="docs/verification-protocol.md">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Review log</h3>
+            <p>Session notes, irregularity decisions, and the audit trail behind the catalog.</p>
+            <a class="button secondary" href="docs/review-log.md">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Catalog data</h3>
+            <p>Machine-readable entries and irregularities consumed by this page.</p>
+            <a class="button secondary" href="data/catalog.json">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Data schema</h3>
+            <p>JSON Schema defining every field a published record must carry.</p>
+            <a class="button secondary" href="data/schema.json">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>Source repository</h3>
+            <p>GitHub repository containing the site, data, and full history.</p>
+            <a class="button secondary" href="https://github.com/buffedlizard55-lab/ProjX" rel="noopener noreferrer" target="_blank">Open</a>
+          </article>
+          <article class="doc-card">
+            <h3>This site</h3>
+            <p>Published GitHub Pages URL for the current build.</p>
+            <a class="button secondary" href="https://buffedlizard55-lab.github.io/ProjX/" rel="noopener noreferrer" target="_blank">Open</a>
+          </article>
+        </div>
       </section>
 
       <section id="irregularities" class="panel" aria-labelledby="irregularities-title">
@@ -163,15 +299,20 @@
           </div>
           <a class="button secondary" href="docs/review-log.md">Open review log</a>
         </div>
+        <p>
+          Anything that fails a check — missing evidence, ambiguous identity, unverifiable age,
+          or requests outside scope — is recorded here with a severity and a review status so it
+          can be audited later.
+        </p>
         <div id="irregularity-list" class="irregularity-list"></div>
       </section>
     </main>
 
     <footer class="site-footer">
       <p>
-        Built for transparent source review. Data lives in
-        <a href="data/catalog.json">data/catalog.json</a> and the schema lives in
-        <a href="data/schema.json">data/schema.json</a>.
+        Static GitHub Pages app — no automated scraping or bulk collection is performed. Data
+        lives in <a href="data/catalog.json">data/catalog.json</a>; the schema lives in
+        <a href="data/schema.json">data/schema.json</a>. Last generated 2026-09-06.
       </p>
     </footer>
 
