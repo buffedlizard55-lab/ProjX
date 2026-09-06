@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 194,
+    "entryCount": 196,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13399,6 +13399,151 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Two-time Olympic medalist in women's street skateboarding (Tokyo 2020 silver, Paris 2024 bronze) — objective athlete category; verified 18 years old via published DOB (2008-01-04) plus Britannica's explicit current age. No social handle captured this pass — follower range UNKNOWN; a third-party reports a post-Tokyo follower surge but no verified current count is recorded.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-195",
+      "displayName": "Ilona Maher",
+      "categories": [
+        "Athlete",
+        "Rugby",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 12, 1996 in Burlington, Vermont — age 30 in 2026 — per Wikipedia (born August 12, 1996), The Sun ('She was born on August 12, 1996'), Grokipedia and londonlifemagazine (DOB 1996-08-12).",
+        "sourceLabel": "Wikipedia — Ilona Maher (born August 12, 1996)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ilona_Maher",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via US women's rugby sevens career — team captain and bronze medalist at Paris 2024 ('first Olympic medal in the sport' for the US women's sevens), 2025 Women's Rugby World Cup (Wikipedia/grokipedia).",
+        "sourceLabel": "Wikipedia — Ilona Maher (women's rugby sevens bronze 2024)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ilona_Maher",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Ilona Maher (DOB 1996-08-12; Paris 2024 bronze)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ilona_Maher",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "The Sun — Ilona Maher profile (born August 12, 1996; US women's rugby)",
+          "platform": "Website",
+          "url": "https://www.the-sun.com/sport/12112574/ilona-maher-rugby-usa-olympics-tiktok-instagram-who/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BiographyKind — Ilona Maher (sameAs IG ilonamaher; X ilona_maher)",
+          "platform": "Website",
+          "url": "https://en.biographykind.com/ilona-maher/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @ilonamaher (biographykind structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/ilonamaher/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "X — @ilona_maher (biographykind social table)",
+          "platform": "X",
+          "url": "https://x.com/ilona_maher",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "US women's rugby sevens captain and Paris 2024 bronze medalist; 2025 ESPY Best Breakthrough Athlete — objective athlete category and prolific women's-sports creator. Handles from biographykind structured sameAs/social table; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@ilonamaher",
+          "profileUrl": "https://www.instagram.com/ilonamaher/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via biographykind structured sameAs (instagram.com/ilonamaher); count not captured."
+        },
+        {
+          "platform": "X",
+          "username": "@ilona_maher",
+          "profileUrl": "https://x.com/ilona_maher",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via biographykind social table; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-196",
+      "displayName": "Mikaela Shiffrin",
+      "categories": [
+        "Athlete",
+        "Skiing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 13, 1995 in Vail, Colorado — age 31 in 2026 — per Wikipedia (born March 13, 1995), EBSCO research profile (born on March 13, 1995), POWDER (Date of Birth: March 13th, 1995) and Kiddle replication (age 31).",
+        "sourceLabel": "EBSCO — Mikaela Shiffrin research profile (born March 13, 1995)",
+        "sourceUrl": "https://www.ebsco.com/research-starters/biography/mikaela-shiffrin",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's alpine ski racing career — most World Cup wins of any alpine skier in history (100+), two-time Olympic gold medalist in women's events (Wikipedia/EBSCO).",
+        "sourceLabel": "Wikipedia — Mikaela Shiffrin (110 World Cup wins as of Mar 2026)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mikaela_Shiffrin",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "EBSCO — Mikaela Shiffrin research profile (born March 13, 1995, in Vail)",
+          "platform": "Website",
+          "url": "https://www.ebsco.com/research-starters/biography/mikaela-shiffrin",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Mikaela Shiffrin (DOB 1995-03-13; 100 World Cup wins Feb 2025)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Mikaela_Shiffrin",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "POWDER — Mikaela Shiffrin stats (Date of Birth March 13th, 1995)",
+          "platform": "Website",
+          "url": "https://www.powder.com/tag/mikaela-shiffrin",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "The winningest alpine skier in World Cup history (100+ victories; 110 as of March 2026) and two-time Olympic gold medalist — objective athlete category; verified 31 years old. No social handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
