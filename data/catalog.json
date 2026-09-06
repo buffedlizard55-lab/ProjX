@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 200,
+    "entryCount": 201,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -13823,6 +13823,67 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Two-time Olympic medalist in women's badminton (Rio 2016 silver, Tokyo 2020 bronze — first Indian woman with two Olympic medals across two Games) and 2019 BWF world champion — objective athlete category; verified 31 years old. No social handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-201",
+      "displayName": "Katie Taylor",
+      "categories": [
+        "Athlete",
+        "Boxing",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 2, 1986 in Bray, County Wicklow, Ireland — age 40 in 2026 — per the Irish Insider (Birth Date 2 July 1986), the official Undisputed game roster bio (born 2 July 1986), IMDb (born 2 July 1986) and thecityceleb structured record (birthDate 1986-07-02).",
+        "sourceLabel": "Irish Insider — Katie Taylor biography (Birth Date 2 July 1986)",
+        "sourceUrl": "https://theirishinsider.ie/the-local-lens/locals-that-are-making-impact/katie-taylor/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via women's boxing career — 2012 Olympic gold in the women's lightweight division ('Gold medal winner in women's lightweight boxing (60kg) at the 2012 London Olympics'), undisputed women's lightweight and light-welterweight champion (IMDb/Undisputed roster).",
+        "sourceLabel": "IMDb — Katie Taylor bio (women's lightweight Olympic gold)",
+        "sourceUrl": "https://www.imdb.com/name/nm2513572/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Irish Insider — Katie Taylor biography (Birth Date 2 July 1986; career)",
+          "platform": "Website",
+          "url": "https://theirishinsider.ie/the-local-lens/locals-that-are-making-impact/katie-taylor/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Undisputed (official game roster) — Katie Taylor bio (born 2 July 1986; undisputed record)",
+          "platform": "Website",
+          "url": "https://playundisputed.com/roster/katie-taylor",
+          "relationship": "official"
+        },
+        {
+          "label": "IMDb — Katie Taylor (born 2 July 1986; women's boxing career)",
+          "platform": "Website",
+          "url": "https://www.imdb.com/name/nm2513572/",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TheCityCeleb — Katie Taylor biography (structured birthDate 1986-07-02)",
+          "platform": "Website",
+          "url": "https://www.thecityceleb.com/biography/public-figure/sportsperson/katie-taylor-biography-awards-nationality-age-record-height-parents-boxing-career-net-worth/",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "2012 Olympic women's lightweight gold medalist and two-weight undisputed professional world champion — widely regarded among the greatest female boxers of all time — objective athlete category; verified 40 years old. No social handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
