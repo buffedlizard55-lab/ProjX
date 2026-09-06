@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 278,
+    "entryCount": 280,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -19145,6 +19145,163 @@
           "platform": "Facebook",
           "username": "@julia.bergmann.790",
           "profileUrl": "https://www.facebook.com/julia.bergmann.790",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-279",
+      "displayName": "Jovana Stevanović",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 30, 1992 in Belgrade, Serbia — age 33-34 in 2026 — per the OFFICIAL volleyballworld/FIVB registry (Birth date 30/06/1992 = 30 June 1992 DD/MM, Age 33), CEV EuroVolley official page (Born 1992, Beograd) and Grokipedia (born on 30 June 1992 in Belgrade) plus volleybox (born 30th June 1992).",
+        "sourceLabel": "Volleyball World — official Stevanović registry (Birth date 30/06/1992)",
+        "sourceUrl": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/123700",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Serbia women's national volleyball team career — 2017 EUROPEAN CHAMPION + 2022 WORLD champion context (CEV/volleyballworld official registries; Grokipedia); volleybox structured 'gender: Female'.",
+        "sourceLabel": "CEV EuroVolley — official Serbia roster (Stevanović, middle blocker)",
+        "sourceUrl": "https://eurovolley.cev.eu/team/12616-serbia/player/1810-stevanovic-jovana",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official Stevanović registry (Birth date 30/06/1992)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/volleyball/competitions/volleyball-nations-league/players/123700",
+          "relationship": "official"
+        },
+        {
+          "label": "CEV EuroVolley — official Serbia roster (born 1992, Beograd)",
+          "platform": "Website",
+          "url": "https://eurovolley.cev.eu/team/12616-serbia/player/1810-stevanovic-jovana",
+          "relationship": "official"
+        },
+        {
+          "label": "Grokipedia — Jovana Stevanović (born 30 June 1992, Belgrade)",
+          "platform": "Website",
+          "url": "https://grokipedia.com/page/Jovana_Stevanovi%C4%87",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @stevanovicjovana_15 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/stevanovicjovana_15/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Serbia's middle-block anchor — 2017 European champion, 2022 World champion, 2015-16 CEV Champions League winner with Casalmaggiore; multiple Best Blocker honors (Serie A1 2014/2016; Serbian Cup 2013); Serbian Federation's 2023 Player of the Year — objective athlete category; verified 33-34 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@stevanovicjovana_15",
+          "profileUrl": "https://www.instagram.com/stevanovicjovana_15/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-280",
+      "displayName": "Kotona Hayashi",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 13, 1999 in Kyoto, Japan — age 26 in 2026 — per Wikipedia (born 13 November 1999, Kyoto), mykhel Olympics profile (Birth Date Nov 13, 1999, Kyoto) and the volleybox structured profile (birthDate 1999-11-13, Kyoto city; Japanese: 林琴奈).",
+        "sourceLabel": "Wikipedia — Kotona Hayashi (born 13 November 1999)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kotona_Hayashi",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Japan women's national volleyball team career — Tokyo 2020 + Paris 2024 Olympian ('She plays for the Japan women's national volleyball team. She competed at the 2020 Summer Olympics'; mykhel 2020/2024 Olympic Experience); volleybox structured 'gender: Female'.",
+        "sourceLabel": "Wikipedia — Kotona Hayashi (Tokyo 2020 Olympian, Japan women NT)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kotona_Hayashi",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Wikipedia — Kotona Hayashi (DOB 1999-11-13; Tokyo 2020)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Kotona_Hayashi",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Volleybox — Kotona Hayashi structured profile (birthDate 1999-11-13; sameAs X/IG)",
+          "platform": "Website",
+          "url": "https://women.volleybox.net/kotona-hayashi-p11347",
+          "relationship": "reference"
+        },
+        {
+          "label": "X/Twitter — @nagi_k113 (volleybox structured sameAs)",
+          "platform": "X",
+          "url": "https://twitter.com/nagi_k113",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "Instagram — @nagi_k113 (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/nagi_k113/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Two-time Japanese Olympian outside hitter (Tokyo 2020, Paris 2024) — VNL 2024 silver medalist with Japan; plays for Osaka Marvelous (JT Marvelous) — objective athlete category; verified 26 years old. X/IG handles @nagi_k113 via volleybox structured sameAs; counts not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "X",
+          "username": "@nagi_k113",
+          "profileUrl": "https://twitter.com/nagi_k113",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        },
+        {
+          "platform": "Instagram",
+          "username": "@nagi_k113",
+          "profileUrl": "https://www.instagram.com/nagi_k113/",
           "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
           "followerCountNumeric": null,
           "countType": "unknown",
