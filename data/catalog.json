@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 184,
+    "entryCount": 186,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -12791,6 +12791,134 @@
       "flags": [],
       "notes": "2025 Australian Open champion and 11x WTA singles title winner — objective athlete category. No handle captured this pass — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-185",
+      "displayName": "Summer McIntosh",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 18, 2006 in Toronto, Ontario, Canada — age 20 in 2026 — per Wikipedia (born August 18, 2006), EssentiallySports (born on 18th August 2006), ESPN Olympics bio (Date of birth: 2006-08-18) and olympics.com official profile (Year of Birth 2006).",
+        "sourceLabel": "ESPN — Summer McIntosh Olympics bio (Date of birth: 2006-08-18)",
+        "sourceUrl": "https://www.espn.com/olympics/summer/2024/athletes/_/athlete/64185",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Canadian women's Olympic swimming career — three-time Olympic champion (Paris 2024), women's 200m butterfly/200m IM/400m IM/400m freestyle world-record holder (Wikipedia/olympics.com).",
+        "sourceLabel": "Olympics.com — Summer McIntosh official athlete profile (3x Olympic gold)",
+        "sourceUrl": "https://www.olympics.com/en/athletes/summer-mcintosh",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympics.com — Summer McIntosh official athlete profile (Year of Birth 2006; 3G Paris 2024)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/summer-mcintosh",
+          "relationship": "official"
+        },
+        {
+          "label": "ESPN — Summer McIntosh Olympics bio (DOB 2006-08-18)",
+          "platform": "Website",
+          "url": "https://www.espn.com/olympics/summer/2024/athletes/_/athlete/64185",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikipedia — Summer McIntosh (DOB 2006-08-18; world-record list)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Summer_McIntosh",
+          "relationship": "other-trusted"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Three-time Olympic champion and four-time world-record holder — objective athlete category; verified 20 years old. No handle captured this pass — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-186",
+      "displayName": "Ariarne Titmus",
+      "categories": [
+        "Athlete",
+        "Swimming",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 7, 2000 in Launceston, Tasmania — age 25 in 2026 — per the Australian Olympic Committee official Olympian page (structured birthDate 2000-09-07), Wikipedia (born 7 September 2000), Britannica (born September 7, 2000) and playerswiki.",
+        "sourceLabel": "Australian Olympic Committee — Ariarne Titmus Olympian page (birthDate 2000-09-07)",
+        "sourceUrl": "https://www.olympics.com.au/olympians/ariarne-titmus/",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the AOC structured record ('gender: Female') and women's Olympic swimming career — back-to-back women's 400m freestyle Olympic champion (2020/2024), 200m freestyle world-record holder (Wikipedia/Britannica).",
+        "sourceLabel": "Australian Olympic Committee — Ariarne Titmus ('gender: Female' structured; Olympic titles)",
+        "sourceUrl": "https://www.olympics.com.au/olympians/ariarne-titmus/",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Australian Olympic Committee — Ariarne Titmus (birthDate 2000-09-07; gender Female; sameAs IG ariarnetitmus_)",
+          "platform": "Website",
+          "url": "https://www.olympics.com.au/olympians/ariarne-titmus/",
+          "relationship": "official"
+        },
+        {
+          "label": "Britannica — Ariarne Titmus (born September 7, 2000)",
+          "platform": "Website",
+          "url": "https://www.britannica.com/biography/Ariarne-Titmus",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Wikipedia — Ariarne Titmus (DOB 2000-09-07; WR 200m freestyle)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ariarne_Titmus",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @ariarnetitmus_ (AOC structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/ariarnetitmus_/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Back-to-back Olympic 400m freestyle champion and 200m freestyle world-record holder (OAM) — objective athlete category. IG handle via AOC structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@ariarnetitmus_",
+          "profileUrl": "https://www.instagram.com/ariarnetitmus_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via olympics.com.au structured sameAs record; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
