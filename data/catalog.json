@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 255,
+    "entryCount": 257,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17534,6 +17534,136 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Tokyo 2020 Olympian wing spiker for Italy — Nike ambassador; club career through Scandicci and Dynamo Kazan — objective athlete category; verified 25 years old. Birthplace variance (Imola/Bologna/Viareggio) noted; DOB consistent. No handle captured — follower range UNKNOWN.",
+      "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-256",
+      "displayName": "Raïsa Schoon",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 3, 2001 — age 24 (25 in Oct 2026) in 2026 — per Wikipedia (born 3 October 2001), Olympics.com IOC registry (Year of Birth 2001), bvbinfo career record (Birth Date October 3, 2001) and volleybox (born October 3, 2001).",
+        "sourceLabel": "Wikipedia — Raïsa Schoon (born 3 October 2001)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Ra%C3%AFsa_Schoon",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via Dutch beach volleyball career — two-time Olympian (Tokyo 2020 + Paris 2024) per Wikipedia/Olympics.com; volleybox structured 'gender: Female'.",
+        "sourceLabel": "Olympics.com — official Raisa Schoon profile (2 Olympic Games)",
+        "sourceUrl": "https://www.olympics.com/en/athletes/raisa-schoon",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympics.com — official Raisa Schoon profile (YOB 2001; 2 Olympic Games)",
+          "platform": "Website",
+          "url": "https://www.olympics.com/en/athletes/raisa-schoon",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Raïsa Schoon (DOB 2001-10-03)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ra%C3%AFsa_Schoon",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BVBinfo — Raisa Schoon career record (Birth Date October 3, 2001)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=16919",
+          "relationship": "reference"
+        },
+        {
+          "label": "Instagram — @raisaschoon (volleybox structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/raisaschoon/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dutch two-time Olympian beach volleyball player (Tokyo 2020, Paris 2024) — long-time partner of Katja Stam (who coincidentally shares her October-3 birthday) — objective athlete category; verified 24 years old. IG handle via volleybox structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@raisaschoon",
+          "profileUrl": "https://www.instagram.com/raisaschoon/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via volleybox structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-257",
+      "displayName": "Emi van Driel",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 11, 2000 in Breda, Netherlands — age 25 (26 in June 2026) in 2026 — per the OFFICIAL volleyballworld Elite16/World Championships pages (Birth date 11/06/2000 = 11 June 2000 DD/MM, Age 25-26), German Wikipedia (11. Juni 2000 in Breda) and bvbinfo career record (Birth Date June 11, 2000).",
+        "sourceLabel": "Volleyball World — official van Driel registry (Birth date 11/06/2000, Beach Worlds Adelaide 2025)",
+        "sourceUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/players/153704",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the official FIVB Beach Pro Tour women's registry and German Wikipedia 'niederländische Beachvolleyballspielerin'.",
+        "sourceLabel": "Volleyball World — official FIVB Beach Worlds women's page (van Driel/Wies)",
+        "sourceUrl": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/players/153704",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Volleyball World — official van Driel registry (Birth date 11/06/2000)",
+          "platform": "Website",
+          "url": "https://en.volleyballworld.com/beachvolleyball/competitions/beach-volleyball-world-championships/players/153704",
+          "relationship": "official"
+        },
+        {
+          "label": "German Wikipedia — Emi van Driel (11. Juni 2000, Breda)",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Emi_van_Driel",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "BVBinfo — Emi van Driel career record (Birth Date June 11, 2000)",
+          "platform": "Website",
+          "url": "http://www.bvbinfo.com/player.asp?ID=16918",
+          "relationship": "reference"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Dutch Beach Pro Tour defender from Breda — 2025 FIVB Beach World Championships entrant (with Wies Bekhuis) and multiple Elite16 events — objective athlete category; verified 25 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
       "largestPublicFollowing": {
         "platform": null,
