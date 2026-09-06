@@ -2,7 +2,7 @@
   "metadata": {
     "title": "ProjX Verified Directory",
     "generatedAt": "2026-09-06",
-    "entryCount": 259,
+    "entryCount": 261,
     "reviewQueueCount": 4,
     "summary": "Women-only directory of adult (18+) public creators: 100 verified adult women (W-2026-001..100) — alongside 4 REVIEW_REQUIRED candidates with provenance. Session 11 added 45 verified profiles across two batches: fitness/yoga YouTube creators (Adriene Mishler, Maddie Lymburner, Natacha Océane, Chloe Ting, growingannanas, Caroline Girvan), fitness models, artistic gymnasts and Olympians (Suni Lee, Jade Carey, Jordan Chiles, Livvy Dunne, swimmers Regan Smith/Kate Douglass/Torri Huske/Gretchen Walsh, surfers Caroline Marks/Tatiana Weston-Webb, volleyball incl. Sara Hughes/Kelly Cheng/Justine Wong-Orantes/Andrea Drews, track&field Tara Davis-Woodhall/Anna Hall/Masai Russell, tennis Iga Świątek/Emma Raducanu, golf Nelly Korda, soccer Trinity Rodman, basketball Angel Reese/Paige Bueckers/Kysre Gondrezick/Didi Richards, esports Petra/sarahcat) and models Brooks Nader/Yovanna Ventura. Per-platform follower counts are publicly observed displays only — never estimated, never summed; unknown counts recorded as FOLLOWER_COUNT_UNKNOWN. All DOB/gender evidence is cited per entry; conflicts are flagged with full variance logged in the irregularities register."
   },
@@ -17783,6 +17783,154 @@
       "flags": [],
       "notes": "2019 FIVB beach volleyball WORLD CHAMPION (with Sarah Pavan) and Paris 2024 Olympic silver medalist (with Brandie Wilkerson) — elite defender, daughter of 1996 Olympic-bronze coach Hernán Humaña; also vlogs on YouTube — objective athlete category; verified 33 years old. No handle captured — follower range UNKNOWN.",
       "socialAccounts": [],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-260",
+      "displayName": "Ana Patrícia Silva Ramos",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 29, 1997 in Espinosa, Minas Gerais, Brazil — age 28 (29 in Sept 2026) in 2026 — per the Red Bull official athlete page structured record (birthDate 1997-09-29), Wikipedia (born 29 September 1997) and German Wikipedia (29. September 1997 in Espinosa).",
+        "sourceLabel": "Red Bull — official Ana Patrícia Ramos athlete page (Date of birth September 29, 1997)",
+        "sourceUrl": "https://www.redbull.com/us-en/athlete/ana-patricia-ramos",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Red Bull official athlete page structured 'gender: female' and Brazil women's beach volleyball career — Paris 2024 Olympic CHAMPION and 2022 World champion (Wikipedia/Red Bull).",
+        "sourceLabel": "Red Bull — official Ana Patrícia Ramos athlete page (structured gender female + sameAs IG)",
+        "sourceUrl": "https://www.redbull.com/us-en/athlete/ana-patricia-ramos",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Red Bull — official Ana Patrícia Ramos athlete page (birthDate 1997-09-29; gender female; sameAs IG)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/us-en/athlete/ana-patricia-ramos",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Ana Patrícia Ramos (DOB 1997-09-29; Olympic gold 2024)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Ana_Patr%C3%ADcia",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "German Wikipedia — Ana Patrícia Silva Ramos (29. September 1997, Espinosa)",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Ana_Patr%C3%ADcia_Silva_Ramos",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @patisramos (Red Bull official page structured sameAs)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/patisramos",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympic beach volleyball GOLD medalist (with partner Duda) and 2022 FIVB World champion; also Youth Olympic champion (Nanjing 2014) and two-time U21 World champion — one of the sport's all-time greats; native of landlocked Espinosa, Minas Gerais — objective athlete category; verified 28 years old. IG handle @patisramos via Red Bull official structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@patisramos",
+          "profileUrl": "https://www.instagram.com/patisramos",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via Red Bull official athlete page structured sameAs; count not captured."
+        }
+      ],
+      "largestPublicFollowing": {
+        "platform": null,
+        "username": null,
+        "display": null,
+        "numeric": null,
+        "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
+        "checkedAt": "2026-09-06"
+      },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN"
+    },
+    {
+      "id": "W-2026-261",
+      "displayName": "Eduarda \"Duda\" Lisboa",
+      "categories": [
+        "Athlete",
+        "Volleyball",
+        "Beach Volleyball",
+        "Creator"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 1, 1998 in Aracaju, Sergipe, Brazil — age 27 (28 in Aug 2026) in 2026 — per the Olympedia athlete record (Born 1 August 1998 in Aracajú; full name Eduarda 'Duda' Santos Lisboa), the Red Bull official athlete page (birthDate 1998-08-01, Wikipedia (born 1 August 1998) and bvbinfo career record (Birth Date August 1, 1998).",
+        "sourceLabel": "Olympedia — Duda Lisboa record (Born 1 August 1998; Sex Female)",
+        "sourceUrl": "https://www.olympedia.org/athletes/2101332",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman via the Olympedia athlete record ('Sex: Female') and Brazil women's beach volleyball career — Paris 2024 Olympic champion (Olympedia; Wikipedia).",
+        "sourceLabel": "Olympedia — Duda Lisboa record (2024 beach gold medal)",
+        "sourceUrl": "https://www.olympedia.org/athletes/2101332",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "Olympedia — Duda Lisboa (Born 1 August 1998; Sex Female)",
+          "platform": "Website",
+          "url": "https://www.olympedia.org/athletes/2101332",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Red Bull — official Duda Lisboa athlete page (Date of birth August 1, 1998; gender female; sameAs FB)",
+          "platform": "Website",
+          "url": "https://www.redbull.com/ca-en/athlete/duda-lisboa",
+          "relationship": "official"
+        },
+        {
+          "label": "Wikipedia — Duda Lisboa (DOB 1998-08-01; Olympic gold 2024)",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Duda_Lisboa",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Facebook — @eduarda.lisboa.1 (Red Bull official page structured sameAs)",
+          "platform": "Facebook",
+          "url": "https://www.facebook.com/eduarda.lisboa.1",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [],
+      "notes": "Paris 2024 Olympic beach volleyball GOLD medalist (with partner Ana Patrícia) and 2022 World champion (2023 silver); three-time U19 + two-time U21 world champion, 2014 Youth Olympic champion, FIVB Top Rookie 2016 and twice Best Female Offensive Player — right-side defender from Aracaju — objective athlete category; verified 27 years old. FB handle via Red Bull official structured sameAs; count not captured — UNKNOWN.",
+      "socialAccounts": [
+        {
+          "platform": "Facebook",
+          "username": "@eduarda.lisboa.1",
+          "profileUrl": "https://www.facebook.com/eduarda.lisboa.1",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle via Red Bull official athlete page structured sameAs; count not captured."
+        }
+      ],
       "largestPublicFollowing": {
         "platform": null,
         "username": null,
