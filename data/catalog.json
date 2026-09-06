@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "title": "ProjX Verified Adult Creator Directory",
+    "generatedAt": "2026-09-06",
+    "entryCount": 0,
+    "summary": "No real-person entries have been added. The catalog is reserved for opt-in adult professional records with official/trusted age and identity verification."
+  },
+  "entries": [],
+  "irregularities": [
+    {
+      "id": "IRR-2026-09-06-001",
+      "severity": "blocked",
+      "summary": "No bulk social-profile entries were added.",
+      "detail": "The current requested data collection would require non-consensual sexualized cross-platform profiling of real people. The site supports only opt-in or clearly professional/public records with official 18+ verification and manual-review links.",
+      "reviewStatus": "requires-owner-review"
+    }
+  ]
+}
