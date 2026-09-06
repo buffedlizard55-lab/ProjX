@@ -598,3 +598,47 @@ Date: 2026-09-06. Same accelerated pipeline, same standing protocol.
 | V | W-2026-200 | Badminton PV Sindhu (Sportskeeda + Wikimedia Commons + FPJ + Jagran Josh). **Catalog milestone: 200 VERIFIED.** Faith Kipyegon + Femke Bol dup-caught pre-script | 1 |
 
 **Total Q–V: +10 (190 → 200 VERIFIED).** Dup-guard catches Q–V: 3 (Osaka, Kipyegon, Bol) + 2 research-stage (Suni Lee's full-name grep-miss was caught by URL guard in O; G. Thomas/M. Russell/N. Korda/L. Thompson caught during research greps). Validator `errors=0` before every commit; every batch pushed individually.
+
+---
+
+## Session 13 — Volleyball Focus (NCAA → Beach → European/Intl Leagues)
+
+Date: 2026-09-06
+Owner request (verbatim): "lets only focus and work on college sports next, ncaa volleyball, beach volleyball. then work on european volleyball and any womens volleyball leagues. keep searching, aim to add 100 new unique profiles..." (×6) + "keep working until we can honestly say that we have done a complete and thorough search. verify no hallucinations."
+
+Interpretation: volleyball-only waves in the owner's stated order — (1) NCAA indoor, (2) beach (NCAA then pro), (3) European leagues, then any other women's volleyball leagues — an aggressive but quality-first push. All standing protocol unchanged (18+ verified with published DOB/official registry; UNKNOWN counts accepted; dup-guard on every batch; validator before every commit).
+
+### Pipelines added this session
+- `beach.volleybox.net/{slug}` — same structured JSON-LD (birthDate + gender Female + sameAs IG/X/FB) for beach players.
+- `avp.com/player/{slug}` — OFFICIAL AVP athlete pages with "Birthday" (US pro beach).
+- Official university roster bios (usctrojans, seminoles, gocards, mgoblue, purduesports...) — own-bio DOB prose + sometimes structured sameAs handles.
+- Governing bodies: volleyballworld.com player pages (official FIVB), eurovolley/championsleague.cev.eu registries, imocovolley.it/vakifbanksporkulubu.com official club player pages, volleyball.ca official national federation bios, CEV/USAV official athlete pages, Olympedia (Sex field), Athletes Unlimited official bios, LOVB/PVF (lovb.com/provolleyball.com) official athlete pages.
+
+### Waves (VERIFIED adds; every entry ≥2 independent evidence URL rows)
+
+| Wave | IDs | Names | Notes |
+|---|---|---|---|
+| NCAA indoor 1 | 202–204 | Harper Murray, Olivia Babcock, Bergen Reilly | volleybox+redbull JSON-LD; handles |
+| NCAA indoor 2 | 205–208 | Eva Hudson, Jess Mruzik (X 1,334), Elia Rubin, Anna DeBeer | official uni bios/gov |
+| Beach 1 | 209–210 | Kristen Nuss (Cruz), Taryn Kloth Brasher | Wikipedia/nbcolympics official |
+| Beach 2 | 211–212 | Megan Kraft, Terese Cannon | AVP + volleyballworld official |
+| Beach 3 | 213–214 | Delaynie Maple, Julia Scoles | official USC/UNC bios ×2 |
+| Europe 1–4 | 215–222 | Orro, Güneş, Haak, Wołosz, Antropova, Bosetti, Omoruyi, Lubian | official club bios (Vakıfbank, Imoco ×2), CEV, Olympedia |
+| Intl 5 | 223–224 | Gabi Guimarães, Ana Cristina Souza | Olympedia + volleybox |
+| US pro 6 | 225–226 | Lexi Rodriguez, Kendall White | LOVB/AU official; self-fix of notes artifact next commit |
+| Europe 7 | 227–228 | Bošković, Stysiak | Olympedia + CEV + volleyballworld |
+| Turkey 8 | 229–230 | Vargas (IG+YT), Karakurt | Karakurt: 1999/2000 single-source conflict flag noted |
+| Intl 9 | 231–232 | Koga (IG 650K rounded per famousbirthdays), Castillo | — |
+| Intl 10 | 233–234 | Ognjenović, Van Ryk (IG/FB) | volleyball.ca official |
+| NCAA/US pro 11 | 235–236 | O'Neal (X 4,606), Beason | PVF official roster + volleyballworld |
+| NCAA beach 12 | 237–238 | Denaburg, Anderson (IG/X via FSU structured) | AVP + FIVB + FSU official |
+| Dutch 13 | 239–240 | Buijs (birthplace variance noted), Daalderop | Olympedia + volleyballworld |
+| German 14 | 241–242 | Lippmann, Weitzel (IG/FB) | FIVB registry + volleybox |
+
+**Session 13 so far: +41 (201 → 242 VERIFIED).** Toward the session-12 ×6→"complete & thorough" and session-13 100-new volleyball goal: 41/100 in session 13.
+
+### Queue / IRR / hygiene
+- Queue: R-2026-014 Kami Miner (Stanford) — AGE_UNVERIFIED (no published DOB; official roster silent). Queue 4→5.
+- IRR: 15 (unchanged). Minor flags on entries: Karakurt year-conflict flag, Buijs birthplace variance note, Fillier/Bosetti… (documented in entries, not IRRs since non-blocking).
+- Self-check catch: W-2026-225 notes contained a drafting artifact; fixed in a dedicated honesty commit immediately after detection ("Session 13: fix drafting artifact in W-2026-225 notes").
+- Dup-guard caught during planning of this session: (none shipped; research-stage greps skipped dups like Osaka/Kipyegon/Bol earlier; in-session names all clean).
