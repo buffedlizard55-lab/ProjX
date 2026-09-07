@@ -151,6 +151,18 @@ biography databases 11 (flagged `AGE_EVIDENCE_SECONDARY_SOURCES`; weakest row Je
 fr.famousbirthdays only). Volleyball rows: Park Eun-jin, Rachael Kramer, Madison Lilley, Akiho Matsumoto.
 Spot-checks 10/10 matched (see `docs/review-log.md`). Validator **errors=0** (2003 / 244 review / 28 IRR).
 
+**Session 27 (2026-09-06, women's volleyball / beach volleyball — all leagues, Wikidata harvest born 1985–2008,
+line-by-line verdicts)** ran five archived SPARQL pages (`data/research/urls/s27_vb_wiki_off*.url`) → 743 rows →
+**45 new** after name/Q-ID/handle dedup, opened every candidate on its Wikipedia article (ja 24, de 10, ru 3, en 3,
+th 1, it 1) and logged a verdict in `data/research/verification_s27_log.tsv` (41 PROMOTE / 3 REVIEW). Result:
+**+41 verified (W-2026-2005..2045)**, all Instagram/TikTok (**2044 VERIFIED / 1852 social / 192 reference**) —
+Japanese V.LEAGUE/SV.LEAGUE, German Bundesliga, Russian Superliga, Korean V-League, Thai, Italian, Slovak, Dutch and
+NCAA/US-pro players plus beach-volleyball player Miki Ishii; **+3 REVIEW_REQUIRED (R-2026-257..259)** (a comedian,
+a singer and a bobsledder surfaced by a `sport=volleyball` statement). All age evidence is a Wikipedia lead sentence
+(`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×41); spot-checks 9/9 matched. Wikidata's volleyball population 1985–2008 with a
+social handle is now exhausted (the 1970–84 band holds no further players). Validator **errors=0**
+(2044 / 247 review / 29 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -220,11 +232,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **2003 verified women**,
-  tagged `catalogType` = social (1811, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2044 verified women**,
+  tagged `catalogType` = social (1852, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..2004 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **244 REVIEW_REQUIRED candidates** and **28 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2045 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **247 REVIEW_REQUIRED candidates** and **29 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).

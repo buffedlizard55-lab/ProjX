@@ -2,9 +2,9 @@
   "metadata": {
     "title": "ProjX Instagram / TikTok Directory (all)",
     "generatedAt": "2026-09-07",
-    "entryCount": 1811,
+    "entryCount": 1852,
     "knownCount": 159,
-    "unknownCount": 1652,
+    "unknownCount": 1693,
     "summary": "Published catalog records with a documented Instagram or TikTok account. Derived from data/catalog.json (the single source of truth) by catalogType=social. Powers directory/index.html and directory/{id}.html. No fields are estimated. Split into known (directory/) and unknown (directory-unknown/) follower buckets.",
     "sourceCatalog": "data/catalog.json"
   },
@@ -848,6 +848,70 @@
       "flags": [],
       "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Philippines. English Wikipedia: https://en.wikipedia.org/wiki/Aby_Mara%C3%B1o. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking. Wikidata also records a basketball-player occupation.",
       "largestPublicFollowing": null,
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2038",
+      "displayName": "Adeja Lambert",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 25, 1996 (1996-01-25) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Adeja Onye Lambert (* 25. Januar 1996 in Rockford, Illinois) ist eine US-amerikanische Volleyballspielerin\"; Wikidata has no English label — name taken from the de/it/fi article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Adeja Lambert",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Adeja_Lambert",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q61203279 — Adeja Lambert",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q61203279",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Adeja Lambert",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Adeja_Lambert",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q61203279 — Adeja Lambert",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q61203279",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @adeja_lambert (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/adeja_lambert/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Adeja Onye Lambert (* 25. Januar 1996 in Rockford, Illinois) ist eine US-amerikanische Volleyballspielerin\"; Wikidata has no English label — name taken from the de/it/fi article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@adeja_lambert",
+          "profileUrl": "https://www.instagram.com/adeja_lambert/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Adeja Lambert. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -2423,6 +2487,132 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Peru. Evidence chain — birth-date reference(s): InterSportStats; reference URL(s): https://women.volleybox.net/aixa-vigil-p10841/clubs. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2033",
+      "displayName": "Akane Ukishima",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 10, 1996 (1996-06-10) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 浮島 杏加子（1996年6月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Akane Ukishima",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E6%B5%AE%E5%B3%B6%E6%9D%8F%E5%8A%A0%E5%AD%90",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q55973347 — Akane Ukishima",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q55973347",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Akane Ukishima",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E6%B5%AE%E5%B3%B6%E6%9D%8F%E5%8A%A0%E5%AD%90",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q55973347 — Akane Ukishima",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q55973347",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @akane.ukkii96_12 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/akane.ukkii96_12/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 浮島 杏加子（1996年6月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@akane.ukkii96_12",
+          "profileUrl": "https://www.instagram.com/akane.ukkii96_12/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Akane Ukishima. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2018",
+      "displayName": "Akane Yamagishi",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 8, 1991 (1991-01-08) — age 35 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 山岸 あかね（1991年1月8日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Akane Yamagishi",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%B8%E3%81%82%E3%81%8B%E3%81%AD",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q17687676 — Akane Yamagishi",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q17687676",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Akane Yamagishi",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B2%B8%E3%81%82%E3%81%8B%E3%81%AD",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q17687676 — Akane Yamagishi",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q17687676",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @akane.ymgs (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/akane.ymgs/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 山岸 あかね（1991年1月8日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@akane.ymgs",
+          "profileUrl": "https://www.instagram.com/akane.ymgs/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Akane Yamagishi. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -4092,6 +4282,70 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: France. Evidence chain — imported from the German Wikipedia. English Wikipedia: https://en.wikipedia.org/wiki/Alexia_Richard. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2043",
+      "displayName": "Alexis Conaway",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 12, 1996 (1996-01-12) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Alexis Conaway (* 12. Januar 1996 in Orange City) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Alexis Conaway",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Alexis_Conaway",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q96679121 — Alexis Conaway",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q96679121",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Alexis Conaway",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Alexis_Conaway",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q96679121 — Alexis Conaway",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q96679121",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @alexismconaway (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/alexismconaway/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Alexis Conaway (* 12. Januar 1996 in Orange City) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@alexismconaway",
+          "profileUrl": "https://www.instagram.com/alexismconaway/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Alexis Conaway. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -6531,6 +6785,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2007",
+      "displayName": "Ami Wakamatsu",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 26, 1999 (1999-06-26) — age 27 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 若松 歩実（1999年6月26日 - ）は、日本の女子バレーボール選手 (active); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Ami Wakamatsu",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9D%BE%E6%AD%A9%E5%AE%9F",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108110355 — Ami Wakamatsu",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108110355",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Ami Wakamatsu",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9D%BE%E6%AD%A9%E5%AE%9F",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108110355 — Ami Wakamatsu",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108110355",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @rairai_shonan (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/rairai_shonan/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 若松 歩実（1999年6月26日 - ）は、日本の女子バレーボール選手 (active); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@rairai_shonan",
+          "profileUrl": "https://www.instagram.com/rairai_shonan/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Ami Wakamatsu. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1492",
       "displayName": "Amika Shail",
       "categories": [
@@ -6889,6 +7206,69 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: France women's national volleyball team and Pays d'Aix Venelles Volley-Ball. Citizenship recorded in Wikidata: France. Evidence chain — reference URL(s): http://www.worldofvolley.com/wov-community/players/106492.html. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2035",
+      "displayName": "An Hye-jin",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 16, 1998 (1998-02-16) — age 28 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: en-wiki lead: \"An Hye-jin (born 16 February 1998) is a South Korean professional volleyball player. She is a setter and a member of the South Korean National Team ... GS Caltex Seoul KIXX ... 2020 Summer Olympics\"; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "en.wikipedia.org — An Hye-jin",
+        "sourceUrl": "https://en.wikipedia.org/wiki/An_Hye-jin",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q59200989 — An Hye-jin",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q59200989",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "en.wikipedia.org — An Hye-jin",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/An_Hye-jin",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q59200989 — An Hye-jin",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q59200989",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @_gw216 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/_gw216/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: en-wiki lead: \"An Hye-jin (born 16 February 1998) is a South Korean professional volleyball player. She is a setter and a member of the South Korean National Team ... GS Caltex Seoul KIXX ... 2020 Summer Olympics\"; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@_gw216",
+          "profileUrl": "https://www.instagram.com/_gw216/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for An Hye-jin. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -14988,6 +15368,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Ayano Nishi. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2008",
+      "displayName": "Ayano Tsuji",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 12, 1996 (1996-09-12) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 辻 彩乃（1996年9月12日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Ayano Tsuji",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%BD%A9%E4%B9%83",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108110440 — Ayano Tsuji",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108110440",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Ayano Tsuji",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%BD%A9%E4%B9%83",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108110440 — Ayano Tsuji",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108110440",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @tsj_ayn (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tsj_ayn/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 辻 彩乃（1996年9月12日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tsj_ayn",
+          "profileUrl": "https://www.instagram.com/tsj_ayn/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Ayano Tsuji. No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -37578,6 +38021,86 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2015",
+      "displayName": "Gabriella Vico",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 4, 1987 (1987-12-04) — age 38 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: it-wiki lead: \"Gabriella Vico (Castellammare di Stabia, 4 dicembre 1987) è un'ex pallavolista italiana, di ruolo schiacciatrice\" — former Italian volleyball player (outside hitter); Wikidata also lists occupation nutritionist. IG and TikTok both gabriella.vico per Wikidata. DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "it.wikipedia.org — Gabriella Vico",
+        "sourceUrl": "https://it.wikipedia.org/wiki/Gabriella_Vico",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q16558301 — Gabriella Vico",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q16558301",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "it.wikipedia.org — Gabriella Vico",
+          "platform": "Website",
+          "url": "https://it.wikipedia.org/wiki/Gabriella_Vico",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q16558301 — Gabriella Vico",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q16558301",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @gabriella.vico (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/gabriella.vico/",
+          "relationship": "verified-platform"
+        },
+        {
+          "label": "TikTok — @gabriella.vico (public profile)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@gabriella.vico",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: it-wiki lead: \"Gabriella Vico (Castellammare di Stabia, 4 dicembre 1987) è un'ex pallavolista italiana, di ruolo schiacciatrice\" — former Italian volleyball player (outside hitter); Wikidata also lists occupation nutritionist. IG and TikTok both gabriella.vico per Wikidata. DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@gabriella.vico",
+          "profileUrl": "https://www.instagram.com/gabriella.vico/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Gabriella Vico. No public count observed."
+        },
+        {
+          "platform": "TikTok",
+          "username": "@gabriella.vico",
+          "profileUrl": "https://www.tiktok.com/@gabriella.vico",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Gabriella Vico. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-899",
       "displayName": "Gabrielle Reece",
       "categories": [
@@ -40703,6 +41226,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2009",
+      "displayName": "Haruka Kanamori",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 9, 1996 (1996-04-09) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 金森 晴香（1996年4月9日 - ）は、日本の元女子バレーボール選手、指導者 (former player, now coach); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Haruka Kanamori",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E6%99%B4%E9%A6%99",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108110472 — Haruka Kanamori",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108110472",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Haruka Kanamori",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E6%99%B4%E9%A6%99",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108110472 — Haruka Kanamori",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108110472",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @harucamera.49 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/harucamera.49/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 金森 晴香（1996年4月9日 - ）は、日本の元女子バレーボール選手、指導者 (former player, now coach); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@harucamera.49",
+          "profileUrl": "https://www.instagram.com/harucamera.49/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Haruka Kanamori. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1751",
       "displayName": "Haruka Koizumi",
       "categories": [
@@ -42248,6 +42834,69 @@
         "AGE_EVIDENCE_WIKIPEDIA_ONLY"
       ],
       "notes": "Session 19 fashion/fitness-model Wikidata continuation (2026-09-07). Discovery method: public structured-data query over Wikidata for female items whose occupation is model, fashion model, personal trainer, bodybuilder or fitness model, with a documented date of birth and at least one Instagram or TikTok handle (queries archived under data/research/urls/s18_prom_off*.url). Occupation recorded in the structured item: model. Evidence chain — no P854 reference URL; English Wikipedia: https://en.wikipedia.org/wiki/Hina_Khan. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (modeling, fashion, fitness, creator activity) — this directory is not an attractiveness ranking. Flags: AGE_EVIDENCE_WIKIPEDIA_ONLY.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2019",
+      "displayName": "Hina Kumamoto",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 2, 1995 (1995-12-02) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 熊本 比奈（1995年12月2日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. TikTok-only handle (kumamotohina) per Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Hina Kumamoto",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E6%AF%94%E5%A5%88",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q18048274 — Hina Kumamoto",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q18048274",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Hina Kumamoto",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E7%86%8A%E6%9C%AC%E6%AF%94%E5%A5%88",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q18048274 — Hina Kumamoto",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q18048274",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "TikTok — @kumamotohina (public profile)",
+          "platform": "TikTok",
+          "url": "https://www.tiktok.com/@kumamotohina",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 熊本 比奈（1995年12月2日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. TikTok-only handle (kumamotohina) per Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "TikTok",
+          "username": "@kumamotohina",
+          "profileUrl": "https://www.tiktok.com/@kumamotohina",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Hina Kumamoto. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -43979,6 +44628,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Irina Shayk. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2037",
+      "displayName": "Iris Scholten",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 15, 1999 (1999-11-15) — age 26 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: アイリス・ショールテン（Iris Scholten、1999年11月15日 - ）は、オランダの女子バレーボール選手。オランダ代表 (Dutch women's volleyball player, Netherlands national team); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Iris Scholten",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%AB%E3%83%86%E3%83%B3",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q60024634 — Iris Scholten",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q60024634",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Iris Scholten",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%AB%E3%83%86%E3%83%B3",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q60024634 — Iris Scholten",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q60024634",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @iris_scholten (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/iris_scholten/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: アイリス・ショールテン（Iris Scholten、1999年11月15日 - ）は、オランダの女子バレーボール選手。オランダ代表 (Dutch women's volleyball player, Netherlands national team); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@iris_scholten",
+          "profileUrl": "https://www.instagram.com/iris_scholten/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Iris Scholten. No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -46512,6 +47224,70 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Jasmin Selberg. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2044",
+      "displayName": "Jasmine Gross",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 30, 1998 (1998-05-30) — age 28 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Jasmine Julianne Gross (* 30. Mai 1998 in Portland, Oregon) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Jasmine Gross",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Jasmine_Gross",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q97062156 — Jasmine Gross",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q97062156",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Jasmine Gross",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Jasmine_Gross",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q97062156 — Jasmine Gross",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q97062156",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @jasmine_gross (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/jasmine_gross/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Jasmine Julianne Gross (* 30. Mai 1998 in Portland, Oregon) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@jasmine_gross",
+          "profileUrl": "https://www.instagram.com/jasmine_gross/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Jasmine Gross. No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -51517,6 +52293,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2014",
+      "displayName": "Kaho Ōno",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 30, 1992 (1992-06-30) — age 34 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 大野 果歩（1992年6月30日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Kaho Ōno",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E6%9E%9C%E6%AD%A9",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q16264829 — Kaho Ōno",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q16264829",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Kaho Ōno",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E6%9E%9C%E6%AD%A9",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q16264829 — Kaho Ōno",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q16264829",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @tam522tim (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tam522tim/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 大野 果歩（1992年6月30日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tam522tim",
+          "profileUrl": "https://www.instagram.com/tam522tim/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Kaho Ōno. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1717",
       "displayName": "Kaitlyn",
       "categories": [
@@ -52336,6 +53175,69 @@
       "flags": [],
       "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. Evidence chain — birth-date reference(s): Olympedia. English Wikipedia: https://en.wikipedia.org/wiki/Kaori_Inoue. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
       "largestPublicFollowing": null,
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2025",
+      "displayName": "Kaori Mabashi",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 18, 1996 (1996-11-18) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 間橋 香織（1996年11月18日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Kaori Mabashi",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%96%93%E6%A9%8B%E9%A6%99%E7%B9%94",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q30925473 — Kaori Mabashi",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q30925473",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Kaori Mabashi",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E9%96%93%E6%A9%8B%E9%A6%99%E7%B9%94",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q30925473 — Kaori Mabashi",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q30925473",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kaoring03 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kaoring03/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 間橋 香織（1996年11月18日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kaoring03",
+          "profileUrl": "https://www.instagram.com/kaoring03/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Kaori Mabashi. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -59700,6 +60602,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2011",
+      "displayName": "Kurumi Manabe",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 17, 1997 (1997-09-17) — age 28 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 真鍋 くるみ（1997年9月17日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Kurumi Manabe",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%8D%8B%E3%81%8F%E3%82%8B%E3%81%BF",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q115529969 — Kurumi Manabe",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q115529969",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Kurumi Manabe",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E9%8D%8B%E3%81%8F%E3%82%8B%E3%81%BF",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q115529969 — Kurumi Manabe",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q115529969",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kuru._8 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kuru._8/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 真鍋 くるみ（1997年9月17日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kuru._8",
+          "profileUrl": "https://www.instagram.com/kuru._8/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Kurumi Manabe. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-830",
       "displayName": "Kyla Dodds",
       "categories": [
@@ -59858,6 +60823,69 @@
         "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
         "checkedAt": "2026-09-06"
       },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2022",
+      "displayName": "Kyoko Aoyagi",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 16, 1991 (1991-12-16) — age 34 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 青柳 京古（1991年12月16日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Kyoko Aoyagi",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%B3%E4%BA%AC%E5%8F%A4",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q20038403 — Kyoko Aoyagi",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q20038403",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Kyoko Aoyagi",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E6%9F%B3%E4%BA%AC%E5%8F%A4",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q20038403 — Kyoko Aoyagi",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q20038403",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @aiaiai.0822 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/aiaiai.0822/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 青柳 京古（1991年12月16日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@aiaiai.0822",
+          "profileUrl": "https://www.instagram.com/aiaiai.0822/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Kyoko Aoyagi. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
@@ -65100,6 +66128,70 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2039",
+      "displayName": "Lindsay Flory",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 24, 1996 (1996-10-24) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Lindsay Frances Flory (* 24. Oktober 1996 in Lexington, Kentucky) ist eine ehemalige US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Lindsay Flory",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Lindsay_Flory",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q68296848 — Lindsay Flory",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q68296848",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Lindsay Flory",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Lindsay_Flory",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q68296848 — Lindsay Flory",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q68296848",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @lindsay_flory (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/lindsay_flory/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Lindsay Frances Flory (* 24. Oktober 1996 in Lexington, Kentucky) ist eine ehemalige US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@lindsay_flory",
+          "profileUrl": "https://www.instagram.com/lindsay_flory/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Lindsay Flory. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1201",
       "displayName": "Lindsey Coffey",
       "categories": [
@@ -65228,6 +66320,70 @@
         "checkedAt": "2026-09-06"
       },
       "overallFollowerSizeRange": "250K–499.9K",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2042",
+      "displayName": "Lindsey Ruddins",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 5, 1997 (1997-11-05) — age 28 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Lindsey Ora Ruddins (* 5. November 1997 in Santa Monica) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it/pl article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Lindsey Ruddins",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Lindsey_Ruddins",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q96090730 — Lindsey Ruddins",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q96090730",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Lindsey Ruddins",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Lindsey_Ruddins",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q96090730 — Lindsey Ruddins",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q96090730",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @lindseyora (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/lindseyora/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Lindsey Ora Ruddins (* 5. November 1997 in Santa Monica) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it/pl article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@lindseyora",
+          "profileUrl": "https://www.instagram.com/lindseyora/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Lindsey Ruddins. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -65769,6 +66925,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Liz Gorman. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2030",
+      "displayName": "Liza Kastrup",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 5, 1999 (1999-10-05) — age 26 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Liza Kastrup (* 5. Oktober 1999 in Unna) ist eine deutsche Volleyballspielerin\"; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Liza Kastrup",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Liza_Kastrup",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q47152030 — Liza Kastrup",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q47152030",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Liza Kastrup",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Liza_Kastrup",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q47152030 — Liza Kastrup",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q47152030",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @liza.kstrp (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/liza.kstrp/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: de-wiki lead: \"Liza Kastrup (* 5. Oktober 1999 in Unna) ist eine deutsche Volleyballspielerin\"; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@liza.kstrp",
+          "profileUrl": "https://www.instagram.com/liza.kstrp/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Liza Kastrup. No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -68444,6 +69663,70 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United States. Evidence chain — birth-date reference(s): FIVB database; reference URL(s): https://www.dresdnersportclub.de/news/verein/item/6082-madeleine-gates-komplettiert-den-mittelblock-beim-dsc. English Wikipedia: https://en.wikipedia.org/wiki/Madeleine_Gates. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2041",
+      "displayName": "Madelyn Cole",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born December 31, 1997 (1997-12-31) — age 28 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Madelyn Cole (* 31. Dezember 1997 in Dallas) ist eine ehemalige US-amerikanische Volleyballspielerin und -trainerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Madelyn Cole",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Madelyn_Cole",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q95500238 — Madelyn Cole",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q95500238",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Madelyn Cole",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Madelyn_Cole",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q95500238 — Madelyn Cole",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q95500238",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @madelyn.cole (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/madelyn.cole/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Madelyn Cole (* 31. Dezember 1997 in Dallas) ist eine ehemalige US-amerikanische Volleyballspielerin und -trainerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@madelyn.cole",
+          "profileUrl": "https://www.instagram.com/madelyn.cole/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Madelyn Cole. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -71300,6 +72583,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2016",
+      "displayName": "Mari Yamada",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 10, 1990 (1990-04-10) — age 36 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 山田 真里（1990年4月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Mari Yamada",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E7%9C%9F%E9%87%8C",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q17223891 — Mari Yamada",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q17223891",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Mari Yamada",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E7%9C%9F%E9%87%8C",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q17223891 — Mari Yamada",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q17223891",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @mari_yamada_21 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/mari_yamada_21/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 山田 真里（1990年4月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@mari_yamada_21",
+          "profileUrl": "https://www.instagram.com/mari_yamada_21/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Mari Yamada. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1247",
       "displayName": "Maria Abe",
       "categories": [
@@ -73229,6 +74575,69 @@
         "AGE_EVIDENCE_WIKIPEDIA_ONLY"
       ],
       "notes": "Session 18 fashion/fitness-model Wikidata sweep (2026-09-07). Discovery method: public structured-data query over Wikidata for female items whose occupation is model, fashion model, personal trainer, bodybuilder or fitness model, with a documented date of birth and at least one Instagram or TikTok handle (queries archived under data/research/urls/s18_prom_off*.url). Occupation recorded in the structured item: model. Evidence chain — no P854 reference URL; English Wikipedia: https://en.wikipedia.org/wiki/Marina_Mazepa. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (modeling, fashion, fitness, creator activity) — this directory is not an attractiveness ranking. Flags: AGE_EVIDENCE_WIKIPEDIA_ONLY.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2032",
+      "displayName": "Marina Merkushkina (née Dibrova)",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 30, 1993 (1993-08-30) — age 33 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ru-wiki lead: \"Марина Юрьевна Меркушкина (до замужества — Диброва) (род. 30 августа 1993 года, Прохладный) — российская волейболистка, доигровщица\"; Wikidata label Marina Dibrova (maiden name, IG marina_dibrova); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ru.wikipedia.org — Marina Merkushkina (née Dibrova)",
+        "sourceUrl": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q55102105 — Marina Merkushkina (née Dibrova)",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q55102105",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ru.wikipedia.org — Marina Merkushkina (née Dibrova)",
+          "platform": "Website",
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q55102105 — Marina Merkushkina (née Dibrova)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q55102105",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @marina_dibrova (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/marina_dibrova/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ru-wiki lead: \"Марина Юрьевна Меркушкина (до замужества — Диброва) (род. 30 августа 1993 года, Прохладный) — российская волейболистка, доигровщица\"; Wikidata label Marina Dibrova (maiden name, IG marina_dibrova); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@marina_dibrova",
+          "profileUrl": "https://www.instagram.com/marina_dibrova/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Marina Merkushkina (née Dibrova). No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -77273,6 +78682,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2028",
+      "displayName": "Merle Weidt",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 20, 1999 (1999-07-20) — age 27 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Merle Weidt (* 20. Juli 1999 in Offenburg) ist eine deutsche Volleyballspielerin\" (German women's league); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Merle Weidt",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Merle_Weidt",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q47002793 — Merle Weidt",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q47002793",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Merle Weidt",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Merle_Weidt",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q47002793 — Merle Weidt",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q47002793",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @merlewe_ (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/merlewe_/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: de-wiki lead: \"Merle Weidt (* 20. Juli 1999 in Offenburg) ist eine deutsche Volleyballspielerin\" (German women's league); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@merlewe_",
+          "profileUrl": "https://www.instagram.com/merlewe_/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Merle Weidt. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-236",
       "displayName": "Merritt Beason",
       "categories": [
@@ -79686,6 +81158,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2012",
+      "displayName": "Miki Ishii",
+      "categories": [
+        "Beach Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born November 7, 1989 (1989-11-07) — age 36 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: en-wiki lead: \"Miki Ishii (Japanese: 石井美樹, born 7 November 1989) is a Japanese beach volleyball player. She competed in the 2020 Summer Olympics\"; ja-wiki lead agrees (1989年11月7日, 元女子インドアバレーボール選手、現ビーチバレー選手, 湘南ベルマーレ). Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "en.wikipedia.org — Miki Ishii",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Miki_Ishii",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q11585069 — Miki Ishii",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q11585069",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "en.wikipedia.org — Miki Ishii",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Miki_Ishii",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q11585069 — Miki Ishii",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q11585069",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @miki_ishii1107 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/miki_ishii1107/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Beach volleyball. Evidence: en-wiki lead: \"Miki Ishii (Japanese: 石井美樹, born 7 November 1989) is a Japanese beach volleyball player. She competed in the 2020 Summer Olympics\"; ja-wiki lead agrees (1989年11月7日, 元女子インドアバレーボール選手、現ビーチバレー選手, 湘南ベルマーレ)",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@miki_ishii1107",
+          "profileUrl": "https://www.instagram.com/miki_ishii1107/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Miki Ishii. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1559",
       "displayName": "Miki Oyama",
       "categories": [
@@ -80634,6 +82169,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2005",
+      "displayName": "Minori Wada",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 21, 1996 (1996-02-21) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 和田 実莉（わだ みのり、1996年2月21日 - ）は、日本の元女子バレーボール選手 — former women's volleyball player (V.LEAGUE); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Minori Wada",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E5%AE%9F%E8%8E%89",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108109720 — Minori Wada",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108109720",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Minori Wada",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%92%8C%E7%94%B0%E5%AE%9F%E8%8E%89",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108109720 — Minori Wada",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108109720",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @minori_i.w (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/minori_i.w/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 和田 実莉（わだ みのり、1996年2月21日 - ）は、日本の元女子バレーボール選手 — former women's volleyball player (V.LEAGUE); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@minori_i.w",
+          "profileUrl": "https://www.instagram.com/minori_i.w/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Minori Wada. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1705",
       "displayName": "Mio Kudō",
       "categories": [
@@ -81272,6 +82870,132 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2023",
+      "displayName": "Misaki Shirai",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 30, 1996 (1996-07-30) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 白井 美沙紀（1996年7月30日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Misaki Shirai",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E7%BE%8E%E6%B2%99%E7%B4%80",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q22125089 — Misaki Shirai",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q22125089",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Misaki Shirai",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E4%BA%95%E7%BE%8E%E6%B2%99%E7%B4%80",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q22125089 — Misaki Shirai",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q22125089",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @misaki.shirai (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/misaki.shirai/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 白井 美沙紀（1996年7月30日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@misaki.shirai",
+          "profileUrl": "https://www.instagram.com/misaki.shirai/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Misaki Shirai. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2024",
+      "displayName": "Misaki Yamauchi",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 10, 1995 (1995-03-10) — age 31 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 山内 美咲（1995年3月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Misaki Yamauchi",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%86%85%E7%BE%8E%E5%92%B2",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q30923056 — Misaki Yamauchi",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q30923056",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Misaki Yamauchi",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%86%85%E7%BE%8E%E5%92%B2",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q30923056 — Misaki Yamauchi",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q30923056",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @yama9436 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/yama9436/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 山内 美咲（1995年3月10日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@yama9436",
+          "profileUrl": "https://www.instagram.com/yama9436/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Misaki Yamauchi. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-988",
       "displayName": "Miwa Asao",
       "categories": [
@@ -81332,6 +83056,69 @@
       "flags": [],
       "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — international beach volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is beach volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Miwa_Asao. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
       "largestPublicFollowing": null,
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2026",
+      "displayName": "Miwako Osanai",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 19, 1997 (1997-07-19) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 長内 美和子（1997年7月19日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Miwako Osanai",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%86%85%E7%BE%8E%E5%92%8C%E5%AD%90",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q30925497 — Miwako Osanai",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q30925497",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Miwako Osanai",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E5%86%85%E7%BE%8E%E5%92%8C%E5%AD%90",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q30925497 — Miwako Osanai",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q30925497",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @osanaimiwako (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/osanaimiwako/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 長内 美和子（1997年7月19日 - ）は、日本の女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@osanaimiwako",
+          "profileUrl": "https://www.instagram.com/osanaimiwako/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Miwako Osanai. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -82034,6 +83821,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Mizuki Yamamoto. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2017",
+      "displayName": "Mizuki Yanagita",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born March 26, 1996 (1996-03-26) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 柳田 光綺（1996年3月26日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Mizuki Yanagita",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E5%85%89%E7%B6%BA",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q17687675 — Mizuki Yanagita",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q17687675",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Mizuki Yanagita",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E5%85%89%E7%B6%BA",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q17687675 — Mizuki Yanagita",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q17687675",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @yanagiii.r04 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/yanagiii.r04/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 柳田 光綺（1996年3月26日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@yanagiii.r04",
+          "profileUrl": "https://www.instagram.com/yanagiii.r04/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Mizuki Yanagita. No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -83409,6 +85259,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2006",
+      "displayName": "Mutsumi Yasuda",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 13, 1996 (1996-06-13) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 安田 睦実（1996年6月13日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Mutsumi Yasuda",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E7%9D%A6%E5%AE%9F",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108109810 — Mutsumi Yasuda",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108109810",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Mutsumi Yasuda",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%94%B0%E7%9D%A6%E5%AE%9F",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108109810 — Mutsumi Yasuda",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108109810",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @mutsumiiin (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/mutsumiiin/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 安田 睦実（1996年6月13日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@mutsumiiin",
+          "profileUrl": "https://www.instagram.com/mutsumiiin/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Mutsumi Yasuda. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-272",
       "displayName": "Myriam Sylla",
       "categories": [
@@ -84240,6 +86153,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Nagisa Saitō. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2031",
+      "displayName": "Nailya Fakhrutdinova (née Shaydullina)",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born August 2, 1994 (1994-08-02) — age 32 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ru-wiki lead: \"Наиля Робертовна Фахрутдинова (в девичестве — Шайдуллина; род. 2 августа 1994, Азнакаево, Татарстан) — российская волейболистка, доигровщица\" (Russian volleyball player, outside hitter; Wikidata label uses Tatar spelling Nailä Şäydullinä); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ru.wikipedia.org — Nailya Fakhrutdinova (née Shaydullina)",
+        "sourceUrl": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%85%D1%80%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D0%B8%D0%BB%D1%8F_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%BD%D0%B0",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q48954383 — Nailya Fakhrutdinova (née Shaydullina)",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q48954383",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ru.wikipedia.org — Nailya Fakhrutdinova (née Shaydullina)",
+          "platform": "Website",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%85%D1%80%D1%83%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D0%B8%D0%BB%D1%8F_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%BD%D0%B0",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q48954383 — Nailya Fakhrutdinova (née Shaydullina)",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q48954383",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @nelly_shay (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/nelly_shay/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ru-wiki lead: \"Наиля Робертовна Фахрутдинова (в девичестве — Шайдуллина; род. 2 августа 1994, Азнакаево, Татарстан) — российская волейболистка, доигровщица\" (Russian volleyball player, outside hitter; Wikidata label uses Tatar spelling Nailä Şäydullinä); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@nelly_shay",
+          "profileUrl": "https://www.instagram.com/nelly_shay/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Nailya Fakhrutdinova (née Shaydullina). No public count observed."
         }
       ],
       "largestPublicFollowing": null,
@@ -85716,6 +87692,69 @@
         "sizeRange": "FOLLOWER_RANGE_UNKNOWN",
         "checkedAt": "2026-09-06"
       },
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2013",
+      "displayName": "Narissara Kaewma",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born April 11, 1996 (1996-04-11) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: th-wiki lead: นริศรา แก้วมะ (ชื่อเล่น: ป๊อป; 11 เมษายน พ.ศ. 2539 – ) เป็นนักกีฬาวอลเลย์บอลยุวชนหญิงทีมชาติไทย ... ตำแหน่งลิเบอโร (Thai Buddhist-era date; equals 11 April 1996 CE; women's volleyball libero, Thai national youth team, Idea Khonkaen VC). Wikidata has no English label; romanisation \"Narissara Kaewma\" taken from Volleybox team rosters (KKU Khonkaen Star VC / Diamond Food VC, Thailand). DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "th.wikipedia.org — Narissara Kaewma",
+        "sourceUrl": "https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2_%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B0",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q16139381 — Narissara Kaewma",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q16139381",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "th.wikipedia.org — Narissara Kaewma",
+          "platform": "Website",
+          "url": "https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2_%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B0",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q16139381 — Narissara Kaewma",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q16139381",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @pop15narissara (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/pop15narissara/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: th-wiki lead: นริศรา แก้วมะ (ชื่อเล่น: ป๊อป; 11 เมษายน พ.ศ. 2539 – ) เป็นนักกีฬาวอลเลย์บอลยุวชนหญิงทีมชาติไทย ... ตำแหน่งลิเบอโร (Thai Buddhist-era date; equals 11 April 1996 CE; women's volleyball libero, Thai national youth team, Idea Khonkaen VC). Wikidata has no English label; romanisation \"Narissara Kaewma\" taken from Volleybox team rosters (KKU Khonkaen Star VC / Diamond Food VC, Thailand). DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@pop15narissara",
+          "profileUrl": "https://www.instagram.com/pop15narissara/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Narissara Kaewma. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
       "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
@@ -97920,6 +99959,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2010",
+      "displayName": "Risa Hashimoto",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 9, 1997 (1997-06-09) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 橋本 梨紗（1997年6月9日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Risa Hashimoto",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E6%A2%A8%E7%B4%97",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q108776997 — Risa Hashimoto",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q108776997",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Risa Hashimoto",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E6%A2%A8%E7%B4%97",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q108776997 — Risa Hashimoto",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q108776997",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @_rrbin1997 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/_rrbin1997/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 橋本 梨紗（1997年6月9日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@_rrbin1997",
+          "profileUrl": "https://www.instagram.com/_rrbin1997/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Risa Hashimoto. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1585",
       "displayName": "Risa Ohmuro",
       "categories": [
@@ -101139,6 +103241,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2036",
+      "displayName": "Sandra Szabóová",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born July 22, 1996 (1996-07-22) — age 30 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: en-wiki lead: \"Sandra Szabóová (born 22 July 1996) is a Slovak female volleyball player. She is part of the Slovakia women's national volleyball team\"; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "en.wikipedia.org — Sandra Szabóová",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Sandra_Szab%C3%B3ov%C3%A1",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q59859181 — Sandra Szabóová",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q59859181",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "en.wikipedia.org — Sandra Szabóová",
+          "platform": "Website",
+          "url": "https://en.wikipedia.org/wiki/Sandra_Szab%C3%B3ov%C3%A1",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q59859181 — Sandra Szabóová",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q59859181",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @sanndiess (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sanndiess/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: en-wiki lead: \"Sandra Szabóová (born 22 July 1996) is a Slovak female volleyball player. She is part of the Slovakia women's national volleyball team\"; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sanndiess",
+          "profileUrl": "https://www.instagram.com/sanndiess/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Sandra Szabóová. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1986",
       "displayName": "Sanem Babi",
       "categories": [
@@ -101400,6 +103565,69 @@
       "flags": [],
       "notes": "Session 16 Wikidata volleyball expansion (2026-09-07). Session 13 volleyball discovery pass — European / international indoor volleyball; added 2026-09-07. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: Japan. English Wikipedia: https://en.wikipedia.org/wiki/Saori_Sakoda. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
       "largestPublicFollowing": null,
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2034",
+      "displayName": "Saori Uda",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born January 16, 1993 (1993-01-16) — age 33 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 宇田 沙織（うだ さおり、現姓・石坂、1993年1月16日 - ）は、日本の元女子バレーボール選手、指導者 (former player, now coach; married name Ishizaka); DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Saori Uda",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%AE%87%E7%94%B0%E6%B2%99%E7%B9%94",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q56349093 — Saori Uda",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q56349093",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Saori Uda",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E7%94%B0%E6%B2%99%E7%B9%94",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q56349093 — Saori Uda",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q56349093",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @saori.1.16 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/saori.1.16/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 宇田 沙織（うだ さおり、現姓・石坂、1993年1月16日 - ）は、日本の元女子バレーボール選手、指導者 (former player, now coach; married name Ishizaka); DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@saori.1.16",
+          "profileUrl": "https://www.instagram.com/saori.1.16/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Saori Uda. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -105083,6 +107311,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2027",
+      "displayName": "Shiori Tsukada",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born September 7, 1994 (1994-09-07) — age 31 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 塚田 しおり（1994年9月7日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Shiori Tsukada",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E7%94%B0%E3%81%97%E3%81%8A%E3%82%8A",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q43425194 — Shiori Tsukada",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q43425194",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Shiori Tsukada",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E7%94%B0%E3%81%97%E3%81%8A%E3%82%8A",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q43425194 — Shiori Tsukada",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q43425194",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @tsun0697 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/tsun0697/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 塚田 しおり（1994年9月7日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@tsun0697",
+          "profileUrl": "https://www.instagram.com/tsun0697/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Shiori Tsukada. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1300",
       "displayName": "Shizuka Ōya",
       "categories": [
@@ -105981,6 +108272,69 @@
       "lastReviewed": "2026-09-06",
       "flags": [],
       "notes": "Session 13 volleyball discovery pass — European / international volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Citizenship recorded in Wikidata: United States. English Wikipedia: https://en.wikipedia.org/wiki/Simone_Lee. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2029",
+      "displayName": "Sindy Lenz",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born October 3, 1998 (1998-10-03) — age 27 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Sindy Lenz (* 3. Oktober 1998 in Schwedt/Oder) ist eine ehemalige deutsche Volleyballspielerin\"; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Sindy Lenz",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Sindy_Lenz",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q47003102 — Sindy Lenz",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q47003102",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Sindy Lenz",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Sindy_Lenz",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q47003102 — Sindy Lenz",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q47003102",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @sindy.98 (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/sindy.98/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: de-wiki lead: \"Sindy Lenz (* 3. Oktober 1998 in Schwedt/Oder) ist eine ehemalige deutsche Volleyballspielerin\"; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@sindy.98",
+          "profileUrl": "https://www.instagram.com/sindy.98/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Sindy Lenz. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -109287,6 +111641,70 @@
         "AGE_EVIDENCE_SECONDARY_SOURCES"
       ],
       "notes": "Session 13 volleyball discovery pass — NCAA / US college volleyball; added 2026-09-06. Discovery method: public structured-data query over Wikidata for female athletes whose occupation is volleyball player, with a documented date of birth and at least one public social handle (queries archived under data/research/urls/). Teams recorded in the structured item: Wisconsin Badgers women's volleyball. Evidence chain — birth-date reference(s): Volleybox and WorldofVolley. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (sport, competition level, creator activity) — this directory is not an attractiveness ranking.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2040",
+      "displayName": "Symone Speech",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports",
+        "College Athlete"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born May 29, 1997 (1997-05-29) — age 29 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: de-wiki lead: \"Symone Speech (* 29. Mai 1997 in Georgetown) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "de.wikipedia.org — Symone Speech",
+        "sourceUrl": "https://de.wikipedia.org/wiki/Symone_Speech",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q84764757 — Symone Speech",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q84764757",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "de.wikipedia.org — Symone Speech",
+          "platform": "Website",
+          "url": "https://de.wikipedia.org/wiki/Symone_Speech",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q84764757 — Symone Speech",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q84764757",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @symonespeech (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/symonespeech/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball (NCAA / pro). Evidence: de-wiki lead: \"Symone Speech (* 29. Mai 1997 in Georgetown) ist eine US-amerikanische Volleyballspielerin\"; no English Wikidata label — name from de/it article titles; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@symonespeech",
+          "profileUrl": "https://www.instagram.com/symonespeech/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Symone Speech. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -115049,6 +117467,69 @@
       "catalogType": "social"
     },
     {
+      "id": "W-2026-2045",
+      "displayName": "Viktoria Russu",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born February 16, 1999 (1999-02-16) — age 27 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ru-wiki lead: \"Виктория Сергеевна Руссу (род. 16 февраля 1999, Нягань) — российская волейболистка, диагональная нападающая\" (Russian volleyball player, opposite); fr-wiki article also exists; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ru.wikipedia.org — Viktoria Russu",
+        "sourceUrl": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D1%83,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q97316389 — Viktoria Russu",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q97316389",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ru.wikipedia.org — Viktoria Russu",
+          "platform": "Website",
+          "url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D1%83,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q97316389 — Viktoria Russu",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q97316389",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @viktoria.russu (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/viktoria.russu/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ru-wiki lead: \"Виктория Сергеевна Руссу (род. 16 февраля 1999, Нягань) — российская волейболистка, диагональная нападающая\" (Russian volleyball player, opposite); fr-wiki article also exists; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@viktoria.russu",
+          "profileUrl": "https://www.instagram.com/viktoria.russu/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Viktoria Russu. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
       "id": "W-2026-1922",
       "displayName": "Viktoriya Sasonkina",
       "categories": [
@@ -115358,6 +117839,69 @@
         "NAME_ALIAS_IN_WIKIPEDIA"
       ],
       "notes": "Session 18 fashion/fitness-model Wikidata sweep (2026-09-07). Discovery method: public structured-data query over Wikidata for female items whose occupation is model, fashion model, personal trainer, bodybuilder or fitness model, with a documented date of birth and at least one Instagram or TikTok handle (queries archived under data/research/urls/s18_prom_off*.url). Occupation recorded in the structured item: model. Evidence chain — no P854 reference URL; English Wikipedia: https://en.wikipedia.org/wiki/Vivian_Cha. Follower counts: none publicly observed for the listed account(s) — recorded as FOLLOWER_COUNT_UNKNOWN / FOLLOWER_RANGE_UNKNOWN (never estimated, never summed across platforms). Categories are objective (modeling, fashion, fitness, creator activity) — this directory is not an attractiveness ranking. VVN is the Wikidata English label; English Wikipedia article title is Vivian Cha. Flags: AGE_EVIDENCE_WIKIPEDIA_ONLY, NAME_ALIAS_IN_WIKIPEDIA.",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2020",
+      "displayName": "Wakaba Sugihara",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 10, 1995 (1995-06-10) — age 31 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 杉原 若葉（1995年6月10日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Wakaba Sugihara",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%8E%9F%E8%8B%A5%E8%91%89",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q18048313 — Wakaba Sugihara",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q18048313",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Wakaba Sugihara",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E5%8E%9F%E8%8B%A5%E8%91%89",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q18048313 — Wakaba Sugihara",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q18048313",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @waaaaacaba (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/waaaaacaba/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 杉原 若葉（1995年6月10日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@waaaaacaba",
+          "profileUrl": "https://www.instagram.com/waaaaacaba/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Wakaba Sugihara. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
       "catalogType": "social"
     },
     {
@@ -117981,6 +120525,69 @@
           "checkedAt": "2026-09-06",
           "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
           "sourceNote": "Handle documented on official / public profile for Yui Koike. No public count observed."
+        }
+      ],
+      "largestPublicFollowing": null,
+      "overallFollowerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+      "catalogType": "social"
+    },
+    {
+      "id": "W-2026-2021",
+      "displayName": "Yuka Kanasugi",
+      "categories": [
+        "Volleyball",
+        "Athlete",
+        "Sports"
+      ],
+      "legalAdultEvidence": {
+        "summary": "Born June 16, 1995 (1995-06-16) — age 31 as of 2026-09-06, so an adult (18+). Verified line-by-line from official/trusted public source: ja-wiki lead: 金杉 由香（1995年6月16日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata. Adult status rests strictly on the verified birth date, never on appearance, clothing, photographs, or AI inference.",
+        "sourceLabel": "ja.wikipedia.org — Yuka Kanasugi",
+        "sourceUrl": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%9D%89%E7%94%B1%E9%A6%99",
+        "checkedAt": "2026-09-06"
+      },
+      "genderEvidence": {
+        "summary": "Identified as a woman from public official documentary records (agency/roster/profile records and women's professional/creative activities). Gender is established from documentary records, never from appearance, body type, or imagery.",
+        "sourceLabel": "Wikidata Q18545802 — Yuka Kanasugi",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q18545802",
+        "checkedAt": "2026-09-06"
+      },
+      "sources": [
+        {
+          "label": "ja.wikipedia.org — Yuka Kanasugi",
+          "platform": "Website",
+          "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%9D%89%E7%94%B1%E9%A6%99",
+          "relationship": "age-evidence"
+        },
+        {
+          "label": "Wikidata Q18545802 — Yuka Kanasugi",
+          "platform": "Website",
+          "url": "https://www.wikidata.org/wiki/Q18545802",
+          "relationship": "other-trusted"
+        },
+        {
+          "label": "Instagram — @kanasugiyuka (public profile)",
+          "platform": "Instagram",
+          "url": "https://www.instagram.com/kanasugiyuka/",
+          "relationship": "verified-platform"
+        }
+      ],
+      "verificationStatus": "verified",
+      "lastReviewed": "2026-09-06",
+      "flags": [
+        "AGE_EVIDENCE_WIKIPEDIA_ONLY"
+      ],
+      "notes": "Session 27 verified (WDQS volleyball harvest, line-by-line Wikipedia lead-sentence check). Category: Volleyball. Evidence: ja-wiki lead: 金杉 由香（1995年6月16日 - ）は、日本の元女子バレーボール選手; DOB matches Wikidata",
+      "socialAccounts": [
+        {
+          "platform": "Instagram",
+          "username": "@kanasugiyuka",
+          "profileUrl": "https://www.instagram.com/kanasugiyuka/",
+          "followerCountDisplay": "FOLLOWER_COUNT_UNKNOWN",
+          "followerCountNumeric": null,
+          "countType": "unknown",
+          "checkedAt": "2026-09-06",
+          "followerSizeRange": "FOLLOWER_RANGE_UNKNOWN",
+          "sourceNote": "Handle documented on official / public profile for Yuka Kanasugi. No public count observed."
         }
       ],
       "largestPublicFollowing": null,

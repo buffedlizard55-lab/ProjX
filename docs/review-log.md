@@ -1656,3 +1656,37 @@ Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-se
 **Post-apply data hygiene.** 104 new rows had the Wikipedia article listed twice (once as age-evidence, once as other-trusted); the redundant row was removed and the apply script fixed so the pattern cannot recur. A one-off review-queue ID collision (R-2026-154 issued twice) was corrected by renumbering the Session 26 queue rows to R-2026-155..256 and fixing the ID counter in the script.
 
 **Validator.** 2,003 entries (1,811 social / 192 reference) / 244 review queue / 28 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,652 unknown-count pages.
+
+## Session 27 — Wikidata women's volleyball / beach-volleyball harvest (all leagues, born 1985–2008) with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories — this pass concentrated on the "European volleyball and any women's volleyball leagues" part of the scope after the model / fashion-model slices of Session 26; aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; flag irregularities; never discard promising candidates.
+
+**Harvest.** Five archived SPARQL pages (`data/research/urls/s27_vb_wiki_off{0,150,300,450,600}.url`, plain-column `SELECT ?p ?name ?dob ?ig ?tt … ORDER BY ?p LIMIT 150 OFFSET n`) over Wikidata: female humans (P31 Q5, P21 Q6581072) who are volleyball / beach-volleyball players (P106 Q15117302 / Q17361156 or P641 volleyball / beach volleyball), born 1985–2008, carrying an Instagram (P2003) or TikTok (P7085) handle **and** a Wikipedia sitelink in any language. Raw rows are archived in `data/research/s27_raw/vb_wiki_off*_chunk0.txt`; `scripts/session27_parse.py` glues the chunked TSV, de-escapes the `\|` / `\_` artefacts and dedups against the catalog by Q-ID, normalised name and every handle → **743 rows → 45 new** (`data/research/s27_candidates.json`). The 1970–1984 band was scoped as a follow-up (`s27b_vb1970_84_off0.url`: 56 rows, 49 already catalogued, the 7 remaining are non-volleyball people who merely carry a `sport=volleyball` statement — parked in `data/research/s27b_candidates.json`, not added). Wikidata's volleyball population 1985–2008 with a social handle is now exhausted.
+
+**Verification (line by line).** Every one of the 45 candidates was opened on its Wikipedia article (the language of the sitelink: ja 24, de 10, ru 3, en 3, th 1, it 1) via the MediaWiki extracts API and the lead sentence was compared with the Wikidata date of birth; a verdict was logged in `data/research/verification_s27_log.tsv` (`qid|name|dob|verdict|category|evidence|source_url`, **44 rows: 41 PROMOTE / 3 REVIEW**). Anielle Franco Q105939031 (Brazilian politician surfaced by a `sport=volleyball` statement) was excluded up front — she is already a logged Session 26 REJECT. Narissara Kaewma (th-wiki) is recorded with the Gregorian date 1996-04-11 (the Thai article states the Buddhist-era year 2539) and corroborated by the women.volleybox.net club roster (born 1996). Every promoted row's Wikipedia DOB matched Wikidata exactly.
+
+**Apply (`scripts/session27_apply.py`, dry-run first, then live).**
+- **+41 verified entries W-2026-2005..W-2026-2045** (all `catalogType=social`: 40 Instagram, 2 TikTok). Categories: Volleyball / Athlete / Sports ×40 (7 US players who came through the NCAA also carry `College Athlete`: Adeja Lambert, Lindsay Flory, Symone Speech, Madelyn Cole, Lindsey Ruddins, Alexis Conaway, Jasmine Gross), Beach Volleyball ×1 (Miki Ishii). Leagues covered: Japanese V.LEAGUE / SV.LEAGUE, German Bundesliga, Russian Superliga, Korean V-League, Thai league, Italian Serie A, Slovak / Dutch / US-pro rosters. Ages 26–38 as of 2026-09-06.
+- **+3 `REVIEW_REQUIRED` rows R-2026-257..R-2026-259** (all `scope-ambiguous`): Satoyuri Q130726892 (Japanese comedian performing volleyball-themed comedy; IG @styr0908), Kiiara Q23042767 (US singer-songwriter; IG @kiiara), Melanie Hasler Q86597947 (Swiss bobsledder; IG @melaniiexe) — all adult women documented by Wikipedia, but their public activity is outside the focus categories; nothing was discarded.
+- 0 REJECT, 0 MINOR in this batch. `IRR-2026-09-06-029` (BATCH_INGESTION_SESSION_27, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×41 — every DOB rests on a Wikipedia lead sentence (ja 23, de 10, en 3, ru 3, th 1, it 1); no secondary biography databases were used.
+
+**Spot-checks (9/9 exact match, re-opened after apply).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2005 | Minori Wada | 1996-02-21 | ja.wikipedia.org (和田実莉) |
+| W-2026-2012 | Miki Ishii | 1989-11-07 | en.wikipedia.org/wiki/Miki_Ishii |
+| W-2026-2013 | Narissara Kaewma | 1996-04-11 | th.wikipedia.org (นริศรา แก้วมะ) + women.volleybox.net roster (born 1996) |
+| W-2026-2015 | Gabriella Vico | 1987-12-04 | it.wikipedia.org/wiki/Gabriella_Vico |
+| W-2026-2025 | Kaori Mabashi | 1996-11-18 | ja.wikipedia.org (間橋香織) |
+| W-2026-2030 | Liza Kastrup | 1999-10-05 | de.wikipedia.org/wiki/Liza_Kastrup |
+| W-2026-2035 | An Hye-jin | 1998-02-16 | en.wikipedia.org/wiki/An_Hye-jin |
+| W-2026-2040 | Symone Speech | 1997-05-29 | de.wikipedia.org/wiki/Symone_Speech |
+| W-2026-2045 | Viktoria Russu | 1999-02-16 | ru.wikipedia.org (Руссу, Виктория Сергеевна) |
+
+**Follower counts.** Wikidata carries no counts; all 41 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Validator.** 2,044 entries (1,852 social / 192 reference) / 247 review queue / 29 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,693 unknown-count pages.
+
+**Next slice (scoped at the end of this session).** The Wikidata model / fitness-model / pageant / creator pool (P106 Q4610556, Q3357567, Q762121, Q15982795, Q124408963; female; born 1985–2008; IG or TikTok handle) still holds **3,157** items with an English Wikipedia article and **2,415** with only a non-English article; Sessions 18/26 paged it in Q-string order up to Q123694020. Session 28 continues from there (`data/research/urls/s27b_model_gt_off0.url`).
