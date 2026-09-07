@@ -193,6 +193,24 @@ presenters and wrestler-models — from 40 countries, ages 20–40; **+62 REVIEW
 lead / infobox (`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×76; one Wikidata 1-January year-precision value replaced by the cited
 Wikipedia date, `MINOR_SOURCE_CONFLICT_NOTED`). Spot-checks 10/10 matched. Validator **errors=0** (2204 / 367 review / 31 IRR).
 
+**Session 30 (2026-09-06, modeling / gravure / race queen / creator — Japanese-Wikipedia slice of the Wikidata
+model pool, page 1, line-by-line verdicts)** re-balanced toward micro/emerging creators after the celebrity-heavy
+Session 29 page: the 2,415-item pool of female models born 1985–2008 with an Instagram/TikTok handle and a
+*non*-English Wikipedia article was counted per language (ja 1168, zh 343, zh-yue 242, es 233, id 207, ko 185 …)
+and the Japanese slice opened first (`data/research/urls/s30_model_jawiki_off0.url`) → 150 rows → 148 unique →
+**135 new** after dedup. Every candidate's Japanese Wikipedia lead was read through the MediaWiki extracts API
+(`data/research/s30_raw/jawiki_b0..b6.json`) and cross-checked against Wikidata P569; verdicts in
+`data/research/verification_s30_log.tsv` (110 PROMOTE / 24 REVIEW / 1 REJECT / 0 MINOR).
+Result: **+110 verified (W-2026-2206..2315)**, all Instagram/TikTok (**2314 VERIFIED / 2122 social / 192 reference**) —
+Japanese fashion models, gravure (swimsuit-magazine) models, race queens, regional tarento-models (Sendai, Aichi),
+model-influencers / TikTokers, plus a Vietnamese, a Taiwanese, a Hong Kong-born and a Brazilian-Japanese model —
+ages 18–41 (five turned 18 earlier in 2026; every DOB is the ja-wiki lead date matching Wikidata); 112 Instagram /
+38 TikTok handles; **+24 REVIEW_REQUIRED (R-2026-380..403)** (scope-ambiguous 20 incl. NiziU / Angerme / Billlie
+idols and three adult-video performers held for a manual scope decision, AGE_PARTIAL 3, DOB_CONFLICT 3 — flags
+overlap); 1 reject (deceased YouTuber, never added). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×110,
+`NAME_ALIAS_IN_WIKIPEDIA` ×8, `MULTIPLE_IG_HANDLES_DOCUMENTED` ×2, `COUNTRY_NOT_RECORDED` ×1. Spot-checks 10/10
+matched. Validator **errors=0** (2314 / 391 review / 32 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -262,11 +280,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **2204 verified women**,
-  tagged `catalogType` = social (2012, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2314 verified women**,
+  tagged `catalogType` = social (2122, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..2205 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **367 REVIEW_REQUIRED candidates** and **31 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2315 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **391 REVIEW_REQUIRED candidates** and **32 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).
