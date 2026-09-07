@@ -1613,3 +1613,46 @@ Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-se
 
 **Validator.** 1,859 entries / 142 review queue / 27 irregularities / **0 errors**. CATALOG VALID.
 
+
+---
+
+## Session 26 — Wikidata P106 model / fashion-model / volleyball continuation (OFFSET 500–950) with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories (NCAA volleyball, beach volleyball, beachwear, bikini / swimwear fashion, fitness, fitness model, modeling, swimwear; then European volleyball and any women's volleyball leagues); aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; queue everything promising-but-unverified as `REVIEW_REQUIRED`; flag irregularities; no hallucinations.
+
+**Harvest.** 14 archived SPARQL queries (`data/research/s26_queries.json`, `data/research/urls/s26_*.url`) over Wikidata: female humans (P31 Q5, P21 Q6581072) with occupation model / fashion model (P106 Q4610556 / Q3357567, `ORDER BY ?p LIMIT 50 OFFSET 500…950`) plus volleyball / beach-volleyball players (P106 Q15117302 / Q17361156, P641 Q1734 / Q4543, born 1985–2002), each row required to carry an Instagram (P2003) or TikTok (P7085) handle. Raw output in `data/research/s26_*.tsv`; `scripts/session26_parse.py` produced `data/research/s26_candidates.json`: **700 rows → 470 unique QIDs → 251 new** after dedup against every catalog name, Wikidata Q-ID, Instagram and TikTok handle (211 QID dupes, 6 name dupes, 2 handle dupes). Yields by slice: model OFFSET 800 = 42, 950 = 37, 650 = 36, 850 = 35, 900 = 34, 750 = 33, 550/600/700 = 8 each, 500 = 5, volleyball OFFSET 50 = 3, OFFSET 0 = 2.
+
+**Verification (line by line).** Every one of the 251 new candidates was opened individually and a verdict logged in `data/research/verification_s26_log.tsv` (pipe-delimited: `qid|name|dob|verdict|category|evidence|source_url`; **260 rows** incl. a few re-logged duplicates). Evidence hierarchy: English Wikipedia infobox / lead sentence first (112 rows), then other-language Wikipedia (cs 5, zh-yue 1), then official agency / federation / organisation pages (rising-pro.jp, vivi.tv, karascioconsulenzeartistiche.com, rbcasting.com, es.yatecasting.com, aoi-15days.com, thetv.jp, worldathletics.org, V.LEAGUE official player page via Wayback ×2), then reputable press (unotv.com, nos.nl, hot.detik.com, sonora.id, ciaostyle.it, libero.it, superguidatv.it, fanpage.it, afriquemagazine.com, adevarul.ro, larepublica.pe, eluniversaldigital.net, indexjournal.com, actresspress.com), then secondary biography databases only where nothing stronger exists (famousbirthdays ×4, themoviedb, myanimelist, bgm.tv, imdb, bigbrother.fandom, starsunfolded, narcobi — all flagged, see below). Verdict totals: **153 PROMOTE / 100 REVIEW / 6 REJECT / 1 MINOR_UNDERAGE**.
+
+**Apply (`scripts/session26_apply.py`, dry-run first, then live).**
+- **+144 verified entries W-2026-1861..W-2026-2004** (all `catalogType=social`: 143 Instagram, 37 TikTok). Nine PROMOTE rows were *not* promoted by the script's own guards: 6 year-only DOBs demoted to `REVIEW_REQUIRED / AGE_PARTIAL` (Wenanita Angang Q113700849, Xueli Abbing Q115223870, Shweta Sharda Q121912654, Iko Bustomi Q116908443, Kanikka Kapur Q118719998, Athenea Pérez Q120496519), 1 QID already in catalog (Kavka Shishido Q11307132), and batch duplicates collapsed to one row each (Mia Mamede, Selene Delgado, Ndavi Nokeri, Delary Stoffers, Camila Avella, Faizaa Ashfaq).
+- **+102 `REVIEW_REQUIRED` rows R-2026-155..R-2026-256** (flags: scope-ambiguous 38, AGE_PARTIAL 26, REF_404 13, WIKI_404 5, DOB_CONFLICT 5, REF_UNPARSEABLE 4, weak-ref 3, WIKI_REDIRECT 2, REF_DEFACED 2, REF_FAILED 2, REF_REMOVED 2, POSSIBLE_DEATH 1, SOURCE_QUALITY 1, MINOR_UNDERAGE 1, others 1 each). Nothing promising was discarded.
+- **6 REJECT (log-only, never added):** Anielle Franco Q105939031 (Brazilian politician, out of scope), Rina Matsuno Q11532332 (d. 2017), Sienna Weir Q118177467 (d. 2023), Abby Choi Q116921436 (murdered 2023), Kelsey Turner Q115581683 (convicted; former model — excluded per guardrails), plus one duplicate REJECT row.
+- **1 MINOR:** Vittoria Seixas Q122866537 (DOB 2008-12-22, age 17) queued as `MINOR_UNDERAGE`, re-evaluate from 2027-12-22; never published.
+- Age range of promoted rows 18–49 (as of 2026-09-06). Two age-18 rows rest on official/primary sources (Reiyo Matsumoto 2008-02-29 rising-pro.jp; Yumia Fujisaki 2008-02-16 en-wiki).
+- Volleyball rows promoted this session: Park Eun-jin (W-2026-1861, en-wiki 1999-12-15 — corrects Wikidata's 1999-01-01 year-precision value), Rachael Kramer (W-2026-1866), Madison Lilley (W-2026-1867), Akiho Matsumoto (W-2026-1997, V.LEAGUE official page via Wayback). The volleyball slices are near-saturated — see Session 27.
+- `IRR-2026-09-06-028` (BATCH_INGESTION_SESSION_26, resolved) records the batch.
+
+**Provenance flags added on the promoted rows (consistent with catalog convention).** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×111 (DOB rests on a Wikipedia infobox / lead sentence only); `AGE_EVIDENCE_SECONDARY_SOURCES` ×11 — Lauren Alexis W-2026-1971 (famousbirthdays), Emma Harvey W-2026-1977 (themoviedb), Ayame Tajiri W-2026-1978 (myanimelist), Nicole Ishida W-2026-1979 (bgm.tv), **Jenaya Lee W-2026-1985 (fr.famousbirthdays, DOB 2008-02-04 — age 18, weakest row of the batch; recommended first for manual click-through)**, Sanem Babi W-2026-1986 (narcobi), Heidi Baci W-2026-1992 (bigbrother.fandom), Zainab Raza W-2026-1994 (starsunfolded), Phoebe Tomlinson W-2026-1999 and Laila Hasanovic W-2026-2000 (famousbirthdays), Rafaela Andrade W-2026-2003 (IMDb bio). No January-1 DOB was promoted.
+
+**Scope note.** 19 PROMOTE rows carry a verifier category outside the focus keywords (beauty-pageant titleholders such as Lulu Zaharani, Juliana Habib, Indira Ampiot, Jasmin Selberg, Fabiënne Groeneveld, Gugulethu Mayisela, Bryoni Govender, Nikoline Uhrenholt Hansen, Kirby Elizabeth Self; creators Lele Pons, Devon Lee Carlson; TV/entertainment Rissanda Putri Tuarissa, Emma Harvey, Sanem Babi, Ivana Yturbe, Angelica Baraldi; athlete Marie-Ange Brumelot). All were harvested under Wikidata occupation *model* / *fashion model* and are catalogued as Modeling / Fashion; the note field keeps the verifier's category for manual review.
+
+**Spot-checks (10/10 exact match, re-opened after apply).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-1861 | Park Eun-jin | 1999-12-15 | en.wikipedia.org/wiki/Park_Eun-jin |
+| W-2026-1866 | Rachael Kramer | 1998-03-15 | en.wikipedia.org/wiki/Rachael_Kramer (live re-check "born March 15, 1998") |
+| W-2026-1867 | Madison Lilley | 1999-04-15 | en.wikipedia.org/wiki/Madison_Lilley |
+| W-2026-1964 | Bryoni Govender | 1996-07-17 | en.wikipedia.org/wiki/Bryoni_Govender (resolves a Wikidata conflict) |
+| W-2026-1975 | Karely Ruiz | 2000-10-28 | unotv.com |
+| W-2026-1976 | Elena Funari | 1995-04-12 | karascioconsulenzeartistiche.com (agency) |
+| W-2026-1988 | Reiyo Matsumoto | 2008-02-29 | rising-pro.jp (agency) |
+| W-2026-1996 | Carman Chan | 2000-11-11 | zh-yue.wikipedia.org |
+| W-2026-1997 | Akiho Matsumoto | 1997-06-29 | vleague.jp official player page (Wayback 2023-08-10) |
+| W-2026-2001 | Marie-Ange Brumelot | 1993-01-14 | worldathletics.org |
+
+**Follower counts.** Wikidata carries no counts; all 144 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Post-apply data hygiene.** 104 new rows had the Wikipedia article listed twice (once as age-evidence, once as other-trusted); the redundant row was removed and the apply script fixed so the pattern cannot recur. A one-off review-queue ID collision (R-2026-154 issued twice) was corrected by renumbering the Session 26 queue rows to R-2026-155..256 and fixing the ID counter in the script.
+
+**Validator.** 2,003 entries (1,811 social / 192 reference) / 244 review queue / 28 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,652 unknown-count pages.

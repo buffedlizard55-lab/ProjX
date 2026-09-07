@@ -139,6 +139,18 @@ pornhub / Playboy-magazine citations never used as age evidence. Validator **err
 (1454 / 142 review / 24 IRR). Modeling 210→335, Fashion 174→299. Volleyball 839 unchanged
 (2003–08 IG/TikTok still exhausted).
 
+**Session 26 (2026-09-06, model / fashion-model / volleyball Wikidata continuation OFFSET 500–950,
+line-by-line verdicts)** harvested 14 archived SPARQL slices (`data/research/s26_queries.json`) → 700 rows →
+470 unique → **251 new** after name/Q-ID/handle dedup, then opened **every** candidate and logged a verdict in
+`data/research/verification_s26_log.tsv` (153 PROMOTE / 100 REVIEW / 6 REJECT / 1 MINOR). Result:
+**+144 verified (W-2026-1861..2004)**, all Instagram/TikTok (**2003 VERIFIED / 1811 social / 192 reference**),
+**+102 REVIEW_REQUIRED (R-2026-155..256)**, 6 rejects (deceased / out-of-scope / convicted — never added),
+1 minor queued (Vittoria Seixas, 2008-12-22, re-evaluate 2027-12-22). Age evidence: English Wikipedia 105,
+other-language Wikipedia 6, official agency / federation / V.LEAGUE pages 10, reputable press 15, secondary
+biography databases 11 (flagged `AGE_EVIDENCE_SECONDARY_SOURCES`; weakest row Jenaya Lee W-2026-1985, age 18,
+fr.famousbirthdays only). Volleyball rows: Park Eun-jin, Rachael Kramer, Madison Lilley, Akiho Matsumoto.
+Spot-checks 10/10 matched (see `docs/review-log.md`). Validator **errors=0** (2003 / 244 review / 28 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -208,11 +220,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **1859 verified women**,
-  tagged `catalogType` = social (1667, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2003 verified women**,
+  tagged `catalogType` = social (1811, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..1860 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **142 REVIEW_REQUIRED candidates** and **27 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2004 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **244 REVIEW_REQUIRED candidates** and **28 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).

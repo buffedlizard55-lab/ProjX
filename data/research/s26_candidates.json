@@ -1,0 +1,7463 @@
+{
+ "totalRows": 700,
+ "uniqueQids": 470,
+ "dupes": {
+  "qid": 211,
+  "name": 6,
+  "handle": 2
+ },
+ "new": [
+  {
+   "qid": "Q105939031",
+   "name": "Anielle Franco",
+   "dob": "1985-01-01",
+   "ig": "aniellefranco",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.moneytimes.com.br/anielle-franco-quem-e-a-futura-ministra-da-igualdade-racial/",
+   "wiki": "https://en.wikipedia.org/wiki/Anielle_Franco",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://exame.com/brasil/quem-e-anielle-franco-ministra-da-igualdade-racial-do-novo-governo-lula/",
+    "https://www.moneytimes.com.br/anielle-franco-quem-e-a-futura-ministra-da-igualdade-racial/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anielle_Franco"
+   ]
+  },
+  {
+   "qid": "Q107963084",
+   "name": "Park Eun-jin",
+   "dob": "1999-01-01",
+   "ig": "as991215",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Park_Eun-jin",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Park_Eun-jin"
+   ]
+  },
+  {
+   "qid": "Q108110047",
+   "name": "Akiho Matsumoto",
+   "dob": "1997-06-29",
+   "ig": "ak.9629",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.vleague.jp/women/player_detail/3885",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.vleague.jp/women/player_detail/3885"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q109299774",
+   "name": "Rachael Kramer",
+   "dob": "1998-03-15",
+   "ig": "rachaelkramer5",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/140431.html",
+   "wiki": "https://en.wikipedia.org/wiki/Rachael_Kramer",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/140431.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rachael_Kramer"
+   ]
+  },
+  {
+   "qid": "Q109321533",
+   "name": "Madison Lilley",
+   "dob": "1999-04-15",
+   "ig": "mplilley03",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.sc-potsdam.de/volleyball-bundesliga/team/mannschaft/madison-lilley/",
+   "wiki": "https://en.wikipedia.org/wiki/Madison_Lilley",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.sc-potsdam.de/volleyball-bundesliga/team/mannschaft/madison-lilley/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Madison_Lilley"
+   ]
+  },
+  {
+   "qid": "Q113074039",
+   "name": "Daniella Devaney",
+   "dob": "2007-12-14",
+   "ig": "daniella.devaney",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.imdb.com/name/nm12620110/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.imdb.com/name/nm12620110/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q113157584",
+   "name": "Mia Mamede",
+   "dob": "1995-01-01",
+   "ig": "miamamede",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mia_Mamede",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mia_Mamede"
+   ]
+  },
+  {
+   "qid": "Q113162317",
+   "name": "Selene Delgado",
+   "dob": "1996-01-01",
+   "ig": "seledelgado",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Selene_Delgado",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Selene_Delgado"
+   ]
+  },
+  {
+   "qid": "Q113544064",
+   "name": "Ndavi Nokeri",
+   "dob": "1999-01-01",
+   "ig": "ndavi.nokerii",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ndavi_Nokeri",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ndavi_Nokeri"
+   ]
+  },
+  {
+   "qid": "Q113553851",
+   "name": "Lauren Alexis",
+   "dob": "1999-03-05",
+   "ig": "laurenalexis_x",
+   "tt": "laurenalexis_x",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/lauren-alexis.html",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/lauren-alexis.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q113700849",
+   "name": "Wenanita Angang",
+   "dob": "1996-01-01",
+   "ig": "wenanitaangang",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Wenanita_Angang",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Wenanita_Angang"
+   ]
+  },
+  {
+   "qid": "Q1138101",
+   "name": "Miesha Tate",
+   "dob": "1986-08-18",
+   "ig": "mieshatate",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Miesha_Tate",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Miesha_Tate"
+   ]
+  },
+  {
+   "qid": "Q113828201",
+   "name": "Carman Chan",
+   "dob": "2000-11-11",
+   "ig": "carmanxchan",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://zh-yue.wikipedia.org/wiki/%E9%99%B3%E9%9B%85%E9%9B%AF",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://zh-yue.wikipedia.org/wiki/%E9%99%B3%E9%9B%85%E9%9B%AF"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q113899579",
+   "name": "Sara Sierra",
+   "dob": "1995-01-01",
+   "ig": "sara.sierra95",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://morcillogonzalez.com/wp-content/uploads/2019/02/CV_SARA_SIERRA_SERRANO.pdf",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://morcillogonzalez.com/wp-content/uploads/2019/02/CV_SARA_SIERRA_SERRANO.pdf"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q113899727",
+   "name": "Sara Sierra",
+   "dob": "1990-01-01",
+   "ig": "sarasierragr",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://it.e-talenta.eu/members/profile/sara-sierra",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://it.e-talenta.eu/members/profile/sara-sierra"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11390997",
+   "name": "Ai Yahata",
+   "dob": "1987-07-21",
+   "ig": "aiainstein",
+   "tt": "aiainstein",
+   "occ": "model",
+   "refUrl": "https://reiwa-shinsengumi.com/aiyahata/",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://reiwa-shinsengumi.com/aiyahata/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q114060568",
+   "name": "Rissanda Putri",
+   "dob": "1999-08-04",
+   "ig": "princessandaa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://web.archive.org/web/20160830162844/http://www.jkt48.com/member/detail/id/178?lang=id",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://web.archive.org/web/20160830162844/http://www.jkt48.com/member/detail/id/178?lang=id"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q114169005",
+   "name": "Miyashita Saki",
+   "dob": "2004-09-15",
+   "ig": "saki_miyashita.official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://thetv.jp/person/2000046962/",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://thetv.jp/person/2000046962/",
+    "https://www.amuse.co.jp/artist/A8934/index.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11459114",
+   "name": "Yuka Koide",
+   "dob": "1985-01-05",
+   "ig": "yuka_koide",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yuka_Koide",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuka_Koide"
+   ]
+  },
+  {
+   "qid": "Q114817522",
+   "name": "Aleksandra Klepaczka",
+   "dob": "2000-01-01",
+   "ig": "klepaka",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Aleksandra_Klepaczka",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aleksandra_Klepaczka"
+   ]
+  },
+  {
+   "qid": "Q11495847",
+   "name": "Miwako Wagatsuma",
+   "dob": "1991-02-11",
+   "ig": "wagamiwa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://movie.douban.com/celebrity/1226415",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1226415"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115052456",
+   "name": "Fujianti Utami Putri",
+   "dob": "2002-11-03",
+   "ig": "fuji_an",
+   "tt": "fujiiian",
+   "occ": "model",
+   "refUrl": "https://hot.detik.com/celeb/d-6386075/fuji-masih-trauma-kecelakaan-vanessa-bibi-sempat-tak-ingin-rayakan-ultah",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://hot.detik.com/celeb/d-6386075/fuji-masih-trauma-kecelakaan-vanessa-bibi-sempat-tak-ingin-rayakan-ultah"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115136326",
+   "name": "",
+   "dob": "1999-06-13",
+   "ig": "ponyoouji",
+   "tt": "ponyoouji",
+   "occ": "fashion model",
+   "refUrl": "https://ponyoouji.com/",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://ponyoouji.com/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115163489",
+   "name": "Karely Ruiz",
+   "dob": "2000-10-28",
+   "ig": "karelyruiz",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.unotv.com/karely-ruiz/quien-es-karely-ruiz-y-por-que-se-hizo-famosa/",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://www.unotv.com/karely-ruiz/quien-es-karely-ruiz-y-por-que-se-hizo-famosa/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11516482",
+   "name": "Miki Arimura",
+   "dob": "1986-02-26",
+   "ig": "arimura_miki",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "http://www.promage.co.jp/arimura.html",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "http://www.promage.co.jp/arimura.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11518225",
+   "name": "Aya Kiguchi",
+   "dob": "1985-10-11",
+   "ig": "ayakiguchi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Aya_Kiguchi",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aya_Kiguchi"
+   ]
+  },
+  {
+   "qid": "Q115223870",
+   "name": "Xueli Abbing",
+   "dob": "2004-01-01",
+   "ig": "xueli_a",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://nos.nl/l/2432570",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://nos.nl/l/2432570"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11522592",
+   "name": "Natsupoi",
+   "dob": "1995-07-19",
+   "ig": "natsumi_poi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "http://www.profightdb.com/wrestlers/natsumi-maki-16549.html",
+   "wiki": "https://en.wikipedia.org/wiki/Natsupoi",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "http://www.profightdb.com/wrestlers/natsumi-maki-16549.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Natsupoi"
+   ]
+  },
+  {
+   "qid": "Q11523609",
+   "name": "Mako Morino",
+   "dob": "1987-01-24",
+   "ig": "makomorino",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mako_Morino",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mako_Morino"
+   ]
+  },
+  {
+   "qid": "Q11529119",
+   "name": "Airi Matsui",
+   "dob": "1996-12-26",
+   "ig": "airi1226_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1333903",
+   "wiki": "https://en.wikipedia.org/wiki/Airi_Matsui",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1333903"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Airi_Matsui"
+   ]
+  },
+  {
+   "qid": "Q11532332",
+   "name": "Rina Matsuno",
+   "dob": "1998-07-16",
+   "ig": "matsunorina_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Rina_Matsuno",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rina_Matsuno"
+   ]
+  },
+  {
+   "qid": "Q11534504",
+   "name": "Miyu Yagyū",
+   "dob": "1990-10-20",
+   "ig": "miyu_yagyu",
+   "tt": "miyuyagyu",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1319078",
+   "wiki": "https://en.wikipedia.org/wiki/Miyu_Yagyu",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1319078"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Miyu_Yagyu"
+   ]
+  },
+  {
+   "qid": "Q11538764",
+   "name": "Riria",
+   "dob": "1993-12-18",
+   "ig": "r_riria",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Riria_Kojima",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Riria_Kojima"
+   ]
+  },
+  {
+   "qid": "Q11539730",
+   "name": "Hikari Mori",
+   "dob": "1992-04-22",
+   "ig": "hikari",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hikari_Mori",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Hikari_Mori"
+   ]
+  },
+  {
+   "qid": "Q11540451",
+   "name": "Ai Moritaka",
+   "dob": "1998-01-14",
+   "ig": "ai_moritaka_official",
+   "tt": "ai_moritaka",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ai_Moritaka",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ai_Moritaka"
+   ]
+  },
+  {
+   "qid": "Q11540769",
+   "name": "Hikari Shiina",
+   "dob": "1994-11-18",
+   "ig": "pikarin_shiina",
+   "tt": "pikarin_shiina",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hikari_Shiina",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Hikari_Shiina"
+   ]
+  },
+  {
+   "qid": "Q115408471",
+   "name": "Sasha Gigliani",
+   "dob": "1993-09-26",
+   "ig": "sashagigliani",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://estudiantesdelaplata.com/jugadora/sasha-gigliani/",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://estudiantesdelaplata.com/jugadora/sasha-gigliani/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115408862",
+   "name": "Indira Ampiot",
+   "dob": "2004-09-19",
+   "ig": "indira.ampiot",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Indira_Ampiot",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Indira_Ampiot"
+   ]
+  },
+  {
+   "qid": "Q1154201",
+   "name": "Kanna Mori",
+   "dob": "1988-06-22",
+   "ig": "kanna_mori",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kanna_Mori",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kanna_Mori"
+   ]
+  },
+  {
+   "qid": "Q1154210",
+   "name": "Tomomi Itano",
+   "dob": "1991-07-03",
+   "ig": "tomo.i_0703",
+   "tt": "tomo.i_0703",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Tomomi_Itano",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tomomi_Itano"
+   ]
+  },
+  {
+   "qid": "Q1154232",
+   "name": "Atsuko Maeda",
+   "dob": "1991-07-10",
+   "ig": "atsuko_potts",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Atsuko_Maeda",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Atsuko_Maeda"
+   ]
+  },
+  {
+   "qid": "Q11543902",
+   "name": "Nanami Hashimoto",
+   "dob": "1993-02-20",
+   "ig": "nanami_hashimoto2017",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nanami_Hashimoto",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nanami_Hashimoto"
+   ]
+  },
+  {
+   "qid": "Q115464109",
+   "name": "Elena Funari",
+   "dob": "1995-04-12",
+   "ig": "elenafunari",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.karascioconsulenzeartistiche.com/artisti/elena-funari/",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://www.karascioconsulenzeartistiche.com/artisti/elena-funari/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115472014",
+   "name": "Naomi J. Ogawa",
+   "dob": "1996-08-24",
+   "ig": "naomijogawa_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Naomi_J._Ogawa",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Naomi_J._Ogawa"
+   ]
+  },
+  {
+   "qid": "Q115497215",
+   "name": "Mina Sue Choi",
+   "dob": "1999-02-22",
+   "ig": "minadori222",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Choi_Mina_Sue",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Choi_Mina_Sue"
+   ]
+  },
+  {
+   "qid": "Q11550247",
+   "name": "Reina Nagata",
+   "dob": "1992-02-01",
+   "ig": "reina_nagata",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Reina_Nagata",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Reina_Nagata"
+   ]
+  },
+  {
+   "qid": "Q11550448",
+   "name": "Mei Nagano",
+   "dob": "1999-09-24",
+   "ig": "mei_nagano0924official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mei_Nagano",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mei_Nagano"
+   ]
+  },
+  {
+   "qid": "Q11551482",
+   "name": "Sarii Ikegami",
+   "dob": "1995-10-19",
+   "ig": "sarii_ikegami",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sarii_Ikegami",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sarii_Ikegami"
+   ]
+  },
+  {
+   "qid": "Q1155169",
+   "name": "Nana Eikura",
+   "dob": "1988-02-12",
+   "ig": "nana_eikura",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nana_Eikura",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nana_Eikura"
+   ]
+  },
+  {
+   "qid": "Q115518557",
+   "name": "Chanty",
+   "dob": "2002-12-15",
+   "ig": "itsmaria.chantal",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Chanty_(singer)",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Chanty_(singer)"
+   ]
+  },
+  {
+   "qid": "Q115528217",
+   "name": "Bae Yu Jin",
+   "dob": "2002-04-30",
+   "ig": "_baetiful",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Bae_Yujin",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Bae_Yujin"
+   ]
+  },
+  {
+   "qid": "Q115529023",
+   "name": "Saki Yamato",
+   "dob": "1993-02-22",
+   "ig": "saki_yamato_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://irving.co.jp/talents/saki-yamato/",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://irving.co.jp/talents/saki-yamato/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115529047",
+   "name": "Minori Taira",
+   "dob": "2004-06-28",
+   "ig": "minori_taira",
+   "tt": "minorin30",
+   "occ": "fashion model",
+   "refUrl": "https://avex-management.jp/artists/model/tairaminori",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://avex-management.jp/artists/model/tairaminori"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q115529246",
+   "name": "Anji Ikehata",
+   "dob": "2007-09-08",
+   "ig": "lespros_anji",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Anji_Ikehata",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anji_Ikehata"
+   ]
+  },
+  {
+   "qid": "Q115529255",
+   "name": "Aoi Matsuyama",
+   "dob": "1993-10-10",
+   "ig": "aoi_oix2",
+   "tt": "aoi_15candy",
+   "occ": "model",
+   "refUrl": "https://aoi-15days.com/profile.html",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://aoi-15days.com/profile.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11553334",
+   "name": "Ai Kawanaka",
+   "dob": "1985-03-03",
+   "ig": "ai_kawanaka",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ai_Kawanaka",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ai_Kawanaka"
+   ]
+  },
+  {
+   "qid": "Q115581683",
+   "name": "Kelsey Turner",
+   "dob": "1993-05-05",
+   "ig": "kelseyturnerbaddbarbie",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kelsey_Turner",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kelsey_Turner"
+   ]
+  },
+  {
+   "qid": "Q11560035",
+   "name": "Mai Fukagawa",
+   "dob": "1991-03-29",
+   "ig": "fukagawamai.official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mai_Fukagawa",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mai_Fukagawa"
+   ]
+  },
+  {
+   "qid": "Q115609914",
+   "name": "Nilsu Berfin Aktaş",
+   "dob": "1998-08-17",
+   "ig": "nilsuberfinaktas",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nilsu_Berfin_Akta%C5%9F",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nilsu_Berfin_Akta%C5%9F"
+   ]
+  },
+  {
+   "qid": "Q11561434",
+   "name": "Nana Seino",
+   "dob": "1994-10-14",
+   "ig": "seinonana",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nana_Seino",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nana_Seino"
+   ]
+  },
+  {
+   "qid": "Q115622286",
+   "name": "Camila Pinzón",
+   "dob": "1996-05-10",
+   "ig": "camilapinzonk",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Camila_Pinz%C3%B3n",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Camila_Pinz%C3%B3n"
+   ]
+  },
+  {
+   "qid": "Q11565205",
+   "name": "Karen Takizawa",
+   "dob": "1992-05-13",
+   "ig": "takizawakarenofficial",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Karen_Takizawa",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Karen_Takizawa"
+   ]
+  },
+  {
+   "qid": "Q115653050",
+   "name": "Yaiselle Tous",
+   "dob": "1996-08-22",
+   "ig": "tousyaiselle",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yaiselle_Tous",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yaiselle_Tous"
+   ]
+  },
+  {
+   "qid": "Q115677770",
+   "name": "Erina Gudono",
+   "dob": "1996-12-11",
+   "ig": "erinagudono",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Erina_Gudono",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Erina_Gudono"
+   ]
+  },
+  {
+   "qid": "Q115687297",
+   "name": "Jasmin Selberg",
+   "dob": "1999-08-11",
+   "ig": "jasminselberg",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Jasmin_Selberg",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jasmin_Selberg"
+   ]
+  },
+  {
+   "qid": "Q115731747",
+   "name": "Emma Harvey",
+   "dob": "1995-08-19",
+   "ig": "",
+   "tt": "elitaharkov",
+   "occ": "model",
+   "refUrl": "https://www.themoviedb.org/person/2364963",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.themoviedb.org/person/2364963"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11576527",
+   "name": "Ayame Tajiri",
+   "dob": "1998-05-28",
+   "ig": "taziriayame",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://myanimelist.net/people/21691",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://myanimelist.net/people/21691"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11586894",
+   "name": "Nicole Ishida",
+   "dob": "1990-05-29",
+   "ig": "nicole_ishida",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://bgm.tv/person/34342",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://bgm.tv/person/34342"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11586910",
+   "name": "Karen Ishida",
+   "dob": "1996-08-06",
+   "ig": "ishidakaren.gram",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://actresspress.com/karen_ishida-affectgrand20180113/",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://actresspress.com/karen_ishida-affectgrand20180113/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116143349",
+   "name": "Megan Nutt",
+   "dob": "2002-02-14",
+   "ig": "megnutt02",
+   "tt": "megnutt02",
+   "occ": "model",
+   "refUrl": "https://babesdirectory.online/profile/megan-guthrie",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://babesdirectory.online/profile/megan-guthrie"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11629751",
+   "name": "Mami Nishino",
+   "dob": "1996-11-24",
+   "ig": "maminishino",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1376774",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1376774"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116301415",
+   "name": "Drusilla Gucci",
+   "dob": "1994-04-02",
+   "ig": "_drusillagucci",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/drusilla-gucci/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.chiecosa.it/drusilla-gucci/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11635333",
+   "name": "Saki Akai",
+   "dob": "1987-01-24",
+   "ig": "saki__akai",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Saki_Akai",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Saki_Akai"
+   ]
+  },
+  {
+   "qid": "Q11638739",
+   "name": "Chihiro Kondō",
+   "dob": "1989-12-15",
+   "ig": "chipichan.1215",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Chihiro_Kondo",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Chihiro_Kondo"
+   ]
+  },
+  {
+   "qid": "Q11641788",
+   "name": "Angelica Michibata",
+   "dob": "1985-12-05",
+   "ig": "angelica_michibata",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Angelica_Michibata",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Angelica_Michibata"
+   ]
+  },
+  {
+   "qid": "Q116486077",
+   "name": "Koko Claire Figura-Schoenhals",
+   "dob": "2002-10-24",
+   "ig": "kokofigura",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://plejada.pl/newsy/corka-katarzyny-figury-koko-wie-jak-zwrocic-uwage-mediow/fbhx43c",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://plejada.pl/newsy/corka-katarzyny-figury-koko-wie-jak-zwrocic-uwage-mediow/fbhx43c"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11648720",
+   "name": "Nana Suzuki",
+   "dob": "1988-07-09",
+   "ig": "nana_suzuki79",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nana_Suzuki",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nana_Suzuki"
+   ]
+  },
+  {
+   "qid": "Q11651085",
+   "name": "Hiroko Kamata",
+   "dob": "1989-09-18",
+   "ig": "hirokokamata12",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://www.csfd.cz/tvurce/383451/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.csfd.cz/tvurce/383451/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11653644",
+   "name": "Celina Jade",
+   "dob": "1985-06-10",
+   "ig": "celinajade",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Celina_Jade",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Celina_Jade"
+   ]
+  },
+  {
+   "qid": "Q11653902",
+   "name": "Jun Hasegawa",
+   "dob": "1986-06-05",
+   "ig": "liveglenwood",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Jun_Hasegawa",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jun_Hasegawa"
+   ]
+  },
+  {
+   "qid": "Q11662775",
+   "name": "Yui Aoya",
+   "dob": "1991-11-16",
+   "ig": "yu__i.aoya",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "http://jip-inc.jp/artist/aoya/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "http://jip-inc.jp/artist/aoya/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11664085",
+   "name": "Hanae Kan",
+   "dob": "1990-11-07",
+   "ig": "hanaekan_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hanae_Kan",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Hanae_Kan"
+   ]
+  },
+  {
+   "qid": "Q11666",
+   "name": "Maria Sharapova",
+   "dob": "1987-04-19",
+   "ig": "mariasharapova",
+   "tt": "sugarpova.com",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Maria_Sharapova",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Maria_Sharapova"
+   ]
+  },
+  {
+   "qid": "Q11666682",
+   "name": "Marie Iitoyo",
+   "dob": "1998-01-05",
+   "ig": "marie_iitoyo",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Marie_Iitoyo",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Marie_Iitoyo"
+   ]
+  },
+  {
+   "qid": "Q116673",
+   "name": "Kerstin Cook",
+   "dob": "1989-04-15",
+   "ig": "kerstincook",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kerstin_Cook",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kerstin_Cook"
+   ]
+  },
+  {
+   "qid": "Q116678204",
+   "name": "Kirby Elizabeth Self",
+   "dob": "1999-06-12",
+   "ig": "missscusa",
+   "tt": "kirbyself",
+   "occ": "model",
+   "refUrl": "https://www.indexjournal.com/news/greenwoods-kirby-self-competing-for-miss-teen-usa/article_5bd97ebf-58df-5fce-9e33-2087ec881861.html",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.indexjournal.com/news/greenwoods-kirby-self-competing-for-miss-teen-usa/article_5bd97ebf-58df-5fce-9e33-2087ec881861.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116679565",
+   "name": "Nesrin Sanad",
+   "dob": "1985-05-16",
+   "ig": "nesrinsanad",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nesrin_Sanad",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nesrin_Sanad"
+   ]
+  },
+  {
+   "qid": "Q116685574",
+   "name": "Maria Laura De Vitis",
+   "dob": "1998-03-02",
+   "ig": "la.devitis",
+   "tt": "la.devitis",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/marialaura-de-vitis/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.chiecosa.it/marialaura-de-vitis/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116686156",
+   "name": "Taylor Mega",
+   "dob": "1993-10-31",
+   "ig": "taylor_mega",
+   "tt": "taylor_mega",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/taylor-mega/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.chiecosa.it/taylor-mega/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116687627",
+   "name": "Zea",
+   "dob": "1992-11-16",
+   "ig": "this.is.zea",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.tv-archiv.sk/-alzbeta-ferencova",
+   "wiki": "https://en.wikipedia.org/wiki/Zea_(singer)",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.tv-archiv.sk/-alzbeta-ferencova",
+    "https://www1.pluska.sk/soubiznis/domaci-soubiznis/alzbeta-ferencova-koleso-stastia-ju-psychicky-znicilo-pre-nechutne-hejty-usla-slovenska"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Zea_(singer)"
+   ]
+  },
+  {
+   "qid": "Q116723",
+   "name": "Alina Buchschacher",
+   "dob": "1991-07-19",
+   "ig": "alinabuchschacher",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Alina_Buchschacher",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Alina_Buchschacher"
+   ]
+  },
+  {
+   "qid": "Q11672999",
+   "name": "Tomomi Takano",
+   "dob": "1987-06-12",
+   "ig": "tomomitakano7",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Tomomi_Takano",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tomomi_Takano"
+   ]
+  },
+  {
+   "qid": "Q11678165",
+   "name": "Reina Kurosaki",
+   "dob": "1998-11-11",
+   "ig": "reina_kurosaki_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Reina_Kurosaki",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Reina_Kurosaki"
+   ]
+  },
+  {
+   "qid": "Q116784773",
+   "name": "Zara Bedel",
+   "dob": "1997-06-26",
+   "ig": "zarabedel",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.thecitizen.co.tz/tanzania/magazines/sound-living/from-zenji-to-the-world-zara-bedel-s-rise-to-global-spotlights-4334830",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.thecitizen.co.tz/tanzania/magazines/sound-living/from-zenji-to-the-world-zara-bedel-s-rise-to-global-spotlights-4334830"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116789835",
+   "name": "Nora Haukland",
+   "dob": "1997-01-01",
+   "ig": "norahaukland",
+   "tt": "norahaukland",
+   "occ": "model",
+   "refUrl": "https://www.proff.no/rolle/nora-haukland/oslo/2179381/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.proff.no/rolle/nora-haukland/oslo/2179381/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11679159",
+   "name": "Asuka Saitō",
+   "dob": "1998-08-10",
+   "ig": "asuka.3110.official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://www.nogizaka46.com/s/n46/artist/264",
+   "wiki": "https://en.wikipedia.org/wiki/Asuka_Sait%C5%8D",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.nogizaka46.com/s/n46/artist/264"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Asuka_Sait%C5%8D"
+   ]
+  },
+  {
+   "qid": "Q116808377",
+   "name": "Luma Russo",
+   "dob": "1995-03-30",
+   "ig": "russoluma",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Luma_Russo",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Luma_Russo"
+   ]
+  },
+  {
+   "qid": "Q116877586",
+   "name": "Angela Atlang",
+   "dob": "1994-11-04",
+   "ig": "angelaatlang",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://briefly.co.za/facts-lifehacks/celebrities-biographies/140595-itseng-muvhango-angela-atlang-age-boyfriend-tv-shows-profiles/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://briefly.co.za/facts-lifehacks/celebrities-biographies/140595-itseng-muvhango-angela-atlang-age-boyfriend-tv-shows-profiles/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116890056",
+   "name": "Minori Hazuki",
+   "dob": "2008-02-06",
+   "ig": "hazukiminori_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.stardust.co.jp/talent/section1/hazukiminori/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.stardust.co.jp/talent/section1/hazukiminori/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116893940",
+   "name": "Erica Murakami",
+   "dob": "2000-08-13",
+   "ig": "murakami_erica__",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://www.vivi.tv/model/murakamierica/",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.vivi.tv/model/murakamierica/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116908443",
+   "name": "Iko Bustomi",
+   "dob": "1995-08-05",
+   "ig": "ikobustomi",
+   "tt": "ikobustomi",
+   "occ": "model",
+   "refUrl": "https://www.sonora.id/read/423630780/profil-iko-bustomi-finalis-intm-cycle-3-yang-pernah-ikut-asntm",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.sonora.id/read/423630780/profil-iko-bustomi-finalis-intm-cycle-3-yang-pernah-ikut-asntm"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116921436",
+   "name": "Abby Choi",
+   "dob": "1994-07-15",
+   "ig": "xxabbyc",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/872220/%E8%94%A1%E5%A4%A9%E9%B3%B3%E9%A0%AD%E4%B8%83%E5%AE%B6%E4%BA%BA%E9%BE%8D%E5%B0%BE%E6%9D%91%E6%8B%9C%E7%A5%AD-%E9%81%AD%E8%82%A2%E8%A7%A3%E8%A6%81%E6%8B%9B%E9%AD%82%E5%B8%AB%E5%87%BA%E5%8B%95%E5%81%9A%E6%B3%95%E4%BA%8B",
+   "wiki": "",
+   "slice": "s26_model_off750",
+   "refUrls": [
+    "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/872220/%E8%94%A1%E5%A4%A9%E9%B3%B3%E9%A0%AD%E4%B8%83%E5%AE%B6%E4%BA%BA%E9%BE%8D%E5%B0%BE%E6%9D%91%E6%8B%9C%E7%A5%AD-%E9%81%AD%E8%82%A2%E8%A7%A3%E8%A6%81%E6%8B%9B%E9%AD%82%E5%B8%AB%E5%87%BA%E5%8B%95%E5%81%9A%E6%B3%95%E4%BA%8B"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q116936982",
+   "name": "Airi Yamamoto",
+   "dob": "1992-04-28",
+   "ig": "airish0428",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Airi_Yamamoto",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Airi_Yamamoto"
+   ]
+  },
+  {
+   "qid": "Q117193467",
+   "name": "Emilie Vansteenkiste",
+   "dob": "2001-10-25",
+   "ig": "emilie_vansteenkiste",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/emilie-vansteenkiste.html",
+   "wiki": "https://en.wikipedia.org/wiki/Emilie_Vansteenkiste",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/emilie-vansteenkiste.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Emilie_Vansteenkiste"
+   ]
+  },
+  {
+   "qid": "Q117194",
+   "name": "Xenia Tchoumitcheva",
+   "dob": "1987-08-05",
+   "ig": "xenia",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Xenia_Tchoumitcheva",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Xenia_Tchoumitcheva"
+   ]
+  },
+  {
+   "qid": "Q117194001",
+   "name": "Anastasia Ronca",
+   "dob": "2000-08-16",
+   "ig": "anastasiaronca",
+   "tt": "anastasiaronca16",
+   "occ": "model",
+   "refUrl": "https://www.tiktok.com/@anastasiaronca16/video/6997092323574238470",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://altezzapeso.it/anastasia-ronca/",
+    "https://www.tiktok.com/@anastasiaronca16/video/6997092323574238470"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117194404",
+   "name": "Cosmary Fasanelli",
+   "dob": "2000-08-26",
+   "ig": "cosmaryfasanelli",
+   "tt": "cosmary.fasanelli",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/cosmary-fasanelli/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.chiecosa.it/cosmary-fasanelli/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117195502",
+   "name": "Oriana Marzoli",
+   "dob": "1992-03-13",
+   "ig": "orianagonzalezmarzoli",
+   "tt": "oriana_marzoli92",
+   "occ": "model",
+   "refUrl": "https://chi-e.com/oriana-marzoli/",
+   "wiki": "https://en.wikipedia.org/wiki/Oriana_Gonz%C3%A1lez_Marzoli",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://chi-e.com/oriana-marzoli/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Oriana_Gonz%C3%A1lez_Marzoli"
+   ]
+  },
+  {
+   "qid": "Q117210005",
+   "name": "Naz Göktan",
+   "dob": "1990-03-23",
+   "ig": "nazgoktan",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "http://www.kimkimdir.net.tr/kisiler/naz-goktan",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "http://www.kimkimdir.net.tr/kisiler/naz-goktan"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117309052",
+   "name": "Veronica Ruggeri",
+   "dob": "1991-05-14",
+   "ig": "veroruggeri",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.giffonifilmfestival.it/news-giffoni/item/8339-veronica-ruggeri.html#:~:text=%C3%88%20nata%20a%20Borgotaro%2C%20in,dall'intraprendere%20la%20carriera%20militare.",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.giffonifilmfestival.it/news-giffoni/item/8339-veronica-ruggeri.html#:~:text=%C3%88%20nata%20a%20Borgotaro%2C%20in,dall'intraprendere%20la%20carriera%20militare."
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117409169",
+   "name": "Sonia Lorenzini",
+   "dob": "1989-02-27",
+   "ig": "sonia__lorenzini",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/sonia-lorenzini/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.chiecosa.it/sonia-lorenzini/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117808419",
+   "name": "Mariasole Di Maio",
+   "dob": "2001-07-29",
+   "ig": "mariasole_dimaio",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mariasole_Di_Maio",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mariasole_Di_Maio"
+   ]
+  },
+  {
+   "qid": "Q117812711",
+   "name": "Laura Mair",
+   "dob": "2003-01-03",
+   "ig": "_lauramair_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.tennisergebnisse.net/wta/laura-mair/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.coretennis.net/tennis-player/laura-mair/102539/profile.html",
+    "https://www.tennisergebnisse.net/wta/laura-mair/",
+    "https://www.tennislive.net/wta/laura-mair/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117813980",
+   "name": "Ana Garcés",
+   "dob": "2000-05-09",
+   "ig": "anagarcesd",
+   "tt": "anagarcesd",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ana_Garc%C3%A9s",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ana_Garc%C3%A9s"
+   ]
+  },
+  {
+   "qid": "Q117815935",
+   "name": "Imma Pirone",
+   "dob": "1987-06-15",
+   "ig": "pironeimma",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.ciaostyle.it/2020/06/29/imma-pirone/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.ciaostyle.it/2020/06/29/imma-pirone/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117816437",
+   "name": "Claudia Motta",
+   "dob": "2000-09-05",
+   "ig": "_claudiamotta_",
+   "tt": "claudiamotta22",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/claudia-motta/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.chiecosa.it/claudia-motta/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117832459",
+   "name": "Carmen Asecas",
+   "dob": "1996-09-12",
+   "ig": "carmen_asecas",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://cines.com/actores/carmen-asecas",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://cines.com/actores/carmen-asecas"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117832928",
+   "name": "Sara Molina",
+   "dob": "1996-03-28",
+   "ig": "saramolina.d",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "http://es.yatecasting.com/usuario/yate-7ba220",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "http://es.yatecasting.com/usuario/yate-7ba220"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q117857966",
+   "name": "Esther McGregor",
+   "dob": "2001-10-22",
+   "ig": "esther.mcgregor",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.instagram.com/p/CkBfA0hLPpS/",
+   "wiki": "https://en.wikipedia.org/wiki/Esther_McGregor",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.instagram.com/p/CkBfA0hLPpS/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Esther_McGregor"
+   ]
+  },
+  {
+   "qid": "Q118052672",
+   "name": "Bb Trickz",
+   "dob": "2000-04-28",
+   "ig": "belizekazi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/BB_Trickz",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/BB_Trickz"
+   ]
+  },
+  {
+   "qid": "Q118177467",
+   "name": "Sienna Weir",
+   "dob": "1999-10-27",
+   "ig": "sienna_weir",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://thesportsgrail.com/who-is-model-sienna-weir-miss-universe-finalist-who-died-in-horse-riding-accident-bio-age-birthday-instagram/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://thesportsgrail.com/who-is-model-sienna-weir-miss-universe-finalist-who-died-in-horse-riding-accident-bio-age-birthday-instagram/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q118183258",
+   "name": "Clara Moneke",
+   "dob": "1998-12-16",
+   "ig": "claramoneke",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Clara_Moneke",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Clara_Moneke"
+   ]
+  },
+  {
+   "qid": "Q118248145",
+   "name": "Aurora Russo",
+   "dob": "2004-09-03",
+   "ig": "aurora___russo___",
+   "tt": "___aurorarusso___",
+   "occ": "",
+   "refUrl": "model",
+   "wiki": "https://codicefiscale.it/?cf=eyJnaW9ybm8iOiIzIiwibWVzZSI6IjkiLCJhbm5vIjoiMjAwNCIsInByb3YiOiJTQSIsImx1b2dvIjoiQ0FWQSUyMERFJyUyMFRJUlJFTkkiLCJpc3RhdCI6IkMzNjEiLCJzZXNzbyI6ImYiLCJjb2dub21lIjoiUnVzc28iLCJub21lIjoiQXVyb3JhIn0%3D",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "model"
+   ],
+   "wikis": [
+    "https://codicefiscale.it/?cf=eyJnaW9ybm8iOiIzIiwibWVzZSI6IjkiLCJhbm5vIjoiMjAwNCIsInByb3YiOiJTQSIsImx1b2dvIjoiQ0FWQSUyMERFJyUyMFRJUlJFTkkiLCJpc3RhdCI6IkMzNjEiLCJzZXNzbyI6ImYiLCJjb2dub21lIjoiUnVzc28iLCJub21lIjoiQXVyb3JhIn0%3D"
+   ]
+  },
+  {
+   "qid": "Q118249980",
+   "name": "Nguyễn Thanh Hà",
+   "dob": "2004-08-04",
+   "ig": "haliinty",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Thanh_H%C3%A0",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Thanh_H%C3%A0"
+   ]
+  },
+  {
+   "qid": "Q118274562",
+   "name": "Sherry Shi",
+   "dob": "2002-02-26",
+   "ig": "sherryramsayshi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://en.wikipedia.org/wiki/Sherry_Shi",
+   "wiki": "https://en.wikipedia.org/wiki/Sherry_Shi",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://en.wikipedia.org/wiki/Sherry_Shi"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sherry_Shi"
+   ]
+  },
+  {
+   "qid": "Q118508410",
+   "name": "Lulu Zaharani",
+   "dob": "2003-12-16",
+   "ig": "luluzaharani",
+   "tt": "luluzaharanii",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Lulu_Zaharani",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Lulu_Zaharani"
+   ]
+  },
+  {
+   "qid": "Q118533435",
+   "name": "Farhana Nariswari",
+   "dob": "1996-03-28",
+   "ig": "farhanariswari",
+   "tt": "farhananariswari",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Farhana_Nariswari",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Farhana_Nariswari"
+   ]
+  },
+  {
+   "qid": "Q1187112",
+   "name": "Yui Koike",
+   "dob": "1991-04-04",
+   "ig": "yuikoike_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yui_Koike",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yui_Koike"
+   ]
+  },
+  {
+   "qid": "Q118719998",
+   "name": "Kanikka Kapur",
+   "dob": "1995-03-04",
+   "ig": "kanikkakapur",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kanikka_Kapur",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kanikka_Kapur"
+   ]
+  },
+  {
+   "qid": "Q1187672",
+   "name": "Miori Takimoto",
+   "dob": "1991-10-16",
+   "ig": "mioritakimoto_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://mioritakimoto.com/profiles",
+   "wiki": "https://en.wikipedia.org/wiki/Miori_Takimoto",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://mioritakimoto.com/profiles"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Miori_Takimoto"
+   ]
+  },
+  {
+   "qid": "Q118783602",
+   "name": "Angelica Lopez",
+   "dob": "2000-11-22",
+   "ig": "angelicalopezofficial",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Angelica_Lopez",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Angelica_Lopez"
+   ]
+  },
+  {
+   "qid": "Q11879910",
+   "name": "Veronika Kopřivová",
+   "dob": "1991-03-22",
+   "ig": "verunkakoprivova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://web.archive.org/web/20120615003011/http://veronikakoprivova.com/",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://web.archive.org/web/20120615003011/http://veronikakoprivova.com/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q118837944",
+   "name": "Yasinta Aurellia",
+   "dob": "2003-10-02",
+   "ig": "yasintaaurel",
+   "tt": "yasintaaurel",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yasinta_Aurellia",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yasinta_Aurellia"
+   ]
+  },
+  {
+   "qid": "Q11887896",
+   "name": "Pia Mia",
+   "dob": "1996-09-19",
+   "ig": "princesspiamia",
+   "tt": "princesspiamia",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Pia_Mia",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Pia_Mia"
+   ]
+  },
+  {
+   "qid": "Q1188862",
+   "name": "Haruna Kawaguchi",
+   "dob": "1995-02-10",
+   "ig": "haruna_kawaguchi_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1275365",
+   "wiki": "https://en.wikipedia.org/wiki/Haruna_Kawaguchi",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1275365"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Haruna_Kawaguchi"
+   ]
+  },
+  {
+   "qid": "Q1189314",
+   "name": "Yumi Sugimoto",
+   "dob": "1989-04-01",
+   "ig": "sugimotoyumi_official",
+   "tt": "sugimotoyumi1989",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yumi_Sugimoto",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yumi_Sugimoto"
+   ]
+  },
+  {
+   "qid": "Q1189796",
+   "name": "Manami Oku",
+   "dob": "1995-11-22",
+   "ig": "okumanami",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Manami_Oku",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Manami_Oku"
+   ]
+  },
+  {
+   "qid": "Q119020753",
+   "name": "Amelia Gray Hamlin",
+   "dob": "2001-06-13",
+   "ig": "ameliagray",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Amelia_Gray_Hamlin",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Amelia_Gray_Hamlin"
+   ]
+  },
+  {
+   "qid": "Q119112526",
+   "name": "Jenaya Lee",
+   "dob": "2008-02-04",
+   "ig": "jenaya_model_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://fr.famousbirthdays.com/people/jenaya-lee.html",
+   "wiki": "",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://fr.famousbirthdays.com/people/jenaya-lee.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q11913718",
+   "name": "Chris Namús",
+   "dob": "1987-10-03",
+   "ig": "chrisnamus",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Chris_Nam%C3%BAs",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Chris_Nam%C3%BAs"
+   ]
+  },
+  {
+   "qid": "Q119240867",
+   "name": "Ritassya Wellgreat Waynands",
+   "dob": "2001-04-30",
+   "ig": "ritassyawellgreat",
+   "tt": "ritassyawellgreat",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ritassya_Wellgreat",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ritassya_Wellgreat"
+   ]
+  },
+  {
+   "qid": "Q119267237",
+   "name": "Sakshi Vaidya",
+   "dob": "2000-06-19",
+   "ig": "_vaidyasakshi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://starsunfolded.com/sakshi-vaidya/",
+   "wiki": "https://en.wikipedia.org/wiki/Sakshi_Vaidya",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://starsunfolded.com/sakshi-vaidya/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sakshi_Vaidya"
+   ]
+  },
+  {
+   "qid": "Q1192750",
+   "name": "Sonam Kapoor",
+   "dob": "1985-06-09",
+   "ig": "sonamkapoor",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.ndtv.com/india-news/sonam-kapoor-celebrates-32nd-birthday-anil-kapoor-has-a-special-message-for-his-warrior-princess-1710281",
+   "wiki": "https://en.wikipedia.org/wiki/Sonam_Kapoor",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.ndtv.com/india-news/sonam-kapoor-celebrates-32nd-birthday-anil-kapoor-has-a-special-message-for-his-warrior-princess-1710281"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sonam_Kapoor"
+   ]
+  },
+  {
+   "qid": "Q1193372",
+   "name": "Kanna Arihara",
+   "dob": "1993-06-15",
+   "ig": "_kanna_0615_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.csfd.cz/tvurce/293762/",
+   "wiki": "https://en.wikipedia.org/wiki/Kanna_Arihara",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.csfd.cz/tvurce/293762/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kanna_Arihara"
+   ]
+  },
+  {
+   "qid": "Q119398045",
+   "name": "Paige Lorenze",
+   "dob": "1998-01-26",
+   "ig": "paigelorenze",
+   "tt": "paigelorenze",
+   "occ": "model",
+   "refUrl": "https://www.instagram.com/p/Cn3DB0eJTXK/",
+   "wiki": "https://en.wikipedia.org/wiki/Paige_Lorenze",
+   "slice": "s26_model_off800",
+   "refUrls": [
+    "https://www.fis-ski.com/DB/general/athlete-biography.html?sector=AL&competitorid=194524&type=fispoints",
+    "https://www.instagram.com/p/Cn3DB0eJTXK/",
+    "https://www.youtube.com/watch?v=LFtLeYLEK80"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Paige_Lorenze"
+   ]
+  },
+  {
+   "qid": "Q119403549",
+   "name": "Morgan Riddle",
+   "dob": "1997-07-31",
+   "ig": "moorrgs",
+   "tt": "moorrgs",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Morgan_Riddle",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Morgan_Riddle"
+   ]
+  },
+  {
+   "qid": "Q1195485",
+   "name": "Erika Umeda",
+   "dob": "1991-05-24",
+   "ig": "umeeri524",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Erika_Umeda",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Erika_Umeda"
+   ]
+  },
+  {
+   "qid": "Q1195767",
+   "name": "Mariko Shinoda",
+   "dob": "1986-03-11",
+   "ig": "shinodamariko3",
+   "tt": "marikoshinoda",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mariko_Shinoda",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mariko_Shinoda"
+   ]
+  },
+  {
+   "qid": "Q1196239",
+   "name": "Yurina Kumai",
+   "dob": "1993-08-03",
+   "ig": "kumai_yurina",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yurina_Kumai",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yurina_Kumai"
+   ]
+  },
+  {
+   "qid": "Q119627554",
+   "name": "Sanem Babi",
+   "dob": "1998-02-11",
+   "ig": "sanembabi",
+   "tt": "sanembabi",
+   "occ": "model",
+   "refUrl": "https://narcobi.com/sanem-babi-kimdir/",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://narcobi.com/sanem-babi-kimdir/",
+    "https://www.haberturk.com/sanem-babi-her-karakter-kendi-oykusunun-kahramani-3561710-magazin?page=5",
+    "https://www.showtv.com.tr/dizi/haber/3561783-sanem-babi-her-karakter-kendi-oykusunun-kahramani"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q119628028",
+   "name": "Zeynep Atılgan",
+   "dob": "2002-01-01",
+   "ig": "zeyatilgan",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.kimnereli.net/zeynep-atilgan.html",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.kimnereli.net/zeynep-atilgan.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q119657665",
+   "name": "Rebecca Staffelli",
+   "dob": "1998-05-22",
+   "ig": "rebecca_staffelli",
+   "tt": "rebecca_staffellii",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/rebecca-staffelli-99831",
+   "wiki": "https://en.wikipedia.org/wiki/Rebecca_Staffelli",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.cosmopolitan.com/it/star/televisione/a65828140/chi-e-rebecca-staffelli-inviata-grande-fratello-conduttrice-curiosita/",
+    "https://www.flickr.com/photos/200720377@N07/53736800744/",
+    "https://www.libero.it/magazine/personaggi/rebecca-staffelli-99831",
+    "https://www.novella2000.it/rebecca-staffelli/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rebecca_Staffelli"
+   ]
+  },
+  {
+   "qid": "Q119719312",
+   "name": "Vivien Blotzki",
+   "dob": "2001-02-02",
+   "ig": "vivienblt",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Vivien_Blotzki",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Vivien_Blotzki"
+   ]
+  },
+  {
+   "qid": "Q120189234",
+   "name": "Delary Stoffers Villón",
+   "dob": "2000-04-18",
+   "ig": "delary_stoffers",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Delary_Stoffers",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Delary_Stoffers"
+   ]
+  },
+  {
+   "qid": "Q120203387",
+   "name": "Fabienne Nicole",
+   "dob": "1999-12-27",
+   "ig": "fabienne_fng",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Fabi%C3%ABnne_Groeneveld",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Fabi%C3%ABnne_Groeneveld"
+   ]
+  },
+  {
+   "qid": "Q12021642",
+   "name": "Inna Puhajková",
+   "dob": "1986-03-02",
+   "ig": "innapuhajkova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://tv.nova.cz/novinky/clanek/28229-inna-puhajkova",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://tv.nova.cz/novinky/clanek/28229-inna-puhajkova"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q120328476",
+   "name": "Victoria Olguín",
+   "dob": "1999-07-17",
+   "ig": "victoria_olguinpol",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Victoria_Olgu%C3%ADn",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Victoria_Olgu%C3%ADn"
+   ]
+  },
+  {
+   "qid": "Q12034176",
+   "name": "Lucie Smatanová",
+   "dob": "1986-03-11",
+   "ig": "lucie_smatanova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.idnes.cz/revue/modelky/7-lucie-smatanova.A090926_101506_miss-cr_ved",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.idnes.cz/revue/modelky/7-lucie-smatanova.A090926_101506_miss-cr_ved"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q1204059",
+   "name": "Natsuki Katō",
+   "dob": "1985-07-26",
+   "ig": "natsukikato_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Natsuki_Kat%C5%8D",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Natsuki_Kat%C5%8D"
+   ]
+  },
+  {
+   "qid": "Q12040930",
+   "name": "Nikola Petruželová",
+   "dob": "1993-08-06",
+   "ig": "nikolpetruzelova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.kinobox.cz/osobnosti/1963701-nikola-petruzelova",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.kinobox.cz/osobnosti/1963701-nikola-petruzelova"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q12049198",
+   "name": "Renata Langmannová",
+   "dob": "1986-08-16",
+   "ig": "renata_langmannova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.osobnosti.cz/renata-langmanova.php",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.osobnosti.cz/renata-langmanova.php"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q120496519",
+   "name": "Athenea Pérez",
+   "dob": "1996-05-06",
+   "ig": "atheneaperezn",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Athenea_P%C3%A9rez",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Athenea_P%C3%A9rez"
+   ]
+  },
+  {
+   "qid": "Q12061048",
+   "name": "Kritika Kamra",
+   "dob": "1988-10-25",
+   "ig": "kkamra",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kritika_Kamra",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kritika_Kamra"
+   ]
+  },
+  {
+   "qid": "Q120629770",
+   "name": "Larissa Dones",
+   "dob": "1995-09-20",
+   "ig": "lari_poppins",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/larissa-dones.html",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/larissa-dones.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q120654135",
+   "name": "Gina Amarante",
+   "dob": "1992-07-13",
+   "ig": "ginaamarante",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.donnapop.it/2022/03/14/un-posto-al-sole-chi-e-gina-amarante-lattrice-che-fa-le-gemelle-manuela-e-micaela-cirillo-eta-biografia-vita-privata-film-instagram/",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.donnapop.it/2022/03/14/un-posto-al-sole-chi-e-gina-amarante-lattrice-che-fa-le-gemelle-manuela-e-micaela-cirillo-eta-biografia-vita-privata-film-instagram/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q1206963",
+   "name": "Haruka Ayase",
+   "dob": "1985-03-24",
+   "ig": "harukanoisekai_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Haruka_Ayase",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Haruka_Ayase"
+   ]
+  },
+  {
+   "qid": "Q120696983",
+   "name": "Zhang Miaoyi",
+   "dob": "1998-09-13",
+   "ig": "kiimoucom",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Zhang_Miaoyi",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Zhang_Miaoyi"
+   ]
+  },
+  {
+   "qid": "Q120709705",
+   "name": "Noa Cohen",
+   "dob": "2002-08-03",
+   "ig": "noacohen_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Noa_Cohen",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Noa_Cohen"
+   ]
+  },
+  {
+   "qid": "Q12071552",
+   "name": "Tiffany Trump",
+   "dob": "1993-10-13",
+   "ig": "tiffanytrump",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Tiffany_Trump",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tiffany_Trump"
+   ]
+  },
+  {
+   "qid": "Q1207378",
+   "name": "Yuki Kashiwagi",
+   "dob": "1991-07-15",
+   "ig": "yukikashiwagi_official",
+   "tt": "yukirin_yk",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yuki_Kashiwagi",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuki_Kashiwagi"
+   ]
+  },
+  {
+   "qid": "Q120758682",
+   "name": "Sini Shetty",
+   "dob": "2001-01-01",
+   "ig": "sinishettyy",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sini_Shetty",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sini_Shetty"
+   ]
+  },
+  {
+   "qid": "Q120780797",
+   "name": "Andrea Rubio",
+   "dob": "1998-11-27",
+   "ig": "andrevrubio",
+   "tt": "andrevrubio",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Andrea_Rubio",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Andrea_Rubio"
+   ]
+  },
+  {
+   "qid": "Q1208572",
+   "name": "Saaya Irie",
+   "dob": "1993-11-13",
+   "ig": "saaya_official_",
+   "tt": "saaya_official",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Saaya_Irie",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Saaya_Irie"
+   ]
+  },
+  {
+   "qid": "Q120868336",
+   "name": "Gugulethu Mayisela",
+   "dob": "2004-04-19",
+   "ig": "gugulethu.mayisela",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Gugulethu_Mayisela",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Gugulethu_Mayisela"
+   ]
+  },
+  {
+   "qid": "Q12093188",
+   "name": "Viktoriya Sasonkina",
+   "dob": "1988-01-01",
+   "ig": "viktoriyasasonkina",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Viktoriya_Sasonkina",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Viktoriya_Sasonkina"
+   ]
+  },
+  {
+   "qid": "Q120963093",
+   "name": "Justýna Zedníková",
+   "dob": "2002-08-05",
+   "ig": "justyna.zednikova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.missczechrep.cz/finalistky/2023-8-justyna-zednikova",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.missczechrep.cz/finalistky/2023-8-justyna-zednikova"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q1209696",
+   "name": "Yūko Ōshima",
+   "dob": "1988-10-17",
+   "ig": "yuk00shima",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yuko_Oshima",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuko_Oshima"
+   ]
+  },
+  {
+   "qid": "Q121096683",
+   "name": "María Martínez",
+   "dob": "1992-09-17",
+   "ig": "mariamartinez21",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.eluniversaldigital.net/actualidad/maria-martinez-es-una-modelo-y-periodista-de-origen-argentino/#google_vignette",
+   "wiki": "",
+   "slice": "s26_model_off850",
+   "refUrls": [
+    "https://www.eluniversaldigital.net/actualidad/maria-martinez-es-una-modelo-y-periodista-de-origen-argentino/#google_vignette"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q12127853",
+   "name": "Iryna Fedyshyn",
+   "dob": "1987-02-01",
+   "ig": "irynafedyshyn",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Iryna_Fedyshyn",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Iryna_Fedyshyn"
+   ]
+  },
+  {
+   "qid": "Q121306915",
+   "name": "Reeshma Nanaiah",
+   "dob": "2001-04-28",
+   "ig": "reeshma_nanaiah",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Reeshma_Nanaiah",
+   "slice": "s26_model_off850",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Reeshma_Nanaiah"
+   ]
+  },
+  {
+   "qid": "Q121307052",
+   "name": "Tina Gaber",
+   "dob": "1986-05-09",
+   "ig": "tina_gaber",
+   "tt": "tina_gaber",
+   "occ": "model",
+   "refUrl": "https://govorise.metropolitan.si/zanimivosti/tina-gaber-starost/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://govorise.metropolitan.si/zanimivosti/tina-gaber-starost/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121323787",
+   "name": "Reiyo Matsumoto",
+   "dob": "2008-02-29",
+   "ig": "reiyo.matsumoto",
+   "tt": "matsumotoreiyo",
+   "occ": "fashion model",
+   "refUrl": "https://www.rising-pro.jp/artist/reiyo/index.html",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.rising-pro.jp/artist/reiyo/index.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121354357",
+   "name": "Valentina Corradi",
+   "dob": "2001-12-04",
+   "ig": "wallivale",
+   "tt": "wallivale01",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/valentina-corradi-70553",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.libero.it/magazine/personaggi/valentina-corradi-70553"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121355412",
+   "name": "Marcia Thereza Araujo Barros",
+   "dob": "1999-02-08",
+   "ig": "maythe_._",
+   "tt": "maythe_._0",
+   "occ": "model",
+   "refUrl": "https://www.superguidatv.it/marcia-thereza-araujo-barros-chi-e-la-velina-mora-di-paperissima-sprint/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.superguidatv.it/marcia-thereza-araujo-barros-chi-e-la-velina-mora-di-paperissima-sprint/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121355432",
+   "name": "Rafaela Andrade",
+   "dob": "1996-02-02",
+   "ig": "elaandrade__",
+   "tt": "elaandrade__",
+   "occ": "model",
+   "refUrl": "https://www.imdb.com/name/nm11265122/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.imdb.com/name/nm11265122/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121361683",
+   "name": "Alicia Bercán",
+   "dob": "1997-02-03",
+   "ig": "alibercan",
+   "tt": "alibercan",
+   "occ": "model",
+   "refUrl": "https://www.cine.com/actores/alicia-bercan",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.cine.com/actores/alicia-bercan"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121426797",
+   "name": "Marta Anna Borucinska",
+   "dob": "1992-03-27",
+   "ig": "marta.anna.b",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.tvserial.it/chi-e-marta-anna-borucinska-ida-di-un-posto-al-sole/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.asiaticafilmmediale.it/marta-anna-borucinska-lattore-che-interpreta-ida-in-un-posto-al-sole/",
+    "https://www.contra-ataque.it/2023/05/29/marta-anna-borucinska-chi-e-ida-di-un-posto-al-sole-vera-mamma-di-tommy.html",
+    "https://www.donnapop.it/2023/07/19/un-posto-al-sole-marta-anna-borucinska-ida-mamma-tommaso/",
+    "https://www.tvserial.it/chi-e-marta-anna-borucinska-ida-di-un-posto-al-sole/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121492944",
+   "name": "Yamile Dajud",
+   "dob": "1996-03-29",
+   "ig": "yamiledajud",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yamile_Dajud",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yamile_Dajud"
+   ]
+  },
+  {
+   "qid": "Q121515546",
+   "name": "Andrea López",
+   "dob": "2003-07-08",
+   "ig": "aandrea.lc",
+   "tt": "andrea.lc",
+   "occ": "model",
+   "refUrl": "https://www.rbcasting.com/rb/web/andrealopezldr",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.rbcasting.com/rb/web/andrealopezldr"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121519803",
+   "name": "Carolina Santos",
+   "dob": "1986-10-05",
+   "ig": "carolinasantosbb",
+   "tt": "carolinasantoss_p",
+   "occ": "model",
+   "refUrl": "https://www.ebay.it/itm/232875457906",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.ebay.it/itm/232875457906"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121525814",
+   "name": "Alina Nastase",
+   "dob": "1990-03-19",
+   "ig": "alinanastase_official_",
+   "tt": "alinanastasee",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Alina_Nastase",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Alina_Nastase"
+   ]
+  },
+  {
+   "qid": "Q12155901",
+   "name": "Ariella Arida",
+   "dob": "1988-11-20",
+   "ig": "araarida",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ariella_Arida",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ariella_Arida"
+   ]
+  },
+  {
+   "qid": "Q121639808",
+   "name": "Michelle Cohn",
+   "dob": "1995-02-18",
+   "ig": "michellecohnb",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Michelle_Cohn",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Michelle_Cohn"
+   ]
+  },
+  {
+   "qid": "Q121750538",
+   "name": "Madison Kvaltin",
+   "dob": "1998-08-05",
+   "ig": "madisonkvetlana",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Madison_Kvaltin",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Madison_Kvaltin"
+   ]
+  },
+  {
+   "qid": "Q121771177",
+   "name": "Giulia D'Aloia",
+   "dob": "1997-12-09",
+   "ig": "giulia_daloia",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://it.e-talenta.eu/members/profile/giulia-daloia",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://it.e-talenta.eu/members/profile/giulia-daloia"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q12181358",
+   "name": "Ayten Amer",
+   "dob": "1986-11-22",
+   "ig": "aytenamer",
+   "tt": "aytenamer",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ayten_Amer",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ayten_Amer"
+   ]
+  },
+  {
+   "qid": "Q121878254",
+   "name": "Bianca Censori",
+   "dob": "1995-01-05",
+   "ig": "biancacensori",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Bianca_Censori",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Bianca_Censori"
+   ]
+  },
+  {
+   "qid": "Q121887841",
+   "name": "Gabriela Desangles",
+   "dob": "1988-04-15",
+   "ig": "gabidesangles",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://deultimominuto.net/conoce-mas-de-gabi-desangles-actriz-de-cine-television-y-teatro-talento-de-esto-no-es-radio/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://deultimominuto.net/conoce-mas-de-gabi-desangles-actriz-de-cine-television-y-teatro-talento-de-esto-no-es-radio/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q121912654",
+   "name": "Shweta Sharda",
+   "dob": "1999-11-24",
+   "ig": "shwetasharda24",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Shweta_Sharda",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Shweta_Sharda"
+   ]
+  },
+  {
+   "qid": "Q121938199",
+   "name": "Faizaa Ashfaq",
+   "dob": "1995-11-05",
+   "ig": "faiza.ashfaq.92",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://images.dawn.com/news/1181960",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://images.dawn.com/news/1181960"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q12214097",
+   "name": "Rym Saidi",
+   "dob": "1986-06-21",
+   "ig": "rymsaidi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Rym_Breidy",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rym_Breidy"
+   ]
+  },
+  {
+   "qid": "Q122205926",
+   "name": "María Camila Avella Montañez",
+   "dob": "1995-06-26",
+   "ig": "camiavellam",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Camila_Avella",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Camila_Avella"
+   ]
+  },
+  {
+   "qid": "Q122230853",
+   "name": "Angela Tanuzi",
+   "dob": "2002-11-20",
+   "ig": "angelatanuzi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Angela_Tanuzi",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Angela_Tanuzi"
+   ]
+  },
+  {
+   "qid": "Q122315092",
+   "name": "Sotima John",
+   "dob": "2000-03-29",
+   "ig": "sotimajohn",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sotima_John",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sotima_John"
+   ]
+  },
+  {
+   "qid": "Q122400214",
+   "name": "Gabbriette",
+   "dob": "1997-07-28",
+   "ig": "gabbriette",
+   "tt": "gabbriettebb",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Gabbriette",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Gabbriette"
+   ]
+  },
+  {
+   "qid": "Q122451356",
+   "name": "Manelyk González",
+   "dob": "1989-01-12",
+   "ig": "manelyk_oficial",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Manelyk_Gonz%C3%A1lez",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Manelyk_Gonz%C3%A1lez"
+   ]
+  },
+  {
+   "qid": "Q12255576",
+   "name": "Bárbara Oteiza",
+   "dob": "1985-01-15",
+   "ig": "barbaraoteizaactriz",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/B%C3%A1rbara_Gonz%C3%A1lez",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/B%C3%A1rbara_Gonz%C3%A1lez"
+   ]
+  },
+  {
+   "qid": "Q122602801",
+   "name": "Angelica Baraldi",
+   "dob": "1997-07-22",
+   "ig": "angelicabaraldi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.grandefratello.mediaset.it/personaggi/angelica-baraldi.shtml",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.chiecosa.it/angelica-baraldi/",
+    "https://www.grandefratello.mediaset.it/personaggi/angelica-baraldi.shtml",
+    "https://www.libero.it/magazine/personaggi/angelica-baraldi-101280",
+    "https://www.novella2000.it/angelica-baraldi/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122602906",
+   "name": "Heidi Baci",
+   "dob": "1997-08-19",
+   "ig": "heidibaci",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://bigbrother.fandom.com/wiki/Heidi_Baci#:~:text=Heidi%20Baci%20is%2026%20years,began%20managing%20a%20snack%20bar.",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://bigbrother.fandom.com/wiki/Heidi_Baci#:~:text=Heidi%20Baci%20is%2026%20years,began%20managing%20a%20snack%20bar.",
+    "https://www.chiecosa.it/heidi-baci/",
+    "https://www.grandefratello.mediaset.it/personaggi/heidi-baci.shtml",
+    "https://www.libero.it/magazine/personaggi/heidi-baci-101769",
+    "https://www.novella2000.it/heidi-baci/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q12261892",
+   "name": "Lara González Oteiza",
+   "dob": "1986-04-14",
+   "ig": "laraoteiza",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Lara_Gonz%C3%A1lez_(rhythmic_gymnast)",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Lara_Gonz%C3%A1lez_(rhythmic_gymnast)"
+   ]
+  },
+  {
+   "qid": "Q122696942",
+   "name": "Mariama Diallo",
+   "dob": "1993-09-20",
+   "ig": "mariama",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://afriquemagazine.com/mariama-diallo",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://afriquemagazine.com/mariama-diallo"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122740487",
+   "name": "Samira Lui",
+   "dob": "1998-03-06",
+   "ig": "samiraluiofficial",
+   "tt": "samiralui",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/samira-lui-56864",
+   "wiki": "https://en.wikipedia.org/wiki/Samira_Lui",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.chiecosa.it/samira-lui/",
+    "https://www.grandefratello.mediaset.it/personaggi/samira-lui.shtml",
+    "https://www.libero.it/magazine/personaggi/samira-lui-56864",
+    "https://www.novella2000.it/samira-lui/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Samira_Lui"
+   ]
+  },
+  {
+   "qid": "Q122789876",
+   "name": "Luz Adriana López",
+   "dob": "1997-05-10",
+   "ig": "luzadrianalopez19",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Luz_Adriana_L%C3%B3pez",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Luz_Adriana_L%C3%B3pez"
+   ]
+  },
+  {
+   "qid": "Q122801389",
+   "name": "Katie Jones",
+   "dob": "1991-01-01",
+   "ig": "heykatie.j",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.countrygirlmanagement.com.au/katiejones/",
+   "wiki": "",
+   "slice": "s26_model_off900",
+   "refUrls": [
+    "https://www.countrygirlmanagement.com.au/katiejones/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122808951",
+   "name": "Lilja Sif Pétursdóttir",
+   "dob": "2000-09-03",
+   "ig": "liljapetursd",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Lilja_P%C3%A9tursd%C3%B3ttir",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Lilja_P%C3%A9tursd%C3%B3ttir"
+   ]
+  },
+  {
+   "qid": "Q122823",
+   "name": "Stella Mwangi",
+   "dob": "1986-09-01",
+   "ig": "stellamwangi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Stella_Mwangi",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Stella_Mwangi"
+   ]
+  },
+  {
+   "qid": "Q122830283",
+   "name": "Zainab Raza",
+   "dob": "1998-08-04",
+   "ig": "zainabrj",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://starsunfolded.com/zainab-raza/",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://starsunfolded.com/zainab-raza/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122834711",
+   "name": "Natasha Vargas",
+   "dob": "1997-07-01",
+   "ig": "natashavargass",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Natasha_Vargas",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Natasha_Vargas"
+   ]
+  },
+  {
+   "qid": "Q122866537",
+   "name": "Vittória Seixas",
+   "dob": "2008-12-22",
+   "ig": "vittoriaseixas_oficial",
+   "tt": "vittoriaseixas",
+   "occ": "model",
+   "refUrl": "https://www.vittoriaseixas.com",
+   "wiki": "https://en.wikipedia.org/wiki/Vitt%C3%B3ria_Seixas",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.vittoriaseixas.com"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Vitt%C3%B3ria_Seixas"
+   ]
+  },
+  {
+   "qid": "Q122877279",
+   "name": "Noelia Voigt",
+   "dob": "1999-11-01",
+   "ig": "noeliavoigt",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Noelia_Voigt",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Noelia_Voigt"
+   ]
+  },
+  {
+   "qid": "Q122878715",
+   "name": "Elicena Andrada",
+   "dob": "1997-11-11",
+   "ig": "elicenaandradaorrego",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Elicena_Andrada",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Elicena_Andrada"
+   ]
+  },
+  {
+   "qid": "Q122888639",
+   "name": "Adriana Yanca",
+   "dob": "1997-01-01",
+   "ig": "grandrianaa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Adriana_Yanca",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Adriana_Yanca"
+   ]
+  },
+  {
+   "qid": "Q122897436",
+   "name": "Aishah Akorede",
+   "dob": "1999-10-17",
+   "ig": "aishah.akorede",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Aishah_Akorede",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aishah_Akorede"
+   ]
+  },
+  {
+   "qid": "Q122923262",
+   "name": "Alessandra Barcellos",
+   "dob": "1998-05-29",
+   "ig": "alessandrabclls",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.jusbrasil.com.br/diarios/246736659/djap-12-06-2019-pg-31",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.jusbrasil.com.br/diarios/246736659/djap-12-06-2019-pg-31"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122926521",
+   "name": "Helena Ezquerro",
+   "dob": "1997-10-13",
+   "ig": "helenaezquerro",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://okdiario.com/happyfm/helena-ezquerro-matilda-moderna-edad-pareja-biografia-11634232",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://okdiario.com/happyfm/helena-ezquerro-matilda-moderna-edad-pareja-biografia-11634232",
+    "https://www.cine.com/actores/helena-ezquerro",
+    "https://www.formulatv.com/personas/helena-ezquerro/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122957101",
+   "name": "Lorena Gabor",
+   "dob": "1991-08-08",
+   "ig": "winwithlorena",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://adevarul.ro/stiri-locale/arad/lorena-gabor-din-terenul-de-baschet-pe-podium-1179012.html",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://adevarul.ro/stiri-locale/arad/lorena-gabor-din-terenul-de-baschet-pe-podium-1179012.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q122965843",
+   "name": "Moraya Wilson",
+   "dob": "2002-02-10",
+   "ig": "morayawilson",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Moraya_Wilson",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Moraya_Wilson"
+   ]
+  },
+  {
+   "qid": "Q12297196",
+   "name": "Lele Pons",
+   "dob": "1996-07-25",
+   "ig": "lelepons",
+   "tt": "lelepons",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Lele_Pons",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://artsandculture.google.com/entity/wd/m011snksb"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Lele_Pons"
+   ]
+  },
+  {
+   "qid": "Q122973094",
+   "name": "Amara Bo",
+   "dob": "1999-12-24",
+   "ig": "amarabo_amarabo",
+   "tt": "amara43210",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Amara_Bo",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Amara_Bo"
+   ]
+  },
+  {
+   "qid": "Q122973508",
+   "name": "Angelina Usanova",
+   "dob": "1997-08-07",
+   "ig": "usanova.life",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Angelina_Usanova",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Angelina_Usanova"
+   ]
+  },
+  {
+   "qid": "Q122973582",
+   "name": "Helena Bleicher",
+   "dob": "1998-12-25",
+   "ig": "helenamarlen",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Helena_Bleicher",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Helena_Bleicher"
+   ]
+  },
+  {
+   "qid": "Q122974493",
+   "name": "Marielia Zaloumi",
+   "dob": "2003-01-31",
+   "ig": "marieliazl",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Marielia_Zaloumi",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Marielia_Zaloumi"
+   ]
+  },
+  {
+   "qid": "Q122980451",
+   "name": "Carmen Panepinto Zayati",
+   "dob": "1999-11-16",
+   "ig": "carmenpanepinto",
+   "tt": "carmenstyle",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Carmen_Panepinto_Zayati",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Carmen_Panepinto_Zayati"
+   ]
+  },
+  {
+   "qid": "Q122982040",
+   "name": "Margarita Golubeva",
+   "dob": "2001-05-03",
+   "ig": "margolenser",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Margarita_Golubeva",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Margarita_Golubeva"
+   ]
+  },
+  {
+   "qid": "Q123019998",
+   "name": "Bryoni Govender",
+   "dob": "2001-10-18",
+   "ig": "bryoni.govender",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Bryoni_Govender",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Bryoni_Govender"
+   ]
+  },
+  {
+   "qid": "Q123029220",
+   "name": "Phoebe Tomlinson",
+   "dob": "2004-03-23",
+   "ig": "thephoebetomlinson",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/phoebe-tomlinson.html",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/phoebe-tomlinson.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123058610",
+   "name": "Nikoline Uhrenholt Hansen",
+   "dob": "2002-10-17",
+   "ig": "nikoline_uhrenholt",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nikoline_Hansen",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nikoline_Hansen"
+   ]
+  },
+  {
+   "qid": "Q123066843",
+   "name": "Laila Hasanovic",
+   "dob": "2000-11-08",
+   "ig": "lailahasanovic",
+   "tt": "lailahasanovic",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/laila-hasanovic.html",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/laila-hasanovic.html"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123126955",
+   "name": "Devon Lee Carlson",
+   "dob": "1994-08-03",
+   "ig": "devonleecarlson",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.j-14.com/posts/who-is-devon-lee-carlson-meet-the-influencer-ceo-life-details/",
+   "wiki": "https://en.wikipedia.org/wiki/Devon_Lee_Carlson",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.j-14.com/posts/who-is-devon-lee-carlson-meet-the-influencer-ceo-life-details/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Devon_Lee_Carlson"
+   ]
+  },
+  {
+   "qid": "Q123151517",
+   "name": "Mahiru Kouno",
+   "dob": "2005-10-10",
+   "ig": "mahiru_kouno",
+   "tt": "mahirukouno",
+   "occ": "model",
+   "refUrl": "https://qualiam.com/profile/mahirukouno/",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://qualiam.com/profile/mahirukouno/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123169554",
+   "name": "Faith Gillezeau",
+   "dob": "1998-01-14",
+   "ig": "faithgillezeau",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Faith_Gillezeau",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Faith_Gillezeau"
+   ]
+  },
+  {
+   "qid": "Q123174",
+   "name": "Vanessa Hudgens",
+   "dob": "1988-12-14",
+   "ig": "vanessahudgens",
+   "tt": "vanessahudgens",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Vanessa_Hudgens",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Vanessa_Hudgens"
+   ]
+  },
+  {
+   "qid": "Q123286888",
+   "name": "Jhosskaren Carrizo",
+   "dob": "1994-09-14",
+   "ig": "jhosskarensmiller",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Jhosskaren_Carrizo",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jhosskaren_Carrizo"
+   ]
+  },
+  {
+   "qid": "Q123343243",
+   "name": "Marie-Ange Brumelot",
+   "dob": "1993-01-14",
+   "ig": "marie11201",
+   "tt": "",
+   "occ": "personal trainer",
+   "refUrl": "https://worldathletics.org/athletes/_/14762297",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://worldathletics.org/athletes/_/14762297"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123346539",
+   "name": "Ivana Yturbe",
+   "dob": "1996-04-19",
+   "ig": "ivanayturbe",
+   "tt": "ivanayturbe",
+   "occ": "model",
+   "refUrl": "https://larepublica.pe/espectaculos/farandula/2023/06/04/ivana-yturbe-que-edad-tiene-y-cuanto-anos-de-diferencia-se-lleva-con-su-esposo-beto-da-silva-instagram-atmp-355936",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://larepublica.pe/espectaculos/farandula/2023/06/04/ivana-yturbe-que-edad-tiene-y-cuanto-anos-de-diferencia-se-lleva-con-su-esposo-beto-da-silva-instagram-atmp-355936"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123354304",
+   "name": "Juliana Habib",
+   "dob": "2000-03-10",
+   "ig": "julyhabib",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Juliana_Habib",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Juliana_Habib"
+   ]
+  },
+  {
+   "qid": "Q123371301",
+   "name": "Yumia Fujisaki",
+   "dob": "2008-02-16",
+   "ig": "yumia_fujisaki",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://meteora-pro.com/artists/yumia-fujisaki/",
+   "wiki": "https://en.wikipedia.org/wiki/Yumia_Fujisaki",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://meteora-pro.com/artists/yumia-fujisaki/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yumia_Fujisaki"
+   ]
+  },
+  {
+   "qid": "Q123379060",
+   "name": "May Tager",
+   "dob": "1998-11-22",
+   "ig": "maytager",
+   "tt": "may_tager",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/May_Tager",
+   "slice": "s26_model_off950",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/May_Tager"
+   ]
+  },
+  {
+   "qid": "Q123414832",
+   "name": "Francesca Bergesio",
+   "dob": "2004-09-26",
+   "ig": "francesca.bergesio",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.youtube.com/live/DhTEuieD4ZU?t=4895",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://www.cuneo24.it/2023/11/una-cuneese-in-finale-a-miss-italia-219372/",
+    "https://www.youtube.com/live/DhTEuieD4ZU?t=4895",
+    "https://www.youtube.com/live/urX3owx5EEc?t=7425"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123475151",
+   "name": "Hauwa Manga",
+   "dob": "2000-06-26",
+   "ig": "meetarhdoll",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://dailytrust.com/meet-hauwa-manga-meetarhdoll-nigerian-model-and-social-media-influencer/",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://dailytrust.com/meet-hauwa-manga-meetarhdoll-nigerian-model-and-social-media-influencer/"
+   ],
+   "wikis": []
+  },
+  {
+   "qid": "Q123690329",
+   "name": "Christen Harper",
+   "dob": "1993-05-28",
+   "ig": "christengoff",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://people.com/sports/who-is-christen-harper-jared-goff/",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://people.com/sports/who-is-christen-harper-jared-goff/"
+   ],
+   "wikis": []
+  }
+ ],
+ "dupesList": [
+  {
+   "qid": "Q100654910",
+   "name": "Mia Kirchhoff",
+   "dob": "2004-09-10",
+   "ig": "miakirchhoff_",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=777707095",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=777707095"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q101702270",
+   "name": "Kara Bajema",
+   "dob": "1998-03-24",
+   "ig": "karabajema",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.legavolleyfemminile.it/?page_id=194&idat=BAJ-KAR-98",
+   "wiki": "https://en.wikipedia.org/wiki/Kara_Bajema",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.legavolleyfemminile.it/?page_id=194&idat=BAJ-KAR-98"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kara_Bajema"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q10318337",
+   "name": "Liliane Maestrini",
+   "dob": "1987-10-26",
+   "ig": "lili_maestrini",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "http://www.bvbinfo.com/player.asp?ID=9923",
+   "wiki": "https://en.wikipedia.org/wiki/Liliane_Maestrini",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "http://www.bvbinfo.com/player.asp?ID=9923"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Liliane_Maestrini"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q104217167",
+   "name": "İlkin Aydın",
+   "dob": "2000-01-05",
+   "ig": "ilkinaydn",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/96763.html",
+   "wiki": "https://en.wikipedia.org/wiki/%C4%B0lkin_Ayd%C4%B1n",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/96763.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/%C4%B0lkin_Ayd%C4%B1n"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q104386780",
+   "name": "Erçe Su Kasapoğlu",
+   "dob": "1996-06-06",
+   "ig": "ercesu",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/45017.html",
+   "wiki": "https://en.wikipedia.org/wiki/Er%C3%A7e_Su_Kasapo%C4%9Flu",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/45017.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Er%C3%A7e_Su_Kasapo%C4%9Flu"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1044420",
+   "name": "Carolina Solberg",
+   "dob": "1987-08-06",
+   "ig": "carol_solberg",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Carolina_Solberg_Salgado",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Carolina_Solberg_Salgado"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q104725135",
+   "name": "Simona Dammer",
+   "dob": "2002-08-25",
+   "ig": "simona_dammer",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742993337&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742993337&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105201345",
+   "name": "Katja Stam",
+   "dob": "1998-10-03",
+   "ig": "katjastam",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "http://www.bvbinfo.com/player.asp?ID=16917",
+   "wiki": "https://en.wikipedia.org/wiki/Katja_Stam",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "http://www.bvbinfo.com/player.asp?ID=16917"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Katja_Stam"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105201948",
+   "name": "Raïsa Schoon",
+   "dob": "2001-10-03",
+   "ig": "raisaschoon",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "http://www.bvbinfo.com/player.asp?ID=16919",
+   "wiki": "https://en.wikipedia.org/wiki/Ra%C3%AFsa_Schoon",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "http://www.bvbinfo.com/player.asp?ID=16919"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ra%C3%AFsa_Schoon"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q105296741",
+   "name": "Amanda Harnett",
+   "dob": "1997-03-13",
+   "ig": "amandaharnett",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "https://olympic.ca/team-canada/amanda-harnett/",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://olympic.ca/team-canada/amanda-harnett/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105388956",
+   "name": "Darja Eržen",
+   "dob": "1997-06-20",
+   "ig": "darjaerzen16",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744533407&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744533407&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105389038",
+   "name": "Maria Genitsaridi",
+   "dob": "1994-06-03",
+   "ig": "maria_genit",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=745336525&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=745336525&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105395892",
+   "name": "Kjersti Norveel",
+   "dob": "1996-03-15",
+   "ig": "kjerstinorveel",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743626413&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743626413&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105395925",
+   "name": "Noemi Laureen Oiwoh",
+   "dob": "2001-05-28",
+   "ig": "noemioiwoh",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744955854&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744955854&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105570759",
+   "name": "Katsiaryna Sakolchyk",
+   "dob": "1993-07-27",
+   "ig": "katerina_sakolchyk",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.cev.eu/national-team/european-league/european-golden-league/women/team/12109-belarus/player/6101-sakolchyk-katsiaryna",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.cev.eu/national-team/european-league/european-golden-league/women/team/12109-belarus/player/6101-sakolchyk-katsiaryna"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105704380",
+   "name": "Aki Momii",
+   "dob": "2000-10-07",
+   "ig": "momii_aki",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.jti.co.jp/sports/marvelous/profile/momii/index.html",
+   "wiki": "https://en.wikipedia.org/wiki/Aki_Momii",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.jti.co.jp/sports/marvelous/profile/momii/index.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aki_Momii"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q105706739",
+   "name": "Han Da-hye",
+   "dob": "1995-02-28",
+   "ig": "dahye6398",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Han_Da-hye",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Han_Da-hye"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1059562",
+   "name": "Nana Iwasaka",
+   "dob": "1990-07-03",
+   "ig": "nana.iwasaka",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nana_Iwasaka",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nana_Iwasaka"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1059930",
+   "name": "Kotoe Inoue",
+   "dob": "1990-02-15",
+   "ig": "kotoe.i15",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kotoe_Inoue",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kotoe_Inoue"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1062408",
+   "name": "Chantal Laboureur",
+   "dob": "1990-01-04",
+   "ig": "chantallaboureur",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Chantal_Laboureur",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Chantal_Laboureur"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106366787",
+   "name": "Hanna Davyskiba",
+   "dob": "2000-02-08",
+   "ig": "anna_davyskiba",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://bvf.by/player/grishkevich-anna/",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://bvf.by/player/grishkevich-anna/",
+    "https://volleybox.net/wd-p6343"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106627500",
+   "name": "Pauline Bietau",
+   "dob": "2004-04-30",
+   "ig": "pauline.bietau",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743414370&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743414370&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106634779",
+   "name": "Hannah Dücking",
+   "dob": "1994-04-26",
+   "ig": "hannah494",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033092&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033092&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106634972",
+   "name": "Lilian Engemann",
+   "dob": "2000-03-12",
+   "ig": "lili_e3",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742912653&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742912653&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106635413",
+   "name": "Chiara Fach",
+   "dob": "2000-07-01",
+   "ig": "chiara_fach",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743056854&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743056854&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106645112",
+   "name": "Clara Fischer",
+   "dob": "1994-11-24",
+   "ig": "claraafischer",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743114581&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743114581&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106650672",
+   "name": "Lisa Guillermard",
+   "dob": "1997-04-06",
+   "ig": "lisschen.g",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743040938&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743040938&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106676035",
+   "name": "Pinelopi Papastergiou",
+   "dob": "1995-03-26",
+   "ig": "pinelopi_papast",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://greekvolley.eu/index.php/players/greekwomenplayers/item/23413-papastergiou-pinelopi.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://greekvolley.eu/index.php/players/greekwomenplayers/item/23413-papastergiou-pinelopi.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106698088",
+   "name": "Maike Henning",
+   "dob": "1999-06-19",
+   "ig": "__maikee__",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033054&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033054&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106698143",
+   "name": "Nina Herbe",
+   "dob": "2003-09-15",
+   "ig": "ninahxrbx",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=747121210&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=747121210&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106698218",
+   "name": "Lena Hoffmann",
+   "dob": "1997-06-30",
+   "ig": "lenaahoff",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033094&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743033094&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106762426",
+   "name": "Anna Schupritt",
+   "dob": "2001-02-15",
+   "ig": "anna_schupritt",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743006915&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=743006915&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106766446",
+   "name": "Janne Uhl",
+   "dob": "2005-11-22",
+   "ig": "janne.uhl",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744942857&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=744942857&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106766507",
+   "name": "",
+   "dob": "2003-02-13",
+   "ig": "emmavente",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742805367&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742805367&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106766793",
+   "name": "Jenny Wickler",
+   "dob": "1992-11-23",
+   "ig": "jenny_wickliiee",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742449942&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=742449942&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q106857085",
+   "name": "Arina Fedorovtseva",
+   "dob": "2004-01-19",
+   "ig": "a.fed.10",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Arina_Fedorovtseva",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Arina_Fedorovtseva"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q107113677",
+   "name": "Jacqueline Quade",
+   "dob": "1997-12-01",
+   "ig": "jacqueline_quade",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.dresdnersportclub.de/news/verein/item/6264-jacqueline-quade-kommt-fuer-den-dsc-aussenangriff",
+   "wiki": "",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.dresdnersportclub.de/news/verein/item/6264-jacqueline-quade-kommt-fuer-den-dsc-aussenangriff"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1072824",
+   "name": "Bethania de la Cruz",
+   "dob": "1987-05-13",
+   "ig": "thebigbeth",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/114294",
+   "wiki": "https://en.wikipedia.org/wiki/Bethania_de_la_Cruz",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/114294"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Bethania_de_la_Cruz"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q107364434",
+   "name": "Layne Van Buskirk",
+   "dob": "1998-02-19",
+   "ig": "laynevanbuskirk",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Layne_Van_Buskirk",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Layne_Van_Buskirk"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q107406911",
+   "name": "Ana Cristina de Souza",
+   "dob": "2004-04-07",
+   "ig": "ana.cristina.desouza",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ana_Cristina_de_Souza",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ana_Cristina_de_Souza"
+   ],
+   "dupReason": "handle"
+  },
+  {
+   "qid": "Q107424120",
+   "name": "Jeong Ji-yun",
+   "dob": "2001-01-01",
+   "ig": "ji__yun__",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.olympedia.org/athletes/144960",
+   "wiki": "https://en.wikipedia.org/wiki/Jeong_Ji-yun",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://www.olympedia.org/athletes/144960"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jeong_Ji-yun"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q107510659",
+   "name": "Candelaria Herrera",
+   "dob": "1999-01-28",
+   "ig": "candeherrera2",
+   "tt": "candelariaherrer3",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/candelaria-herrera-p6571/clubs",
+   "wiki": "https://en.wikipedia.org/wiki/Candelaria_Herrera",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://women.volleybox.net/candelaria-herrera-p6571/clubs"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Candelaria_Herrera"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q107521419",
+   "name": "Gaudencia Makokha",
+   "dob": "1992-11-15",
+   "ig": "gaudencia_makokha",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/gaudencia-makokha-p8292/clubs",
+   "wiki": "https://en.wikipedia.org/wiki/Gaudencia_Makokha",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://women.volleybox.net/gaudencia-makokha-p8292/clubs"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Gaudencia_Makokha"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q107565493",
+   "name": "Nyeme Costa",
+   "dob": "1998-10-11",
+   "ig": "nyemenunes",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://olympics.com/pt/noticias/volei-brasil-nyeme-libero",
+   "wiki": "https://en.wikipedia.org/wiki/Nyeme_Costa",
+   "slice": "s26_sport_vb_off0",
+   "refUrls": [
+    "https://olympics.com/pt/noticias/volei-brasil-nyeme-libero"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nyeme_Costa"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q108045390",
+   "name": "Darya Vakulka",
+   "dob": "2002-06-07",
+   "ig": "vvv_dariya",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/darya-vakulka-p17160/clubs",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://women.volleybox.net/darya-vakulka-p17160/clubs"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108064234",
+   "name": "Inna Makhno",
+   "dob": "1994-10-15",
+   "ig": "innamakhno",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Inna_Makhno",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Inna_Makhno"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108064236",
+   "name": "Iryna Makhno",
+   "dob": "1994-10-15",
+   "ig": "ira_makhno",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Iryna_Makhno",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Iryna_Makhno"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108147302",
+   "name": "Martyna Czyrniańska",
+   "dob": "2003-10-13",
+   "ig": "martynaczyrnianskaa",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.eurosport.de/olympia/athleten/profil/czyrnianska-martyna-1928412/",
+   "wiki": "https://en.wikipedia.org/wiki/Martyna_Czyrnia%C5%84ska",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.eurosport.de/olympia/athleten/profil/czyrnianska-martyna-1928412/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Martyna_Czyrnia%C5%84ska"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q108307144",
+   "name": "Rebecca Latham",
+   "dob": "1997-06-23",
+   "ig": "rebecca_latham",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://search.daum.net/search?w=profile2&q=%EB%A0%88%EB%B2%A0%EC%B9%B4&sct=person&sck=datahub_homo/person/2247057",
+   "wiki": "https://en.wikipedia.org/wiki/Rebecca_Latham",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://search.daum.net/search?w=profile2&q=%EB%A0%88%EB%B2%A0%EC%B9%B4&sct=person&sck=datahub_homo/person/2247057"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rebecca_Latham"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108324112",
+   "name": "Dalila-Lilly Topic",
+   "dob": "1997-11-13",
+   "ig": "dalillyx",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://svbf-web.dataproject.com/PlayerDetails.aspx?TeamID=1119&PlayerID=2014&ID=175",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://svbf-web.dataproject.com/PlayerDetails.aspx?TeamID=1119&PlayerID=2014&ID=175"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108324192",
+   "name": "Hanna Hellvig",
+   "dob": "2000-02-03",
+   "ig": "hannahellvig",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://eurovolley.cev.eu/en/match-centres/2021/women/wb-08-sweden-v-ukraine/team/11858-sweden/player/65170-hellvig-hanna",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://eurovolley.cev.eu/en/match-centres/2021/women/wb-08-sweden-v-ukraine/team/11858-sweden/player/65170-hellvig-hanna"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108414",
+   "name": "Laura Weihenmaier",
+   "dob": "1991-04-04",
+   "ig": "lemon_ts17",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Laura_Weihenmaier",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Laura_Weihenmaier"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108538519",
+   "name": "Aleksandra Uzelac",
+   "dob": "2004-07-27",
+   "ig": "uzelaaaaac",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Aleksandra_Uzelac",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aleksandra_Uzelac"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108695631",
+   "name": "Amandine Giardino",
+   "dob": "1995-03-30",
+   "ig": "amandinegiardino",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/17918.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/17918.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108749290",
+   "name": "Amélie Rotar",
+   "dob": "2000-10-24",
+   "ig": "amelie_rotar",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/106492.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/106492.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108771081",
+   "name": "Juliette Gelin",
+   "dob": "2001-11-02",
+   "ig": "",
+   "tt": "juju_gelin",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/130349.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/130349.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108776654",
+   "name": "Natsuki Suda",
+   "dob": "2002-08-21",
+   "ig": "hel_lo0821natsuki",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.vleague.jp/women/player_detail/4226",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.vleague.jp/women/player_detail/4226"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108777385",
+   "name": "Sakura Kurosu",
+   "dob": "2003-01-10",
+   "ig": "____sara04",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.vleague.jp/women/player_detail/4225",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.vleague.jp/women/player_detail/4225"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108933259",
+   "name": "Émilie Respaut",
+   "dob": "2003-04-25",
+   "ig": "emilie_respaut",
+   "tt": "lavolleyeusequidanse",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=778624282",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=778624282"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q108995826",
+   "name": "Léïa Ratahiry",
+   "dob": "2002-09-27",
+   "ig": "leia_rthry",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/153226.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/153226.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1091406",
+   "name": "Ciara Michel",
+   "dob": "1985-07-02",
+   "ig": "vb_ci",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/15889.html",
+   "wiki": "https://en.wikipedia.org/wiki/Ciara_Michel",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/15889.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ciara_Michel"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q109232107",
+   "name": "Valentina Gottardi",
+   "dob": "2002-11-19",
+   "ig": "valentinagottardi_",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Valentina_Gottardi",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Valentina_Gottardi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1092521",
+   "name": "Cinja Tillmann",
+   "dob": "1991-07-13",
+   "ig": "cinjatillmann",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Cinja_Tillmann",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Cinja_Tillmann"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q109353748",
+   "name": "Amandha Sylves",
+   "dob": "2000-12-29",
+   "ig": "amandhasylves",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.worldofvolley.com/wov-community/players/106497.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.worldofvolley.com/wov-community/players/106497.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q109939",
+   "name": "Pia Walkenhorst",
+   "dob": "1993-11-15",
+   "ig": "piasabrinawalkenhorst",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Pia_Walkenhorst",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Pia_Walkenhorst"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110270297",
+   "name": "Nadzeya Vladyka",
+   "dob": "1992-01-02",
+   "ig": "nadzeyachernovets",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://bvf.by/player/vladyko-nadezhda/",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://bvf.by/player/vladyko-nadezhda/",
+    "https://volleybox.net/wd-p7747"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110270344",
+   "name": "Anastasiya Kananovich",
+   "dob": "1993-01-05",
+   "ig": "nastia_konon1",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.cev.eu/national-team/european-league/european-golden-league/women/team/12109-belarus/player/6103-kananovich-anastasiya",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.cev.eu/national-team/european-league/european-golden-league/women/team/12109-belarus/player/6103-kananovich-anastasiya"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110271542",
+   "name": "Nadzeya Stoliar",
+   "dob": "1996-01-11",
+   "ig": "nadzeya_stoliar",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/nadzeya-stoliar-p6346/clubs",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://women.volleybox.net/nadzeya-stoliar-p6346/clubs"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110272575",
+   "name": "Anastasiya Shupianiova",
+   "dob": "1999-01-28",
+   "ig": "shupe_nyova",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://bvf.by/player/shupeneva-anastasiya/",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://bvf.by/player/shupeneva-anastasiya/",
+    "https://women.volleybox.net/anastasiya-shupianiova-p35339/clubs"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110272668",
+   "name": "Vealeta Lavrushko",
+   "dob": "2000-07-31",
+   "ig": "veoletta_",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/vealeta-bialiauskaya-p17169/clubs",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://women.volleybox.net/vealeta-bialiauskaya-p17169/clubs"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110377543",
+   "name": "Diana Duarte",
+   "dob": "1999-02-22",
+   "ig": "diana_duarte2",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://en.volleyballworld.com/volleyball/competitions/vnl-2023/players/152119",
+   "wiki": "https://en.wikipedia.org/wiki/Diana_Duarte",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://en.volleyballworld.com/volleyball/competitions/vnl-2023/players/152119"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Diana_Duarte"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110411248",
+   "name": "Aline Chamereau",
+   "dob": "1996-03-06",
+   "ig": "aline__cham",
+   "tt": "alinechamereau",
+   "occ": "beach volleyball",
+   "refUrl": "http://www.bvbinfo.com/player.asp?ID=14682",
+   "wiki": "https://en.wikipedia.org/wiki/Aline_Chamereau",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.bvbinfo.com/player.asp?ID=14682"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aline_Chamereau"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110420339",
+   "name": "Lézana Placette",
+   "dob": "1997-12-11",
+   "ig": "lezanana",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/L%C3%A9zana_Placette",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/L%C3%A9zana_Placette"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110420637",
+   "name": "Alexia Richard",
+   "dob": "1996-04-03",
+   "ig": "alexia_rchd",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Alexia_Richard",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Alexia_Richard"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q110457024",
+   "name": "Mariana Brambilla",
+   "dob": "2000-03-19",
+   "ig": "mariibrambilla",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://women.volleybox.net/mariana-brambilla-p25198/clubs",
+   "wiki": "https://en.wikipedia.org/wiki/Mariana_Brambilla",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://women.volleybox.net/mariana-brambilla-p25198/clubs"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mariana_Brambilla"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q111460851",
+   "name": "Mikala Mogensen",
+   "dob": "2001-10-03",
+   "ig": "mikalamogensen",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=777721426",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=777721426"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q111577449",
+   "name": "Caleigh Whitaker",
+   "dob": "1990-02-14",
+   "ig": "caleigh.whitaker",
+   "tt": "",
+   "occ": "beach volleyball",
+   "refUrl": "https://women.volleybox.net/caleigh-whitaker-p47042/",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://women.volleybox.net/caleigh-whitaker-p47042/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q111695728",
+   "name": "Aïta Gita Gaye",
+   "dob": "1994-10-07",
+   "ig": "aitagaye",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.todor66.com/volleyball/Africa/Women_2019.html",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.todor66.com/volleyball/Africa/Women_2019.html"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q111696564",
+   "name": "Andréa Mimosette Moussol",
+   "dob": "2000-01-07",
+   "ig": "andreamimosette",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://en.volleyballworld.com/en/volleyball/coqt/2020/cavb-women/teams/cmr-cameroon/players/moussol_mimosette_andrea?id=80297",
+   "wiki": "",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://en.volleyballworld.com/en/volleyball/coqt/2020/cavb-women/teams/cmr-cameroon/players/moussol_mimosette_andrea?id=80297"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q111857",
+   "name": "Jana Franziska Poll",
+   "dob": "1988-05-07",
+   "ig": "jfpti",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "http://www.volleyball-verband.de/de/kader/nationalmannschaft--a-frauen-/spielerinnen--amp--trainer/jana-franziska-poll/",
+   "wiki": "https://en.wikipedia.org/wiki/Jana_Franziska_Poll",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "http://www.volleyball-verband.de/de/kader/nationalmannschaft--a-frauen-/spielerinnen--amp--trainer/jana-franziska-poll/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jana_Franziska_Poll"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112112713",
+   "name": "Mika Grbavica",
+   "dob": "2001-12-08",
+   "ig": "mikaaacccc",
+   "tt": "",
+   "occ": "volleyball",
+   "refUrl": "https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/189435",
+   "wiki": "https://en.wikipedia.org/wiki/Mika_Grbavica",
+   "slice": "s26_sport_vb_off50",
+   "refUrls": [
+    "https://en.volleyballworld.com/volleyball/competitions/women-worldchampionship-2022/players/189435",
+    "https://haok-mladost.hr/index.php?rubrika=igrac&obrazac=1&id=7123",
+    "https://www.dscvolley.de/dsc-volleyball-verpflichtet-mika-grbavica-auf-diagonal-de-eng/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mika_Grbavica"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112119297",
+   "name": "Magdalena Jurczyk",
+   "dob": "1995-10-28",
+   "ig": "magda.jurczyk",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Magdalena_Jurczyk",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Magdalena_Jurczyk"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112482208",
+   "name": "Roxanne Wiblin",
+   "dob": "1998-12-18",
+   "ig": "rooooxie",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "https://www.volleyball-bundesliga.de/cms/home/1_bundesliga_frauen/teams_spielerinnen/mannschaften.xhtml?226143.teamId=749394783&226143.view=teamMain#samsCmsComponent_226143",
+   "wiki": "",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/cms/home/1_bundesliga_frauen/teams_spielerinnen/mannschaften.xhtml?226143.teamId=749394783&226143.view=teamMain#samsCmsComponent_226143"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112580517",
+   "name": "Leonie Amann",
+   "dob": "2000-04-02",
+   "ig": "leonieamann",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750493393&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750493393&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11261663",
+   "name": "Oh Ji-young",
+   "dob": "1988-07-11",
+   "ig": "oh_ji_young",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "https://www.olympedia.org/athletes/144962",
+   "wiki": "https://en.wikipedia.org/wiki/Oh_Ji-young",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [
+    "https://www.olympedia.org/athletes/144962"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Oh_Ji-young"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112664015",
+   "name": "Lena Zewe",
+   "dob": "1992-08-02",
+   "ig": "lenazewe",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750863162&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750863162&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112664138",
+   "name": "Doreen Werth",
+   "dob": "1995-09-03",
+   "ig": "_doreenw_",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750273303&hideHistoryBackButton=true",
+   "wiki": "",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [
+    "https://www.volleyball-bundesliga.de/popup/teamMember/teamMemberDetails.xhtml?teamMemberId=750273303&hideHistoryBackButton=true"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112716930",
+   "name": "Avery Skinner",
+   "dob": "1999-04-25",
+   "ig": "averyskinnerr",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Avery_Skinner_(volleyball)",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Avery_Skinner_(volleyball)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q112718040",
+   "name": "Dani Drews",
+   "dob": "1999-01-01",
+   "ig": "banidrews",
+   "tt": "",
+   "occ": "volleyball player",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Dani_Drews",
+   "slice": "s26_vb1985_2002_off50",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Dani_Drews"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q11307132",
+   "name": "Kavka Shishido",
+   "dob": "1985-06-23",
+   "ig": "shishido_kavka",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kavka_Shishido",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kavka_Shishido"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11307633",
+   "name": "Shaula Vogue",
+   "dob": "1986-08-28",
+   "ig": "shaula_vogue",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Shaula_Vogue",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Shaula_Vogue"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113081601",
+   "name": "Tashi Choden",
+   "dob": "1998-01-01",
+   "ig": "tashi_chombal_dorji",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Tashi_Choden",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tashi_Choden"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113126763",
+   "name": "Isabel Garrido",
+   "dob": "1998-07-14",
+   "ig": "isabelgarridof",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://historia-biografia.com/isabel-garrido/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://historia-biografia.com/isabel-garrido/",
+    "https://www.formulatv.com/personas/isabel-garrido/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11315465",
+   "name": "Sonmi",
+   "dob": "1989-01-11",
+   "ig": "sonchan0111",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sonmi",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sonmi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11317441",
+   "name": "Akemi Darenogare",
+   "dob": "1990-07-16",
+   "ig": "darenogare.akemi",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Akemi_Darenogare",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Akemi_Darenogare"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113193951",
+   "name": "Zara McDermott",
+   "dob": "1996-12-14",
+   "ig": "zara_mcdermott",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.famousbirthdays.com/people/zara-mcdermott.html",
+   "wiki": "https://en.wikipedia.org/wiki/Zara_McDermott",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.famousbirthdays.com/people/zara-mcdermott.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Zara_McDermott"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113248645",
+   "name": "Merle Liivand",
+   "dob": "1991-04-17",
+   "ig": "aquamjerle",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.openwaterswimming.com/merle-liivands-day-in-miami/",
+   "wiki": "https://en.wikipedia.org/wiki/Merle_Liivand",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.openwaterswimming.com/merle-liivands-day-in-miami/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Merle_Liivand"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113266007",
+   "name": "Yasmina Zaytoun",
+   "dob": "2002-10-26",
+   "ig": "yasminazaytoun",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yasmina_Zaytoun",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yasmina_Zaytoun"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113288404",
+   "name": "Anna Linnikova",
+   "dob": "2000-04-04",
+   "ig": "anna__linnikova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Anna_Linnikova",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anna_Linnikova"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113364035",
+   "name": "Anna Sueangam-iam",
+   "dob": "1998-11-10",
+   "ig": "annasnga_1o",
+   "tt": "annasnga1011",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Anna_Sueangam-iam",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anna_Sueangam-iam"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113369250",
+   "name": "Nicole Borromeo",
+   "dob": "2000-12-09",
+   "ig": "nicol.borromeo",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nicole_Borromeo",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nicole_Borromeo"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11339979",
+   "name": "Maggy",
+   "dob": "1992-05-14",
+   "ig": "maggymoon",
+   "tt": "maggy_moon",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Maggy_(model)",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Maggy_(model)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113408144",
+   "name": "Hind Sahli",
+   "dob": "1990-11-06",
+   "ig": "hindsahli",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.fashionmodeldirectory.com/models/Hind_Sahli/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.fashionmodeldirectory.com/models/Hind_Sahli/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11341012",
+   "name": "Princess Maria-Olympia of Greece and Denmark",
+   "dob": "1996-07-25",
+   "ig": "olympiagreece",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Princess_Maria-Olympia_of_Greece_and_Denmark",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Princess_Maria-Olympia_of_Greece_and_Denmark"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113455624",
+   "name": "Danielle Marsh",
+   "dob": "2005-04-11",
+   "ig": "dazzibelle",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.instagram.com/p/Cq3B98uv0Id/",
+   "wiki": "https://en.wikipedia.org/wiki/Danielle_(singer)",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.instagram.com/p/Cq3B98uv0Id/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Danielle_(singer)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113457913",
+   "name": "Jenny Ramp",
+   "dob": "2003-02-06",
+   "ig": "jenny.ramp",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Jenny_Ramp",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Jenny_Ramp"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11347337",
+   "name": "Loveli",
+   "dob": "1989-11-27",
+   "ig": "loveli_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Loveli",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Loveli"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113499570",
+   "name": "Ashley Cariño",
+   "dob": "1994-08-03",
+   "ig": "ashleyanncarino",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ashley_Cari%C3%B1o",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ashley_Cari%C3%B1o"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113505102",
+   "name": "Cassia Sharpley",
+   "dob": "2000-11-25",
+   "ig": "cassiasharpley",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Cassia_Sharpley",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Cassia_Sharpley"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11350801",
+   "name": "Seina Shimabukuro",
+   "dob": "1987-04-04",
+   "ig": "seina4444",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Seina_Shimabukuro",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Seina_Shimabukuro"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113510433",
+   "name": "Pansa Vosbein",
+   "dob": "1996-07-31",
+   "ig": "panly.v",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.gmm-tv.com/artists/view/80/",
+   "wiki": "https://en.wikipedia.org/wiki/Pansa_Vosbein",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.gmm-tv.com/artists/view/80/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Pansa_Vosbein"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11354538",
+   "name": "Yūki Mihara",
+   "dob": "1990-04-04",
+   "ig": "yuukimeehaa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Y%C5%ABki_Mihara",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Y%C5%ABki_Mihara"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113548252",
+   "name": "Diana Galimullina",
+   "dob": "1994-08-09",
+   "ig": "dianagali_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Diana_Galimullina",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Diana_Galimullina"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11355891",
+   "name": "Kokoro Saegusa",
+   "dob": "1987-06-02",
+   "ig": "kokoro_golf",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kokoro_Saegusa",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kokoro_Saegusa"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11356556",
+   "name": "Moe Miura",
+   "dob": "1992-12-16",
+   "ig": "moemiura04",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Moe_Miura",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Moe_Miura"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113621102",
+   "name": "Yaa Jackson",
+   "dob": "2000-10-18",
+   "ig": "yaajackson4",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.thecityceleb.com/biography/celebrity/actress/yaa-jackson-biography-age-boyfriend-pictures-net-worth-wiki-movies-songs-father/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.thecityceleb.com/biography/celebrity/actress/yaa-jackson-biography-age-boyfriend-pictures-net-worth-wiki-movies-songs-father/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113631396",
+   "name": "Leah Ashmore",
+   "dob": "1995-04-05",
+   "ig": "leleashmore",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Lia_Ashmore",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Lia_Ashmore"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1136373",
+   "name": "Emi Takei",
+   "dob": "1993-12-25",
+   "ig": "emitakei_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Emi_Takei",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Emi_Takei"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1136375",
+   "name": "Mikiho Niwa",
+   "dob": "1989-09-27",
+   "ig": "mikiho_niwa",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mikiho_Niwa",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mikiho_Niwa"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113638756",
+   "name": "Divita Rai",
+   "dob": "1998-01-10",
+   "ig": "divitarai",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Divita_Rai",
+   "slice": "s26_model_off500",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Divita_Rai"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113640192",
+   "name": "Paula Ballesteros",
+   "dob": "1994-10-11",
+   "ig": "pxxxxw",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.formulatv.com/personas/paula-ballesteros/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.formulatv.com/personas/paula-ballesteros/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113644947",
+   "name": "Klelia Andriolatou",
+   "dob": "1996-10-12",
+   "ig": "klelia_andriolatou",
+   "tt": "klelia.andriolatou",
+   "occ": "model",
+   "refUrl": "https://www.imdb.com/name/nm7204902/",
+   "wiki": "",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://www.imdb.com/name/nm7204902/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11365210",
+   "name": "Anne Nakamura",
+   "dob": "1987-09-17",
+   "ig": "cocoannne",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://bgm.tv/person/33995",
+   "wiki": "https://en.wikipedia.org/wiki/Anne_Nakamura",
+   "slice": "s26_model_off500",
+   "refUrls": [
+    "https://bgm.tv/person/33995"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anne_Nakamura"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11366131",
+   "name": "Ayami Nakajō",
+   "dob": "1997-02-04",
+   "ig": "nakajo_ayami",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ayami_Nakajo",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ayami_Nakajo"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11368954",
+   "name": "Yurika Kubo",
+   "dob": "1989-05-19",
+   "ig": "shi_ka_co",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yurika_Kubo",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yurika_Kubo"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11369114",
+   "name": "Sayu Kubota",
+   "dob": "2000-01-18",
+   "ig": "kubotasayu",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.sma.co.jp/artist/profile/index/215",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://www.sma.co.jp/artist/profile/index/215",
+    "https://www.sma.co.jp/s/sma/artist/215"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11369447",
+   "name": "Ikumi Hisamatsu",
+   "dob": "1996-02-18",
+   "ig": "ikumi_hisamatsu",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ikumi_Hisamatsu",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ikumi_Hisamatsu"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1137007",
+   "name": "Rina Aizawa",
+   "dob": "1991-07-28",
+   "ig": "aizawarina0728",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Rina_Aizawa",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rina_Aizawa"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11371873",
+   "name": "Fumi Nikaidō",
+   "dob": "1994-09-21",
+   "ig": "fumi_nikaido",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Fumi_Nikaido",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Fumi_Nikaido"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11380209",
+   "name": "Risako Itō",
+   "dob": "1996-02-20",
+   "ig": "ito_risako",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://dictionary.goo.ne.jp/word/person/%E4%BC%8A%E8%97%A4%E6%A2%A8%E6%B2%99%E5%AD%90/",
+   "wiki": "https://en.wikipedia.org/wiki/Risako_It%C5%8D",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://dictionary.goo.ne.jp/word/person/%E4%BC%8A%E8%97%A4%E6%A2%A8%E6%B2%99%E5%AD%90/",
+    "https://movie.douban.com/celebrity/1337916",
+    "https://www.cubeinc.co.jp/archives/artist/itorisako"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Risako_It%C5%8D"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1138320",
+   "name": "Anri Okamoto",
+   "dob": "1994-07-01",
+   "ig": "anri_okamoto",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Anri_Okamoto",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anri_Okamoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11384112",
+   "name": "Harumi Satō",
+   "dob": "1995-06-08",
+   "ig": "twin_tower_ldh",
+   "tt": "harumi_official__",
+   "occ": "",
+   "refUrl": "fashion model",
+   "wiki": "",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "fashion model"
+   ],
+   "wikis": [],
+   "dupReason": "handle"
+  },
+  {
+   "qid": "Q11384144",
+   "name": "Shiori Satō",
+   "dob": "1990-07-27",
+   "ig": "satoshiori727",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://myanimelist.net/people/44925",
+   "wiki": "https://en.wikipedia.org/wiki/Shiori_Sato",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://myanimelist.net/people/44925"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Shiori_Sato"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1138669",
+   "name": "Mayuko Iwasa",
+   "dob": "1987-02-24",
+   "ig": "mayuko.iwasa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mayuko_Iwasa",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mayuko_Iwasa"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11387700",
+   "name": "Mio Yūki",
+   "dob": "1999-04-05",
+   "ig": "mio_yuki",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mio_Y%C5%ABki",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mio_Y%C5%ABki"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113877502",
+   "name": "Monique Riley",
+   "dob": "1995-03-09",
+   "ig": "moniqueeriley",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Monique_Riley",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Monique_Riley"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113901013",
+   "name": "Alicia Faubel",
+   "dob": "1997-01-08",
+   "ig": "alicia.faubel",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Alicia_Faubel",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Alicia_Faubel"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11391295",
+   "name": "Arisa Yagi",
+   "dob": "1995-07-31",
+   "ig": "alilouss",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1339570",
+   "wiki": "https://en.wikipedia.org/wiki/Alissa_Yagi",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1339570"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Alissa_Yagi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11394329",
+   "name": "Rio Uchida",
+   "dob": "1991-09-27",
+   "ig": "rio_uchida",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Rio_Uchida",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rio_Uchida"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113957682",
+   "name": "Emelina Adams",
+   "dob": "1992-02-02",
+   "ig": "emelinaadams",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Emelina_Adams",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Emelina_Adams"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1139729",
+   "name": "Minase Yashiro",
+   "dob": "1985-02-03",
+   "ig": "minase_yashiro",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Minase_Yashiro",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Minase_Yashiro"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q113999790",
+   "name": "Natalie Yoffe",
+   "dob": "1985-07-18",
+   "ig": "natalieyoffe",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.caras.uy/noticias/television/2015-07-21-natalie-yoffe-festejo-sus-30-anos.phtml",
+   "wiki": "https://en.wikipedia.org/wiki/Natalie_Yoffe",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://www.caras.uy/noticias/television/2015-07-21-natalie-yoffe-festejo-sus-30-anos.phtml"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Natalie_Yoffe"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114060346",
+   "name": "Helin Kandemir",
+   "dob": "2004-06-02",
+   "ig": "_helinkandemir",
+   "tt": "helinkandemir_",
+   "occ": "",
+   "refUrl": "model",
+   "wiki": "https://www.kimnereli.net/helin-kandemir.html",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "model"
+   ],
+   "wikis": [
+    "https://www.kimnereli.net/helin-kandemir.html"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114095045",
+   "name": "Kayra Zabcı",
+   "dob": "2001-08-21",
+   "ig": "kayrazabci",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.kimnereli.net/kayra-zabci.html",
+   "wiki": "https://en.wikipedia.org/wiki/Kayra_Zabc%C4%B1",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://www.kimnereli.net/kayra-zabci.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kayra_Zabc%C4%B1"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11410046",
+   "name": "Nanoka Hara",
+   "dob": "2003-08-26",
+   "ig": "nanoka_hara_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://web.archive.org/web/20200629194729/https://s-wpb.shueisha.co.jp/profile/detail.php?prof_id=1334&k=%E3%81%95",
+   "wiki": "https://en.wikipedia.org/wiki/Nanoka_Hara",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://web.archive.org/web/20200629194729/https://s-wpb.shueisha.co.jp/profile/detail.php?prof_id=1334&k=%E3%81%95"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nanoka_Hara"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11411540",
+   "name": "Seika Furuhata",
+   "dob": "1996-07-08",
+   "ig": "starandsummer",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1344435",
+   "wiki": "https://en.wikipedia.org/wiki/Seika_Furuhata",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1344435"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Seika_Furuhata"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11425425",
+   "name": "Nozomi Bandō",
+   "dob": "1997-09-04",
+   "ig": "nozomibando_official",
+   "tt": "nozomi_bando_",
+   "occ": "",
+   "refUrl": "fashion model",
+   "wiki": "http://hpplus.jp/st/clip/458209/",
+   "slice": "s26_model_off550",
+   "refUrls": [
+    "fashion model",
+    "model"
+   ],
+   "wikis": [
+    "http://hpplus.jp/st/clip/458209/"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1142698",
+   "name": "Florrie",
+   "dob": "1988-12-28",
+   "ig": "florrie",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Florrie",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Florrie"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1142789",
+   "name": "Miki Fujimoto",
+   "dob": "1985-02-26",
+   "ig": "mikittyfujimoto",
+   "tt": "mikitty_staff",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Miki_Fujimoto",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Miki_Fujimoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11434543",
+   "name": "Kana Ōya",
+   "dob": "1987-11-10",
+   "ig": "__kana_oya__",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kana_Oya",
+   "slice": "s26_model_off550",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kana_Oya"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1143678",
+   "name": "Airi Suzuki",
+   "dob": "1994-04-12",
+   "ig": "airisuzuki_official_uf",
+   "tt": "airisuzuki_official",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Airi_Suzuki",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Airi_Suzuki"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11439127",
+   "name": "Mio Ōtani",
+   "dob": "1992-07-13",
+   "ig": "nekomi_o",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mio_Ootani",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mio_Ootani"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114395063",
+   "name": "R'Bonney Gabriel",
+   "dob": "1994-03-20",
+   "ig": "rbonneynola",
+   "tt": "rbonneynola",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/R%27Bonney_Gabriel",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/R%27Bonney_Gabriel"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11449022",
+   "name": "Manami Ui",
+   "dob": "1986-12-21",
+   "ig": "manami12ui",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Manami_Ui",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Manami_Ui"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114498129",
+   "name": "Aabha Paul",
+   "dob": "1987-08-07",
+   "ig": "aabhapaulofficial",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Aabha_Paul",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Aabha_Paul"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11453999",
+   "name": "Mai Miyagi",
+   "dob": "1988-02-19",
+   "ig": "mai_miyagi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mai_Miyagi",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mai_Miyagi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11460192",
+   "name": "Ruriko Kojima",
+   "dob": "1993-12-23",
+   "ig": "ruriko_kojima",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Ruriko_Kojima",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Ruriko_Kojima"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11461244",
+   "name": "Nana Komatsu",
+   "dob": "1996-02-16",
+   "ig": "konichan7",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nana_Komatsu",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nana_Komatsu"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114628612",
+   "name": "Linda Pani",
+   "dob": "1999-07-27",
+   "ig": "linda_pani",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.rbcasting.com/rb/web/lindapani",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://www.rbcasting.com/rb/web/lindapani"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11465248",
+   "name": "Sayoko Ozaki",
+   "dob": "1989-12-20",
+   "ig": "osayo_osayo",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sayoko_Ozaki",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sayoko_Ozaki"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11466623",
+   "name": "Nonoka Yamaguchi",
+   "dob": "1998-03-08",
+   "ig": "yamaguchi_nonoka_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1353251",
+   "wiki": "https://en.wikipedia.org/wiki/Nonoka_Yamaguchi",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1353251"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nonoka_Yamaguchi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11468865",
+   "name": "Yūki Yamamoto",
+   "dob": "1987-02-09",
+   "ig": "yyyukiyy",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yuuki_Yamamoto_(model)",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuuki_Yamamoto_(model)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11469296",
+   "name": "Mizuki Yamamoto",
+   "dob": "1991-07-18",
+   "ig": "mizuki_yamamoto_official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://movie.douban.com/celebrity/1325630",
+   "wiki": "https://en.wikipedia.org/wiki/Mizuki_Yamamoto",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1325630"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mizuki_Yamamoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11469322",
+   "name": "Maika Yamamoto",
+   "dob": "1997-10-13",
+   "ig": "yamamotomaika_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Maika_Yamamoto",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Maika_Yamamoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11470444",
+   "name": "Akari Yamada",
+   "dob": "1996-05-25",
+   "ig": "akachamxx",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Akari_Yamada",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Akari_Yamada"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11470932",
+   "name": "Kasumi Yamaya",
+   "dob": "1996-12-26",
+   "ig": "kasuminwoooow",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kasumi_Yamaya",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kasumi_Yamaya"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11473103",
+   "name": "Natsumi Okamoto",
+   "dob": "1998-07-01",
+   "ig": "okamoto_natsumi",
+   "tt": "natsumiokamoto_mg",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Natsumi_Okamoto",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Natsumi_Okamoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11475884",
+   "name": "Cecil Kishimoto",
+   "dob": "1990-02-22",
+   "ig": "cecil_lu",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Cecil_Kishimoto",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Cecil_Kishimoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11482552",
+   "name": "Airi Shimizu",
+   "dob": "1992-12-17",
+   "ig": "shimizuairi",
+   "tt": "shimizuairipuyu",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Airi_Shimizu",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Airi_Shimizu"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11485540",
+   "name": "Suzu Hirose",
+   "dob": "1998-06-19",
+   "ig": "suzu.hirose.official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Suzu_Hirose",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Suzu_Hirose"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114857126",
+   "name": "Isabella Menin",
+   "dob": "1996-06-02",
+   "ig": "isanmenin",
+   "tt": "isanmenin",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Isabella_Menin",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Isabella_Menin"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114888220",
+   "name": "Payengxa Lor",
+   "dob": "2001-03-25",
+   "ig": "laujmos",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Payengxa_Lor",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Payengxa_Lor"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11491098",
+   "name": "Yūmi Shida",
+   "dob": "1997-02-11",
+   "ig": "yuumi_shida",
+   "tt": "yuumi_shida",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Yuumi_Shida",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuumi_Shida"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114928269",
+   "name": "Kate Alexeeva",
+   "dob": "1994-10-25",
+   "ig": "kate.xeeva",
+   "tt": "kate.alexeeva",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kate_Alexeeva",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kate_Alexeeva"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q114964100",
+   "name": "Letícia Frota",
+   "dob": "2003-06-30",
+   "ig": "letticiafrota",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Letic%C3%ADa_Frota",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Letic%C3%ADa_Frota"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q115012",
+   "name": "Tereza Fajksová",
+   "dob": "1989-05-17",
+   "ig": "terinkafajks",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.idnes.cz/wiki/soubyznys/tereza-fajksova.K450100",
+   "wiki": "https://en.wikipedia.org/wiki/Tereza_Fajksov%C3%A1",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://www.idnes.cz/wiki/soubyznys/tereza-fajksova.K450100"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tereza_Fajksov%C3%A1"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11502513",
+   "name": "Yūko Araki",
+   "dob": "1993-12-15",
+   "ig": "yuuuuukko_",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "http://www.stardust.co.jp/section3/profile/arakiyuko.html",
+   "wiki": "https://en.wikipedia.org/wiki/Yuko_Araki",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "http://www.stardust.co.jp/section3/profile/arakiyuko.html"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Yuko_Araki"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11519581",
+   "name": "Honoka Miki",
+   "dob": "1997-03-07",
+   "ig": "honoka_yahagi",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Honoka_Yahagi",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Honoka_Yahagi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q115195983",
+   "name": "Lydia Pavón",
+   "dob": "1998-11-23",
+   "ig": "lydia.pavon",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.formulatv.com/personas/lydia-pavon/",
+   "wiki": "",
+   "slice": "s26_model_off600",
+   "refUrls": [
+    "https://www.formulatv.com/personas/lydia-pavon/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q115207363",
+   "name": "Sofía Osío Luna",
+   "dob": "2000-05-27",
+   "ig": "sofiaosioluna",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sof%C3%ADa_Os%C3%ADo",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sof%C3%ADa_Os%C3%ADo"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11521658",
+   "name": "Arisa Sugi",
+   "dob": "1989-01-06",
+   "ig": "meariiisa",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Arisa_Sugi",
+   "slice": "s26_model_off600",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Arisa_Sugi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11531435",
+   "name": "Sayuri Matsumura",
+   "dob": "1992-08-27",
+   "ig": "matsumura_sayuri_official",
+   "tt": "sayuringo_officialtiktok",
+   "occ": "fashion model",
+   "refUrl": "https://bgm.tv/person/34014",
+   "wiki": "https://en.wikipedia.org/wiki/Sayuri_Matsumura",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "https://bgm.tv/person/34014",
+    "https://www.nogizaka46.com/member/detail/matsumurasayuri.php"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sayuri_Matsumura"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q1154160",
+   "name": "Frida Gustavsson",
+   "dob": "1993-06-06",
+   "ig": "fridagustavsson",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Frida_Gustavsson",
+   "slice": "s26_model_off650",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Frida_Gustavsson"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11551702",
+   "name": "Elaiza Ikeda",
+   "dob": "1996-04-16",
+   "ig": "elaiza_ikd",
+   "tt": "elaizaofficial_",
+   "occ": "",
+   "refUrl": "fashion model",
+   "wiki": "",
+   "slice": "s26_model_off650",
+   "refUrls": [
+    "fashion model",
+    "model"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11572464",
+   "name": "Tina Tamashiro",
+   "dob": "1997-10-08",
+   "ig": "tinapouty",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1339636",
+   "wiki": "https://en.wikipedia.org/wiki/Tina_Tamashiro",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1339636",
+    "https://tina-official.com/profile/"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tina_Tamashiro"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q115765794",
+   "name": "Sargam Koushal",
+   "dob": "1990-09-20",
+   "ig": "sargam3",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Sargam_Koushal",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Sargam_Koushal"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11577466",
+   "name": "Asami Tano",
+   "dob": "1987-02-12",
+   "ig": "tano_asami",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Asami_Tano",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Asami_Tano"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11578634",
+   "name": "Airi Hatakeyama",
+   "dob": "1994-08-16",
+   "ig": "airihatakeyama",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Airi_Hatakeyama",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Airi_Hatakeyama"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11581294",
+   "name": "Tsubasa Masuwaka",
+   "dob": "1985-10-13",
+   "ig": "tsubasamasuwaka1013",
+   "tt": "tsubasamasuwaka1013",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Tsubasa_Masuwaka",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Tsubasa_Masuwaka"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q115829217",
+   "name": "Huỳnh Thị Thanh Thủy",
+   "dob": "2002-07-01",
+   "ig": "thanhthuy.hhvn",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hu%E1%BB%B3nh_Th%E1%BB%8B_Thanh_Th%E1%BB%A7y",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Hu%E1%BB%B3nh_Th%E1%BB%8B_Thanh_Th%E1%BB%A7y"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11590826",
+   "name": "Erina Kamiya",
+   "dob": "1991-10-15",
+   "ig": "k.erinyann",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Erina_Kamiya_(actress)",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Erina_Kamiya_(actress)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11594851",
+   "name": "Kozue Akimoto",
+   "dob": "1987-07-27",
+   "ig": "akimoto_kozue",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Kozue_Akimoto",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Kozue_Akimoto"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11598095",
+   "name": "Haruka Tateishi",
+   "dob": "1994-09-28",
+   "ig": "haruka_tateishi",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://movie.douban.com/celebrity/1361379",
+   "wiki": "https://en.wikipedia.org/wiki/Haruka_Tateishi",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://movie.douban.com/celebrity/1361379"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Haruka_Tateishi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11605795",
+   "name": "Hiromi Hosoi",
+   "dob": "1989-05-13",
+   "ig": "romihi_romihi",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Hiromi_Hosoi",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Hiromi_Hosoi"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116143",
+   "name": "Whitney Toyloy",
+   "dob": "1990-07-21",
+   "ig": "whitney_toyloy",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Whitney_Toyloy",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Whitney_Toyloy"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11615123",
+   "name": "Rumi Hanai",
+   "dob": "1987-09-30",
+   "ig": "floworld_69",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Rumi_Hanai",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Rumi_Hanai"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116175998",
+   "name": "Victoria Saravia",
+   "dob": "1986-04-20",
+   "ig": "vic_saravia",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.caras.uy/noticias/actualidad/2020-04-20-vitto-saravia-cumple-anos-en-buenos-aires-en-plena-cuarentena.phtml",
+   "wiki": "https://en.wikipedia.org/wiki/Victoria_Saravia",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.caras.uy/noticias/actualidad/2020-04-20-vitto-saravia-cumple-anos-en-buenos-aires-en-plena-cuarentena.phtml"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Victoria_Saravia"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116196",
+   "name": "Linda Fäh",
+   "dob": "1987-11-10",
+   "ig": "linda_faeh",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Linda_F%C3%A4h",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Linda_F%C3%A4h"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11619963",
+   "name": "Nanao",
+   "dob": "1988-10-28",
+   "ig": "nanao_official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Nanao_(model)",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nanao_(model)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116211359",
+   "name": "Odett Bernáth",
+   "dob": "2002-09-11",
+   "ig": "odettbernath",
+   "tt": "odettbernath",
+   "occ": "personal trainer",
+   "refUrl": "https://www.tiktok.com/@odettbernath/video/7189653601503988998",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.tiktok.com/@odettbernath/video/7189653601503988998"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116218315",
+   "name": "Sümeyye Aydoğan",
+   "dob": "1999-04-02",
+   "ig": "sumeyyeaydogan_",
+   "tt": "sumeyyeaydogannn_",
+   "occ": "",
+   "refUrl": "model",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "model"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11622873",
+   "name": "Shūka Fujii",
+   "dob": "1994-10-14",
+   "ig": "fujiishuuka.official",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Shuuka_Fujii",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Shuuka_Fujii"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116235933",
+   "name": "Dana Saber",
+   "dob": "1993-03-23",
+   "ig": "danasaber23",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/dana-saber-77479#:~:text=Nasce%20il%2023%20marzo%201993,di%20diventare%20anche%20un'attrice.",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.libero.it/magazine/personaggi/dana-saber-77479#:~:text=Nasce%20il%2023%20marzo%201993,di%20diventare%20anche%20un'attrice."
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116236062",
+   "name": "Ginevra Lamborghini",
+   "dob": "1992-09-25",
+   "ig": "ginevra.lamborghini",
+   "tt": "lamborghiniginevra",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/ginevra-lamborghini-59949",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.libero.it/magazine/personaggi/ginevra-lamborghini-59949"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116236428",
+   "name": "Sophie Codegoni",
+   "dob": "2000-12-22",
+   "ig": "sophie.codegoni",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.libero.it/magazine/personaggi/sophie-codegoni-75351#:~:text=Per%20diverso%20tempo%20si%20%C3%A8,il%2022%2F12%2F2000.",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.libero.it/magazine/personaggi/sophie-codegoni-75351#:~:text=Per%20diverso%20tempo%20si%20%C3%A8,il%2022%2F12%2F2000."
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11624970",
+   "name": "Mio Kudō",
+   "dob": "1999-10-08",
+   "ig": "mmio_kudo",
+   "tt": "mmio_kudo30",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mio_Kudo",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mio_Kudo"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116251175",
+   "name": "Bella Shepard",
+   "dob": "2001-12-17",
+   "ig": "bellashepard",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Bella_Shepard",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Bella_Shepard"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116251994",
+   "name": "Micol Incorvaia",
+   "dob": "1993-09-09",
+   "ig": "micolincorvaia",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://chi-e.com/micol-incorvaia/",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://chi-e.com/micol-incorvaia/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116256696",
+   "name": "Lucrezia Hailé Selassié",
+   "dob": "1998-06-09",
+   "ig": "luluselassieofficial",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/lucrezia-haile-selassie/",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.chiecosa.it/lucrezia-haile-selassie/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116256717",
+   "name": "Clarissa Hailé Selassié",
+   "dob": "2002-05-17",
+   "ig": "claryselassie",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.avvisatore.it/chi-e-clarissa-selassie-eta-altezza-peso-twerk-dove-vive-vita-privata-e-instagram",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.avvisatore.it/chi-e-clarissa-selassie-eta-altezza-peso-twerk-dove-vive-vita-privata-e-instagram"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116256903",
+   "name": "Sofia Giaele De Donà",
+   "dob": "1998-10-13",
+   "ig": "sofiagiaelededona",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "https://www.chiecosa.it/sofia-giaele-de-dona/",
+   "wiki": "",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://www.chiecosa.it/sofia-giaele-de-dona/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11629306",
+   "name": "Mai Nishida",
+   "dob": "1989-03-23",
+   "ig": "mai.nishida.official",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Mai_Nishida",
+   "slice": "s26_model_off700",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Mai_Nishida"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q11629738",
+   "name": "Nanase Nishino",
+   "dob": "1994-05-25",
+   "ig": "nanase_kazewokigaete",
+   "tt": "",
+   "occ": "fashion model",
+   "refUrl": "https://nishinonanase.com/s/m04/page/profile",
+   "wiki": "https://en.wikipedia.org/wiki/Nanase_Nishino",
+   "slice": "s26_model_off700",
+   "refUrls": [
+    "https://nishinonanase.com/s/m04/page/profile"
+   ],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Nanase_Nishino"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116524740",
+   "name": "Blanka",
+   "dob": "1999-05-23",
+   "ig": "blikeblanka",
+   "tt": "blikeblanka",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Blanka_(Polish_singer)",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Blanka_(Polish_singer)"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q116672123",
+   "name": "Anna Alimani",
+   "dob": "1997-10-04",
+   "ig": "anna_alimani",
+   "tt": "annaalimani",
+   "occ": "fashion model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Anna_Alimani",
+   "slice": "s26_model_off750",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Anna_Alimani"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q118558462",
+   "name": "Brooks Nader",
+   "dob": "1997-02-07",
+   "ig": "brooksnader",
+   "tt": "brooksnader",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Brooks_Nader",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Brooks_Nader"
+   ],
+   "dupReason": "name"
+  },
+  {
+   "qid": "Q1191177",
+   "name": "Vlada Roslyakova",
+   "dob": "1987-07-08",
+   "ig": "vladaroslyakova",
+   "tt": "",
+   "occ": "model",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Vlada_Roslyakova",
+   "slice": "s26_model_off800",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Vlada_Roslyakova"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q121391481",
+   "name": "Midori Tatematsu",
+   "dob": "1988-05-28",
+   "ig": "midori__fitness",
+   "tt": "",
+   "occ": "bodybuilder",
+   "refUrl": "",
+   "wiki": "https://en.wikipedia.org/wiki/Midori_Tatematsu",
+   "slice": "s26_model_off900",
+   "refUrls": [],
+   "wikis": [
+    "https://en.wikipedia.org/wiki/Midori_Tatematsu"
+   ],
+   "dupReason": "qid"
+  },
+  {
+   "qid": "Q123694020",
+   "name": "Ayano Nishi",
+   "dob": "2002-08-15",
+   "ig": "achan___15",
+   "tt": "ayapo_0815",
+   "occ": "model",
+   "refUrl": "https://platinumproduction.jp/talent/nishiayano/",
+   "wiki": "",
+   "slice": "s26_model_off950",
+   "refUrls": [
+    "https://platinumproduction.jp/talent/nishiayano/"
+   ],
+   "wikis": [],
+   "dupReason": "qid"
+  }
+ ]
+}
