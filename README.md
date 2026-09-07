@@ -179,6 +179,20 @@ Age evidence: English Wikipedia lead / cited infobox (`AGE_EVIDENCE_WIKIPEDIA_ON
 year-precision values replaced by the cited Wikipedia date, `MINOR_SOURCE_CONFLICT_NOTED`). Spot-checks 10/10 matched.
 Validator **errors=0** (2128 / 305 review / 30 IRR).
 
+**Session 29 (2026-09-06, modeling / beauty pageant / creator — Wikidata model-pool page 2 beyond Q134404200,
+line-by-line verdicts)** moved the paging cursor forward (`data/research/urls/s29_model_gt_off0.url`) → 150 rows →
+145 unique → **139 new** after dedup, opened every candidate's English Wikipedia lead (plus the infobox where the
+lead was undated; extracts archived in `data/research/s29_raw/enwiki_b0..b6.json`) and logged a verdict in
+`data/research/verification_s29_log.tsv` (76 PROMOTE / 62 REVIEW / 1 REJECT / 0 MINOR).
+Result: **+76 verified (W-2026-2130..2205)**, all Instagram/TikTok (**2204 VERIFIED / 2012 social / 192 reference**) —
+working models, Miss Universe 2025 / 2014, Miss World 2014, Miss Earth 2025, Miss Supranational 2013 / 2025, Miss France
+2014, Miss USA 2013, Miss Italia 2013, Puteri Indonesia titleholders, GNTM / ANTM / Elite Model Look winners, TV
+presenters and wrestler-models — from 40 countries, ages 20–40; **+62 REVIEW_REQUIRED (R-2026-318..379)**
+(scope-ambiguous 37, DOB_CONFLICT 14, AGE_PARTIAL 15, WIKI_REDIRECT 3, GENDER_EVIDENCE_REVIEW 1 — flags overlap);
+1 reject (a Wikidata item for a musical duo mis-typed as one person, never added). Age evidence: English Wikipedia
+lead / infobox (`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×76; one Wikidata 1-January year-precision value replaced by the cited
+Wikipedia date, `MINOR_SOURCE_CONFLICT_NOTED`). Spot-checks 10/10 matched. Validator **errors=0** (2204 / 367 review / 31 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -248,11 +262,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **2128 verified women**,
-  tagged `catalogType` = social (1936, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2204 verified women**,
+  tagged `catalogType` = social (2012, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..2129 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **305 REVIEW_REQUIRED candidates** and **30 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2205 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **367 REVIEW_REQUIRED candidates** and **31 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).
