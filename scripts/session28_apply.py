@@ -315,6 +315,9 @@ def main() -> None:
                         f"{TODAY.isoformat()}). Keep in queue; re-evaluate from {eighteenth} "
                         f"(18th birthday). Do NOT discard. {note}")
             max_r += 1
+            if verdict == "MINOR_UNDERAGE":
+                # never record social handles / profile URLs for a minor, even in the review queue
+                ig, tt = "", ""
             new_reviews.append(_review_record(max_r, qid, name, ig, tt,
                                               ",".join(flags), note, v["source_url"]))
             seen_in_batch_q.add(qid); seen_in_batch_n.add(nname)
