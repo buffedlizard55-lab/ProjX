@@ -211,6 +211,31 @@ overlap); 1 reject (deceased YouTuber, never added). Flags: `AGE_EVIDENCE_WIKIPE
 `NAME_ALIAS_IN_WIKIPEDIA` ×8, `MULTIPLE_IG_HANDLES_DOCUMENTED` ×2, `COUNTRY_NOT_RECORDED` ×1. Spot-checks 10/10
 matched. Validator **errors=0** (2314 / 391 review / 32 IRR).
 
+**Session 31 (2026-09-06, modeling / gravure / race queen — Japanese-Wikipedia slice of the Wikidata model pool,
+page 2 `OFFSET 150`, line-by-line verdicts)** continued the Session 30 slice (`data/research/urls/s31_model_jawiki_off150.url`)
+→ 150 rows → 150 unique → **145 new** after dedup; every Japanese Wikipedia lead read through the extracts API
+(`data/research/s31_raw/jawiki_b0..b7.json`) and cross-checked against Wikidata P569 (143 exact matches, 2 undated leads,
+0 conflicts); verdicts in `data/research/verification_s31_log.tsv` (127 PROMOTE / 18 REVIEW / 0 REJECT / 0 MINOR).
+Result: **+127 verified (W-2026-2316..2442)**, all Instagram/TikTok (**2441 VERIFIED / 2249 social / 192 reference**) —
+agency fashion models, reader / gyaru-magazine models, race queens, gravure models and fashion-brand founders, ages 21–41;
+126 Instagram / 14 TikTok handles; **+18 REVIEW_REQUIRED (R-2026-404..421)** (scope-ambiguous 16 — actresses, announcers,
+a former idol, a businesswoman, a beauty specialist, one adult-video performer held for a manual scope decision;
+AGE_PARTIAL 2). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×127, `NAME_ALIAS_IN_WIKIPEDIA` ×4; three same-romanisation names
+disambiguated with kanji. Spot-checks 10/10 matched. Validator **errors=0** (2441 / 409 review / 33 IRR).
+
+**Session 32 (2026-09-06, modeling / gravure / race queen — Japanese-Wikipedia slice of the Wikidata model pool,
+page 3 `OFFSET 300`, line-by-line verdicts)** continued the slice (`data/research/urls/s32_model_jawiki_off300.url`)
+→ 150 rows → 150 unique → **140 new** after dedup; every Japanese Wikipedia lead read through the extracts API
+(`data/research/s32_raw/jawiki_b0..b6.json`) and cross-checked against Wikidata P569 (134 exact matches, 3 partial/undated
+leads, 3 conflicts); verdicts in `data/research/verification_s32_log.tsv` (111 PROMOTE / 29 REVIEW / 0 REJECT / 0 MINOR).
+Result: **+111 verified (W-2026-2443..2553)**, all Instagram/TikTok (**2552 VERIFIED / 2360 social / 192 reference**) —
+gyaru-magazine and agency fashion models, race queens, gravure models, a racing-driver model and a pageant representative,
+ages 19–41; 111 Instagram / 10 TikTok handles; **+29 REVIEW_REQUIRED (R-2026-422..450)** (scope-ambiguous 24 — actresses,
+tarento, idols, an announcer, a politician, and five "former-activity-only" model pages; AGE_PARTIAL 3; DOB_CONFLICT 3 where
+the lead's birth year differs from Wikidata — no value chosen). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×111,
+`NAME_ALIAS_IN_WIKIPEDIA` ×4; one name collision with a review-queue candidate disambiguated with katakana. Spot-checks 10/10
+matched. Validator **errors=0** (2552 / 438 review / 34 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -280,11 +305,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **2314 verified women**,
-  tagged `catalogType` = social (2122, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2552 verified women**,
+  tagged `catalogType` = social (2360, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..2315 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **391 REVIEW_REQUIRED candidates** and **32 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2553 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **438 REVIEW_REQUIRED candidates** and **34 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).
