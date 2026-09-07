@@ -1,0 +1,9 @@
+{
+ "source": "https://ja.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2&redirects=1&titles=関紫優|砂田早紀",
+ "fetched": "2026-09-06",
+ "note": "extracts API returned empty intro for both pages (infobox-only / template-only lead); condensed wikitext archived verbatim for the relevant fields",
+ "wikitext": {
+  "関紫優": "{{女性モデル | 生年 = 1998 | 生月 = 3 | 生日 = 27 | 血液型 = B型 | 靴 = 23.5 | デビュー = 2008年、『ニコ☆プチ』冬号 | ジャンル = ファッション | モデル内容 = 一般 | 活動備考 = 元『ピチレモン』専属モデル | 他の活動 = 女優 }} == 略歴 == * インセントにスカウトされ、2008年『ニコ☆プチ』冬号でデビューする。 * 2011年6月号まで『ニコ☆プチ』の専属モデルとして活動。 * 2011年9月号より『ピチレモン』の専属モデルとして活動。2014年4月号で卒業。 * 2016年12月20日、本人のTwitter内で芸能界引退を発表。 [[Category:日本の女性ファッションモデル]] [[Category:1998年生]] [[Category:存命人物]]",
+  "砂田早紀": "{{複数の問題 |存命人物の出典明記=2014年5月 |特筆性=2014年5月 }} == 略歴 == 創業1860年頃創業160年余続くの老舗人形店に生まれ、日本の伝統や、熟練の職人の手仕事の技を身近に触れながら育つ。（中略）GIA（ジェモロジカル・インスティテュート・オブ・アメリカ）のロンドンカレッジで学び、GIAではDiamond鑑定士（GD）のディプロマを取得。現在は家業の伝統を引き継ぎ、世界に誇れる伝統工芸をモダンにリメイク・継承することをテーマに甲冑の会社を設立。 [[Category:1992年生]] [[Category:日本の伝統工芸|人]] [[Category:日本の現代美術家]] [[Category:女性美術家]] [[Category:日本のデザイナー]]"
+ }
+}
