@@ -139,6 +139,103 @@ pornhub / Playboy-magazine citations never used as age evidence. Validator **err
 (1454 / 142 review / 24 IRR). Modeling 210→335, Fashion 174→299. Volleyball 839 unchanged
 (2003–08 IG/TikTok still exhausted).
 
+**Session 26 (2026-09-06, model / fashion-model / volleyball Wikidata continuation OFFSET 500–950,
+line-by-line verdicts)** harvested 14 archived SPARQL slices (`data/research/s26_queries.json`) → 700 rows →
+470 unique → **251 new** after name/Q-ID/handle dedup, then opened **every** candidate and logged a verdict in
+`data/research/verification_s26_log.tsv` (153 PROMOTE / 100 REVIEW / 6 REJECT / 1 MINOR). Result:
+**+144 verified (W-2026-1861..2004)**, all Instagram/TikTok (**2003 VERIFIED / 1811 social / 192 reference**),
+**+102 REVIEW_REQUIRED (R-2026-155..256)**, 6 rejects (deceased / out-of-scope / convicted — never added),
+1 minor queued (Vittoria Seixas, 2008-12-22, re-evaluate 2027-12-22). Age evidence: English Wikipedia 105,
+other-language Wikipedia 6, official agency / federation / V.LEAGUE pages 10, reputable press 15, secondary
+biography databases 11 (flagged `AGE_EVIDENCE_SECONDARY_SOURCES`; weakest row Jenaya Lee W-2026-1985, age 18,
+fr.famousbirthdays only). Volleyball rows: Park Eun-jin, Rachael Kramer, Madison Lilley, Akiho Matsumoto.
+Spot-checks 10/10 matched (see `docs/review-log.md`). Validator **errors=0** (2003 / 244 review / 28 IRR).
+
+**Session 27 (2026-09-06, women's volleyball / beach volleyball — all leagues, Wikidata harvest born 1985–2008,
+line-by-line verdicts)** ran five archived SPARQL pages (`data/research/urls/s27_vb_wiki_off*.url`) → 743 rows →
+**45 new** after name/Q-ID/handle dedup, opened every candidate on its Wikipedia article (ja 24, de 10, ru 3, en 3,
+th 1, it 1) and logged a verdict in `data/research/verification_s27_log.tsv` (41 PROMOTE / 3 REVIEW). Result:
+**+41 verified (W-2026-2005..2045)**, all Instagram/TikTok (**2044 VERIFIED / 1852 social / 192 reference**) —
+Japanese V.LEAGUE/SV.LEAGUE, German Bundesliga, Russian Superliga, Korean V-League, Thai, Italian, Slovak, Dutch and
+NCAA/US-pro players plus beach-volleyball player Miki Ishii; **+3 REVIEW_REQUIRED (R-2026-257..259)** (a comedian,
+a singer and a bobsledder surfaced by a `sport=volleyball` statement). All age evidence is a Wikipedia lead sentence
+(`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×41); spot-checks 9/9 matched. Wikidata's volleyball population 1985–2008 with a
+social handle is now exhausted (the 1970–84 band holds no further players). Validator **errors=0**
+(2044 / 247 review / 29 IRR).
+
+**Session 28 (2026-09-06, modeling / beauty pageant / fitness / creator — Wikidata model-pool page 1 beyond
+Q123694020, line-by-line verdicts)** ran one archived SPARQL page (`data/research/urls/s27b_model_gt_off0.url`,
+female, occupation model / fashion / fitness / glamour model / social-media creator, born 1985–2008, IG or TikTok
+handle, English Wikipedia article) → 150 rows → **143 new** after dedup, opened every candidate's English Wikipedia
+lead (plus infobox / short description where the lead was undated; extracts archived in `data/research/s27_raw/enwiki_b*.json`)
+and logged a verdict in `data/research/verification_s28_log.tsv` (84 PROMOTE / 57 REVIEW / 1 REJECT / 1 MINOR).
+Result: **+84 verified (W-2026-2046..2129)**, all Instagram/TikTok (**2128 VERIFIED / 1936 social / 192 reference**) —
+models, national and international pageant titleholders (Miss Universe 2024, Miss America 2025, Miss France 2024/25,
+Miss World 2025, Puteri Indonesia, Miss Grand International 2024 …), a Gladiators fitness model, TikTok / Instagram
+creators — from 33 countries, ages 18–41; **+58 REVIEW_REQUIRED (R-2026-260..317)** (scope-ambiguous 42,
+DOB_CONFLICT 13, AGE_PARTIAL 10, WIKI_REDIRECT 1, LEGAL_PROCEEDINGS_NOTED 1, MINOR_UNDERAGE 1); 1 reject
+(deceased, never added); 1 minor queued without handle (Ella Gross, 2008-12-01, re-evaluate 2026-12-01).
+Age evidence: English Wikipedia lead / cited infobox (`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×84; five Wikidata 1-January
+year-precision values replaced by the cited Wikipedia date, `MINOR_SOURCE_CONFLICT_NOTED`). Spot-checks 10/10 matched.
+Validator **errors=0** (2128 / 305 review / 30 IRR).
+
+**Session 29 (2026-09-06, modeling / beauty pageant / creator — Wikidata model-pool page 2 beyond Q134404200,
+line-by-line verdicts)** moved the paging cursor forward (`data/research/urls/s29_model_gt_off0.url`) → 150 rows →
+145 unique → **139 new** after dedup, opened every candidate's English Wikipedia lead (plus the infobox where the
+lead was undated; extracts archived in `data/research/s29_raw/enwiki_b0..b6.json`) and logged a verdict in
+`data/research/verification_s29_log.tsv` (76 PROMOTE / 62 REVIEW / 1 REJECT / 0 MINOR).
+Result: **+76 verified (W-2026-2130..2205)**, all Instagram/TikTok (**2204 VERIFIED / 2012 social / 192 reference**) —
+working models, Miss Universe 2025 / 2014, Miss World 2014, Miss Earth 2025, Miss Supranational 2013 / 2025, Miss France
+2014, Miss USA 2013, Miss Italia 2013, Puteri Indonesia titleholders, GNTM / ANTM / Elite Model Look winners, TV
+presenters and wrestler-models — from 40 countries, ages 20–40; **+62 REVIEW_REQUIRED (R-2026-318..379)**
+(scope-ambiguous 37, DOB_CONFLICT 14, AGE_PARTIAL 15, WIKI_REDIRECT 3, GENDER_EVIDENCE_REVIEW 1 — flags overlap);
+1 reject (a Wikidata item for a musical duo mis-typed as one person, never added). Age evidence: English Wikipedia
+lead / infobox (`AGE_EVIDENCE_WIKIPEDIA_ONLY` ×76; one Wikidata 1-January year-precision value replaced by the cited
+Wikipedia date, `MINOR_SOURCE_CONFLICT_NOTED`). Spot-checks 10/10 matched. Validator **errors=0** (2204 / 367 review / 31 IRR).
+
+**Session 30 (2026-09-06, modeling / gravure / race queen / creator — Japanese-Wikipedia slice of the Wikidata
+model pool, page 1, line-by-line verdicts)** re-balanced toward micro/emerging creators after the celebrity-heavy
+Session 29 page: the 2,415-item pool of female models born 1985–2008 with an Instagram/TikTok handle and a
+*non*-English Wikipedia article was counted per language (ja 1168, zh 343, zh-yue 242, es 233, id 207, ko 185 …)
+and the Japanese slice opened first (`data/research/urls/s30_model_jawiki_off0.url`) → 150 rows → 148 unique →
+**135 new** after dedup. Every candidate's Japanese Wikipedia lead was read through the MediaWiki extracts API
+(`data/research/s30_raw/jawiki_b0..b6.json`) and cross-checked against Wikidata P569; verdicts in
+`data/research/verification_s30_log.tsv` (110 PROMOTE / 24 REVIEW / 1 REJECT / 0 MINOR).
+Result: **+110 verified (W-2026-2206..2315)**, all Instagram/TikTok (**2314 VERIFIED / 2122 social / 192 reference**) —
+Japanese fashion models, gravure (swimsuit-magazine) models, race queens, regional tarento-models (Sendai, Aichi),
+model-influencers / TikTokers, plus a Vietnamese, a Taiwanese, a Hong Kong-born and a Brazilian-Japanese model —
+ages 18–41 (five turned 18 earlier in 2026; every DOB is the ja-wiki lead date matching Wikidata); 112 Instagram /
+38 TikTok handles; **+24 REVIEW_REQUIRED (R-2026-380..403)** (scope-ambiguous 20 incl. NiziU / Angerme / Billlie
+idols and three adult-video performers held for a manual scope decision, AGE_PARTIAL 3, DOB_CONFLICT 3 — flags
+overlap); 1 reject (deceased YouTuber, never added). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×110,
+`NAME_ALIAS_IN_WIKIPEDIA` ×8, `MULTIPLE_IG_HANDLES_DOCUMENTED` ×2, `COUNTRY_NOT_RECORDED` ×1. Spot-checks 10/10
+matched. Validator **errors=0** (2314 / 391 review / 32 IRR).
+
+**Session 31 (2026-09-06, modeling / gravure / race queen — Japanese-Wikipedia slice of the Wikidata model pool,
+page 2 `OFFSET 150`, line-by-line verdicts)** continued the Session 30 slice (`data/research/urls/s31_model_jawiki_off150.url`)
+→ 150 rows → 150 unique → **145 new** after dedup; every Japanese Wikipedia lead read through the extracts API
+(`data/research/s31_raw/jawiki_b0..b7.json`) and cross-checked against Wikidata P569 (143 exact matches, 2 undated leads,
+0 conflicts); verdicts in `data/research/verification_s31_log.tsv` (127 PROMOTE / 18 REVIEW / 0 REJECT / 0 MINOR).
+Result: **+127 verified (W-2026-2316..2442)**, all Instagram/TikTok (**2441 VERIFIED / 2249 social / 192 reference**) —
+agency fashion models, reader / gyaru-magazine models, race queens, gravure models and fashion-brand founders, ages 21–41;
+126 Instagram / 14 TikTok handles; **+18 REVIEW_REQUIRED (R-2026-404..421)** (scope-ambiguous 16 — actresses, announcers,
+a former idol, a businesswoman, a beauty specialist, one adult-video performer held for a manual scope decision;
+AGE_PARTIAL 2). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×127, `NAME_ALIAS_IN_WIKIPEDIA` ×4; three same-romanisation names
+disambiguated with kanji. Spot-checks 10/10 matched. Validator **errors=0** (2441 / 409 review / 33 IRR).
+
+**Session 32 (2026-09-06, modeling / gravure / race queen — Japanese-Wikipedia slice of the Wikidata model pool,
+page 3 `OFFSET 300`, line-by-line verdicts)** continued the slice (`data/research/urls/s32_model_jawiki_off300.url`)
+→ 150 rows → 150 unique → **140 new** after dedup; every Japanese Wikipedia lead read through the extracts API
+(`data/research/s32_raw/jawiki_b0..b6.json`) and cross-checked against Wikidata P569 (134 exact matches, 3 partial/undated
+leads, 3 conflicts); verdicts in `data/research/verification_s32_log.tsv` (111 PROMOTE / 29 REVIEW / 0 REJECT / 0 MINOR).
+Result: **+111 verified (W-2026-2443..2553)**, all Instagram/TikTok (**2552 VERIFIED / 2360 social / 192 reference**) —
+gyaru-magazine and agency fashion models, race queens, gravure models, a racing-driver model and a pageant representative,
+ages 19–41; 111 Instagram / 10 TikTok handles; **+29 REVIEW_REQUIRED (R-2026-422..450)** (scope-ambiguous 24 — actresses,
+tarento, idols, an announcer, a politician, and five "former-activity-only" model pages; AGE_PARTIAL 3; DOB_CONFLICT 3 where
+the lead's birth year differs from Wikidata — no value chosen). Flags: `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×111,
+`NAME_ALIAS_IN_WIKIPEDIA` ×4; one name collision with a review-queue candidate disambiguated with katakana. Spot-checks 10/10
+matched. Validator **errors=0** (2552 / 438 review / 34 IRR).
+
 **Session 15 (2026-09-07, Instagram/TikTok split)** answered the request to keep **only profiles
 with an Instagram or TikTok account** in the primary "Catalog / Published records" table, moving
 everything else (Wikipedia, personal/agency websites, X, YouTube, Facebook, press, or no public
@@ -208,11 +305,11 @@ Published at <https://buffedlizard55-lab.github.io/ProjX/>.
 - `assets/styles.css` — responsive styling.
 - `assets/catalog.js` — shared renderer (catalog + directory + reference views), driven by `<body data-view="catalog|directory|reference">` and optional `data-base`; handles loading, filtering, sorting, follower distributions, table rendering, and JSON/CSV export.
 - `assets/app.js` — superseded legacy renderer; no longer referenced by any HTML (kept only as historical artifact).
-- `data/catalog.json` — master entries and irregularities. Now contains **1859 verified women**,
-  tagged `catalogType` = social (1667, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
+- `data/catalog.json` — master entries and irregularities. Now contains **2552 verified women**,
+  tagged `catalogType` = social (2360, has Instagram/TikTok) or reference (192, no Instagram/TikTok);
   this single file + `reference.html` + `data/catalog-reference.json` + `data/catalog-social.json`
   + `directory/` implement the Session 15 Instagram/TikTok split and the profile-directory subpages
-  (see Session 15 note above). Detail: W-2026-001..1860 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **142 REVIEW_REQUIRED candidates** and **27 irregularities**.
+  (see Session 15 note above). Detail: W-2026-001..2553 verified adult creators across NCAA volleyball, beach volleyball, European and international women's volleyball leagues, IFBB fitness & bodybuilding athletes, and swimwear / bikini fashion & modeling creators. Contains **438 REVIEW_REQUIRED candidates** and **34 irregularities**.
 - `data/schema.json` — JSON Schema for catalog entries and `reviewQueue` (includes optional `genderEvidence` for women-only verification and objective-category description; `reviewQueue` items record name/username/platform/profileUrl/discoveryCategory/evidenceFound/missingEvidence/flags/lastChecked).
 - `docs/verification-protocol.md` — line-by-line verification requirements (women-only, objective categories, no hallucinations, scale limits, iterative activity-first methodology).
 - `docs/review-log.md` — review notes and irregularity log (Sessions 01–07, with Session 07 discovery queue).

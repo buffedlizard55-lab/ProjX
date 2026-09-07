@@ -1613,3 +1613,273 @@ Dana Heath was **withdrawn from promotion** after the sitelink opened as a TV-se
 
 **Validator.** 1,859 entries / 142 review queue / 27 irregularities / **0 errors**. CATALOG VALID.
 
+
+---
+
+## Session 26 — Wikidata P106 model / fashion-model / volleyball continuation (OFFSET 500–950) with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories (NCAA volleyball, beach volleyball, beachwear, bikini / swimwear fashion, fitness, fitness model, modeling, swimwear; then European volleyball and any women's volleyball leagues); aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; queue everything promising-but-unverified as `REVIEW_REQUIRED`; flag irregularities; no hallucinations.
+
+**Harvest.** 14 archived SPARQL queries (`data/research/s26_queries.json`, `data/research/urls/s26_*.url`) over Wikidata: female humans (P31 Q5, P21 Q6581072) with occupation model / fashion model (P106 Q4610556 / Q3357567, `ORDER BY ?p LIMIT 50 OFFSET 500…950`) plus volleyball / beach-volleyball players (P106 Q15117302 / Q17361156, P641 Q1734 / Q4543, born 1985–2002), each row required to carry an Instagram (P2003) or TikTok (P7085) handle. Raw output in `data/research/s26_*.tsv`; `scripts/session26_parse.py` produced `data/research/s26_candidates.json`: **700 rows → 470 unique QIDs → 251 new** after dedup against every catalog name, Wikidata Q-ID, Instagram and TikTok handle (211 QID dupes, 6 name dupes, 2 handle dupes). Yields by slice: model OFFSET 800 = 42, 950 = 37, 650 = 36, 850 = 35, 900 = 34, 750 = 33, 550/600/700 = 8 each, 500 = 5, volleyball OFFSET 50 = 3, OFFSET 0 = 2.
+
+**Verification (line by line).** Every one of the 251 new candidates was opened individually and a verdict logged in `data/research/verification_s26_log.tsv` (pipe-delimited: `qid|name|dob|verdict|category|evidence|source_url`; **260 rows** incl. a few re-logged duplicates). Evidence hierarchy: English Wikipedia infobox / lead sentence first (112 rows), then other-language Wikipedia (cs 5, zh-yue 1), then official agency / federation / organisation pages (rising-pro.jp, vivi.tv, karascioconsulenzeartistiche.com, rbcasting.com, es.yatecasting.com, aoi-15days.com, thetv.jp, worldathletics.org, V.LEAGUE official player page via Wayback ×2), then reputable press (unotv.com, nos.nl, hot.detik.com, sonora.id, ciaostyle.it, libero.it, superguidatv.it, fanpage.it, afriquemagazine.com, adevarul.ro, larepublica.pe, eluniversaldigital.net, indexjournal.com, actresspress.com), then secondary biography databases only where nothing stronger exists (famousbirthdays ×4, themoviedb, myanimelist, bgm.tv, imdb, bigbrother.fandom, starsunfolded, narcobi — all flagged, see below). Verdict totals: **153 PROMOTE / 100 REVIEW / 6 REJECT / 1 MINOR_UNDERAGE**.
+
+**Apply (`scripts/session26_apply.py`, dry-run first, then live).**
+- **+144 verified entries W-2026-1861..W-2026-2004** (all `catalogType=social`: 143 Instagram, 37 TikTok). Nine PROMOTE rows were *not* promoted by the script's own guards: 6 year-only DOBs demoted to `REVIEW_REQUIRED / AGE_PARTIAL` (Wenanita Angang Q113700849, Xueli Abbing Q115223870, Shweta Sharda Q121912654, Iko Bustomi Q116908443, Kanikka Kapur Q118719998, Athenea Pérez Q120496519), 1 QID already in catalog (Kavka Shishido Q11307132), and batch duplicates collapsed to one row each (Mia Mamede, Selene Delgado, Ndavi Nokeri, Delary Stoffers, Camila Avella, Faizaa Ashfaq).
+- **+102 `REVIEW_REQUIRED` rows R-2026-155..R-2026-256** (flags: scope-ambiguous 38, AGE_PARTIAL 26, REF_404 13, WIKI_404 5, DOB_CONFLICT 5, REF_UNPARSEABLE 4, weak-ref 3, WIKI_REDIRECT 2, REF_DEFACED 2, REF_FAILED 2, REF_REMOVED 2, POSSIBLE_DEATH 1, SOURCE_QUALITY 1, MINOR_UNDERAGE 1, others 1 each). Nothing promising was discarded.
+- **6 REJECT (log-only, never added):** Anielle Franco Q105939031 (Brazilian politician, out of scope), Rina Matsuno Q11532332 (d. 2017), Sienna Weir Q118177467 (d. 2023), Abby Choi Q116921436 (murdered 2023), Kelsey Turner Q115581683 (convicted; former model — excluded per guardrails), plus one duplicate REJECT row.
+- **1 MINOR:** Vittoria Seixas Q122866537 (DOB 2008-12-22, age 17) queued as `MINOR_UNDERAGE`, re-evaluate from 2027-12-22; never published.
+- Age range of promoted rows 18–49 (as of 2026-09-06). Two age-18 rows rest on official/primary sources (Reiyo Matsumoto 2008-02-29 rising-pro.jp; Yumia Fujisaki 2008-02-16 en-wiki).
+- Volleyball rows promoted this session: Park Eun-jin (W-2026-1861, en-wiki 1999-12-15 — corrects Wikidata's 1999-01-01 year-precision value), Rachael Kramer (W-2026-1866), Madison Lilley (W-2026-1867), Akiho Matsumoto (W-2026-1997, V.LEAGUE official page via Wayback). The volleyball slices are near-saturated — see Session 27.
+- `IRR-2026-09-06-028` (BATCH_INGESTION_SESSION_26, resolved) records the batch.
+
+**Provenance flags added on the promoted rows (consistent with catalog convention).** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×111 (DOB rests on a Wikipedia infobox / lead sentence only); `AGE_EVIDENCE_SECONDARY_SOURCES` ×11 — Lauren Alexis W-2026-1971 (famousbirthdays), Emma Harvey W-2026-1977 (themoviedb), Ayame Tajiri W-2026-1978 (myanimelist), Nicole Ishida W-2026-1979 (bgm.tv), **Jenaya Lee W-2026-1985 (fr.famousbirthdays, DOB 2008-02-04 — age 18, weakest row of the batch; recommended first for manual click-through)**, Sanem Babi W-2026-1986 (narcobi), Heidi Baci W-2026-1992 (bigbrother.fandom), Zainab Raza W-2026-1994 (starsunfolded), Phoebe Tomlinson W-2026-1999 and Laila Hasanovic W-2026-2000 (famousbirthdays), Rafaela Andrade W-2026-2003 (IMDb bio). No January-1 DOB was promoted.
+
+**Scope note.** 19 PROMOTE rows carry a verifier category outside the focus keywords (beauty-pageant titleholders such as Lulu Zaharani, Juliana Habib, Indira Ampiot, Jasmin Selberg, Fabiënne Groeneveld, Gugulethu Mayisela, Bryoni Govender, Nikoline Uhrenholt Hansen, Kirby Elizabeth Self; creators Lele Pons, Devon Lee Carlson; TV/entertainment Rissanda Putri Tuarissa, Emma Harvey, Sanem Babi, Ivana Yturbe, Angelica Baraldi; athlete Marie-Ange Brumelot). All were harvested under Wikidata occupation *model* / *fashion model* and are catalogued as Modeling / Fashion; the note field keeps the verifier's category for manual review.
+
+**Spot-checks (10/10 exact match, re-opened after apply).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-1861 | Park Eun-jin | 1999-12-15 | en.wikipedia.org/wiki/Park_Eun-jin |
+| W-2026-1866 | Rachael Kramer | 1998-03-15 | en.wikipedia.org/wiki/Rachael_Kramer (live re-check "born March 15, 1998") |
+| W-2026-1867 | Madison Lilley | 1999-04-15 | en.wikipedia.org/wiki/Madison_Lilley |
+| W-2026-1964 | Bryoni Govender | 1996-07-17 | en.wikipedia.org/wiki/Bryoni_Govender (resolves a Wikidata conflict) |
+| W-2026-1975 | Karely Ruiz | 2000-10-28 | unotv.com |
+| W-2026-1976 | Elena Funari | 1995-04-12 | karascioconsulenzeartistiche.com (agency) |
+| W-2026-1988 | Reiyo Matsumoto | 2008-02-29 | rising-pro.jp (agency) |
+| W-2026-1996 | Carman Chan | 2000-11-11 | zh-yue.wikipedia.org |
+| W-2026-1997 | Akiho Matsumoto | 1997-06-29 | vleague.jp official player page (Wayback 2023-08-10) |
+| W-2026-2001 | Marie-Ange Brumelot | 1993-01-14 | worldathletics.org |
+
+**Follower counts.** Wikidata carries no counts; all 144 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Post-apply data hygiene.** 104 new rows had the Wikipedia article listed twice (once as age-evidence, once as other-trusted); the redundant row was removed and the apply script fixed so the pattern cannot recur. A one-off review-queue ID collision (R-2026-154 issued twice) was corrected by renumbering the Session 26 queue rows to R-2026-155..256 and fixing the ID counter in the script.
+
+**Validator.** 2,003 entries (1,811 social / 192 reference) / 244 review queue / 28 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,652 unknown-count pages.
+
+## Session 27 — Wikidata women's volleyball / beach-volleyball harvest (all leagues, born 1985–2008) with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories — this pass concentrated on the "European volleyball and any women's volleyball leagues" part of the scope after the model / fashion-model slices of Session 26; aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; flag irregularities; never discard promising candidates.
+
+**Harvest.** Five archived SPARQL pages (`data/research/urls/s27_vb_wiki_off{0,150,300,450,600}.url`, plain-column `SELECT ?p ?name ?dob ?ig ?tt … ORDER BY ?p LIMIT 150 OFFSET n`) over Wikidata: female humans (P31 Q5, P21 Q6581072) who are volleyball / beach-volleyball players (P106 Q15117302 / Q17361156 or P641 volleyball / beach volleyball), born 1985–2008, carrying an Instagram (P2003) or TikTok (P7085) handle **and** a Wikipedia sitelink in any language. Raw rows are archived in `data/research/s27_raw/vb_wiki_off*_chunk0.txt`; `scripts/session27_parse.py` glues the chunked TSV, de-escapes the `\|` / `\_` artefacts and dedups against the catalog by Q-ID, normalised name and every handle → **743 rows → 45 new** (`data/research/s27_candidates.json`). The 1970–1984 band was scoped as a follow-up (`s27b_vb1970_84_off0.url`: 56 rows, 49 already catalogued, the 7 remaining are non-volleyball people who merely carry a `sport=volleyball` statement — parked in `data/research/s27b_candidates.json`, not added). Wikidata's volleyball population 1985–2008 with a social handle is now exhausted.
+
+**Verification (line by line).** Every one of the 45 candidates was opened on its Wikipedia article (the language of the sitelink: ja 24, de 10, ru 3, en 3, th 1, it 1) via the MediaWiki extracts API and the lead sentence was compared with the Wikidata date of birth; a verdict was logged in `data/research/verification_s27_log.tsv` (`qid|name|dob|verdict|category|evidence|source_url`, **44 rows: 41 PROMOTE / 3 REVIEW**). Anielle Franco Q105939031 (Brazilian politician surfaced by a `sport=volleyball` statement) was excluded up front — she is already a logged Session 26 REJECT. Narissara Kaewma (th-wiki) is recorded with the Gregorian date 1996-04-11 (the Thai article states the Buddhist-era year 2539) and corroborated by the women.volleybox.net club roster (born 1996). Every promoted row's Wikipedia DOB matched Wikidata exactly.
+
+**Apply (`scripts/session27_apply.py`, dry-run first, then live).**
+- **+41 verified entries W-2026-2005..W-2026-2045** (all `catalogType=social`: 40 Instagram, 2 TikTok). Categories: Volleyball / Athlete / Sports ×40 (7 US players who came through the NCAA also carry `College Athlete`: Adeja Lambert, Lindsay Flory, Symone Speech, Madelyn Cole, Lindsey Ruddins, Alexis Conaway, Jasmine Gross), Beach Volleyball ×1 (Miki Ishii). Leagues covered: Japanese V.LEAGUE / SV.LEAGUE, German Bundesliga, Russian Superliga, Korean V-League, Thai league, Italian Serie A, Slovak / Dutch / US-pro rosters. Ages 26–38 as of 2026-09-06.
+- **+3 `REVIEW_REQUIRED` rows R-2026-257..R-2026-259** (all `scope-ambiguous`): Satoyuri Q130726892 (Japanese comedian performing volleyball-themed comedy; IG @styr0908), Kiiara Q23042767 (US singer-songwriter; IG @kiiara), Melanie Hasler Q86597947 (Swiss bobsledder; IG @melaniiexe) — all adult women documented by Wikipedia, but their public activity is outside the focus categories; nothing was discarded.
+- 0 REJECT, 0 MINOR in this batch. `IRR-2026-09-06-029` (BATCH_INGESTION_SESSION_27, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×41 — every DOB rests on a Wikipedia lead sentence (ja 23, de 10, en 3, ru 3, th 1, it 1); no secondary biography databases were used.
+
+**Spot-checks (9/9 exact match, re-opened after apply).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2005 | Minori Wada | 1996-02-21 | ja.wikipedia.org (和田実莉) |
+| W-2026-2012 | Miki Ishii | 1989-11-07 | en.wikipedia.org/wiki/Miki_Ishii |
+| W-2026-2013 | Narissara Kaewma | 1996-04-11 | th.wikipedia.org (นริศรา แก้วมะ) + women.volleybox.net roster (born 1996) |
+| W-2026-2015 | Gabriella Vico | 1987-12-04 | it.wikipedia.org/wiki/Gabriella_Vico |
+| W-2026-2025 | Kaori Mabashi | 1996-11-18 | ja.wikipedia.org (間橋香織) |
+| W-2026-2030 | Liza Kastrup | 1999-10-05 | de.wikipedia.org/wiki/Liza_Kastrup |
+| W-2026-2035 | An Hye-jin | 1998-02-16 | en.wikipedia.org/wiki/An_Hye-jin |
+| W-2026-2040 | Symone Speech | 1997-05-29 | de.wikipedia.org/wiki/Symone_Speech |
+| W-2026-2045 | Viktoria Russu | 1999-02-16 | ru.wikipedia.org (Руссу, Виктория Сергеевна) |
+
+**Follower counts.** Wikidata carries no counts; all 41 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Validator.** 2,044 entries (1,852 social / 192 reference) / 247 review queue / 29 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,693 unknown-count pages.
+
+**Next slice (scoped at the end of this session).** The Wikidata model / fitness-model / pageant / creator pool (P106 Q4610556, Q3357567, Q762121, Q15982795, Q124408963; female; born 1985–2008; IG or TikTok handle) still holds **3,157** items with an English Wikipedia article and **2,415** with only a non-English article; Sessions 18/26 paged it in Q-string order up to Q123694020. Session 28 continues from there (`data/research/urls/s27b_model_gt_off0.url`).
+
+## Session 28 — Wikidata model / fitness-model / pageant / creator pool, page 1 beyond Q123694020, with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories (modeling, fitness / fitness model, swimwear / bikini fashion, beachwear, volleyball); aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; flag irregularities; never discard promising candidates; micro / regional creators are as welcome as celebrities.
+
+**Harvest.** One archived SPARQL page (`data/research/urls/s27b_model_gt_off0.url`): female humans (P31 Q5, P21 Q6581072) with occupation model / fashion model / fitness model / glamour model / social-media creator (P106 Q4610556, Q3357567, Q762121, Q15982795, Q124408963), born 1985–2008, with an Instagram (P2003) or TikTok (P7085) handle and an **English** Wikipedia sitelink, `FILTER(STR(?p) > ".../Q123694020")` (the point where Sessions 18/26 stopped paging this pool in Q-string order), `ORDER BY ?p LIMIT 150`. `BIND("|")` separator columns were added so the delimiter-stripping fetch layer keeps the columns apart; the glued raw page is `data/research/s27_raw/model_gt_off0_chunk0.txt` (one record split across the chunk boundary was repaired by hand and re-parsed). **150 rows → 147 unique Q-IDs → 143 new** after Q-ID / normalised-name / handle dedup against the whole catalog and review queue (`model_gt_off0_rows.json`, `model_gt_off0_new.json`; already catalogued: Jordan Carver Q125590, Eliška Bučková Q1320293, Iryna Zhuravska Q1321902, Renae Ayris Q133798).
+
+**Verification (line by line).** Every one of the 143 candidates was opened on its English Wikipedia article through the MediaWiki extracts API (lead sentences archived in `data/research/s27_raw/enwiki_b0..b7.json`; batch URLs `data/research/urls/s27b_enwiki_extract_batch0..8.url`). Where the lead carried no date, the infobox wikitext (`s27b_enwiki_infobox_batch0..1.url`) and the Wikidata short description (`s27b_enwiki_shortdesc_batch0.url`) were opened as well. The lead date was compared with the Wikidata date of birth: 111 exact matches, 17 pages without a date in the lead, 15 differences. Verdicts are logged in `data/research/verification_s28_log.tsv` (`qid|name|dob|verdict|category|evidence|source_url`, **143 rows: 84 PROMOTE / 57 REVIEW / 1 REJECT / 1 MINOR_UNDERAGE**). Rules applied: PROMOTE only when the page states the woman's full date of birth (lead or cited infobox), it matches Wikidata (or Wikidata only holds a 1 January year-precision value, in which case the Wikipedia date is used and `MINOR_SOURCE_CONFLICT_NOTED` is added) and the lead documents modeling / pageant / fitness / creator / influencer activity; actresses, singers, idols, presenters and athletes whose lead documents no such activity go to `REVIEW_REQUIRED / scope-ambiguous`; two different full dates between Wikipedia and Wikidata → `DOB_CONFLICT` (no value chosen, even when both are adult); no date on the page → `AGE_PARTIAL`.
+
+**Apply (`scripts/session28_apply.py`, dry-run first, then live).**
+- **+84 verified entries W-2026-2046..W-2026-2129** (all `catalogType=social`: 84 Instagram, 27 TikTok). Categories: Modeling / Fashion / Creator ×79, Creator only ×4 (Paige DeSorbo, Marta Díaz, Manon Bannerman, Perla Vatiero), Fitness / Fitness Model / Modeling ×1 (Ella-Mae Rayner). Verifier labels: Modeling/acting 20, Beauty pageant/modeling 19, Beauty pageant 13, Modeling/entertainment 12, Modeling/TV 5, Modeling/music 4, Creator/Modeling 4, others 7. Countries: Indonesia 10, Thailand 8, United States 7, India 4, Japan 3, Brazil 3, Italy 3, Philippines 3, Argentina 3, Russia 3, and 1–2 each from France, Colombia, England/Wales, Vietnam, South Korea, Malaysia, Myanmar, Rwanda, Albania, Spain, Denmark, South Africa, Switzerland, Palestine, Australia, Serbia, Finland, Belarus, Chile, Germany, Ethiopia, Ukraine, Zambia. Ages 18–41 as of 2026-09-06 (youngest: Rainy, born 2008-06-28, turned 18 on 28 June 2026 — en-wiki lead and Wikidata agree; Haruka Sakuraba 2006-01-29 and Valentina Alekseeva 2006-08-11 are 20).
+- Wikidata 1 January year-precision values replaced by the cited Wikipedia date on 5 rows (flag `MINOR_SOURCE_CONFLICT_NOTED`): Deba Hekmat 2001-11-14, Savannah Gankiewicz 1995-11-28, María Alejandra Camargo 1997-09-24, Rhea Singha 2004-12-10, Winta Zesu 2000-11-01.
+- **+58 `REVIEW_REQUIRED` rows R-2026-260..R-2026-317** — scope-ambiguous 42 (actresses / singers / idols / TV personalities / a footballer / a socialite with no documented modeling or creator activity, e.g. Ashley Tisdale, Ella Purnell, Irene of Red Velvet, Raisa, Nyusha, Angelique Boyer, Tasha Ghouri, Demi Sims, Noor Pahlavi), DOB_CONFLICT 13 (e.g. Chidimma Adetshina en-wiki 2001-01-08 vs Wikidata 2001-06-06; Catalina Duque 1999-09-29 vs 1999-09-20; Lotta Hintsa 1988-12-14 vs 1988-06-29; Irish Bella 1996 vs 1995; Ketut Permata Juliastrid 2003 vs 2000; Tara Teng internal 16 vs 17 Aug 1988), AGE_PARTIAL 10 (no birth date on the page: Herfiza Novianti, Jasmin Bajwa, Lia Elalouf, Geyssell García, Katie Clarkson-Hill, Arianna Rivas, Debbii Dawson, Elle Chapman, Daniela Lalita year-only, Khosi Twala), WIKI_REDIRECT 1 (Khosi Twala → *Big Brother Titans*, no biography), LEGAL_PROCEEDINGS_NOTED 1 (Pechaya Wattanamontree — en-wiki lead reports an arrest for public fraud in the iCon Group case, detained pending trial; held for manual review, not published), MINOR_UNDERAGE 1. Nothing promising was discarded.
+- **1 REJECT (log-only, never added):** Landy Párraga Q125697166 — en-wiki: Ecuadorian model and influencer, died 28 April 2024.
+- **1 MINOR:** Ella Gross Q126015441 (en-wiki and Wikidata DOB 2008-12-01, age 17) queued as `MINOR_UNDERAGE` **without** handle or profile URL; re-evaluate from 2026-12-01; never published.
+- `IRR-2026-09-06-030` (BATCH_INGESTION_SESSION_28, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×84 (every DOB rests on the English Wikipedia lead sentence or cited infobox) + `MINOR_SOURCE_CONFLICT_NOTED` ×5 (see above).
+
+**Spot-checks (10/10 exact match, re-opened live after apply with `exsentences=1`).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2047 | Eve Gilles | 2003-07-09 | en.wikipedia.org/wiki/Eve_Gilles |
+| W-2026-2052 | Ella-Mae Rayner | 1995-04-24 | en.wikipedia.org/wiki/Ella-Mae_Rayner |
+| W-2026-2066 | Chelsea Manalo | 1999-10-14 | en.wikipedia.org/wiki/Chelsea_Manalo |
+| W-2026-2073 | Leah Halton | 2001-01-06 | en.wikipedia.org/wiki/Leah_Halton |
+| W-2026-2101 | Haruka Sakuraba | 2006-01-29 | en.wikipedia.org/wiki/Haruka_Sakuraba |
+| W-2026-2107 | Valentina Alekseeva | 2006-08-11 | en.wikipedia.org/wiki/Valentina_Alekseeva |
+| W-2026-2112 | Victoria Kjær Theilvig | 2003-11-13 | en.wikipedia.org/wiki/Victoria_Kjær_Theilvig |
+| W-2026-2119 | Alla Bruletova | 1999-09-15 | en.wikipedia.org/wiki/Alla_Bruletova |
+| W-2026-2124 | Nicole Bahls | 1985-11-15 | en.wikipedia.org/wiki/Nicole_Bahls |
+| W-2026-2129 | Danielle St James | 1992-04-18 | en.wikipedia.org/wiki/Danielle_St_James |
+
+**Follower counts.** Wikidata carries no counts; all 84 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`. (Choi Hye-seon's article quotes press figures of 1.2–1.6 M Instagram followers from January 2024; she is in the review queue for a day-level DOB conflict, so no count was recorded.)
+
+**Validator.** 2,128 entries (1,936 social / 192 reference) / 305 review queue / 30 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,777 unknown-count pages.
+
+**Next slice.** Page 2 of the same pool: identical query with `FILTER(STR(?p) > ".../Q134404200")` (Q-string order), then the 2,415-item non-English-Wikipedia pool (verify via the language-Wikipedia leads as in Session 27).
+
+## Session 29 — Wikidata model / fitness-model / pageant / creator pool, page 2 beyond Q134404200, with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories (modeling, fitness / fitness model, swimwear / bikini fashion, beachwear, volleyball); aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; never invent; queue promising-but-unverified candidates as REVIEW_REQUIRED; flag irregularities; work autonomously.
+
+**Harvest.** The same SPARQL page shape as Session 28 with the paging cursor moved forward (`data/research/urls/s29_model_gt_off0.url`, `FILTER(STR(?p) > ".../Q134404200")`, `ORDER BY ?p LIMIT 150`): female humans with occupation model / fashion model / fitness model / glamour model / social-media creator, born 1985–2008, with an Instagram (P2003) or TikTok (P7085) handle and an English Wikipedia article. Raw TSV chunks archived in `data/research/s29_raw/model_gt2_chunk0..2.txt`; parsed rows in `model_gt2_rows.json` (150 rows → 145 unique Q-IDs: Heather Marks and Karen Ghrawi each carry two Wikidata birth dates, Ariana Grande three Instagram handles, Taťána Kuchařová two; five rows had a second handle glued onto the article URL by the TSV renderer and were repaired by hand — Tatjana Saphira, Valentina Zenere, CJ Perry, Deepika Padukone, Sakurako Ohara). Dedup against every catalog / review-queue Q-ID, normalised name and handle removed 6 (Poppy Delevingne, Gabriela Markus, Nana Meriwether, Hinarani de Longeaux, Taťána Kuchařová already catalogued by Q-ID; Lauren Drain by handle) → **139 candidates** (`model_gt2_new.json`). This page ends at **Q16065114** (Helly Luv), the cursor for page 3.
+
+**Verification (line by line).** Every candidate was opened on its English Wikipedia article through the MediaWiki extracts API (`data/research/urls/s29_enwiki_extract_batch0..6.url`; lead sentences archived in `data/research/s29_raw/enwiki_b0..b6.json` and joined in `model_gt2_checked.json`). Where the lead carried no date, the section-0 wikitext (infobox) was opened as well (`s29_enwiki_infobox_batch0..1.url`, 19 titles). Verdicts are logged in `data/research/verification_s29_log.tsv` (`qid|name|dob|verdict|category|evidence|source_url`, **139 rows: 76 PROMOTE / 62 REVIEW / 1 REJECT / 0 MINOR**), generated from the per-candidate verdict table in `scripts/session29_verdicts.py` and applied by `scripts/session29_apply.py`. Rules were unchanged from Session 28: PROMOTE only when the page states the woman's full date of birth (lead or infobox), it matches Wikidata (or Wikidata only holds a 1 January year-precision value, in which case the Wikipedia date is used and `MINOR_SOURCE_CONFLICT_NOTED` is added) and the lead documents modeling / pageant / fitness / creator / influencer activity; actresses, singers, idols, presenters, wrestlers and journalists whose lead documents no such activity → `REVIEW_REQUIRED / scope-ambiguous`; two different dates between Wikipedia and Wikidata → `DOB_CONFLICT` (no value chosen, even when both are adult); no full date on the page → `AGE_PARTIAL`; title redirecting to another article → `WIKI_REDIRECT`.
+
+**Result.** **+76 verified — W-2026-2130 .. W-2026-2205**, all with an Instagram handle (76 Instagram / 3 TikTok), 40 countries, ages 20–40 (youngest Sóldís Ívarsdóttir, born 23 April 2006). Categories: Modeling / Fashion / Creator ×74 (models, Miss Universe 2025 Fátima Bosch, Miss Universe 2014 Paulina Vega, Miss World 2014 Rolene Strauss, Miss Supranational 2013 and 2025, Miss Earth 2025, Miss France 2014, Miss USA 2013, Miss Italia 2013, Puteri Indonesia 2014/2025/2026, Elite Model Look 2013, GNTM cycle 8 and ANTM cycle 20 winners, Love Island USA runner-up Olandria, TV presenters and wrestler-models), Creator only ×2 (Nina Davuluri — Miss America 2014, speaker and TV host; Megan Nicole — singer-songwriter who debuted on YouTube). Handles were taken from Wikidata P2003/P7085 exactly as recorded; two group accounts were deliberately not recorded (the Princess Kill duo TikTok on Nutnacha Krusagayavong W-2026-2149, the `rahajengsisters` TikTok on Agnes Rahajeng W-2026-2152).
+- Wikidata 1 January year-precision value replaced by the cited Wikipedia date on 1 row (flag `MINOR_SOURCE_CONFLICT_NOTED`): Sadia Jahan Prova 1988-03-30 (W-2026-2183). Karen Ghrawi (W-2026-2162) carries both a full 1991-07-10 and a duplicate 1991-01-01 statement in Wikidata; the full date matches Wikipedia and was recorded (noted in the evidence text, not flagged as a conflict).
+- **+62 REVIEW_REQUIRED — R-2026-318 .. R-2026-379**: scope-ambiguous 33 (+3 also AGE_PARTIAL, +1 also WIKI_REDIRECT — e.g. Dove Cameron, Ariana Grande, Madison Beer, Kendall Jenner is *promoted* because her lead documents modeling, Danna Paola, Shraddha Kapoor, Deepika Padukone, Seulgi, Liza Soberano, CJ Perry); DOB_CONFLICT 13 (Zenokuhle Maseko 7 vs 8 Feb 1998; Melanie Shiraz 1998-11-13 vs 1999-01-01; Heather Marks two Wikidata dates; Nikki Buenafe 2003 vs 1998; Jia Ali 1972 vs 1991; Naomi Preizler 1990 vs 1991; Yanna Lavigne 29 vs 26 Nov; Jakelyne Oliveira Mar 18 vs Jan 20; Nusrat Imrose Tisha 1982 vs 1989; Elfin Pertiwi Rappa Sep vs Dec; Kelly Thiebaud 1982 vs 1985; Airin Sultana Dec 27 vs Sep 4; Wawa Zainal 19 vs 12 Mar); AGE_PARTIAL 9 (Salma Ranggita, Zhao Na, Charlotte Grant year-only, Jamie Brewer age-derived, Mariluz Bermúdez, Yasmine Petty, Erika Linder year-only, Kate Stoltz, Ayyan — pages without a full birth date); WIKI_REDIRECT 3 (Suzy Berhow → Arin Hanson article; Rikako Sasaki → Angerme group article; Johana Riva → Miss Uruguay pageant article); GENDER_EVIDENCE_REVIEW 1 (Jade Runk R-2026-325 — the en-wiki lead uses they/them pronouns while Wikidata records female; also a DOB conflict; held for manual first-party confirmation, nothing inferred). Moa Kikuchi (R-2026-375) is queued without a handle because the only Wikidata Instagram is the Babymetal band account.
+- **1 REJECT (log-only, never added):** Q137459163 "Princess Kill" — the article and the `princesskilltown` accounts belong to the Thai twin-sister duo, not to one person (the elder twin Nutnacha Krusagayavong Q137513862 was assessed on her own article and promoted).
+- `IRR-2026-09-06-031` (BATCH_INGESTION_SESSION_29, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×76 (every DOB rests on the English Wikipedia lead sentence or infobox; five of them — Beenish Chohan, Eva Klímková, Jannatul Ferdous Peya, Cherry Ngan, Amna Ilyas — on the infobox because the lead is undated) + `MINOR_SOURCE_CONFLICT_NOTED` ×1.
+
+**Spot-checks (10/10 exact match, re-opened live after apply with `exsentences=1`; `data/research/urls/s29_spotcheck.url`).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2130 | Ella Morgan | 1993-12-27 | en.wikipedia.org/wiki/Ella_Morgan_(television_personality) |
+| W-2026-2131 | Gaby Guha | 1999-10-01 | en.wikipedia.org/wiki/Gaby_Guha |
+| W-2026-2141 | Fátima Bosch | 2000-05-19 | en.wikipedia.org/wiki/Fátima_Bosch |
+| W-2026-2142 | Olandria | 1998-05-29 | en.wikipedia.org/wiki/Olandria |
+| W-2026-2150 | Bhavitha Mandava | 2000-02-03 | en.wikipedia.org/wiki/Bhavitha_Mandava |
+| W-2026-2151 | Sóldís Ívarsdóttir | 2006-04-23 | en.wikipedia.org/wiki/Sóldís_Ívarsdóttir |
+| W-2026-2157 | Alexina Graham | 1990-03-03 | en.wikipedia.org/wiki/Alexina_Graham |
+| W-2026-2183 | Sadia Jahan Prova | 1988-03-30 | en.wikipedia.org/wiki/Sadia_Jahan_Prova |
+| W-2026-2201 | Rolene Strauss | 1992-04-22 | en.wikipedia.org/wiki/Rolene_Strauss |
+| W-2026-2205 | Helly Luv | 1988-11-16 | en.wikipedia.org/wiki/Helly_Luv |
+
+**Follower counts.** Wikidata carries no counts; all 76 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Distribution note.** This page of the pool was celebrity-heavy (Kendall Jenner, Josephine Skriver, Ariana Grande, Dove Cameron …); the scope rule kept most pure actresses/singers in the review queue, and the promoted set is dominated by national pageant titleholders and working models from 40 countries. The next pass should deliberately re-balance toward micro/emerging creators (non-English-Wikipedia pool, then non-Wikidata sources such as agency boards and league rosters).
+
+**Validator.** 2,204 entries (2,012 social / 192 reference) / 367 review queue / 31 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,853 unknown-count pages.
+
+**Next slice.** Page 3 of the same pool: identical query with `FILTER(STR(?p) > ".../Q16065114")`, then the 2,415-item non-English-Wikipedia pool (verify via the language-Wikipedia leads as in Session 27).
+
+## Session 30 — Wikidata model pool, Japanese-Wikipedia slice (page 1), with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Keep searching the focus categories (modeling, fitness / fitness model, swimwear / bikini fashion, beachwear, volleyball); aim for +100 new unique profiles; only Instagram/TikTok profiles into Catalog Published records; verify line by line from official / trusted sources with links for manual review; never invent; queue promising-but-unverified candidates as REVIEW_REQUIRED; flag irregularities; value micro/emerging creators as much as celebrities; work autonomously.
+
+**Why this slice.** Session 29's English-Wikipedia page was celebrity-heavy, so this pass deliberately moved to the **non-English-Wikipedia** part of the same Wikidata pool (female humans with occupation model / fashion model / personal trainer / bodybuilder / fitness model, born 1985–2008, Instagram P2003 or TikTok P7085 handle, pornographic-film and erotic-photography occupations excluded at query time, *no* English Wikipedia article). A per-language COUNT (same filters, GROUP BY sitelink site) gave ja 1168, zh 343, zh-yue 242, es 233, id 207, ko 185, de 117, fr 97, pt 94, it 85, ms 79, ar 56, ru 56, he 54, th 52, vi 44 … The Japanese slice was opened first because it is the largest and is made up almost entirely of working models, gravure (swimsuit-magazine) models, race queens and regional tarento with small followings.
+
+**Harvest.** `data/research/urls/s30_model_jawiki_off0.url` (`ORDER BY ?p LIMIT 150 OFFSET 0`, ja-wiki sitelink required, en-wiki excluded; raw TSV chunks `data/research/s30_raw/model_ja_chunk0..2.txt`). 150 rows → **148 unique** Q-IDs (Michelle Kinoshita and Kotao Tomozawa each carry two Instagram handles; 48 rows had the TikTok handle glued onto the article URL by the TSV renderer and were repaired by regex, confirmed against Wikidata `wbgetentities` for Q100453681). Dedup against every catalog / review-queue Q-ID, normalised English name, Japanese title and handle removed 13 already-catalogued women (Kei Kato, Moe Yuki, Moeka Ukawa, Rina Katsuta, Hinako Kikuchi, Risa Yukihira, Umi Shinonome, Ui Mihara, Yane Tamaki, Reika Azusa, Rena Yamasaki, Hana Ishikawa, Anna Kamezawa) → **135 candidates** (`model_ja_new.json`). English display names, Japanese labels, kana readings and citizenship were pulled from Wikidata (`s30_ja_labels_135.url`, `s30_raw/ja_labels.json`); where no English label exists (夏目璃乃, 美馬沙亜弥, テイラー鈴木, ニコル, エマ・バーンズ) the romanisation given in the ja-wiki lead itself (e.g. "Taylor Suzuki", "Emma Burns") or the standard reading of the lead's furigana was used and the Japanese title kept in the evidence.
+
+**Verification (line by line).** Every candidate's Japanese Wikipedia lead was opened through the MediaWiki extracts API (`data/research/urls/s30_jawiki_extract_batch0..6.url`; extracts archived in `data/research/s30_raw/jawiki_b0..b6.json`, joined in `model_ja_checked.json`). The lead's `YYYY年M月D日` date was parsed (era years such as 〈平成20年〉 ignored) and compared with Wikidata P569: 128 exact matches, 3 leads without a full date, 4 conflicts. Verdicts are logged in `data/research/verification_s30_log.tsv` (`qid|name|dob|verdict|category|evidence|source_url`, **135 rows: 110 PROMOTE / 24 REVIEW / 1 REJECT / 0 MINOR**), generated by `scripts/session30_verdicts.py` and applied by `scripts/session30_apply.py` (dry-run, then live). Rules as in Sessions 27–29: PROMOTE only when the lead states the full date of birth, it matches Wikidata, and the lead documents modeling / gravure / race-queen / influencer / creator activity (グラビアアイドル = swimsuit-magazine model and レースクイーン = promotional model are objective Japanese occupational categories and are in scope; the "Swimwear" category is applied to gravure models); idols, singers, actresses, announcers and entrepreneurs whose lead documents no such activity → `REVIEW_REQUIRED / scope-ambiguous`; lead date ≠ Wikidata → `DOB_CONFLICT` (no value chosen); no full date on the page → `AGE_PARTIAL`; deceased → REJECT. Every DOB was computed against 2026-09-06 — nobody under 18 was found (the youngest, Nao Oosato, turned 18 on 2026-01-02; Otoha Seko 2026-01-27, Mai Fujioka 2026-01-28, Kohana Arisaka 2026-05-25, Yuna Yoshioka 2026-07-01).
+
+**Result.** **+110 verified — W-2026-2206 .. W-2026-2315**, all with an Instagram or TikTok handle (112 Instagram / 38 TikTok handles; 38 entries carry both), ages 18–41. Categories: Modeling / Fashion ×110 (+Creator ×94, +Swimwear ×23 for gravure models, +Fitness / Wellness ×1 for yoga instructor Shizuka). The set is dominated by micro / regional creators — fashion models with agency-only profiles, Miyagi- and Aichi-based local tarento-models (Misaki Nakano, Erina Dawkins), race queens (Nozomi Igarashi, Arisa Nakamura, Anna Masuda, Yuria Suzuki), model-TikTokers (Kirari, Sakura, Yua Uenohori, Ryoka Orita), and a handful of non-Japanese models with only a Japanese article (Elly Trần VN, Mizuki Lin TW, Margiela K HK, Juliana Minato BR-JP, Diana Kadirkulova Tagirovna — citizenship not in Wikidata, `COUNTRY_NOT_RECORDED`).
+- Handles were taken from Wikidata P2003/P7085 exactly as recorded. Two women have two documented Instagram handles each and both are recorded with a "current-use status unverified" note and the flag `MULTIPLE_IG_HANDLES_DOCUMENTED` (Michelle Kinoshita W-2026-2225: michelle.kinoshita_official + yukiko_____k; Kotao Tomozawa W-2026-2237: chan_kotao + tkotao). One Wikidata TikTok statement (Yuria Suzuki) holds a purely numeric string and was not recorded.
+- `NAME_ALIAS_IN_WIKIPEDIA` ×8 where the article title / stage name differs from the Wikidata English label (Michelle vs Yukiko Kinoshita, Risa Kakinoki vs LISSA, Shizuka vs Shizuka Miyazawa, Juliana vs Juriana Minato, Margiela K vs Selina Kwok, Ellie vs Erii Misumi, Mizuki Lin vs Lin Xiang, Rurina vs Rurina Nakamura).
+- **+24 REVIEW_REQUIRED — R-2026-380 .. R-2026-403**: scope-ambiguous 20 (idols / singers / actresses with no modeling in the lead — Shion Tamenaga and Yuki Hirayama of Angerme, Rio Hanabashi / Maya Katsumura / Mayuka Ogo of NiziU, Yumi Kasai of Tsubaki Factory, Tsuki of Billlie, Anna Ishida, Sara Odaka, Lívian Aragão, Sunny Lin, Sally Thomas, Satsuki Nakagami, Ayano Nakamura, Eriko Nakamura, Reika Miyazaki; plus three adult-video performers named as such in the lead — MINAMO, Sakura Misaki, Emiri Okazaki — held for a manual scope decision consistent with the Session 28 handling of Annie Knight); AGE_PARTIAL 3 (Tomomi Matsuba no date; Diana Chiaki and Rina Frank month-and-day only); DOB_CONFLICT 3 (Fabiola Valentín 1988 vs 1999; Yurisa 1984 vs 1985; Emiri Okazaki 1989-01-11 vs 1991-04-10 — no value chosen, all adult either way).
+- **1 REJECT (log-only, never added):** Q111280247 Hina Gosai — the lead records her death (2023-08-17); the catalog covers living creators only.
+- `IRR-2026-09-06-032` (BATCH_INGESTION_SESSION_30, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×110 (every DOB rests on the Japanese Wikipedia lead sentence, cross-checked against Wikidata), `NAME_ALIAS_IN_WIKIPEDIA` ×8, `MULTIPLE_IG_HANDLES_DOCUMENTED` ×2, `COUNTRY_NOT_RECORDED` ×1.
+
+**Spot-checks (10/10 exact match, re-opened live after apply with `exsentences=1`; `data/research/urls/s30_spotcheck.url`).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2209 | Kinon Fujimura | 2005-04-08 | ja.wikipedia.org/wiki/藤村木音 |
+| W-2026-2232 | Kurumi Nakata | 1991-12-21 | ja.wikipedia.org/wiki/中田クルミ |
+| W-2026-2238 | Elly Trần | 1987-08-06 | ja.wikipedia.org/wiki/エリー・トラン・ハ |
+| W-2026-2243 | Rino Natsume | 2004-06-15 | ja.wikipedia.org/wiki/夏目璃乃 |
+| W-2026-2275 | Arisa (有咲) | 1991-05-13 | ja.wikipedia.org/wiki/有咲 |
+| W-2026-2284 | Eri Tokita | 1992-03-06 | ja.wikipedia.org/wiki/時田愛梨 |
+| W-2026-2285 | Ayumi Seko | 1990-10-18 | ja.wikipedia.org/wiki/瀬古あゆみ |
+| W-2026-2289 | Juliana Minato | 1988-09-16 | ja.wikipedia.org/wiki/湊ジュリアナ |
+| W-2026-2309 | Narumi Nakakita | 1989-10-26 | ja.wikipedia.org/wiki/中北成美 |
+| W-2026-2311 | Aira Nakajima | 1995-05-28 | ja.wikipedia.org/wiki/中島愛蘭 |
+
+**Follower counts.** Wikidata and Wikipedia carry no counts, and Instagram/TikTok profile pages return HTTP 403 to the fetcher; all 110 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed). They render in `directory-unknown/`.
+
+**Distribution note.** Achieved the intended re-balance: no global celebrities in the promoted set; the largest names are domestic fashion-magazine models (LARME, EMMARY) and one Wednesday Campanella vocalist-model. Validator age guard gotcha (fixed before commit): a numeric TikTok string placed after "DOB" in an evidence note was parsed as a birth year — keep digit strings away from "born / DOB" in evidence text.
+
+**Validator.** 2,314 entries (2,122 social / 192 reference) / 391 review queue / 32 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 1,963 unknown-count pages.
+
+**Next slice.** Same ja-wiki query with `OFFSET 150` (page 2 of 1,168 → roughly 8 pages), then zh / es / id / ko slices; the deferred English-Wikipedia page 3 (`FILTER(STR(?p) > ".../Q16065114")`) remains available but is lower priority for the micro/emerging balance.
+
+## Session 31 — Wikidata model pool, Japanese-Wikipedia slice (page 2, OFFSET 150), with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Unchanged: keep searching the focus categories, aim for +100 new unique profiles per pass, Instagram/TikTok profiles only into Catalog Published records, line-by-line verification from official / trusted sources with links, never invent, queue promising-but-unverified candidates, flag irregularities, value micro/emerging creators, work autonomously.
+
+**Harvest.** Same query as Session 30 with the page moved forward (`data/research/urls/s31_model_jawiki_off150.url`, `ORDER BY ?p LIMIT 150 OFFSET 150`; raw TSV chunks `data/research/s31_raw/model_ja2_chunk0..2.txt`). 150 rows → **150 unique** Q-IDs (no multi-valued rows this page; 15 glued TikTok tails repaired by the same regex as Session 30). Dedup against every catalog / review-queue Q-ID, handle and title removed 5 already-catalogued women (Sayu Kubota, Ai Yawata, Saki Miyashita, Miwako Wagatsuma, Miki Arimura) → **145 candidates** (`model_ja2_new.json`). English display names, Japanese labels, kana and citizenship from Wikidata (`urls/s31_ja_labels_145.url`, `s31_raw/ja_labels.json`); macrons dropped per catalog convention (Itō → Ito).
+
+**Verification (line by line).** Every candidate's Japanese Wikipedia lead was opened through the MediaWiki extracts API (`urls/s31_jawiki_extract_batch0..7.url`; extracts archived in `s31_raw/jawiki_b0..b7.json`, joined in `model_ja2_checked.json`). Lead date vs Wikidata P569: **143 exact matches, 2 leads without a birth date, 0 conflicts**. Verdicts in `data/research/verification_s31_log.tsv` (**145 rows: 127 PROMOTE / 18 REVIEW / 0 REJECT / 0 MINOR**), generated by `scripts/session31_verdicts.py`, applied by `scripts/session31_apply.py` (dry-run, then live). Rules unchanged from Session 30. Ages 21–41 — nobody under 18 or close to it on this page (youngest Yuina Kogawa and Eme Yoshida, both born 2005).
+
+**Result.** **+127 verified — W-2026-2316 .. W-2026-2442**, all with an Instagram or TikTok handle (126 Instagram / 14 TikTok handles; Minami Narusawa W-2026-2408 is TikTok-only). Categories: Modeling / Fashion ×127 (+Creator ×115, +Swimwear ×22 for gravure models). Again a micro/regional set — agency fashion models (Incent, Front/Esprit, HOOK, Vithmic, Sun Music, CV management), reader models, gyaru-magazine models (Happie nuts, egg), race queens (Kana Sasaki, Maya Sano, Hitomi Yasueda, Mayo Okawa, Kana Iwase, Minami Kawase, Sae Missho, Miyuki Naka, Yuri Kitani, Sakura Hayashi), gravure models, and a few fashion-brand founders (Satomi Yakuwa / michellMacaron, Ena Matsumoto / EMODA, Yuka Okutani / Balance Style).
+- Handles were taken from Wikidata P2003/P7085 exactly as recorded. Satomi Yakuwa's Wikidata TikTok `michellmacaron.official` is her own brand's account and is recorded with that noted in the evidence text.
+- `NAME_ALIAS_IN_WIKIPEDIA` ×4 (Tokiko Kitagawa former stage name, Natsumi Saito vs the mononym Natsumi, Sayaka vs Ichika Mochizuki, Miri Okuda vs the mononym Miri). Three display names carry kanji disambiguators: `Natsumi Saito (斎藤夏美)` and `Natsumi Saito (斉藤夏海)` (two different models with the same romanisation in this batch) and `Yui Koike (小池由)` (a different woman from the Session 26 actress 小池唯 Yui Koike W-2026-1900 — different birth date and handle, both verified). Two mononyms use the Session 30 pattern: `Haruki (春輝, model)`, `Sayaka (サヤカ, model)`.
+- **+18 REVIEW_REQUIRED — R-2026-404 .. R-2026-421**: scope-ambiguous 16 (actresses Sara Imaizumi, Sayaka Ito, Sei Ito, Shisera Sachimoto, Mizuki Sashide, Mary Matsuyama; announcers Nagisa Sato, Kaori Otera, Seira Ogura, Hitomi Oguchi, Noa Iwamoto, Fumiko Shinkai; former idol Rika Shimura; businesswoman Ayumi Yasuoka; beauty specialist Shizuka Okamoto; adult-video actress Erisa Kusunoki held for a manual scope decision consistent with Sessions 28/30); AGE_PARTIAL 2 (gravure idol Airi Usami and model Eri Yamaguchi — in scope, but their leads carry no birth date and the Wikidata value is unconfirmed on the page).
+- `IRR-2026-09-06-033` (BATCH_INGESTION_SESSION_31, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×127 (every DOB rests on the Japanese Wikipedia lead sentence, cross-checked against Wikidata), `NAME_ALIAS_IN_WIKIPEDIA` ×4.
+
+**Spot-checks (10/10 exact match, re-opened live after apply with `exsentences=1`; `data/research/urls/s31_spotcheck.url`).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2317 | Ayaka Nakata | 1993-12-13 | ja.wikipedia.org/wiki/中田絢千 |
+| W-2026-2321 | Hana Imai | 1992-11-12 | ja.wikipedia.org/wiki/今井華 |
+| W-2026-2330 | Sakura Sato | 1991-04-03 | ja.wikipedia.org/wiki/佐藤さくら |
+| W-2026-2333 | Sena Sato | 1989-06-23 | ja.wikipedia.org/wiki/佐藤瀬奈 |
+| W-2026-2334 | Asuka Sato | 1988-03-11 | ja.wikipedia.org/wiki/佐藤飛鳥 |
+| W-2026-2366 | Rina Ohashi | 1993-04-08 | ja.wikipedia.org/wiki/大橋リナ |
+| W-2026-2376 | Seia Yasuda | 1996-06-23 | ja.wikipedia.org/wiki/安田聖愛 |
+| W-2026-2403 | Fana Hiranuma | 1987-12-20 | ja.wikipedia.org/wiki/平沼ファナ |
+| W-2026-2413 | Mai Tezuka | 1990-08-10 | ja.wikipedia.org/wiki/手塚真生 |
+| W-2026-2437 | Ena Matsumoto | 1985-11-23 | ja.wikipedia.org/wiki/松本恵奈 |
+
+**Follower counts.** No public counts observable through the sources used (Wikidata / Wikipedia carry none; Instagram and TikTok profile pages are blocked to the fetcher); all 127 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed) and render in `directory-unknown/`.
+
+**Validator gotcha (fixed before commit).** The age guard reads any 4-digit run within 45 characters after "DOB" as a birth year — a Wikidata Q-ID quoted after "DOB matches Wikidata" tripped it once; evidence text now keeps Q-IDs and other digit strings out of that window.
+
+**Validator.** 2,441 entries (2,249 social / 192 reference) / 409 review queue / 33 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 2,090 unknown-count pages.
+
+**Next slice.** ja page 3 (`OFFSET 300`, same URL), then pages 4–8; afterwards zh / es / id / ko slices.
+
+## Session 32 — Wikidata model pool, Japanese-Wikipedia slice (page 3, OFFSET 300), with line-by-line verdicts (2026-09-06)
+
+**Owner request (standing).** Unchanged: keep searching the focus categories, aim for +100 new unique profiles per pass, Instagram/TikTok profiles only into Catalog Published records, line-by-line verification from official / trusted sources with links, never invent, queue promising-but-unverified candidates, flag irregularities, value micro/emerging creators, work autonomously.
+
+**Harvest.** Session 30/31 query, page 3 (`data/research/urls/s32_model_jawiki_off300.url`, `ORDER BY ?p LIMIT 150 OFFSET 300`; raw TSV chunks `data/research/s32_raw/model_ja3_chunk0..2.txt`). 150 rows → **150 unique** Q-IDs (20 glued TikTok tails repaired with a percent-encoding-aware splitter; the two `_(モデル)` / `_(1996年生)` titles handled explicitly). Dedup against every catalog / review-queue Q-ID, handle and title removed 10 already-catalogued women (Saki Yamato, Minori Taira, Aoi Matsuyama, Ayame Tajiri, Naomi Majima, Nicole Ishida, Karen Ishida, Sachi Fujii, Mami Nishino, Maria Tani) → **140 candidates** (`model_ja3_new.json`). English display names, Japanese labels, kana and citizenship from Wikidata (`urls/s32_ja_labels_140.url`, `s32_raw/ja_labels.json`); macrons dropped per catalog convention.
+
+**Verification (line by line).** Every candidate's Japanese Wikipedia lead was opened through the MediaWiki extracts API (`urls/s32_jawiki_extract_batch0..6.url` + `s32_jawiki_extract_extra.url` for two leads whose first sentence was cut short; extracts archived in `s32_raw/jawiki_b0..b6.json`, `jawiki_extra.json`, joined in `model_ja3_checked.json`). Lead date vs Wikidata P569: **134 exact matches, 3 leads without a full birth date, 3 conflicts**. Verdicts in `data/research/verification_s32_log.tsv` (**140 rows: 111 PROMOTE / 29 REVIEW / 0 REJECT / 0 MINOR**), generated by `scripts/session32_verdicts.py`, applied by `scripts/session32_apply.py` (dry-run, then live). Rules unchanged. One new precedent applied consistently: leads in which *every* listed occupation is former (元) and no current public activity is documented go to REVIEW (`scope-ambiguous`, "former activity only") rather than being promoted, because current creator status cannot be confirmed from the lead alone.
+
+**Result.** **+111 verified — W-2026-2443 .. W-2026-2553**, all with an Instagram or TikTok handle (111 Instagram / 10 TikTok handles). Categories: Modeling / Fashion ×111 (+Creator ×102, +Swimwear ×16 for gravure models, +Fitness/Wellness ×1 for a model-yoga instructor). Ages 19–41; the youngest (Kisaki Terashima, born 2006-09-20) is an adult on the check date and her lead documents model/actress work. Again a micro/regional set — gyaru-magazine models (Happie nuts), agency models (Asobisystem, Asia Promotion, Booth, Idea, ECP, TENCARAT Plume, A-Light, Sun Music), race queens, gravure models, a racing-driver model, a pro-bowler former model, a drag-racer former model, a Miss Universe Japan prefectural representative, and a beauty-chain CEO who modelled earlier in her career.
+- Handles were taken from Wikidata P2003/P7085 exactly as recorded.
+- `NAME_ALIAS_IN_WIKIPEDIA` ×4 (arisa / 武田有彩, Barby / Barbara Higa, Haruka / former stage name Seika Taketomi, Hanae Yabe / mononym 華恵). Display names disambiguated: `Risa Watanabe (渡辺リサ)` (a different woman from the review-queue idol Risa Watanabe R-2026-069 — different birth date, different handle) and mononyms `Kikka (桔花, model)`, `Mana (真奈, model)`, `Miyu (美優, model)`, `Satoumi (里海, model)`.
+- **+29 REVIEW_REQUIRED — R-2026-422 .. R-2026-450**: scope-ambiguous 24 (actresses, tarento, idols, a freelance announcer, a newscaster, a politician, a businesswoman, a boat-racer-turned-tarento, and five women whose modeling is documented only as former activity: Akari Fukasawa, Misaki Aihara, Tomoka, Risa Sasaoka, plus the AGE_PARTIAL+scope case); AGE_PARTIAL 3 (Mina Kuryu — month/day only; Yukari Shirai and Kana Fujimori — no birth date in the lead); **DOB_CONFLICT 3** (Emily Kaiho — lead 1983 vs Wikidata 1986; Mayu Seto — lead 1989 vs Wikidata 1985; Akari Mizuki — lead 1985 vs Wikidata 1987; same month/day in each case, no value chosen, all adult under either value).
+- `IRR-2026-09-06-034` (BATCH_INGESTION_SESSION_32, resolved) records the batch.
+
+**Provenance flags.** `AGE_EVIDENCE_WIKIPEDIA_ONLY` ×111, `NAME_ALIAS_IN_WIKIPEDIA` ×4.
+
+**Spot-checks (10/10 exact match, re-opened live after apply with `exsentences=1`; `data/research/urls/s32_spotcheck.url`).**
+| Entry | Name | Documented DOB | Source |
+| --- | --- | --- | --- |
+| W-2026-2446 | Mai Morishita | 1997-06-30 | ja.wikipedia.org/wiki/森下真依 |
+| W-2026-2447 | Maya Mori | 1985-11-23 | ja.wikipedia.org/wiki/森摩耶 |
+| W-2026-2452 | Chieyo Tachibana | 1988-04-29 | ja.wikipedia.org/wiki/橘ちえよ |
+| W-2026-2461 | Mao Nagai | 1991-10-19 | ja.wikipedia.org/wiki/永井麻央 |
+| W-2026-2470 | Arisa Nagasaka | 1998-03-10 | ja.wikipedia.org/wiki/長坂有紗 |
+| W-2026-2473 | Ayaka Sawai | 1986-10-14 | ja.wikipedia.org/wiki/沢井彩華 |
+| W-2026-2481 | Iyo Shibusawa | 1989-03-10 | ja.wikipedia.org/wiki/渋沢一葉 |
+| W-2026-2506 | Hitomi Fukui | 1986-09-28 | ja.wikipedia.org/wiki/福井仁美 |
+| W-2026-2532 | Yuka Konan | 1989-07-10 | ja.wikipedia.org/wiki/虎南有香 |
+| W-2026-2535 | Ayana Nishinaga | 1996-01-18 | ja.wikipedia.org/wiki/西永彩奈 |
+
+**Follower counts.** No public counts observable through the sources used; all 111 new rows are `FOLLOWER_COUNT_UNKNOWN` / `FOLLOWER_RANGE_UNKNOWN` (never estimated, never summed) and render in `directory-unknown/`.
+
+**Validator guard.** `scripts/session32_verdicts.py` now asserts, before writing the log, that no PROMOTE evidence string has a digit within 45 characters after "born / DOB / birthday" (the false-minor pattern that bit Sessions 30 and 31); the log passed with 0 risks and the validator reported 0 errors on the first live apply.
+
+**Validator.** 2,552 entries (2,360 social / 192 reference) / 438 review queue / 34 irregularities / **0 errors**. CATALOG VALID. Directory rebuilt in lockstep: `directory/` 159 known-count pages, `directory-unknown/` 2,201 unknown-count pages.
+
+**Next slice.** ja page 4 (`OFFSET 450`, same URL), then pages 5–8; afterwards zh / es / id / ko slices.

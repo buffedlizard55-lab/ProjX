@@ -1,0 +1,66 @@
+{
+  "summary": {
+    "files": [
+      "vb1970_84_off0_chunk0.txt"
+    ],
+    "totalRows": 58,
+    "uniqueQids": 56,
+    "dupes": {
+      "qid": 49,
+      "name": 0,
+      "handle": 0
+    },
+    "new": 7
+  },
+  "candidates": [
+    {
+      "qid": "Q10316546",
+      "name": "Laura Müller",
+      "dob": "1970-01-25",
+      "handles": "lauramulleroficial",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q1276066",
+      "name": "Adriana Lessa",
+      "dob": "1971-02-01",
+      "handles": "adrianalessaoficial",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q233618",
+      "name": "Maria Menounos",
+      "dob": "1978-06-08",
+      "handles": "mariamenounos",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q236537",
+      "name": "Molly Sims",
+      "dob": "1973-05-25",
+      "handles": "mollybsims",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q2832720",
+      "name": "Alessandra Guerra Franco",
+      "dob": "1981-04-05",
+      "handles": "guerrafranco",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q3063122",
+      "name": "Pardis C. Sabeti",
+      "dob": "1975-12-25",
+      "handles": "pardis_sabeti",
+      "file": "vb1970_84_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q3893547",
+      "name": "Paola De Micheli",
+      "dob": "1973-09-01",
+      "handles": "paolademicheli",
+      "file": "vb1970_84_off0_chunk0.txt"
+    }
+  ]
+}

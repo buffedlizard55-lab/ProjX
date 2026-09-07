@@ -1,0 +1,336 @@
+{
+  "summary": {
+    "files": [
+      "vb_wiki_off0_chunk0.txt",
+      "vb_wiki_off150_chunk0.txt",
+      "vb_wiki_off300_chunk0.txt",
+      "vb_wiki_off450_chunk0.txt",
+      "vb_wiki_off600_chunk0.txt"
+    ],
+    "totalRows": 748,
+    "uniqueQids": 742,
+    "dupes": {
+      "qid": 622,
+      "name": 67,
+      "handle": 8
+    },
+    "new": 45
+  },
+  "candidates": [
+    {
+      "qid": "Q105939031",
+      "name": "Anielle Franco",
+      "dob": "1985-01-01",
+      "handles": "aniellefranco",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108109720",
+      "name": "Minori Wada",
+      "dob": "1996-02-21",
+      "handles": "minori_i.w",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108109810",
+      "name": "Mutsumi Yasuda",
+      "dob": "1996-06-13",
+      "handles": "mutsumiiin",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108110355",
+      "name": "Ami Wakamatsu",
+      "dob": "1999-06-26",
+      "handles": "rairai_shonan",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108110440",
+      "name": "Ayano Tsuji",
+      "dob": "1996-09-12",
+      "handles": "tsj_ayn",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108110472",
+      "name": "Haruka Kanamori",
+      "dob": "1996-04-09",
+      "handles": "harucamera.49",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q108776997",
+      "name": "Risa Hashimoto",
+      "dob": "1997-06-09",
+      "handles": "_rrbin1997",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q115529969",
+      "name": "Kurumi Manabe",
+      "dob": "1997-09-17",
+      "handles": "kuru._8",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q11585069",
+      "name": "Miki Ishii",
+      "dob": "1989-11-07",
+      "handles": "miki_ishii1107",
+      "file": "vb_wiki_off0_chunk0.txt"
+    },
+    {
+      "qid": "Q130726892",
+      "name": "Satoyuri",
+      "dob": "1994-09-08",
+      "handles": "styr0908satoyuri98",
+      "file": "vb_wiki_off150_chunk0.txt"
+    },
+    {
+      "qid": "Q16139381",
+      "name": "",
+      "dob": "1996-04-11",
+      "handles": "pop15narissara",
+      "file": "vb_wiki_off150_chunk0.txt"
+    },
+    {
+      "qid": "Q16264829",
+      "name": "Kaho Ōno",
+      "dob": "1992-06-30",
+      "handles": "tam522tim",
+      "file": "vb_wiki_off150_chunk0.txt"
+    },
+    {
+      "qid": "Q16558301",
+      "name": "Gabriella Vico",
+      "dob": "1987-12-04",
+      "handles": "gabriella.vicogabriella.vico",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q17223891",
+      "name": "Mari Yamada",
+      "dob": "1990-04-10",
+      "handles": "mari_yamada_21",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q17687675",
+      "name": "Mizuki Yanagita",
+      "dob": "1996-03-26",
+      "handles": "yanagiii.r04",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q17687676",
+      "name": "Akane Yamagishi",
+      "dob": "1991-01-08",
+      "handles": "akane.ymgs",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q18048274",
+      "name": "Hina Kumamoto",
+      "dob": "1995-12-02",
+      "handles": "kumamotohina",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q18048313",
+      "name": "Wakaba Sugihara",
+      "dob": "1995-06-10",
+      "handles": "waaaaacaba",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q18545802",
+      "name": "Yuka Kanasugi",
+      "dob": "1995-06-16",
+      "handles": "kanasugiyuka",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q20038403",
+      "name": "Kyoko Aoyagi",
+      "dob": "1991-12-16",
+      "handles": "aiaiai.0822",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q22125089",
+      "name": "Misaki Shirai",
+      "dob": "1996-07-30",
+      "handles": "misaki.shirai",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q23042767",
+      "name": "Kiiara",
+      "dob": "1995-05-24",
+      "handles": "kiiarakiiara",
+      "file": "vb_wiki_off300_chunk0.txt"
+    },
+    {
+      "qid": "Q30923056",
+      "name": "Misaki Yamauchi",
+      "dob": "1995-03-10",
+      "handles": "yama9436",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q30925473",
+      "name": "Kaori Mabashi",
+      "dob": "1996-11-18",
+      "handles": "kaoring03",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q30925497",
+      "name": "Miwako Osanai",
+      "dob": "1997-07-19",
+      "handles": "osanaimiwako",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q43425194",
+      "name": "Shiori Tsukada",
+      "dob": "1994-09-07",
+      "handles": "tsun0697",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q47002793",
+      "name": "Merle Weidt",
+      "dob": "1999-07-20",
+      "handles": "merlewe_",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q47003102",
+      "name": "Sindy Lenz",
+      "dob": "1998-10-03",
+      "handles": "sindy.98",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q47152030",
+      "name": "Liza Kastrup",
+      "dob": "1999-10-05",
+      "handles": "liza.kstrp",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q48954383",
+      "name": "Nailä Şäydullinä",
+      "dob": "1994-08-02",
+      "handles": "nelly_shay",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q55102105",
+      "name": "Marina Dibrova",
+      "dob": "1993-08-30",
+      "handles": "marina_dibrova",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q55973347",
+      "name": "Akane Ukishima",
+      "dob": "1996-06-10",
+      "handles": "akane.ukkii96_12",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q56349093",
+      "name": "Saori Uda",
+      "dob": "1993-01-16",
+      "handles": "saori.1.16",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q59200989",
+      "name": "An Hye-jin",
+      "dob": "1998-02-16",
+      "handles": "_gw216",
+      "file": "vb_wiki_off450_chunk0.txt"
+    },
+    {
+      "qid": "Q59859181",
+      "name": "Sandra Szabóová",
+      "dob": "1996-07-22",
+      "handles": "sanndiess",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q60024634",
+      "name": "Iris Scholten",
+      "dob": "1999-11-15",
+      "handles": "iris_scholten",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q61203279",
+      "name": "",
+      "dob": "1996-01-25",
+      "handles": "adeja_lambert",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q68296848",
+      "name": "",
+      "dob": "1996-10-24",
+      "handles": "lindsay_flory",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q84764757",
+      "name": "",
+      "dob": "1997-05-29",
+      "handles": "symonespeech",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q86597947",
+      "name": "Melanie Hasler",
+      "dob": "1998-05-16",
+      "handles": "melaniiexe",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q95500238",
+      "name": "",
+      "dob": "1997-12-31",
+      "handles": "madelyn.cole",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q96090730",
+      "name": "",
+      "dob": "1997-11-05",
+      "handles": "lindseyora",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q96679121",
+      "name": "",
+      "dob": "1996-01-12",
+      "handles": "alexismconaway",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q97062156",
+      "name": "",
+      "dob": "1998-05-30",
+      "handles": "jasmine_gross",
+      "file": "vb_wiki_off600_chunk0.txt"
+    },
+    {
+      "qid": "Q97316389",
+      "name": "",
+      "dob": "1999-02-16",
+      "handles": "viktoria.russu",
+      "file": "vb_wiki_off600_chunk0.txt"
+    }
+  ]
+}
